@@ -63,16 +63,25 @@ export default function App() {
 
   const allSearchOptions = useMemo(() => {
     const all = { ...LANGUAGE_DEFINITIONS, ...manifest };
-    const options: { type: string, langKey: string, variantKey: string, label: string }[] = [];
+    const optionsMap = new Map();
+
     Object.entries(all).forEach(([langKey, def]: [string, any]) => {
-      options.push({ type: 'language', langKey, variantKey: def.variants[0]?.id || 'main', label: def.label });
+      // Add the language base
+      const mainVariant = def.variants[0]?.id || 'main';
+      optionsMap.set(`${langKey}-${mainVariant}-${def.label}`, { type: 'language', langKey, variantKey: mainVariant, label: def.label });
+      
       def.variants.forEach((v: any) => {
+        // If it's a generic word like 'Characters', prepend the language (e.g. "Bengali Characters" makes no sense to search, but they search "Bengali")
+        // If it's a specific variant like "Hiragana", add it directly.
         if (v.label !== "Characters" && v.label !== def.label) {
-          options.push({ type: 'variant', langKey, variantKey: v.id, label: v.label });
+          optionsMap.set(`${langKey}-${v.id}-${v.label}`, { type: 'variant', langKey, variantKey: v.id, label: v.label });
+          // Also add a compounded version like "Japanese Hiragana" for broader searching
+          optionsMap.set(`${langKey}-${v.id}-${def.label} ${v.label}`, { type: 'variant', langKey, variantKey: v.id, label: `${def.label} ${v.label}` });
         }
       });
     });
-    return options.sort((a, b) => a.label.localeCompare(b.label));
+    
+    return Array.from(optionsMap.values()).sort((a, b) => a.label.localeCompare(b.label));
   }, [manifest]);
 
   useEffect(() => {
