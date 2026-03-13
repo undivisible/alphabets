@@ -15,6 +15,12 @@ const SPECIAL_GROUPS: Record<string, { label: string, scripts: string[] }> = {
 // Scripts to ignore completely (too large or non-linguistic)
 const IGNORE_SCRIPTS = ["Common", "Inherited", "Unknown", "Han", "Tangut", "Nushu", "Khitan_Small_Script"];
 
+const MAJOR_SCRIPTS = [
+  "Latin", "Greek", "Bengali", "Gujarati", "Gurmukhi", "Tamil", "Telugu", 
+  "Kannada", "Malayalam", "Sinhala", "Myanmar", "Khmer", "Lao", "Tibetan",
+  "Georgian", "Armenian", "Ethiopic", "Syriac"
+];
+
 async function generate() {
   console.log("Generating ALL world alphabets from Unicode 15.1.0...");
   
@@ -53,11 +59,22 @@ async function generate() {
 
     const items = await processScript(scriptName, names);
     if (items.length > 0) {
-      const variantId = scriptName.toLowerCase().replace(/_/g, "-");
-      // Use 'unicode' as the language prefix
-      fs.writeFileSync(path.join(OUTPUT_DIR, `unicode-${variantId}.json`), JSON.stringify(items, null, 2));
-      
-      worldVariants.push({ id: variantId, label: scriptName.replace(/_/g, " ") });
+      if (MAJOR_SCRIPTS.includes(scriptName)) {
+        const langId = scriptName.toLowerCase().replace(/_/g, "-");
+        const variantId = "main";
+        fs.writeFileSync(path.join(OUTPUT_DIR, `${langId}-${variantId}.json`), JSON.stringify(items, null, 2));
+        
+        manifest[langId] = {
+          label: scriptName.replace(/_/g, " "),
+          variants: [{ id: variantId, label: "Characters" }]
+        };
+      } else {
+        const variantId = scriptName.toLowerCase().replace(/_/g, "-");
+        // Use 'unicode' as the language prefix
+        fs.writeFileSync(path.join(OUTPUT_DIR, `unicode-${variantId}.json`), JSON.stringify(items, null, 2));
+        
+        worldVariants.push({ id: variantId, label: scriptName.replace(/_/g, " ") });
+      }
     }
   }
 

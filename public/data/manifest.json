@@ -1,4 +1,58 @@
 {
+  "armenian": {
+    "label": "Armenian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "bengali": {
+    "label": "Bengali",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "georgian": {
+    "label": "Georgian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "greek": {
+    "label": "Greek",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "gujarati": {
+    "label": "Gujarati",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "gurmukhi": {
+    "label": "Gurmukhi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
   "japanese": {
     "label": "Japanese",
     "variants": [
@@ -16,12 +70,66 @@
       }
     ]
   },
+  "kannada": {
+    "label": "Kannada",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "khmer": {
+    "label": "Khmer",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
   "korean": {
     "label": "Korean",
     "variants": [
       {
         "id": "hangul",
         "label": "Hangul"
+      }
+    ]
+  },
+  "lao": {
+    "label": "Lao",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "latin": {
+    "label": "Latin",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "malayalam": {
+    "label": "Malayalam",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "myanmar": {
+    "label": "Myanmar",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
       }
     ]
   },
@@ -39,10 +147,6 @@
       {
         "id": "arabic",
         "label": "Arabic"
-      },
-      {
-        "id": "armenian",
-        "label": "Armenian"
       },
       {
         "id": "avestan",
@@ -63,10 +167,6 @@
       {
         "id": "batak",
         "label": "Batak"
-      },
-      {
-        "id": "bengali",
-        "label": "Bengali"
       },
       {
         "id": "bhaiksuki",
@@ -149,10 +249,6 @@
         "label": "Elymaic"
       },
       {
-        "id": "georgian",
-        "label": "Georgian"
-      },
-      {
         "id": "glagolitic",
         "label": "Glagolitic"
       },
@@ -165,20 +261,8 @@
         "label": "Grantha"
       },
       {
-        "id": "greek",
-        "label": "Greek"
-      },
-      {
-        "id": "gujarati",
-        "label": "Gujarati"
-      },
-      {
         "id": "gunjala-gondi",
         "label": "Gunjala Gondi"
-      },
-      {
-        "id": "gurmukhi",
-        "label": "Gurmukhi"
       },
       {
         "id": "hanifi-rohingya",
@@ -217,10 +301,6 @@
         "label": "Kaithi"
       },
       {
-        "id": "kannada",
-        "label": "Kannada"
-      },
-      {
         "id": "kawi",
         "label": "Kawi"
       },
@@ -233,24 +313,12 @@
         "label": "Kharoshthi"
       },
       {
-        "id": "khmer",
-        "label": "Khmer"
-      },
-      {
         "id": "khojki",
         "label": "Khojki"
       },
       {
         "id": "khudawadi",
         "label": "Khudawadi"
-      },
-      {
-        "id": "lao",
-        "label": "Lao"
-      },
-      {
-        "id": "latin",
-        "label": "Latin"
       },
       {
         "id": "lepcha",
@@ -279,10 +347,6 @@
       {
         "id": "makasar",
         "label": "Makasar"
-      },
-      {
-        "id": "malayalam",
-        "label": "Malayalam"
       },
       {
         "id": "mandaic",
@@ -335,10 +399,6 @@
       {
         "id": "multani",
         "label": "Multani"
-      },
-      {
-        "id": "myanmar",
-        "label": "Myanmar"
       },
       {
         "id": "nabataean",
@@ -469,10 +529,6 @@
         "label": "Siddham"
       },
       {
-        "id": "sinhala",
-        "label": "Sinhala"
-      },
-      {
         "id": "sogdian",
         "label": "Sogdian"
       },
@@ -491,10 +547,6 @@
       {
         "id": "syloti-nagri",
         "label": "Syloti Nagri"
-      },
-      {
-        "id": "syriac",
-        "label": "Syriac"
       },
       {
         "id": "tagalog",
@@ -521,24 +573,12 @@
         "label": "Takri"
       },
       {
-        "id": "tamil",
-        "label": "Tamil"
-      },
-      {
         "id": "tangsa",
         "label": "Tangsa"
       },
       {
-        "id": "telugu",
-        "label": "Telugu"
-      },
-      {
         "id": "thaana",
         "label": "Thaana"
-      },
-      {
-        "id": "tibetan",
-        "label": "Tibetan"
       },
       {
         "id": "tifinagh",
@@ -575,6 +615,51 @@
       {
         "id": "zanabazar-square",
         "label": "Zanabazar Square"
+      }
+    ]
+  },
+  "sinhala": {
+    "label": "Sinhala",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "syriac": {
+    "label": "Syriac",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tamil": {
+    "label": "Tamil",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "telugu": {
+    "label": "Telugu",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tibetan": {
+    "label": "Tibetan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
       }
     ]
   }
