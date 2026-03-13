@@ -1,100 +1,5 @@
 [
   {
-    "label": "ᰭ",
-    "meta": "lepcha consonant sign k",
-    "ipa": ""
-  },
-  {
-    "label": "ᰵ",
-    "meta": "lepcha consonant sign kang",
-    "ipa": ""
-  },
-  {
-    "label": "ᰯ",
-    "meta": "lepcha consonant sign l",
-    "ipa": ""
-  },
-  {
-    "label": "ᰮ",
-    "meta": "lepcha consonant sign m",
-    "ipa": ""
-  },
-  {
-    "label": "ᰰ",
-    "meta": "lepcha consonant sign n",
-    "ipa": ""
-  },
-  {
-    "label": "ᰴ",
-    "meta": "lepcha consonant sign nyin-do",
-    "ipa": ""
-  },
-  {
-    "label": "ᰱ",
-    "meta": "lepcha consonant sign p",
-    "ipa": ""
-  },
-  {
-    "label": "ᰲ",
-    "meta": "lepcha consonant sign r",
-    "ipa": ""
-  },
-  {
-    "label": "ᰳ",
-    "meta": "lepcha consonant sign t",
-    "ipa": ""
-  },
-  {
-    "label": "᱈",
-    "meta": "lepcha digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "᱅",
-    "meta": "lepcha digit five",
-    "ipa": ""
-  },
-  {
-    "label": "᱄",
-    "meta": "lepcha digit four",
-    "ipa": ""
-  },
-  {
-    "label": "᱉",
-    "meta": "lepcha digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "᱁",
-    "meta": "lepcha digit one",
-    "ipa": ""
-  },
-  {
-    "label": "᱇",
-    "meta": "lepcha digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "᱆",
-    "meta": "lepcha digit six",
-    "ipa": ""
-  },
-  {
-    "label": "᱃",
-    "meta": "lepcha digit three",
-    "ipa": ""
-  },
-  {
-    "label": "᱂",
-    "meta": "lepcha digit two",
-    "ipa": ""
-  },
-  {
-    "label": "᱀",
-    "meta": "lepcha digit zero",
-    "ipa": ""
-  },
-  {
     "label": "ᰣ",
     "meta": "lepcha letter a",
     "ipa": ""
@@ -290,41 +195,6 @@
     "ipa": ""
   },
   {
-    "label": "᰽",
-    "meta": "lepcha punctuation cer-wa",
-    "ipa": ""
-  },
-  {
-    "label": "᰼",
-    "meta": "lepcha punctuation nyet thyoom ta-rol",
-    "ipa": ""
-  },
-  {
-    "label": "᰻",
-    "meta": "lepcha punctuation ta-rol",
-    "ipa": ""
-  },
-  {
-    "label": "᰿",
-    "meta": "lepcha punctuation tshook",
-    "ipa": ""
-  },
-  {
-    "label": "᰾",
-    "meta": "lepcha punctuation tshook cer-wa",
-    "ipa": ""
-  },
-  {
-    "label": "᰷",
-    "meta": "lepcha sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "ᰶ",
-    "meta": "lepcha sign ran",
-    "ipa": ""
-  },
-  {
     "label": "ᰥ",
     "meta": "lepcha subjoined letter ra",
     "ipa": ""
@@ -332,41 +202,6 @@
   {
     "label": "ᰤ",
     "meta": "lepcha subjoined letter ya",
-    "ipa": ""
-  },
-  {
-    "label": "ᰦ",
-    "meta": "lepcha vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "ᰬ",
-    "meta": "lepcha vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "ᰧ",
-    "meta": "lepcha vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "ᰨ",
-    "meta": "lepcha vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "ᰩ",
-    "meta": "lepcha vowel sign oo",
-    "ipa": ""
-  },
-  {
-    "label": "ᰪ",
-    "meta": "lepcha vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "ᰫ",
-    "meta": "lepcha vowel sign uu",
     "ipa": ""
   }
 ]

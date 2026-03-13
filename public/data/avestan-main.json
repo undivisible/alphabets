@@ -1,10 +1,5 @@
 [
   {
-    "label": "𐬹",
-    "meta": "avestan abbreviation mark",
-    "ipa": ""
-  },
-  {
     "label": "𐬀",
     "meta": "avestan letter a",
     "ipa": ""
@@ -272,36 +267,6 @@
   {
     "label": "𐬲",
     "meta": "avestan letter zhe",
-    "ipa": ""
-  },
-  {
-    "label": "𐬽",
-    "meta": "large one dot over two dots punctuation",
-    "ipa": ""
-  },
-  {
-    "label": "𐬿",
-    "meta": "large one ring over two rings punctuation",
-    "ipa": ""
-  },
-  {
-    "label": "𐬼",
-    "meta": "large two dots over one dot punctuation",
-    "ipa": ""
-  },
-  {
-    "label": "𐬾",
-    "meta": "large two rings over one ring punctuation",
-    "ipa": ""
-  },
-  {
-    "label": "𐬻",
-    "meta": "small two dots over one dot punctuation",
-    "ipa": ""
-  },
-  {
-    "label": "𐬺",
-    "meta": "tiny two dots over one dot punctuation",
     "ipa": ""
   }
 ]

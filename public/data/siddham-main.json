@@ -10,11 +10,6 @@
     "ipa": ""
   },
   {
-    "label": "𑗉",
-    "meta": "siddham end of text mark",
-    "ipa": ""
-  },
-  {
     "label": "𑖀",
     "meta": "siddham letter a",
     "ipa": ""
@@ -270,91 +265,6 @@
     "ipa": ""
   },
   {
-    "label": "𑗆",
-    "meta": "siddham repetition mark-1",
-    "ipa": ""
-  },
-  {
-    "label": "𑗇",
-    "meta": "siddham repetition mark-2",
-    "ipa": ""
-  },
-  {
-    "label": "𑗈",
-    "meta": "siddham repetition mark-3",
-    "ipa": ""
-  },
-  {
-    "label": "𑗏",
-    "meta": "siddham section mark double ring",
-    "ipa": ""
-  },
-  {
-    "label": "𑗐",
-    "meta": "siddham section mark double ring with rays",
-    "ipa": ""
-  },
-  {
-    "label": "𑗗",
-    "meta": "siddham section mark with circles and four enclosures",
-    "ipa": ""
-  },
-  {
-    "label": "𑗕",
-    "meta": "siddham section mark with circles and rays",
-    "ipa": ""
-  },
-  {
-    "label": "𑗖",
-    "meta": "siddham section mark with circles and two enclosures",
-    "ipa": ""
-  },
-  {
-    "label": "𑗑",
-    "meta": "siddham section mark with double crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗓",
-    "meta": "siddham section mark with quadruple crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗌",
-    "meta": "siddham section mark with rays and dotted crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗍",
-    "meta": "siddham section mark with rays and dotted double crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗎",
-    "meta": "siddham section mark with rays and dotted triple crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗔",
-    "meta": "siddham section mark with septuple crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗋",
-    "meta": "siddham section mark with trident and dotted crescents",
-    "ipa": ""
-  },
-  {
-    "label": "𑗊",
-    "meta": "siddham section mark with trident and u-shaped ornaments",
-    "ipa": ""
-  },
-  {
-    "label": "𑗒",
-    "meta": "siddham section mark with triple crescents",
-    "ipa": ""
-  },
-  {
     "label": "𑗅",
     "meta": "siddham separator bar",
     "ipa": ""
@@ -362,101 +272,6 @@
   {
     "label": "𑗄",
     "meta": "siddham separator dot",
-    "ipa": ""
-  },
-  {
-    "label": "𑖽",
-    "meta": "siddham sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑖼",
-    "meta": "siddham sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑗀",
-    "meta": "siddham sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑗁",
-    "meta": "siddham sign siddham",
-    "ipa": ""
-  },
-  {
-    "label": "𑖿",
-    "meta": "siddham sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑖾",
-    "meta": "siddham sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑖯",
-    "meta": "siddham vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑖹",
-    "meta": "siddham vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑗜",
-    "meta": "siddham vowel sign alternate u",
-    "ipa": ""
-  },
-  {
-    "label": "𑗝",
-    "meta": "siddham vowel sign alternate uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑖻",
-    "meta": "siddham vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑖸",
-    "meta": "siddham vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑖰",
-    "meta": "siddham vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑖱",
-    "meta": "siddham vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑖺",
-    "meta": "siddham vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑖲",
-    "meta": "siddham vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑖳",
-    "meta": "siddham vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑖴",
-    "meta": "siddham vowel sign vocalic r",
-    "ipa": ""
-  },
-  {
-    "label": "𑖵",
-    "meta": "siddham vowel sign vocalic rr",
     "ipa": ""
   }
 ]

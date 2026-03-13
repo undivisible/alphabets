@@ -1,10 +1,5 @@
 [
   {
-    "label": "𑈽",
-    "meta": "khojki abbreviation sign",
-    "ipa": ""
-  },
-  {
     "label": "𑈸",
     "meta": "khojki danda",
     "ipa": ""
@@ -12,11 +7,6 @@
   {
     "label": "𑈹",
     "meta": "khojki double danda",
-    "ipa": ""
-  },
-  {
-    "label": "𑈼",
-    "meta": "khojki double section mark",
     "ipa": ""
   },
   {
@@ -242,81 +232,6 @@
   {
     "label": "𑈥",
     "meta": "khojki letter ya",
-    "ipa": ""
-  },
-  {
-    "label": "𑈻",
-    "meta": "khojki section mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑈴",
-    "meta": "khojki sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑈶",
-    "meta": "khojki sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑈷",
-    "meta": "khojki sign shadda",
-    "ipa": ""
-  },
-  {
-    "label": "𑈾",
-    "meta": "khojki sign sukun",
-    "ipa": ""
-  },
-  {
-    "label": "𑈵",
-    "meta": "khojki sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑈬",
-    "meta": "khojki vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑈱",
-    "meta": "khojki vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑈳",
-    "meta": "khojki vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑈰",
-    "meta": "khojki vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑈭",
-    "meta": "khojki vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑈮",
-    "meta": "khojki vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑈲",
-    "meta": "khojki vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑈯",
-    "meta": "khojki vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑉁",
-    "meta": "khojki vowel sign vocalic r",
     "ipa": ""
   },
   {

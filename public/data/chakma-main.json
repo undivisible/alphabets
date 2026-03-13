@@ -1,62 +1,7 @@
 [
   {
-    "label": "𑄲",
-    "meta": "chakma au mark",
-    "ipa": ""
-  },
-  {
     "label": "𑅁",
     "meta": "chakma danda",
-    "ipa": ""
-  },
-  {
-    "label": "𑄾",
-    "meta": "chakma digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑄻",
-    "meta": "chakma digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑄺",
-    "meta": "chakma digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑄿",
-    "meta": "chakma digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑄷",
-    "meta": "chakma digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑄽",
-    "meta": "chakma digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑄼",
-    "meta": "chakma digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑄹",
-    "meta": "chakma digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑄸",
-    "meta": "chakma digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑄶",
-    "meta": "chakma digit zero",
     "ipa": ""
   },
   {
@@ -260,98 +205,8 @@
     "ipa": ""
   },
   {
-    "label": "𑄱",
-    "meta": "chakma o mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑅃",
-    "meta": "chakma question mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑅀",
-    "meta": "chakma section mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑄁",
-    "meta": "chakma sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑄀",
-    "meta": "chakma sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑄂",
-    "meta": "chakma sign visarga",
-    "ipa": ""
-  },
-  {
     "label": "𑄳",
     "meta": "chakma virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑄧",
-    "meta": "chakma vowel sign a",
-    "ipa": ""
-  },
-  {
-    "label": "𑅅",
-    "meta": "chakma vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑄭",
-    "meta": "chakma vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑄯",
-    "meta": "chakma vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑄬",
-    "meta": "chakma vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑅆",
-    "meta": "chakma vowel sign ei",
-    "ipa": ""
-  },
-  {
-    "label": "𑄨",
-    "meta": "chakma vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑄩",
-    "meta": "chakma vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑄮",
-    "meta": "chakma vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑄰",
-    "meta": "chakma vowel sign oi",
-    "ipa": ""
-  },
-  {
-    "label": "𑄪",
-    "meta": "chakma vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑄫",
-    "meta": "chakma vowel sign uu",
     "ipa": ""
   }
 ]

@@ -1,60 +1,5 @@
 [
   {
-    "label": "᥎",
-    "meta": "limbu digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "᥋",
-    "meta": "limbu digit five",
-    "ipa": ""
-  },
-  {
-    "label": "᥊",
-    "meta": "limbu digit four",
-    "ipa": ""
-  },
-  {
-    "label": "᥏",
-    "meta": "limbu digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "᥇",
-    "meta": "limbu digit one",
-    "ipa": ""
-  },
-  {
-    "label": "᥍",
-    "meta": "limbu digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "᥌",
-    "meta": "limbu digit six",
-    "ipa": ""
-  },
-  {
-    "label": "᥉",
-    "meta": "limbu digit three",
-    "ipa": ""
-  },
-  {
-    "label": "᥈",
-    "meta": "limbu digit two",
-    "ipa": ""
-  },
-  {
-    "label": "᥆",
-    "meta": "limbu digit zero",
-    "ipa": ""
-  },
-  {
-    "label": "᥄",
-    "meta": "limbu exclamation mark",
-    "ipa": ""
-  },
-  {
     "label": "ᤒ",
     "meta": "limbu letter ba",
     "ipa": ""
@@ -205,31 +150,6 @@
     "ipa": ""
   },
   {
-    "label": "᥅",
-    "meta": "limbu question mark",
-    "ipa": ""
-  },
-  {
-    "label": "᤺",
-    "meta": "limbu sign kemphreng",
-    "ipa": ""
-  },
-  {
-    "label": "᥀",
-    "meta": "limbu sign loo",
-    "ipa": ""
-  },
-  {
-    "label": "᤹",
-    "meta": "limbu sign mukphreng",
-    "ipa": ""
-  },
-  {
-    "label": "᤻",
-    "meta": "limbu sign sa-i",
-    "ipa": ""
-  },
-  {
     "label": "ᤲ",
     "meta": "limbu small letter anusvara",
     "ipa": ""
@@ -287,51 +207,6 @@
   {
     "label": "ᤩ",
     "meta": "limbu subjoined letter ya",
-    "ipa": ""
-  },
-  {
-    "label": "ᤠ",
-    "meta": "limbu vowel sign a",
-    "ipa": ""
-  },
-  {
-    "label": "ᤤ",
-    "meta": "limbu vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "ᤦ",
-    "meta": "limbu vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "ᤧ",
-    "meta": "limbu vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "ᤣ",
-    "meta": "limbu vowel sign ee",
-    "ipa": ""
-  },
-  {
-    "label": "ᤡ",
-    "meta": "limbu vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "ᤨ",
-    "meta": "limbu vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "ᤥ",
-    "meta": "limbu vowel sign oo",
-    "ipa": ""
-  },
-  {
-    "label": "ᤢ",
-    "meta": "limbu vowel sign u",
     "ipa": ""
   },
   {

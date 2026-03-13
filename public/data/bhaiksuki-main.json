@@ -5,56 +5,6 @@
     "ipa": ""
   },
   {
-    "label": "𑱘",
-    "meta": "bhaiksuki digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑱕",
-    "meta": "bhaiksuki digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑱔",
-    "meta": "bhaiksuki digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑱙",
-    "meta": "bhaiksuki digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑱑",
-    "meta": "bhaiksuki digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑱗",
-    "meta": "bhaiksuki digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑱖",
-    "meta": "bhaiksuki digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑱓",
-    "meta": "bhaiksuki digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑱒",
-    "meta": "bhaiksuki digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑱐",
-    "meta": "bhaiksuki digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𑱂",
     "meta": "bhaiksuki double danda",
     "ipa": ""
@@ -67,11 +17,6 @@
   {
     "label": "𑱅",
     "meta": "bhaiksuki gap filler-2",
-    "ipa": ""
-  },
-  {
-    "label": "𑱬",
-    "meta": "bhaiksuki hundreds unit mark",
     "ipa": ""
   },
   {
@@ -392,91 +337,6 @@
   {
     "label": "𑱛",
     "meta": "bhaiksuki number two",
-    "ipa": ""
-  },
-  {
-    "label": "𑰽",
-    "meta": "bhaiksuki sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑱀",
-    "meta": "bhaiksuki sign avagraha",
-    "ipa": ""
-  },
-  {
-    "label": "𑰼",
-    "meta": "bhaiksuki sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑰿",
-    "meta": "bhaiksuki sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑰾",
-    "meta": "bhaiksuki sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑰯",
-    "meta": "bhaiksuki vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑰹",
-    "meta": "bhaiksuki vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑰻",
-    "meta": "bhaiksuki vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑰸",
-    "meta": "bhaiksuki vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑰰",
-    "meta": "bhaiksuki vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑰱",
-    "meta": "bhaiksuki vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑰺",
-    "meta": "bhaiksuki vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑰲",
-    "meta": "bhaiksuki vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑰳",
-    "meta": "bhaiksuki vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑰶",
-    "meta": "bhaiksuki vowel sign vocalic l",
-    "ipa": ""
-  },
-  {
-    "label": "𑰴",
-    "meta": "bhaiksuki vowel sign vocalic r",
-    "ipa": ""
-  },
-  {
-    "label": "𑰵",
-    "meta": "bhaiksuki vowel sign vocalic rr",
     "ipa": ""
   },
   {

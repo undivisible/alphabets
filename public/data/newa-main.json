@@ -1,10 +1,5 @@
 [
   {
-    "label": "𑑏",
-    "meta": "newa abbreviation sign",
-    "ipa": ""
-  },
-  {
     "label": "𑑍",
     "meta": "newa comma",
     "ipa": ""
@@ -12,56 +7,6 @@
   {
     "label": "𑑋",
     "meta": "newa danda",
-    "ipa": ""
-  },
-  {
-    "label": "𑑘",
-    "meta": "newa digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑑕",
-    "meta": "newa digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑑔",
-    "meta": "newa digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑑙",
-    "meta": "newa digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑑑",
-    "meta": "newa digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑑗",
-    "meta": "newa digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑑖",
-    "meta": "newa digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑑓",
-    "meta": "newa digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑑒",
-    "meta": "newa digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑑐",
-    "meta": "newa digit zero",
     "ipa": ""
   },
   {
@@ -77,11 +22,6 @@
   {
     "label": "𑑎",
     "meta": "newa gap filler",
-    "ipa": ""
-  },
-  {
-    "label": "𑑝",
-    "meta": "newa insertion sign",
     "ipa": ""
   },
   {
@@ -360,128 +300,8 @@
     "ipa": ""
   },
   {
-    "label": "𑑛",
-    "meta": "newa placeholder mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑑞",
-    "meta": "newa sandhi mark",
-    "ipa": ""
-  },
-  {
     "label": "𑑊",
     "meta": "newa siddhi",
-    "ipa": ""
-  },
-  {
-    "label": "𑑄",
-    "meta": "newa sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑑇",
-    "meta": "newa sign avagraha",
-    "ipa": ""
-  },
-  {
-    "label": "𑑃",
-    "meta": "newa sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑑈",
-    "meta": "newa sign final anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑑠",
-    "meta": "newa sign jihvamuliya",
-    "ipa": ""
-  },
-  {
-    "label": "𑑆",
-    "meta": "newa sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑑡",
-    "meta": "newa sign upadhmaniya",
-    "ipa": ""
-  },
-  {
-    "label": "𑑂",
-    "meta": "newa sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑑅",
-    "meta": "newa sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑐵",
-    "meta": "newa vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑐿",
-    "meta": "newa vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑑁",
-    "meta": "newa vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑐾",
-    "meta": "newa vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑐶",
-    "meta": "newa vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑐷",
-    "meta": "newa vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑑀",
-    "meta": "newa vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑐸",
-    "meta": "newa vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑐹",
-    "meta": "newa vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑐼",
-    "meta": "newa vowel sign vocalic l",
-    "ipa": ""
-  },
-  {
-    "label": "𑐽",
-    "meta": "newa vowel sign vocalic ll",
-    "ipa": ""
-  },
-  {
-    "label": "𑐺",
-    "meta": "newa vowel sign vocalic r",
-    "ipa": ""
-  },
-  {
-    "label": "𑐻",
-    "meta": "newa vowel sign vocalic rr",
     "ipa": ""
   }
 ]

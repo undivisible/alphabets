@@ -1,62 +1,7 @@
 [
   {
-    "label": "𑥘",
-    "meta": "dives akuru digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑥕",
-    "meta": "dives akuru digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑥔",
-    "meta": "dives akuru digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑥙",
-    "meta": "dives akuru digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑥑",
-    "meta": "dives akuru digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑥗",
-    "meta": "dives akuru digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑥖",
-    "meta": "dives akuru digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑥓",
-    "meta": "dives akuru digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑥒",
-    "meta": "dives akuru digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑥐",
-    "meta": "dives akuru digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𑥄",
     "meta": "dives akuru double danda",
-    "ipa": ""
-  },
-  {
-    "label": "𑥆",
-    "meta": "dives akuru end of text mark",
     "ipa": ""
   },
   {
@@ -290,73 +235,8 @@
     "ipa": ""
   },
   {
-    "label": "𑤿",
-    "meta": "dives akuru prefixed nasal sign",
-    "ipa": ""
-  },
-  {
-    "label": "𑤻",
-    "meta": "dives akuru sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑤼",
-    "meta": "dives akuru sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑤽",
-    "meta": "dives akuru sign halanta",
-    "ipa": ""
-  },
-  {
-    "label": "𑥃",
-    "meta": "dives akuru sign nukta",
-    "ipa": ""
-  },
-  {
     "label": "𑤾",
     "meta": "dives akuru virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑤰",
-    "meta": "dives akuru vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑤷",
-    "meta": "dives akuru vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑤵",
-    "meta": "dives akuru vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑤱",
-    "meta": "dives akuru vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑤲",
-    "meta": "dives akuru vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑤸",
-    "meta": "dives akuru vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑤳",
-    "meta": "dives akuru vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑤴",
-    "meta": "dives akuru vowel sign uu",
     "ipa": ""
   }
 ]

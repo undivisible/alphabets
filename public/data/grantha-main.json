@@ -1,40 +1,5 @@
 [
   {
-    "label": "𑍫",
-    "meta": "combining grantha digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑍪",
-    "meta": "combining grantha digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑍧",
-    "meta": "combining grantha digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑍬",
-    "meta": "combining grantha digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑍩",
-    "meta": "combining grantha digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑍨",
-    "meta": "combining grantha digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑍦",
-    "meta": "combining grantha digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𑍰",
     "meta": "combining grantha letter a",
     "ipa": ""
@@ -57,11 +22,6 @@
   {
     "label": "𑍳",
     "meta": "combining grantha letter vi",
-    "ipa": ""
-  },
-  {
-    "label": "𑍗",
-    "meta": "grantha au length mark",
     "ipa": ""
   },
   {
@@ -317,111 +277,6 @@
   {
     "label": "𑍐",
     "meta": "grantha om",
-    "ipa": ""
-  },
-  {
-    "label": "𑌂",
-    "meta": "grantha sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑌽",
-    "meta": "grantha sign avagraha",
-    "ipa": ""
-  },
-  {
-    "label": "𑌁",
-    "meta": "grantha sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑌀",
-    "meta": "grantha sign combining anusvara above",
-    "ipa": ""
-  },
-  {
-    "label": "𑌼",
-    "meta": "grantha sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑍝",
-    "meta": "grantha sign pluta",
-    "ipa": ""
-  },
-  {
-    "label": "𑍍",
-    "meta": "grantha sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑌃",
-    "meta": "grantha sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑌾",
-    "meta": "grantha vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑍈",
-    "meta": "grantha vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑍌",
-    "meta": "grantha vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑍇",
-    "meta": "grantha vowel sign ee",
-    "ipa": ""
-  },
-  {
-    "label": "𑌿",
-    "meta": "grantha vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑍀",
-    "meta": "grantha vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑍋",
-    "meta": "grantha vowel sign oo",
-    "ipa": ""
-  },
-  {
-    "label": "𑍁",
-    "meta": "grantha vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑍂",
-    "meta": "grantha vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑍢",
-    "meta": "grantha vowel sign vocalic l",
-    "ipa": ""
-  },
-  {
-    "label": "𑍣",
-    "meta": "grantha vowel sign vocalic ll",
-    "ipa": ""
-  },
-  {
-    "label": "𑍃",
-    "meta": "grantha vowel sign vocalic r",
-    "ipa": ""
-  },
-  {
-    "label": "𑍄",
-    "meta": "grantha vowel sign vocalic rr",
     "ipa": ""
   }
 ]

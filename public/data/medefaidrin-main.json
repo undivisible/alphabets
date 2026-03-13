@@ -165,71 +165,6 @@
     "ipa": ""
   },
   {
-    "label": "𖺈",
-    "meta": "medefaidrin digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𖺅",
-    "meta": "medefaidrin digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𖺄",
-    "meta": "medefaidrin digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𖺉",
-    "meta": "medefaidrin digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𖺁",
-    "meta": "medefaidrin digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𖺔",
-    "meta": "medefaidrin digit one alternate form",
-    "ipa": ""
-  },
-  {
-    "label": "𖺇",
-    "meta": "medefaidrin digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𖺆",
-    "meta": "medefaidrin digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𖺃",
-    "meta": "medefaidrin digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𖺖",
-    "meta": "medefaidrin digit three alternate form",
-    "ipa": ""
-  },
-  {
-    "label": "𖺂",
-    "meta": "medefaidrin digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𖺕",
-    "meta": "medefaidrin digit two alternate form",
-    "ipa": ""
-  },
-  {
-    "label": "𖺀",
-    "meta": "medefaidrin digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𖺚",
     "meta": "medefaidrin exclamation oh",
     "ipa": ""
@@ -447,11 +382,6 @@
   {
     "label": "𖹥",
     "meta": "medefaidrin small letter z",
-    "ipa": ""
-  },
-  {
-    "label": "𖺙",
-    "meta": "medefaidrin symbol aiva",
     "ipa": ""
   }
 ]

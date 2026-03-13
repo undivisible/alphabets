@@ -1,10 +1,5 @@
 [
   {
-    "label": "՟",
-    "meta": "armenian abbreviation mark",
-    "ipa": ""
-  },
-  {
     "label": "՚",
     "meta": "armenian apostrophe",
     "ipa": ""
@@ -205,21 +200,6 @@
     "ipa": ""
   },
   {
-    "label": "֏",
-    "meta": "armenian dram sign",
-    "ipa": ""
-  },
-  {
-    "label": "՛",
-    "meta": "armenian emphasis mark",
-    "ipa": ""
-  },
-  {
-    "label": "՜",
-    "meta": "armenian exclamation mark",
-    "ipa": ""
-  },
-  {
     "label": "։",
     "meta": "armenian full stop",
     "ipa": ""
@@ -232,11 +212,6 @@
   {
     "label": "ՙ",
     "meta": "armenian modifier letter left half ring",
-    "ipa": ""
-  },
-  {
-    "label": "՞",
-    "meta": "armenian question mark",
     "ipa": ""
   },
   {
@@ -467,16 +442,6 @@
   {
     "label": "ﬖ",
     "meta": "armenian small ligature vew now",
-    "ipa": ""
-  },
-  {
-    "label": "֎",
-    "meta": "left-facing armenian eternity sign",
-    "ipa": ""
-  },
-  {
-    "label": "֍",
-    "meta": "right-facing armenian eternity sign",
     "ipa": ""
   }
 ]

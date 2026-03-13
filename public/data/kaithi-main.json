@@ -1,10 +1,5 @@
 [
   {
-    "label": "𑂻",
-    "meta": "kaithi abbreviation sign",
-    "ipa": ""
-  },
-  {
     "label": "𑃀",
     "meta": "kaithi danda",
     "ipa": ""
@@ -12,16 +7,6 @@
   {
     "label": "𑃁",
     "meta": "kaithi double danda",
-    "ipa": ""
-  },
-  {
-    "label": "𑂿",
-    "meta": "kaithi double section mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑂼",
-    "meta": "kaithi enumeration sign",
     "ipa": ""
   },
   {
@@ -247,96 +232,6 @@
   {
     "label": "𑂨",
     "meta": "kaithi letter ya",
-    "ipa": ""
-  },
-  {
-    "label": "𑂽",
-    "meta": "kaithi number sign",
-    "ipa": ""
-  },
-  {
-    "label": "𑃍",
-    "meta": "kaithi number sign above",
-    "ipa": ""
-  },
-  {
-    "label": "𑂾",
-    "meta": "kaithi section mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑂁",
-    "meta": "kaithi sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑂀",
-    "meta": "kaithi sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑂺",
-    "meta": "kaithi sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑂹",
-    "meta": "kaithi sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑂂",
-    "meta": "kaithi sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑂰",
-    "meta": "kaithi vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑂶",
-    "meta": "kaithi vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑂸",
-    "meta": "kaithi vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑂵",
-    "meta": "kaithi vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑂱",
-    "meta": "kaithi vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑂲",
-    "meta": "kaithi vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑂷",
-    "meta": "kaithi vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑂳",
-    "meta": "kaithi vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑂴",
-    "meta": "kaithi vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑃂",
-    "meta": "kaithi vowel sign vocalic r",
     "ipa": ""
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "label": "ᛮ",
-    "meta": "runic arlaug symbol",
-    "ipa": ""
-  },
-  {
-    "label": "ᛰ",
-    "meta": "runic belgthor symbol",
-    "ipa": ""
-  },
-  {
     "label": "ᚪ",
     "meta": "runic letter ac a",
     "ipa": ""
@@ -422,11 +412,6 @@
   {
     "label": "ᛎ",
     "meta": "runic letter z",
-    "ipa": ""
-  },
-  {
-    "label": "ᛯ",
-    "meta": "runic tvimadur symbol",
     "ipa": ""
   }
 ]

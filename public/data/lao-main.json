@@ -1,60 +1,5 @@
 [
   {
-    "label": "໌",
-    "meta": "lao cancellation mark",
-    "ipa": ""
-  },
-  {
-    "label": "໘",
-    "meta": "lao digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "໕",
-    "meta": "lao digit five",
-    "ipa": ""
-  },
-  {
-    "label": "໔",
-    "meta": "lao digit four",
-    "ipa": ""
-  },
-  {
-    "label": "໙",
-    "meta": "lao digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "໑",
-    "meta": "lao digit one",
-    "ipa": ""
-  },
-  {
-    "label": "໗",
-    "meta": "lao digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "໖",
-    "meta": "lao digit six",
-    "ipa": ""
-  },
-  {
-    "label": "໓",
-    "meta": "lao digit three",
-    "ipa": ""
-  },
-  {
-    "label": "໒",
-    "meta": "lao digit two",
-    "ipa": ""
-  },
-  {
-    "label": "໐",
-    "meta": "lao digit zero",
-    "ipa": ""
-  },
-  {
     "label": "ຯ",
     "meta": "lao ellipsis",
     "ipa": ""
@@ -295,21 +240,6 @@
     "ipa": ""
   },
   {
-    "label": "ຼ",
-    "meta": "lao semivowel sign lo",
-    "ipa": ""
-  },
-  {
-    "label": "ຽ",
-    "meta": "lao semivowel sign nyo",
-    "ipa": ""
-  },
-  {
-    "label": "຺",
-    "meta": "lao sign pali virama",
-    "ipa": ""
-  },
-  {
     "label": "໋",
     "meta": "lao tone mai catawa",
     "ipa": ""
@@ -327,86 +257,6 @@
   {
     "label": "໊",
     "meta": "lao tone mai ti",
-    "ipa": ""
-  },
-  {
-    "label": "ະ",
-    "meta": "lao vowel sign a",
-    "ipa": ""
-  },
-  {
-    "label": "າ",
-    "meta": "lao vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "ໄ",
-    "meta": "lao vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "ຳ",
-    "meta": "lao vowel sign am",
-    "ipa": ""
-  },
-  {
-    "label": "ໃ",
-    "meta": "lao vowel sign ay",
-    "ipa": ""
-  },
-  {
-    "label": "ເ",
-    "meta": "lao vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "ແ",
-    "meta": "lao vowel sign ei",
-    "ipa": ""
-  },
-  {
-    "label": "ິ",
-    "meta": "lao vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "ີ",
-    "meta": "lao vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "ັ",
-    "meta": "lao vowel sign mai kan",
-    "ipa": ""
-  },
-  {
-    "label": "ົ",
-    "meta": "lao vowel sign mai kon",
-    "ipa": ""
-  },
-  {
-    "label": "ໂ",
-    "meta": "lao vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "ຸ",
-    "meta": "lao vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "ູ",
-    "meta": "lao vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "ຶ",
-    "meta": "lao vowel sign y",
-    "ipa": ""
-  },
-  {
-    "label": "ື",
-    "meta": "lao vowel sign yy",
     "ipa": ""
   },
   {

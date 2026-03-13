@@ -25,11 +25,6 @@
     "ipa": ""
   },
   {
-    "label": "߲",
-    "meta": "nko combining nasalization mark",
-    "ipa": ""
-  },
-  {
     "label": "߫",
     "meta": "nko combining short high tone",
     "ipa": ""
@@ -52,66 +47,6 @@
   {
     "label": "߽",
     "meta": "nko dantayalan",
-    "ipa": ""
-  },
-  {
-    "label": "߈",
-    "meta": "nko digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "߅",
-    "meta": "nko digit five",
-    "ipa": ""
-  },
-  {
-    "label": "߄",
-    "meta": "nko digit four",
-    "ipa": ""
-  },
-  {
-    "label": "߉",
-    "meta": "nko digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "߁",
-    "meta": "nko digit one",
-    "ipa": ""
-  },
-  {
-    "label": "߇",
-    "meta": "nko digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "߆",
-    "meta": "nko digit six",
-    "ipa": ""
-  },
-  {
-    "label": "߃",
-    "meta": "nko digit three",
-    "ipa": ""
-  },
-  {
-    "label": "߂",
-    "meta": "nko digit two",
-    "ipa": ""
-  },
-  {
-    "label": "߀",
-    "meta": "nko digit zero",
-    "ipa": ""
-  },
-  {
-    "label": "߾",
-    "meta": "nko dorome sign",
-    "ipa": ""
-  },
-  {
-    "label": "߹",
-    "meta": "nko exclamation mark",
     "ipa": ""
   },
   {
@@ -292,21 +227,6 @@
   {
     "label": "ߵ",
     "meta": "nko low tone apostrophe",
-    "ipa": ""
-  },
-  {
-    "label": "߷",
-    "meta": "nko symbol gbakurunen",
-    "ipa": ""
-  },
-  {
-    "label": "߶",
-    "meta": "nko symbol oo dennen",
-    "ipa": ""
-  },
-  {
-    "label": "߿",
-    "meta": "nko taman sign",
     "ipa": ""
   }
 ]

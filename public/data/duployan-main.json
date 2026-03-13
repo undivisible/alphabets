@@ -160,11 +160,6 @@
     "ipa": ""
   },
   {
-    "label": "𛲞",
-    "meta": "duployan double mark",
-    "ipa": ""
-  },
-  {
     "label": "𛱁",
     "meta": "duployan letter a",
     "ipa": ""
@@ -602,116 +597,6 @@
   {
     "label": "𛰷",
     "meta": "duployan letter t r s",
-    "ipa": ""
-  },
-  {
-    "label": "𛰶",
-    "meta": "duployan letter t s",
-    "ipa": ""
-  },
-  {
-    "label": "𛰑",
-    "meta": "duployan letter th",
-    "ipa": ""
-  },
-  {
-    "label": "𛱑",
-    "meta": "duployan letter u",
-    "ipa": ""
-  },
-  {
-    "label": "𛱔",
-    "meta": "duployan letter u n",
-    "ipa": ""
-  },
-  {
-    "label": "𛱗",
-    "meta": "duployan letter uh",
-    "ipa": ""
-  },
-  {
-    "label": "𛱊",
-    "meta": "duployan letter ui",
-    "ipa": ""
-  },
-  {
-    "label": "𛰉",
-    "meta": "duployan letter v",
-    "ipa": ""
-  },
-  {
-    "label": "𛱪",
-    "meta": "duployan letter vocalic m",
-    "ipa": ""
-  },
-  {
-    "label": "𛰸",
-    "meta": "duployan letter w",
-    "ipa": ""
-  },
-  {
-    "label": "𛰺",
-    "meta": "duployan letter w r",
-    "ipa": ""
-  },
-  {
-    "label": "𛱜",
-    "meta": "duployan letter wa",
-    "ipa": ""
-  },
-  {
-    "label": "𛱟",
-    "meta": "duployan letter wei",
-    "ipa": ""
-  },
-  {
-    "label": "𛰹",
-    "meta": "duployan letter wh",
-    "ipa": ""
-  },
-  {
-    "label": "𛱞",
-    "meta": "duployan letter wi",
-    "ipa": ""
-  },
-  {
-    "label": "𛱝",
-    "meta": "duployan letter wo",
-    "ipa": ""
-  },
-  {
-    "label": "𛱠",
-    "meta": "duployan letter wow",
-    "ipa": ""
-  },
-  {
-    "label": "𛰁",
-    "meta": "duployan letter x",
-    "ipa": ""
-  },
-  {
-    "label": "𛱓",
-    "meta": "duployan letter xw",
-    "ipa": ""
-  },
-  {
-    "label": "𛱐",
-    "meta": "duployan letter ye",
-    "ipa": ""
-  },
-  {
-    "label": "𛲟",
-    "meta": "duployan punctuation chinook full stop",
-    "ipa": ""
-  },
-  {
-    "label": "𛲜",
-    "meta": "duployan sign o with cross",
-    "ipa": ""
-  },
-  {
-    "label": "𛲝",
-    "meta": "duployan thick letter selector",
     "ipa": ""
   }
 ]

@@ -1,70 +1,5 @@
 [
   {
-    "label": "ꦿ",
-    "meta": "javanese consonant sign cakra",
-    "ipa": ""
-  },
-  {
-    "label": "ꦽ",
-    "meta": "javanese consonant sign keret",
-    "ipa": ""
-  },
-  {
-    "label": "ꦾ",
-    "meta": "javanese consonant sign pengkal",
-    "ipa": ""
-  },
-  {
-    "label": "꧘",
-    "meta": "javanese digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "꧕",
-    "meta": "javanese digit five",
-    "ipa": ""
-  },
-  {
-    "label": "꧔",
-    "meta": "javanese digit four",
-    "ipa": ""
-  },
-  {
-    "label": "꧙",
-    "meta": "javanese digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "꧑",
-    "meta": "javanese digit one",
-    "ipa": ""
-  },
-  {
-    "label": "꧗",
-    "meta": "javanese digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "꧖",
-    "meta": "javanese digit six",
-    "ipa": ""
-  },
-  {
-    "label": "꧓",
-    "meta": "javanese digit three",
-    "ipa": ""
-  },
-  {
-    "label": "꧒",
-    "meta": "javanese digit two",
-    "ipa": ""
-  },
-  {
-    "label": "꧐",
-    "meta": "javanese digit zero",
-    "ipa": ""
-  },
-  {
     "label": "꧁",
     "meta": "javanese left rerenggan",
     "ipa": ""
@@ -375,78 +310,8 @@
     "ipa": ""
   },
   {
-    "label": "ꦁ",
-    "meta": "javanese sign cecak",
-    "ipa": ""
-  },
-  {
-    "label": "꦳",
-    "meta": "javanese sign cecak telu",
-    "ipa": ""
-  },
-  {
-    "label": "ꦂ",
-    "meta": "javanese sign layar",
-    "ipa": ""
-  },
-  {
-    "label": "ꦀ",
-    "meta": "javanese sign panyangga",
-    "ipa": ""
-  },
-  {
-    "label": "ꦃ",
-    "meta": "javanese sign wignyan",
-    "ipa": ""
-  },
-  {
     "label": "꧍",
     "meta": "javanese turned pada piseleh",
-    "ipa": ""
-  },
-  {
-    "label": "ꦻ",
-    "meta": "javanese vowel sign dirga mure",
-    "ipa": ""
-  },
-  {
-    "label": "ꦼ",
-    "meta": "javanese vowel sign pepet",
-    "ipa": ""
-  },
-  {
-    "label": "ꦸ",
-    "meta": "javanese vowel sign suku",
-    "ipa": ""
-  },
-  {
-    "label": "ꦹ",
-    "meta": "javanese vowel sign suku mendut",
-    "ipa": ""
-  },
-  {
-    "label": "ꦺ",
-    "meta": "javanese vowel sign taling",
-    "ipa": ""
-  },
-  {
-    "label": "ꦴ",
-    "meta": "javanese vowel sign tarung",
-    "ipa": ""
-  },
-  {
-    "label": "ꦵ",
-    "meta": "javanese vowel sign tolong",
-    "ipa": ""
-  },
-  {
-    "label": "ꦶ",
-    "meta": "javanese vowel sign wulu",
-    "ipa": ""
-  },
-  {
-    "label": "ꦷ",
-    "meta": "javanese vowel sign wulu melik",
     "ipa": ""
   }
 ]

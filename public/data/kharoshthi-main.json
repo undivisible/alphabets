@@ -1,25 +1,5 @@
 [
   {
-    "label": "𐩃",
-    "meta": "kharoshthi digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𐩀",
-    "meta": "kharoshthi digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𐩂",
-    "meta": "kharoshthi digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𐩁",
-    "meta": "kharoshthi digit two",
-    "ipa": ""
-  },
-  {
     "label": "𐩈",
     "meta": "kharoshthi fraction one half",
     "ipa": ""
@@ -230,113 +210,8 @@
     "ipa": ""
   },
   {
-    "label": "𐩒",
-    "meta": "kharoshthi punctuation circle",
-    "ipa": ""
-  },
-  {
-    "label": "𐩓",
-    "meta": "kharoshthi punctuation crescent bar",
-    "ipa": ""
-  },
-  {
-    "label": "𐩖",
-    "meta": "kharoshthi punctuation danda",
-    "ipa": ""
-  },
-  {
-    "label": "𐩐",
-    "meta": "kharoshthi punctuation dot",
-    "ipa": ""
-  },
-  {
-    "label": "𐩗",
-    "meta": "kharoshthi punctuation double danda",
-    "ipa": ""
-  },
-  {
-    "label": "𐩘",
-    "meta": "kharoshthi punctuation lines",
-    "ipa": ""
-  },
-  {
-    "label": "𐩕",
-    "meta": "kharoshthi punctuation lotus",
-    "ipa": ""
-  },
-  {
-    "label": "𐩔",
-    "meta": "kharoshthi punctuation mangalam",
-    "ipa": ""
-  },
-  {
-    "label": "𐩑",
-    "meta": "kharoshthi punctuation small circle",
-    "ipa": ""
-  },
-  {
-    "label": "𐨎",
-    "meta": "kharoshthi sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𐨸",
-    "meta": "kharoshthi sign bar above",
-    "ipa": ""
-  },
-  {
-    "label": "𐨹",
-    "meta": "kharoshthi sign cauda",
-    "ipa": ""
-  },
-  {
-    "label": "𐨺",
-    "meta": "kharoshthi sign dot below",
-    "ipa": ""
-  },
-  {
-    "label": "𐨍",
-    "meta": "kharoshthi sign double ring below",
-    "ipa": ""
-  },
-  {
-    "label": "𐨏",
-    "meta": "kharoshthi sign visarga",
-    "ipa": ""
-  },
-  {
     "label": "𐨿",
     "meta": "kharoshthi virama",
-    "ipa": ""
-  },
-  {
-    "label": "𐨌",
-    "meta": "kharoshthi vowel length mark",
-    "ipa": ""
-  },
-  {
-    "label": "𐨅",
-    "meta": "kharoshthi vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𐨁",
-    "meta": "kharoshthi vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𐨆",
-    "meta": "kharoshthi vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𐨂",
-    "meta": "kharoshthi vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𐨃",
-    "meta": "kharoshthi vowel sign vocalic r",
     "ipa": ""
   }
 ]

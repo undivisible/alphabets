@@ -1,15 +1,5 @@
 [
   {
-    "label": "𐫥",
-    "meta": "manichaean abbreviation mark above",
-    "ipa": ""
-  },
-  {
-    "label": "𐫦",
-    "meta": "manichaean abbreviation mark below",
-    "ipa": ""
-  },
-  {
     "label": "𐫚",
     "meta": "manichaean letter aayin",
     "ipa": ""
@@ -212,46 +202,6 @@
   {
     "label": "𐫮",
     "meta": "manichaean number twenty",
-    "ipa": ""
-  },
-  {
-    "label": "𐫴",
-    "meta": "manichaean punctuation dot",
-    "ipa": ""
-  },
-  {
-    "label": "𐫳",
-    "meta": "manichaean punctuation dot within dot",
-    "ipa": ""
-  },
-  {
-    "label": "𐫲",
-    "meta": "manichaean punctuation double dot within dot",
-    "ipa": ""
-  },
-  {
-    "label": "𐫱",
-    "meta": "manichaean punctuation fleuron",
-    "ipa": ""
-  },
-  {
-    "label": "𐫶",
-    "meta": "manichaean punctuation line filler",
-    "ipa": ""
-  },
-  {
-    "label": "𐫰",
-    "meta": "manichaean punctuation star",
-    "ipa": ""
-  },
-  {
-    "label": "𐫵",
-    "meta": "manichaean punctuation two dots",
-    "ipa": ""
-  },
-  {
-    "label": "𐫈",
-    "meta": "manichaean sign ud",
     "ipa": ""
   }
 ]

@@ -1,55 +1,5 @@
 [
   {
-    "label": "𑵘",
-    "meta": "masaram gondi digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑵕",
-    "meta": "masaram gondi digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑵔",
-    "meta": "masaram gondi digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑵙",
-    "meta": "masaram gondi digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑵑",
-    "meta": "masaram gondi digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑵗",
-    "meta": "masaram gondi digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑵖",
-    "meta": "masaram gondi digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑵓",
-    "meta": "masaram gondi digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑵒",
-    "meta": "masaram gondi digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑵐",
-    "meta": "masaram gondi digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𑴀",
     "meta": "masaram gondi letter a",
     "ipa": ""
@@ -295,83 +245,8 @@
     "ipa": ""
   },
   {
-    "label": "𑵀",
-    "meta": "masaram gondi sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑵃",
-    "meta": "masaram gondi sign candra",
-    "ipa": ""
-  },
-  {
-    "label": "𑵄",
-    "meta": "masaram gondi sign halanta",
-    "ipa": ""
-  },
-  {
-    "label": "𑵂",
-    "meta": "masaram gondi sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑵁",
-    "meta": "masaram gondi sign visarga",
-    "ipa": ""
-  },
-  {
     "label": "𑵅",
     "meta": "masaram gondi virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑴱",
-    "meta": "masaram gondi vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑴼",
-    "meta": "masaram gondi vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑴿",
-    "meta": "masaram gondi vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑴺",
-    "meta": "masaram gondi vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑴲",
-    "meta": "masaram gondi vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑴳",
-    "meta": "masaram gondi vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑴽",
-    "meta": "masaram gondi vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑴴",
-    "meta": "masaram gondi vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑴵",
-    "meta": "masaram gondi vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑴶",
-    "meta": "masaram gondi vowel sign vocalic r",
     "ipa": ""
   }
 ]

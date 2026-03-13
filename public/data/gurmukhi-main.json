@@ -1,62 +1,7 @@
 [
   {
-    "label": "੶",
-    "meta": "gurmukhi abbreviation sign",
-    "ipa": ""
-  },
-  {
     "label": "ੱ",
     "meta": "gurmukhi addak",
-    "ipa": ""
-  },
-  {
-    "label": "੮",
-    "meta": "gurmukhi digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "੫",
-    "meta": "gurmukhi digit five",
-    "ipa": ""
-  },
-  {
-    "label": "੪",
-    "meta": "gurmukhi digit four",
-    "ipa": ""
-  },
-  {
-    "label": "੯",
-    "meta": "gurmukhi digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "੧",
-    "meta": "gurmukhi digit one",
-    "ipa": ""
-  },
-  {
-    "label": "੭",
-    "meta": "gurmukhi digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "੬",
-    "meta": "gurmukhi digit six",
-    "ipa": ""
-  },
-  {
-    "label": "੩",
-    "meta": "gurmukhi digit three",
-    "ipa": ""
-  },
-  {
-    "label": "੨",
-    "meta": "gurmukhi digit two",
-    "ipa": ""
-  },
-  {
-    "label": "੦",
-    "meta": "gurmukhi digit zero",
     "ipa": ""
   },
   {
@@ -310,41 +255,6 @@
     "ipa": ""
   },
   {
-    "label": "ਁ",
-    "meta": "gurmukhi sign adak bindi",
-    "ipa": ""
-  },
-  {
-    "label": "ਂ",
-    "meta": "gurmukhi sign bindi",
-    "ipa": ""
-  },
-  {
-    "label": "਼",
-    "meta": "gurmukhi sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "ੑ",
-    "meta": "gurmukhi sign udaat",
-    "ipa": ""
-  },
-  {
-    "label": "੍",
-    "meta": "gurmukhi sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "ਃ",
-    "meta": "gurmukhi sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "ੵ",
-    "meta": "gurmukhi sign yakash",
-    "ipa": ""
-  },
-  {
     "label": "ੰ",
     "meta": "gurmukhi tippi",
     "ipa": ""
@@ -352,51 +262,6 @@
   {
     "label": "ੳ",
     "meta": "gurmukhi ura",
-    "ipa": ""
-  },
-  {
-    "label": "ਾ",
-    "meta": "gurmukhi vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "ੈ",
-    "meta": "gurmukhi vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "ੌ",
-    "meta": "gurmukhi vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "ੇ",
-    "meta": "gurmukhi vowel sign ee",
-    "ipa": ""
-  },
-  {
-    "label": "ਿ",
-    "meta": "gurmukhi vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "ੀ",
-    "meta": "gurmukhi vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "ੋ",
-    "meta": "gurmukhi vowel sign oo",
-    "ipa": ""
-  },
-  {
-    "label": "ੁ",
-    "meta": "gurmukhi vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "ੂ",
-    "meta": "gurmukhi vowel sign uu",
     "ipa": ""
   }
 ]

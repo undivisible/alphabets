@@ -1,25 +1,5 @@
 [
   {
-    "label": "ꥒ",
-    "meta": "rejang consonant sign h",
-    "ipa": ""
-  },
-  {
-    "label": "ꥐ",
-    "meta": "rejang consonant sign n",
-    "ipa": ""
-  },
-  {
-    "label": "ꥏ",
-    "meta": "rejang consonant sign ng",
-    "ipa": ""
-  },
-  {
-    "label": "ꥑ",
-    "meta": "rejang consonant sign r",
-    "ipa": ""
-  },
-  {
     "label": "ꥆ",
     "meta": "rejang letter a",
     "ipa": ""
@@ -135,53 +115,8 @@
     "ipa": ""
   },
   {
-    "label": "꥟",
-    "meta": "rejang section mark",
-    "ipa": ""
-  },
-  {
     "label": "꥓",
     "meta": "rejang virama",
-    "ipa": ""
-  },
-  {
-    "label": "ꥊ",
-    "meta": "rejang vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "ꥌ",
-    "meta": "rejang vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "ꥉ",
-    "meta": "rejang vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "ꥎ",
-    "meta": "rejang vowel sign ea",
-    "ipa": ""
-  },
-  {
-    "label": "ꥍ",
-    "meta": "rejang vowel sign eu",
-    "ipa": ""
-  },
-  {
-    "label": "ꥇ",
-    "meta": "rejang vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "ꥋ",
-    "meta": "rejang vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "ꥈ",
-    "meta": "rejang vowel sign u",
     "ipa": ""
   }
 ]

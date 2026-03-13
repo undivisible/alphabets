@@ -1,55 +1,5 @@
 [
   {
-    "label": "𑋸",
-    "meta": "khudawadi digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑋵",
-    "meta": "khudawadi digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑋴",
-    "meta": "khudawadi digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑋹",
-    "meta": "khudawadi digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑋱",
-    "meta": "khudawadi digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑋷",
-    "meta": "khudawadi digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑋶",
-    "meta": "khudawadi digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑋳",
-    "meta": "khudawadi digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑋲",
-    "meta": "khudawadi digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑋰",
-    "meta": "khudawadi digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𑊰",
     "meta": "khudawadi letter a",
     "ipa": ""
@@ -282,66 +232,6 @@
   {
     "label": "𑋘",
     "meta": "khudawadi letter ya",
-    "ipa": ""
-  },
-  {
-    "label": "𑋟",
-    "meta": "khudawadi sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑋩",
-    "meta": "khudawadi sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑋪",
-    "meta": "khudawadi sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑋠",
-    "meta": "khudawadi vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑋦",
-    "meta": "khudawadi vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑋨",
-    "meta": "khudawadi vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑋥",
-    "meta": "khudawadi vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑋡",
-    "meta": "khudawadi vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑋢",
-    "meta": "khudawadi vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑋧",
-    "meta": "khudawadi vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑋣",
-    "meta": "khudawadi vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑋤",
-    "meta": "khudawadi vowel sign uu",
     "ipa": ""
   }
 ]

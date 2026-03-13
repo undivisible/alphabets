@@ -25,56 +25,6 @@
     "ipa": ""
   },
   {
-    "label": "꯸",
-    "meta": "meetei mayek digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "꯵",
-    "meta": "meetei mayek digit five",
-    "ipa": ""
-  },
-  {
-    "label": "꯴",
-    "meta": "meetei mayek digit four",
-    "ipa": ""
-  },
-  {
-    "label": "꯹",
-    "meta": "meetei mayek digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "꯱",
-    "meta": "meetei mayek digit one",
-    "ipa": ""
-  },
-  {
-    "label": "꯷",
-    "meta": "meetei mayek digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "꯶",
-    "meta": "meetei mayek digit six",
-    "ipa": ""
-  },
-  {
-    "label": "꯳",
-    "meta": "meetei mayek digit three",
-    "ipa": ""
-  },
-  {
-    "label": "꯲",
-    "meta": "meetei mayek digit two",
-    "ipa": ""
-  },
-  {
-    "label": "꯰",
-    "meta": "meetei mayek digit zero",
-    "ipa": ""
-  },
-  {
     "label": "ꯑ",
     "meta": "meetei mayek letter atiya",
     "ipa": ""
@@ -310,88 +260,8 @@
     "ipa": ""
   },
   {
-    "label": "ꫳ",
-    "meta": "meetei mayek syllable repetition mark",
-    "ipa": ""
-  },
-  {
     "label": "꫶",
     "meta": "meetei mayek virama",
-    "ipa": ""
-  },
-  {
-    "label": "ꫭ",
-    "meta": "meetei mayek vowel sign aai",
-    "ipa": ""
-  },
-  {
-    "label": "ꫯ",
-    "meta": "meetei mayek vowel sign aau",
-    "ipa": ""
-  },
-  {
-    "label": "ꯥ",
-    "meta": "meetei mayek vowel sign anap",
-    "ipa": ""
-  },
-  {
-    "label": "ꫮ",
-    "meta": "meetei mayek vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "ꯩ",
-    "meta": "meetei mayek vowel sign cheinap",
-    "ipa": ""
-  },
-  {
-    "label": "ꫫ",
-    "meta": "meetei mayek vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "ꯤ",
-    "meta": "meetei mayek vowel sign inap",
-    "ipa": ""
-  },
-  {
-    "label": "ꯪ",
-    "meta": "meetei mayek vowel sign nung",
-    "ipa": ""
-  },
-  {
-    "label": "ꯣ",
-    "meta": "meetei mayek vowel sign onap",
-    "ipa": ""
-  },
-  {
-    "label": "ꯧ",
-    "meta": "meetei mayek vowel sign sounap",
-    "ipa": ""
-  },
-  {
-    "label": "ꯨ",
-    "meta": "meetei mayek vowel sign unap",
-    "ipa": ""
-  },
-  {
-    "label": "ꫬ",
-    "meta": "meetei mayek vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "ꫵ",
-    "meta": "meetei mayek vowel sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "ꯦ",
-    "meta": "meetei mayek vowel sign yenap",
-    "ipa": ""
-  },
-  {
-    "label": "ꫴ",
-    "meta": "meetei mayek word repetition mark",
     "ipa": ""
   }
 ]

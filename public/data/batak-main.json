@@ -1,15 +1,5 @@
 [
   {
-    "label": "ᯱ",
-    "meta": "batak consonant sign h",
-    "ipa": ""
-  },
-  {
-    "label": "ᯰ",
-    "meta": "batak consonant sign ng",
-    "ipa": ""
-  },
-  {
     "label": "ᯀ",
     "meta": "batak letter a",
     "ipa": ""
@@ -207,76 +197,6 @@
   {
     "label": "᯳",
     "meta": "batak panongonan",
-    "ipa": ""
-  },
-  {
-    "label": "᯦",
-    "meta": "batak sign tompi",
-    "ipa": ""
-  },
-  {
-    "label": "᯾",
-    "meta": "batak symbol bindu judul",
-    "ipa": ""
-  },
-  {
-    "label": "᯼",
-    "meta": "batak symbol bindu na metek",
-    "ipa": ""
-  },
-  {
-    "label": "᯿",
-    "meta": "batak symbol bindu pangolat",
-    "ipa": ""
-  },
-  {
-    "label": "᯽",
-    "meta": "batak symbol bindu pinarboras",
-    "ipa": ""
-  },
-  {
-    "label": "ᯧ",
-    "meta": "batak vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "ᯩ",
-    "meta": "batak vowel sign ee",
-    "ipa": ""
-  },
-  {
-    "label": "ᯪ",
-    "meta": "batak vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "ᯫ",
-    "meta": "batak vowel sign karo i",
-    "ipa": ""
-  },
-  {
-    "label": "ᯭ",
-    "meta": "batak vowel sign karo o",
-    "ipa": ""
-  },
-  {
-    "label": "ᯬ",
-    "meta": "batak vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "ᯨ",
-    "meta": "batak vowel sign pakpak e",
-    "ipa": ""
-  },
-  {
-    "label": "ᯮ",
-    "meta": "batak vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "ᯯ",
-    "meta": "batak vowel sign u for simalungun sa",
     "ipa": ""
   }
 ]

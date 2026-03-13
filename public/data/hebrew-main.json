@@ -1,155 +1,5 @@
 [
   {
-    "label": "֢",
-    "meta": "hebrew accent atnah hafukh",
-    "ipa": ""
-  },
-  {
-    "label": "֧",
-    "meta": "hebrew accent darga",
-    "ipa": ""
-  },
-  {
-    "label": "֭",
-    "meta": "hebrew accent dehi",
-    "ipa": ""
-  },
-  {
-    "label": "֑",
-    "meta": "hebrew accent etnahta",
-    "ipa": ""
-  },
-  {
-    "label": "֜",
-    "meta": "hebrew accent geresh",
-    "ipa": ""
-  },
-  {
-    "label": "֝",
-    "meta": "hebrew accent geresh muqdam",
-    "ipa": ""
-  },
-  {
-    "label": "֞",
-    "meta": "hebrew accent gershayim",
-    "ipa": ""
-  },
-  {
-    "label": "֬",
-    "meta": "hebrew accent iluy",
-    "ipa": ""
-  },
-  {
-    "label": "֤",
-    "meta": "hebrew accent mahapakh",
-    "ipa": ""
-  },
-  {
-    "label": "֥",
-    "meta": "hebrew accent merkha",
-    "ipa": ""
-  },
-  {
-    "label": "֦",
-    "meta": "hebrew accent merkha kefula",
-    "ipa": ""
-  },
-  {
-    "label": "֣",
-    "meta": "hebrew accent munah",
-    "ipa": ""
-  },
-  {
-    "label": "֫",
-    "meta": "hebrew accent ole",
-    "ipa": ""
-  },
-  {
-    "label": "֙",
-    "meta": "hebrew accent pashta",
-    "ipa": ""
-  },
-  {
-    "label": "֡",
-    "meta": "hebrew accent pazer",
-    "ipa": ""
-  },
-  {
-    "label": "֨",
-    "meta": "hebrew accent qadma",
-    "ipa": ""
-  },
-  {
-    "label": "֟",
-    "meta": "hebrew accent qarney para",
-    "ipa": ""
-  },
-  {
-    "label": "֗",
-    "meta": "hebrew accent revia",
-    "ipa": ""
-  },
-  {
-    "label": "֒",
-    "meta": "hebrew accent segol",
-    "ipa": ""
-  },
-  {
-    "label": "֓",
-    "meta": "hebrew accent shalshelet",
-    "ipa": ""
-  },
-  {
-    "label": "֠",
-    "meta": "hebrew accent telisha gedola",
-    "ipa": ""
-  },
-  {
-    "label": "֩",
-    "meta": "hebrew accent telisha qetana",
-    "ipa": ""
-  },
-  {
-    "label": "֛",
-    "meta": "hebrew accent tevir",
-    "ipa": ""
-  },
-  {
-    "label": "֖",
-    "meta": "hebrew accent tipeha",
-    "ipa": ""
-  },
-  {
-    "label": "֪",
-    "meta": "hebrew accent yerah ben yomo",
-    "ipa": ""
-  },
-  {
-    "label": "֚",
-    "meta": "hebrew accent yetiv",
-    "ipa": ""
-  },
-  {
-    "label": "֕",
-    "meta": "hebrew accent zaqef gadol",
-    "ipa": ""
-  },
-  {
-    "label": "֔",
-    "meta": "hebrew accent zaqef qatan",
-    "ipa": ""
-  },
-  {
-    "label": "֘",
-    "meta": "hebrew accent zarqa",
-    "ipa": ""
-  },
-  {
-    "label": "֮",
-    "meta": "hebrew accent zinor",
-    "ipa": ""
-  },
-  {
     "label": "א",
     "meta": "hebrew letter alef",
     "ipa": ""
@@ -172,11 +22,6 @@
   {
     "label": "ﬠ",
     "meta": "hebrew letter alternative ayin",
-    "ipa": ""
-  },
-  {
-    "label": "﬩",
-    "meta": "hebrew letter alternative plus sign",
     "ipa": ""
   },
   {
@@ -525,21 +370,6 @@
     "ipa": ""
   },
   {
-    "label": "ׅ",
-    "meta": "hebrew mark lower dot",
-    "ipa": ""
-  },
-  {
-    "label": "֯",
-    "meta": "hebrew mark masora circle",
-    "ipa": ""
-  },
-  {
-    "label": "ׄ",
-    "meta": "hebrew mark upper dot",
-    "ipa": ""
-  },
-  {
     "label": "ּ",
     "meta": "hebrew point dagesh or mapiq",
     "ipa": ""
@@ -632,36 +462,6 @@
   {
     "label": "ֵ",
     "meta": "hebrew point tsere",
-    "ipa": ""
-  },
-  {
-    "label": "׳",
-    "meta": "hebrew punctuation geresh",
-    "ipa": ""
-  },
-  {
-    "label": "״",
-    "meta": "hebrew punctuation gershayim",
-    "ipa": ""
-  },
-  {
-    "label": "־",
-    "meta": "hebrew punctuation maqaf",
-    "ipa": ""
-  },
-  {
-    "label": "׆",
-    "meta": "hebrew punctuation nun hafukha",
-    "ipa": ""
-  },
-  {
-    "label": "׀",
-    "meta": "hebrew punctuation paseq",
-    "ipa": ""
-  },
-  {
-    "label": "׃",
-    "meta": "hebrew punctuation sof pasuq",
     "ipa": ""
   },
   {

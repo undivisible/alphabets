@@ -1,10 +1,5 @@
 [
   {
-    "label": "𑱰",
-    "meta": "marchen head mark",
-    "ipa": ""
-  },
-  {
     "label": "𑲈",
     "meta": "marchen letter -a",
     "ipa": ""
@@ -155,21 +150,6 @@
     "ipa": ""
   },
   {
-    "label": "𑱱",
-    "meta": "marchen mark shad",
-    "ipa": ""
-  },
-  {
-    "label": "𑲵",
-    "meta": "marchen sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑲶",
-    "meta": "marchen sign candrabindu",
-    "ipa": ""
-  },
-  {
     "label": "𑲯",
     "meta": "marchen subjoined letter a",
     "ipa": ""
@@ -312,31 +292,6 @@
   {
     "label": "𑲦",
     "meta": "marchen subjoined letter zha",
-    "ipa": ""
-  },
-  {
-    "label": "𑲰",
-    "meta": "marchen vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑲳",
-    "meta": "marchen vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑲱",
-    "meta": "marchen vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑲴",
-    "meta": "marchen vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑲲",
-    "meta": "marchen vowel sign u",
     "ipa": ""
   }
 ]

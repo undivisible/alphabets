@@ -1,55 +1,5 @@
 [
   {
-    "label": "𞓸",
-    "meta": "nag mundari digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𞓵",
-    "meta": "nag mundari digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𞓴",
-    "meta": "nag mundari digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𞓹",
-    "meta": "nag mundari digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𞓱",
-    "meta": "nag mundari digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𞓷",
-    "meta": "nag mundari digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𞓶",
-    "meta": "nag mundari digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𞓳",
-    "meta": "nag mundari digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𞓲",
-    "meta": "nag mundari digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𞓰",
-    "meta": "nag mundari digit zero",
-    "ipa": ""
-  },
-  {
     "label": "𞓕",
     "meta": "nag mundari letter a",
     "ipa": ""
@@ -182,31 +132,6 @@
   {
     "label": "𞓣",
     "meta": "nag mundari letter ur",
-    "ipa": ""
-  },
-  {
-    "label": "𞓮",
-    "meta": "nag mundari sign ikir",
-    "ipa": ""
-  },
-  {
-    "label": "𞓬",
-    "meta": "nag mundari sign muhor",
-    "ipa": ""
-  },
-  {
-    "label": "𞓫",
-    "meta": "nag mundari sign ojod",
-    "ipa": ""
-  },
-  {
-    "label": "𞓯",
-    "meta": "nag mundari sign sutuh",
-    "ipa": ""
-  },
-  {
-    "label": "𞓭",
-    "meta": "nag mundari sign toyor",
     "ipa": ""
   }
 ]

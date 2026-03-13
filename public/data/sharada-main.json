@@ -1,67 +1,7 @@
 [
   {
-    "label": "𑇇",
-    "meta": "sharada abbreviation sign",
-    "ipa": ""
-  },
-  {
-    "label": "𑇝",
-    "meta": "sharada continuation sign",
-    "ipa": ""
-  },
-  {
     "label": "𑇅",
     "meta": "sharada danda",
-    "ipa": ""
-  },
-  {
-    "label": "𑇘",
-    "meta": "sharada digit eight",
-    "ipa": ""
-  },
-  {
-    "label": "𑇕",
-    "meta": "sharada digit five",
-    "ipa": ""
-  },
-  {
-    "label": "𑇔",
-    "meta": "sharada digit four",
-    "ipa": ""
-  },
-  {
-    "label": "𑇙",
-    "meta": "sharada digit nine",
-    "ipa": ""
-  },
-  {
-    "label": "𑇑",
-    "meta": "sharada digit one",
-    "ipa": ""
-  },
-  {
-    "label": "𑇗",
-    "meta": "sharada digit seven",
-    "ipa": ""
-  },
-  {
-    "label": "𑇖",
-    "meta": "sharada digit six",
-    "ipa": ""
-  },
-  {
-    "label": "𑇓",
-    "meta": "sharada digit three",
-    "ipa": ""
-  },
-  {
-    "label": "𑇒",
-    "meta": "sharada digit two",
-    "ipa": ""
-  },
-  {
-    "label": "𑇐",
-    "meta": "sharada digit zero",
     "ipa": ""
   },
   {
@@ -72,11 +12,6 @@
   {
     "label": "𑇚",
     "meta": "sharada ekam",
-    "ipa": ""
-  },
-  {
-    "label": "𑇌",
-    "meta": "sharada extra short vowel mark",
     "ipa": ""
   },
   {
@@ -330,153 +265,8 @@
     "ipa": ""
   },
   {
-    "label": "𑇉",
-    "meta": "sharada sandhi mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑇞",
-    "meta": "sharada section mark-1",
-    "ipa": ""
-  },
-  {
-    "label": "𑇟",
-    "meta": "sharada section mark-2",
-    "ipa": ""
-  },
-  {
     "label": "𑇈",
     "meta": "sharada separator",
-    "ipa": ""
-  },
-  {
-    "label": "𑆁",
-    "meta": "sharada sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑇁",
-    "meta": "sharada sign avagraha",
-    "ipa": ""
-  },
-  {
-    "label": "𑆀",
-    "meta": "sharada sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑇏",
-    "meta": "sharada sign inverted candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑇂",
-    "meta": "sharada sign jihvamuliya",
-    "ipa": ""
-  },
-  {
-    "label": "𑇊",
-    "meta": "sharada sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑇛",
-    "meta": "sharada sign siddham",
-    "ipa": ""
-  },
-  {
-    "label": "𑇃",
-    "meta": "sharada sign upadhmaniya",
-    "ipa": ""
-  },
-  {
-    "label": "𑇀",
-    "meta": "sharada sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑆂",
-    "meta": "sharada sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑇍",
-    "meta": "sharada sutra mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑇋",
-    "meta": "sharada vowel modifier mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑆳",
-    "meta": "sharada vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑆽",
-    "meta": "sharada vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑆿",
-    "meta": "sharada vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑆼",
-    "meta": "sharada vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑆴",
-    "meta": "sharada vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑆵",
-    "meta": "sharada vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑆾",
-    "meta": "sharada vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑇎",
-    "meta": "sharada vowel sign prishthamatra e",
-    "ipa": ""
-  },
-  {
-    "label": "𑆶",
-    "meta": "sharada vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑆷",
-    "meta": "sharada vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑆺",
-    "meta": "sharada vowel sign vocalic l",
-    "ipa": ""
-  },
-  {
-    "label": "𑆻",
-    "meta": "sharada vowel sign vocalic ll",
-    "ipa": ""
-  },
-  {
-    "label": "𑆸",
-    "meta": "sharada vowel sign vocalic r",
-    "ipa": ""
-  },
-  {
-    "label": "𑆹",
-    "meta": "sharada vowel sign vocalic rr",
     "ipa": ""
   }
 ]

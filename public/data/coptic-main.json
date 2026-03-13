@@ -330,18 +330,8 @@
     "ipa": ""
   },
   {
-    "label": "⳺",
-    "meta": "coptic old nubian direct question mark",
-    "ipa": ""
-  },
-  {
     "label": "⳹",
     "meta": "coptic old nubian full stop",
-    "ipa": ""
-  },
-  {
-    "label": "⳻",
-    "meta": "coptic old nubian indirect question mark",
     "ipa": ""
   },
   {
@@ -607,81 +597,6 @@
   {
     "label": "ϣ",
     "meta": "coptic small letter shei",
-    "ipa": ""
-  },
-  {
-    "label": "ϭ",
-    "meta": "coptic small letter shima",
-    "ipa": ""
-  },
-  {
-    "label": "ⲥ",
-    "meta": "coptic small letter sima",
-    "ipa": ""
-  },
-  {
-    "label": "ⲋ",
-    "meta": "coptic small letter sou",
-    "ipa": ""
-  },
-  {
-    "label": "ⲧ",
-    "meta": "coptic small letter tau",
-    "ipa": ""
-  },
-  {
-    "label": "ⲑ",
-    "meta": "coptic small letter thethe",
-    "ipa": ""
-  },
-  {
-    "label": "ⲩ",
-    "meta": "coptic small letter ua",
-    "ipa": ""
-  },
-  {
-    "label": "ⲃ",
-    "meta": "coptic small letter vida",
-    "ipa": ""
-  },
-  {
-    "label": "ⲍ",
-    "meta": "coptic small letter zata",
-    "ipa": ""
-  },
-  {
-    "label": "ⳤ",
-    "meta": "coptic symbol kai",
-    "ipa": ""
-  },
-  {
-    "label": "⳩",
-    "meta": "coptic symbol khi ro",
-    "ipa": ""
-  },
-  {
-    "label": "⳥",
-    "meta": "coptic symbol mi ro",
-    "ipa": ""
-  },
-  {
-    "label": "⳦",
-    "meta": "coptic symbol pi ro",
-    "ipa": ""
-  },
-  {
-    "label": "⳪",
-    "meta": "coptic symbol shima sima",
-    "ipa": ""
-  },
-  {
-    "label": "⳧",
-    "meta": "coptic symbol stauros",
-    "ipa": ""
-  },
-  {
-    "label": "⳨",
-    "meta": "coptic symbol tau ro",
     "ipa": ""
   }
 ]

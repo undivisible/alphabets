@@ -1,10 +1,5 @@
 [
   {
-    "label": "𑠻",
-    "meta": "dogra abbreviation sign",
-    "ipa": ""
-  },
-  {
     "label": "𑠀",
     "meta": "dogra letter a",
     "ipa": ""
@@ -222,81 +217,6 @@
   {
     "label": "𑠣",
     "meta": "dogra letter ya",
-    "ipa": ""
-  },
-  {
-    "label": "𑠷",
-    "meta": "dogra sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑠺",
-    "meta": "dogra sign nukta",
-    "ipa": ""
-  },
-  {
-    "label": "𑠹",
-    "meta": "dogra sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑠸",
-    "meta": "dogra sign visarga",
-    "ipa": ""
-  },
-  {
-    "label": "𑠬",
-    "meta": "dogra vowel sign aa",
-    "ipa": ""
-  },
-  {
-    "label": "𑠴",
-    "meta": "dogra vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑠶",
-    "meta": "dogra vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑠳",
-    "meta": "dogra vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑠭",
-    "meta": "dogra vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑠮",
-    "meta": "dogra vowel sign ii",
-    "ipa": ""
-  },
-  {
-    "label": "𑠵",
-    "meta": "dogra vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑠯",
-    "meta": "dogra vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑠰",
-    "meta": "dogra vowel sign uu",
-    "ipa": ""
-  },
-  {
-    "label": "𑠱",
-    "meta": "dogra vowel sign vocalic r",
-    "ipa": ""
-  },
-  {
-    "label": "𑠲",
-    "meta": "dogra vowel sign vocalic rr",
     "ipa": ""
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "label": "𑩆",
-    "meta": "zanabazar square closing double-lined head mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑩀",
-    "meta": "zanabazar square closing head mark",
-    "ipa": ""
-  },
-  {
     "label": "𑨽",
     "meta": "zanabazar square cluster-final letter la",
     "ipa": ""
@@ -32,21 +22,6 @@
   {
     "label": "𑨺",
     "meta": "zanabazar square cluster-initial letter ra",
-    "ipa": ""
-  },
-  {
-    "label": "𑨳",
-    "meta": "zanabazar square final consonant mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑩅",
-    "meta": "zanabazar square initial double-lined head mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑨿",
-    "meta": "zanabazar square initial head mark",
     "ipa": ""
   },
   {
@@ -255,108 +230,8 @@
     "ipa": ""
   },
   {
-    "label": "𑩃",
-    "meta": "zanabazar square mark double shad",
-    "ipa": ""
-  },
-  {
-    "label": "𑩄",
-    "meta": "zanabazar square mark long tsheg",
-    "ipa": ""
-  },
-  {
-    "label": "𑩂",
-    "meta": "zanabazar square mark shad",
-    "ipa": ""
-  },
-  {
-    "label": "𑩁",
-    "meta": "zanabazar square mark tsheg",
-    "ipa": ""
-  },
-  {
-    "label": "𑨸",
-    "meta": "zanabazar square sign anusvara",
-    "ipa": ""
-  },
-  {
-    "label": "𑨷",
-    "meta": "zanabazar square sign candra with ornament",
-    "ipa": ""
-  },
-  {
-    "label": "𑨵",
-    "meta": "zanabazar square sign candrabindu",
-    "ipa": ""
-  },
-  {
-    "label": "𑨶",
-    "meta": "zanabazar square sign candrabindu with ornament",
-    "ipa": ""
-  },
-  {
-    "label": "𑨴",
-    "meta": "zanabazar square sign virama",
-    "ipa": ""
-  },
-  {
-    "label": "𑨹",
-    "meta": "zanabazar square sign visarga",
-    "ipa": ""
-  },
-  {
     "label": "𑩇",
     "meta": "zanabazar square subjoiner",
-    "ipa": ""
-  },
-  {
-    "label": "𑨊",
-    "meta": "zanabazar square vowel length mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑨇",
-    "meta": "zanabazar square vowel sign ai",
-    "ipa": ""
-  },
-  {
-    "label": "𑨈",
-    "meta": "zanabazar square vowel sign au",
-    "ipa": ""
-  },
-  {
-    "label": "𑨄",
-    "meta": "zanabazar square vowel sign e",
-    "ipa": ""
-  },
-  {
-    "label": "𑨁",
-    "meta": "zanabazar square vowel sign i",
-    "ipa": ""
-  },
-  {
-    "label": "𑨆",
-    "meta": "zanabazar square vowel sign o",
-    "ipa": ""
-  },
-  {
-    "label": "𑨅",
-    "meta": "zanabazar square vowel sign oe",
-    "ipa": ""
-  },
-  {
-    "label": "𑨉",
-    "meta": "zanabazar square vowel sign reversed i",
-    "ipa": ""
-  },
-  {
-    "label": "𑨃",
-    "meta": "zanabazar square vowel sign u",
-    "ipa": ""
-  },
-  {
-    "label": "𑨂",
-    "meta": "zanabazar square vowel sign ue",
     "ipa": ""
   }
 ]

@@ -1,48 +1,4 @@
 {
-  "japanese": {
-    "label": "Japanese",
-    "variants": [
-      {
-        "id": "hiragana",
-        "label": "Hiragana"
-      },
-      {
-        "id": "katakana",
-        "label": "Katakana"
-      },
-      {
-        "id": "han",
-        "label": "Han"
-      }
-    ]
-  },
-  "korean": {
-    "label": "Korean",
-    "variants": [
-      {
-        "id": "hangul",
-        "label": "Hangul"
-      }
-    ]
-  },
-  "chinese": {
-    "label": "Chinese",
-    "variants": [
-      {
-        "id": "han",
-        "label": "Han"
-      }
-    ]
-  },
-  "latin-base": {
-    "label": "Latin / English",
-    "variants": [
-      {
-        "id": "latin",
-        "label": "Latin"
-      }
-    ]
-  },
   "adlam": {
     "label": "Adlam",
     "variants": [
@@ -268,26 +224,8 @@
       }
     ]
   },
-  "cuneiform": {
-    "label": "Cuneiform",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
   "cypriot": {
     "label": "Cypriot",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
-  "cypro-minoan": {
-    "label": "Cypro Minoan",
     "variants": [
       {
         "id": "main",
@@ -520,6 +458,23 @@
       }
     ]
   },
+  "japanese": {
+    "label": "Japanese",
+    "variants": [
+      {
+        "id": "hiragana",
+        "label": "Hiragana"
+      },
+      {
+        "id": "katakana",
+        "label": "Katakana"
+      },
+      {
+        "id": "kanji",
+        "label": "Kanji"
+      }
+    ]
+  },
   "javanese": {
     "label": "Javanese",
     "variants": [
@@ -574,15 +529,6 @@
       }
     ]
   },
-  "khitan-small-script": {
-    "label": "Khitan Small Script",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
   "khmer": {
     "label": "Khmer",
     "variants": [
@@ -610,8 +556,26 @@
       }
     ]
   },
+  "korean": {
+    "label": "Korean",
+    "variants": [
+      {
+        "id": "hangul",
+        "label": "Hangul"
+      }
+    ]
+  },
   "lao": {
     "label": "Lao",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "latin": {
+    "label": "Latin",
     "variants": [
       {
         "id": "main",
@@ -630,15 +594,6 @@
   },
   "limbu": {
     "label": "Limbu",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
-  "linear-a": {
-    "label": "Linear A",
     "variants": [
       {
         "id": "main",
@@ -898,15 +853,6 @@
       }
     ]
   },
-  "nushu": {
-    "label": "Nushu",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
   "nyiakeng-puachue-hmong": {
     "label": "Nyiakeng Puachue Hmong",
     "variants": [
@@ -1159,15 +1105,6 @@
       }
     ]
   },
-  "signwriting": {
-    "label": "SignWriting",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
   "sinhala": {
     "label": "Sinhala",
     "variants": [
@@ -1296,15 +1233,6 @@
   },
   "tangsa": {
     "label": "Tangsa",
-    "variants": [
-      {
-        "id": "main",
-        "label": "Characters"
-      }
-    ]
-  },
-  "tangut": {
-    "label": "Tangut",
     "variants": [
       {
         "id": "main",

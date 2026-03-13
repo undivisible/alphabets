@@ -1,10 +1,5 @@
 [
   {
-    "label": "𑅴",
-    "meta": "mahajani abbreviation sign",
-    "ipa": ""
-  },
-  {
     "label": "𑅐",
     "meta": "mahajani letter a",
     "ipa": ""
@@ -182,16 +177,6 @@
   {
     "label": "𑅶",
     "meta": "mahajani ligature shri",
-    "ipa": ""
-  },
-  {
-    "label": "𑅵",
-    "meta": "mahajani section mark",
-    "ipa": ""
-  },
-  {
-    "label": "𑅳",
-    "meta": "mahajani sign nukta",
     "ipa": ""
   }
 ]

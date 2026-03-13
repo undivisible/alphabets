@@ -1,15 +1,5 @@
 [
   {
-    "label": "࡙",
-    "meta": "mandaic affrication mark",
-    "ipa": ""
-  },
-  {
-    "label": "࡛",
-    "meta": "mandaic gemination mark",
-    "ipa": ""
-  },
-  {
     "label": "ࡁ",
     "meta": "mandaic letter ab",
     "ipa": ""
@@ -132,16 +122,6 @@
   {
     "label": "ࡅ",
     "meta": "mandaic letter ushenna",
-    "ipa": ""
-  },
-  {
-    "label": "࡞",
-    "meta": "mandaic punctuation",
-    "ipa": ""
-  },
-  {
-    "label": "࡚",
-    "meta": "mandaic vocalization mark",
     "ipa": ""
   }
 ]

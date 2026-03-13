@@ -280,11 +280,6 @@
     "ipa": ""
   },
   {
-    "label": "ჾ",
-    "meta": "georgian letter hard sign",
-    "ipa": ""
-  },
-  {
     "label": "ჱ",
     "meta": "georgian letter he",
     "ipa": ""
@@ -322,11 +317,6 @@
   {
     "label": "ქ",
     "meta": "georgian letter khar",
-    "ipa": ""
-  },
-  {
-    "label": "ჿ",
-    "meta": "georgian letter labial sign",
     "ipa": ""
   },
   {
@@ -510,11 +500,6 @@
     "ipa": ""
   },
   {
-    "label": "Ჾ",
-    "meta": "georgian mtavruli capital letter hard sign",
-    "ipa": ""
-  },
-  {
     "label": "Ჱ",
     "meta": "georgian mtavruli capital letter he",
     "ipa": ""
@@ -552,11 +537,6 @@
   {
     "label": "Ქ",
     "meta": "georgian mtavruli capital letter khar",
-    "ipa": ""
-  },
-  {
-    "label": "Ჿ",
-    "meta": "georgian mtavruli capital letter labial sign",
     "ipa": ""
   },
   {
@@ -617,251 +597,6 @@
   {
     "label": "Ტ",
     "meta": "georgian mtavruli capital letter tar",
-    "ipa": ""
-  },
-  {
-    "label": "Ჹ",
-    "meta": "georgian mtavruli capital letter turned gan",
-    "ipa": ""
-  },
-  {
-    "label": "Უ",
-    "meta": "georgian mtavruli capital letter un",
-    "ipa": ""
-  },
-  {
-    "label": "Ვ",
-    "meta": "georgian mtavruli capital letter vin",
-    "ipa": ""
-  },
-  {
-    "label": "Ჳ",
-    "meta": "georgian mtavruli capital letter we",
-    "ipa": ""
-  },
-  {
-    "label": "Ხ",
-    "meta": "georgian mtavruli capital letter xan",
-    "ipa": ""
-  },
-  {
-    "label": "Ჷ",
-    "meta": "georgian mtavruli capital letter yn",
-    "ipa": ""
-  },
-  {
-    "label": "Ზ",
-    "meta": "georgian mtavruli capital letter zen",
-    "ipa": ""
-  },
-  {
-    "label": "Ჟ",
-    "meta": "georgian mtavruli capital letter zhar",
-    "ipa": ""
-  },
-  {
-    "label": "ⴭ",
-    "meta": "georgian small letter aen",
-    "ipa": ""
-  },
-  {
-    "label": "ⴀ",
-    "meta": "georgian small letter an",
-    "ipa": ""
-  },
-  {
-    "label": "ⴁ",
-    "meta": "georgian small letter ban",
-    "ipa": ""
-  },
-  {
-    "label": "ⴚ",
-    "meta": "georgian small letter can",
-    "ipa": ""
-  },
-  {
-    "label": "ⴝ",
-    "meta": "georgian small letter char",
-    "ipa": ""
-  },
-  {
-    "label": "ⴙ",
-    "meta": "georgian small letter chin",
-    "ipa": ""
-  },
-  {
-    "label": "ⴜ",
-    "meta": "georgian small letter cil",
-    "ipa": ""
-  },
-  {
-    "label": "ⴃ",
-    "meta": "georgian small letter don",
-    "ipa": ""
-  },
-  {
-    "label": "ⴄ",
-    "meta": "georgian small letter en",
-    "ipa": ""
-  },
-  {
-    "label": "ⴂ",
-    "meta": "georgian small letter gan",
-    "ipa": ""
-  },
-  {
-    "label": "ⴖ",
-    "meta": "georgian small letter ghan",
-    "ipa": ""
-  },
-  {
-    "label": "ⴠ",
-    "meta": "georgian small letter hae",
-    "ipa": ""
-  },
-  {
-    "label": "ⴤ",
-    "meta": "georgian small letter har",
-    "ipa": ""
-  },
-  {
-    "label": "ⴡ",
-    "meta": "georgian small letter he",
-    "ipa": ""
-  },
-  {
-    "label": "ⴢ",
-    "meta": "georgian small letter hie",
-    "ipa": ""
-  },
-  {
-    "label": "ⴥ",
-    "meta": "georgian small letter hoe",
-    "ipa": ""
-  },
-  {
-    "label": "ⴈ",
-    "meta": "georgian small letter in",
-    "ipa": ""
-  },
-  {
-    "label": "ⴟ",
-    "meta": "georgian small letter jhan",
-    "ipa": ""
-  },
-  {
-    "label": "ⴛ",
-    "meta": "georgian small letter jil",
-    "ipa": ""
-  },
-  {
-    "label": "ⴉ",
-    "meta": "georgian small letter kan",
-    "ipa": ""
-  },
-  {
-    "label": "ⴕ",
-    "meta": "georgian small letter khar",
-    "ipa": ""
-  },
-  {
-    "label": "ⴊ",
-    "meta": "georgian small letter las",
-    "ipa": ""
-  },
-  {
-    "label": "ⴋ",
-    "meta": "georgian small letter man",
-    "ipa": ""
-  },
-  {
-    "label": "ⴌ",
-    "meta": "georgian small letter nar",
-    "ipa": ""
-  },
-  {
-    "label": "ⴍ",
-    "meta": "georgian small letter on",
-    "ipa": ""
-  },
-  {
-    "label": "ⴎ",
-    "meta": "georgian small letter par",
-    "ipa": ""
-  },
-  {
-    "label": "ⴔ",
-    "meta": "georgian small letter phar",
-    "ipa": ""
-  },
-  {
-    "label": "ⴗ",
-    "meta": "georgian small letter qar",
-    "ipa": ""
-  },
-  {
-    "label": "ⴐ",
-    "meta": "georgian small letter rae",
-    "ipa": ""
-  },
-  {
-    "label": "ⴑ",
-    "meta": "georgian small letter san",
-    "ipa": ""
-  },
-  {
-    "label": "ⴘ",
-    "meta": "georgian small letter shin",
-    "ipa": ""
-  },
-  {
-    "label": "ⴇ",
-    "meta": "georgian small letter tan",
-    "ipa": ""
-  },
-  {
-    "label": "ⴒ",
-    "meta": "georgian small letter tar",
-    "ipa": ""
-  },
-  {
-    "label": "ⴓ",
-    "meta": "georgian small letter un",
-    "ipa": ""
-  },
-  {
-    "label": "ⴅ",
-    "meta": "georgian small letter vin",
-    "ipa": ""
-  },
-  {
-    "label": "ⴣ",
-    "meta": "georgian small letter we",
-    "ipa": ""
-  },
-  {
-    "label": "ⴞ",
-    "meta": "georgian small letter xan",
-    "ipa": ""
-  },
-  {
-    "label": "ⴧ",
-    "meta": "georgian small letter yn",
-    "ipa": ""
-  },
-  {
-    "label": "ⴆ",
-    "meta": "georgian small letter zen",
-    "ipa": ""
-  },
-  {
-    "label": "ⴏ",
-    "meta": "georgian small letter zhar",
-    "ipa": ""
-  },
-  {
-    "label": "ჼ",
-    "meta": "modifier letter georgian nar",
     "ipa": ""
   }
 ]
