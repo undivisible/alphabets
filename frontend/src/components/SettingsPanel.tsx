@@ -28,7 +28,7 @@ export function SettingsPanel({
   return (
     <Popover>
       <PopoverTrigger asChild>
-        <button className="flex h-full items-center border border-zinc-700 bg-[#171717] px-3 md:px-4 text-white transition hover:border-white"><Settings2 className="h-4 w-4" /></button>
+        <button className="flex h-full items-center border-l sm:border-l-0 border-zinc-700 bg-transparent px-3 md:px-4 text-white transition hover:bg-zinc-800/50"><Settings2 className="h-4 w-4" /></button>
       </PopoverTrigger>
       <PopoverContent align="end" className="w-80 border-zinc-800 bg-[#151515] p-0">
         <div className="border-b border-zinc-800 px-4 py-3 text-[10px] uppercase tracking-[0.22em] text-white">Display</div>

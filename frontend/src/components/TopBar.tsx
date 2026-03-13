@@ -78,21 +78,25 @@ export function TopBar({
 
   return (
     <div className="sticky top-0 z-30 bg-[#111111]/95 backdrop-blur transition-all duration-300">
-      <div className="flex h-14 w-full items-center gap-0 border-b border-zinc-800">
+      <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+        <div
+          className="absolute inset-y-0 left-0 transition-all duration-500 ease-out opacity-20"
+          style={{ width: `${progress}%`, background: accentColor }}
+        />
+        <div
+          className="absolute bottom-0 left-0 h-[2px] transition-all duration-500 ease-out"
+          style={{ width: `${progress}%`, background: accentColor }}
+        />
+      </div>
+      <div className="relative z-10 flex h-14 w-full items-center gap-0 border-b border-zinc-800">
         <div 
           ref={searchRef} 
-          className={`relative h-full items-center border-r border-zinc-800 bg-[#1a1a1a] transition-all duration-300 flex ${
-            (activeTab === 'lang' || activeTab === 'var') ? 'w-0 overflow-hidden opacity-0 border-0 sm:border-r sm:w-auto sm:opacity-100 sm:flex-1' : 'flex-1 min-w-0'
+          className={`relative h-full items-center border-r border-zinc-800 bg-transparent transition-all duration-300 flex ${
+            (activeTab === 'lang' || activeTab === 'var') ? 'w-0 overflow-hidden opacity-0 border-0 sm:border-r sm:w-auto sm:opacity-100 sm:flex-[2]' : 'flex-[2] min-w-0'
           }`}
         >
-          <div className="absolute inset-0 z-0 overflow-hidden bg-[#1a1a1a]">
-            <div
-              className="absolute inset-y-0 left-0 transition-all duration-500 ease-out"
-              style={{ width: `${progress}%`, background: accentColor }}
-            />
-          </div>
-          <div className="relative z-10 flex h-full w-full items-center bg-transparent px-2 md:px-4">
-            <div className="hidden sm:block mr-2 md:mr-4 shrink-0 text-left text-[10px] md:text-sm font-medium uppercase tracking-[0.2em] md:tracking-[0.26em] text-white">
+          <div className="relative z-10 flex h-full w-full items-center bg-transparent px-3 md:px-4">
+            <div className="mr-3 md:mr-4 shrink-0 text-left text-[10px] md:text-sm font-medium uppercase tracking-[0.2em] md:tracking-[0.26em] text-white">
               {knownCount} / {total}
             </div>
             <Search className="mr-2 h-3 w-3 md:h-4 md:w-4 shrink-0 text-white/70" />
@@ -159,7 +163,7 @@ export function TopBar({
           options={languageOptions}
           open={langOpen}
           onOpenChange={setLangOpen}
-          width={`${activeTab === 'lang' ? 'flex-1 w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'w-28 sm:w-40 md:w-64 lg:w-80'}`}
+          width={`${activeTab === 'lang' ? 'flex-[2] w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'flex-1 sm:flex-none sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Language"
         />
         <SelectPanel
@@ -168,10 +172,10 @@ export function TopBar({
           options={variantOptions}
           open={varOpen}
           onOpenChange={setVarOpen}
-          width={`${activeTab === 'var' ? 'flex-1 w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'w-28 sm:w-40 md:w-64 lg:w-80'}`}
+          width={`${activeTab === 'var' ? 'flex-[2] w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'flex-1 sm:flex-none sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Variant"
         />
-        <div className={`h-full transition-all duration-300 overflow-hidden ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>
+        <div className={`h-full transition-all duration-300 overflow-hidden bg-[#171717] sm:bg-transparent ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>
           <SettingsPanel
             accentColor={accentColor}
             setAccentColor={setAccentColor}

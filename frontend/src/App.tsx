@@ -87,7 +87,10 @@ export default function App() {
   useEffect(() => {
     const def = LANGUAGE_DEFINITIONS[language] || manifest[language];
     if (def) {
-      setVariant(def.variants[0].id);
+      setVariant((prev: string) => {
+        if (def.variants.some((v: any) => v.id === prev)) return prev;
+        return def.variants[0].id;
+      });
     }
     setQuery("");
   }, [language, manifest]);
@@ -306,7 +309,7 @@ export default function App() {
         ) : isKanji && kanjiError ? (
           <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{kanjiError}</CardContent></Card>
         ) : groupedRows ? (
-          <div className="border-l border-t border-zinc-800 min-w-[600px] md:min-w-0">
+          <div className="border-l border-t border-zinc-800">
             {groupedRows.map((row: any, rowIndex: number) => (
               <div key={`${storageBucket}-row-${rowIndex}`} className="grid" style={{ gridTemplateColumns: `repeat(${row.length}, minmax(0, 1fr))` }}>
                 {row.map((item: any, index: number) => item ? (
