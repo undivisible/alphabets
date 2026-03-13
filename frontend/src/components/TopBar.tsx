@@ -171,7 +171,7 @@ export function TopBar({
           width={`${activeTab === 'var' ? 'flex-1 w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'w-28 sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Variant"
         />
-        <div className={`transition-all duration-300 overflow-hidden ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>
+        <div className={`h-full transition-all duration-300 overflow-hidden ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>
           <SettingsPanel
             accentColor={accentColor}
             setAccentColor={setAccentColor}

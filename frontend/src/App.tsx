@@ -234,18 +234,31 @@ export default function App() {
     return rows;
   }, [activeItems, isKanji, language, variant]);
 
-  const [windowHeight, setWindowHeight] = useState(typeof window !== "undefined" ? window.innerHeight : 720);
+  const [windowSize, setWindowSize] = useState({
+    width: typeof window !== "undefined" ? window.innerWidth : 1200,
+    height: typeof window !== "undefined" ? window.innerHeight : 720
+  });
 
   useEffect(() => {
-    const handleResize = () => setWindowHeight(window.innerHeight);
+    const handleResize = () => setWindowSize({ width: window.innerWidth, height: window.innerHeight });
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   const barHeight = 56;
   const extraTop = isKanji ? 40 : 0;
-  const availableHeight = windowHeight - barHeight - extraTop;
-  const rowsCount = groupedRows ? groupedRows.length : Math.max(1, Math.ceil(activeItems.length / 12));
+  const availableHeight = windowSize.height - barHeight - extraTop;
+  
+  const getResponsiveColumns = () => {
+    if (windowSize.width >= 1536) return 12; // 2xl
+    if (windowSize.width >= 1280) return 10; // xl
+    if (windowSize.width >= 1024) return 8;  // lg
+    if (windowSize.width >= 768) return 6;   // md
+    if (windowSize.width >= 640) return 3;   // sm
+    return 2;                                // default
+  };
+
+  const rowsCount = groupedRows ? groupedRows.length : Math.max(1, Math.ceil(activeItems.length / getResponsiveColumns()));
   const tileHeight = `${Math.max(60, Math.floor((availableHeight / rowsCount) * (denseMode ? 1 : 0.82)))}px`;
 
   return (
