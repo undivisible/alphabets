@@ -84,7 +84,6 @@ export const GROUPED_VARIANTS: any = {
 };
 
 export const ROW_SHAPES: any = {
-  cyrillic: { russian: { columns: 11, orientation: "row" } },
   arabic: {
     letters: { columns: 7, orientation: "row" },
     harakat: { columns: 2, orientation: "column" },
@@ -149,17 +148,6 @@ export const LOCAL_DATA: any = {
       { label: "ٍ", meta: "tanwin kasra", ipa: "in" }, { label: "ٌ", meta: "tanwin damma", ipa: "un" }, { label: "ْ", meta: "sukun", ipa: "∅" }, { label: "ّ", meta: "shadda", ipa: "geminate" },
     ],
   },
-  cyrillic: {
-    russian: [
-      { label: "А", meta: "a", ipa: "a" }, { label: "Б", meta: "be", ipa: "b" }, { label: "В", meta: "ve", ipa: "v" }, { label: "Г", meta: "ge", ipa: "ɡ" }, { label: "Д", meta: "de", ipa: "d" },
-      { label: "Е", meta: "ye", ipa: "je" }, { label: "Ё", meta: "yo", ipa: "jo" }, { label: "Ж", meta: "zhe", ipa: "ʐ" }, { label: "З", meta: "ze", ipa: "z" }, { label: "И", meta: "i", ipa: "i" },
-      { label: "Й", meta: "short i", ipa: "j" }, { label: "К", meta: "ka", ipa: "k" }, { label: "Л", meta: "el", ipa: "ɫ" }, { label: "М", meta: "em", ipa: "m" }, { label: "Н", meta: "en", ipa: "n" },
-      { label: "О", meta: "o", ipa: "o" }, { label: "П", meta: "pe", ipa: "p" }, { label: "Р", meta: "er", ipa: "r" }, { label: "С", meta: "es", ipa: "s" }, { label: "Т", meta: "te", ipa: "t" },
-      { label: "У", meta: "u", ipa: "u" }, { label: "Ф", meta: "ef", ipa: "f" }, { label: "Х", meta: "kha", ipa: "x" }, { label: "Ц", meta: "tse", ipa: "ts" }, { label: "Ч", meta: "che", ipa: "tɕ" },
-      { label: "Ш", meta: "sha", ipa: "ʂ" }, { label: "Щ", meta: "shcha", ipa: "ɕː" }, { label: "Ъ", meta: "hard sign", ipa: "separator" }, { label: "Ы", meta: "y", ipa: "ɨ" }, { label: "Ь", meta: "soft sign", ipa: "palatalization" },
-      { label: "Э", meta: "e", ipa: "ɛ" }, { label: "Ю", meta: "yu", ipa: "ju" }, { label: "Я", meta: "ya", ipa: "ja" },
-    ],
-  },
   thai: {
     consonants: [
       { label: "ก", meta: "ko kai", ipa: "k" }, { label: "ข", meta: "kho khai", ipa: "kʰ" }, { label: "ฃ", meta: "kho khuat", ipa: "kʰ" }, { label: "ค", meta: "kho khwai", ipa: "kʰ" },
@@ -218,7 +206,6 @@ export const LOCAL_DATA: any = {
 export const LANGUAGE_DEFINITIONS: any = {
   japanese: { label: "Japanese", variants: [{ id: "hiragana", label: "Hiragana" }, { id: "katakana", label: "Katakana" }, { id: "hiraganaDakuten", label: "Hiragana Dakuten" }, { id: "yoon", label: "Yoon" }, { id: "kanji", label: "Kanji" }] },
   arabic: { label: "Arabic", variants: [{ id: "letters", label: "Letters" }, { id: "harakat", label: "Harakat" }] },
-  cyrillic: { label: "Cyrillic", variants: [{ id: "russian", label: "Russian" }] },
   thai: { label: "Thai", variants: [{ id: "consonants", label: "Consonants" }, { id: "vowels", label: "Vowels" }] },
   devanagari: { label: "Devanagari", variants: [{ id: "vowels", label: "Vowels" }, { id: "consonants", label: "Consonants" }, { id: "matras", label: "Matras" }] },
   hebrew: { label: "Hebrew", variants: [{ id: "letters", label: "Letters" }, { id: "niqqud", label: "Niqqud" }] },

@@ -17,6 +17,39 @@
       }
     ]
   },
+  "cyrillic": {
+    "label": "Cyrillic",
+    "variants": [
+      {
+        "id": "russian",
+        "label": "Russian"
+      },
+      {
+        "id": "bulgarian",
+        "label": "Bulgarian"
+      },
+      {
+        "id": "serbian",
+        "label": "Serbian"
+      },
+      {
+        "id": "ukrainian",
+        "label": "Ukrainian"
+      },
+      {
+        "id": "macedonian",
+        "label": "Macedonian"
+      },
+      {
+        "id": "church-slavonic",
+        "label": "Church Slavonic"
+      },
+      {
+        "id": "main",
+        "label": "All Characters"
+      }
+    ]
+  },
   "georgian": {
     "label": "Georgian",
     "variants": [
@@ -215,10 +248,6 @@
       {
         "id": "coptic",
         "label": "Coptic"
-      },
-      {
-        "id": "cyrillic",
-        "label": "Cyrillic"
       },
       {
         "id": "deseret",

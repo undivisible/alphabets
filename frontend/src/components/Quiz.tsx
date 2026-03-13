@@ -90,12 +90,28 @@ export function Quiz({ items, isKanji, accentColor, showLatin, showIPA }: any) {
     const correct = opt === currentItem;
     setIsCorrect(correct);
     
-    if (correct) {
-      setScore((s) => s + 1);
-    }
-
     setTimeout(() => {
-      setCurrentIndex((prev) => prev + 1);
+      let nextIndex = currentIndex + 1;
+      
+      if (correct) {
+        setScore((s) => s + 1);
+      } else {
+        setQuizItems((prev) => {
+          const nextItems = [...prev];
+          const minInsertIdx = nextIndex + 1; 
+          const maxInsertIdx = nextItems.length;
+          
+          let insertIdx = minInsertIdx + Math.floor(Math.random() * (maxInsertIdx - minInsertIdx + 1));
+          if (minInsertIdx > maxInsertIdx) {
+              insertIdx = nextItems.length;
+          }
+          
+          nextItems.splice(insertIdx, 0, currentItem);
+          return nextItems;
+        });
+      }
+      
+      setCurrentIndex(nextIndex);
     }, 1500);
   };
 

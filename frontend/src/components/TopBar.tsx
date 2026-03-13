@@ -95,8 +95,8 @@ export function TopBar({
       <div className="relative z-10 flex h-14 w-full items-center gap-0 border-b border-zinc-800">
         <div 
           ref={searchRef} 
-          className={`relative h-full items-center border-r border-zinc-800 bg-transparent transition-all duration-300 flex ${
-            (activeTab === 'lang' || activeTab === 'var') ? 'w-0 overflow-hidden opacity-0 border-0 sm:border-r sm:w-auto sm:opacity-100 sm:flex-[2]' : 'flex-[2] min-w-0'
+          className={`relative h-full items-center border-zinc-800 bg-transparent transition-all duration-300 flex ${
+            (activeTab === 'lang' || activeTab === 'var') ? 'w-0 overflow-hidden opacity-0 border-r-0 sm:border-r sm:w-auto sm:opacity-100 sm:flex-[2]' : 'flex-[2] min-w-0 border-r'
           }`}
         >
           <div className="relative z-10 flex h-full w-full items-center bg-transparent px-3 md:px-4">
@@ -167,7 +167,7 @@ export function TopBar({
           options={languageOptions}
           open={langOpen}
           onOpenChange={setLangOpen}
-          width={`${activeTab === 'lang' ? 'flex-[2] w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'flex-1 sm:flex-none sm:w-40 md:w-64 lg:w-80'}`}
+          width={`${activeTab === 'lang' ? 'flex-[2] w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 !px-0 !border-r-0 sm:!px-4 sm:!border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'flex-1 sm:flex-none sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Language"
         />
         <SelectPanel
@@ -176,7 +176,7 @@ export function TopBar({
           options={variantOptions}
           open={varOpen}
           onOpenChange={setVarOpen}
-          width={`${activeTab === 'var' ? 'flex-[2] w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'flex-1 sm:flex-none sm:w-40 md:w-64 lg:w-80'}`}
+          width={`${activeTab === 'var' ? 'flex-[2] w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 !px-0 !border-r-0 sm:!px-4 sm:!border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'flex-1 sm:flex-none sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Variant"
         />
         <div className={`h-full transition-all duration-300 overflow-hidden bg-[#171717] sm:bg-transparent ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>

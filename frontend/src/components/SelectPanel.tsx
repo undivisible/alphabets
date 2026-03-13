@@ -16,13 +16,13 @@ export function SelectPanel({ value, onChange, options, width = "w-64", placehol
   return (
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
-        <button className={`group relative flex h-full items-center justify-center overflow-hidden border-r border-zinc-800 bg-transparent px-3 sm:px-4 text-[10px] uppercase tracking-[0.22em] text-white transition-all duration-300 hover:bg-zinc-800/50 ${width}`}>
-          <span className={`absolute inset-0 origin-left bg-white transition-transform duration-300 ${open ? "scale-x-100" : "scale-x-0"}`} />
-          <span className={`relative z-10 truncate transition-colors duration-300 ${open ? "text-black" : "text-white"}`}>{selected?.label || placeholder}</span>
+        <button className={`group relative flex h-full items-center justify-center overflow-hidden border-r border-zinc-800 bg-transparent px-3 sm:px-4 text-[10px] uppercase tracking-[0.22em] text-white transition-all duration-300 hover:bg-zinc-800/50 data-[state=open]:max-sm:bg-transparent data-[state=open]:bg-zinc-800 ${width}`}>
+          <span className={`absolute inset-0 origin-left bg-white transition-transform duration-300 ${open ? "scale-x-100 sm:scale-x-0" : "scale-x-0"} sm:hidden`} />
+          <span className={`relative z-10 truncate transition-colors duration-300 ${open ? "text-black sm:text-white" : "text-white"}`}>{selected?.label || placeholder}</span>
         </button>
       </PopoverTrigger>
       <PopoverContent 
-        className="fixed top-14 left-0 w-full sm:relative sm:top-auto sm:left-auto z-[100] sm:w-auto border-b sm:border border-zinc-800 bg-[#151515] p-0 shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:slide-out-to-top-2 data-[state=open]:slide-in-from-top-2" 
+        className="max-sm:!fixed max-sm:!top-14 max-sm:!left-0 max-sm:!w-[100vw] max-sm:!max-w-none max-sm:!transform-none z-[100] sm:w-auto border-b sm:border border-zinc-800 bg-[#151515] p-0 shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 sm:data-[state=closed]:slide-out-to-top-2 sm:data-[state=open]:slide-in-from-top-2" 
         align="start"
         sideOffset={0}
       >
@@ -41,8 +41,8 @@ export function SelectPanel({ value, onChange, options, width = "w-64", placehol
                   }}
                   className="group relative overflow-hidden border border-zinc-700 -mt-px first:mt-0 text-white data-[selected=true]:bg-transparent data-[selected=true]:text-white hover:border-white hover:z-10 h-12 sm:h-10"
                 >
-                  <span className="absolute inset-0 origin-left scale-x-0 bg-white transition-transform duration-300 active:scale-x-100" />
-                  <div className="relative z-10 flex w-full items-center justify-between px-3 py-2 transition-colors duration-300 active:text-black">
+                  <span className="absolute inset-0 origin-left scale-x-0 bg-white transition-transform duration-300 max-sm:active:scale-x-100 sm:hidden" />
+                  <div className="relative z-10 flex w-full items-center justify-between px-3 py-2 transition-colors duration-300 max-sm:active:text-black">
                     <span className="text-[10px] sm:text-xs uppercase tracking-[0.18em]">{option.label}</span>
                     {option.value === value ? <Check className="h-4 w-4" /> : null}
                   </div>

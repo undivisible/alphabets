@@ -10,6 +10,7 @@ if (!fs.existsSync(OUTPUT_DIR)) {
 const SPECIAL_GROUPS: Record<string, { label: string, scripts: string[] }> = {
   "japanese": { label: "Japanese", scripts: ["Hiragana", "Katakana"] },
   "korean": { label: "Korean", scripts: ["Hangul"] },
+  "cyrillic": { label: "Cyrillic", scripts: ["Cyrillic"] },
 };
 
 // Scripts to ignore completely (too large or non-linguistic)
@@ -34,6 +35,33 @@ async function generate() {
   // 1. Process Special Groups first
   for (const [langId, info] of Object.entries(SPECIAL_GROUPS)) {
     const variants = [];
+    if (langId === "cyrillic") {
+      const cyrillicItems = await processScript("Cyrillic", names);
+      
+      const customVariants = [
+        { id: "russian", label: "Russian", chars: "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ" },
+        { id: "bulgarian", label: "Bulgarian", chars: "АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯ" },
+        { id: "serbian", label: "Serbian", chars: "АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ" },
+        { id: "ukrainian", label: "Ukrainian", chars: "АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ" },
+        { id: "macedonian", label: "Macedonian", chars: "АБВГДЃЕЖЗЅИЈКЛЉМНЊОПРСТЌУФХЦЧЏШ" },
+        { id: "church-slavonic", label: "Church Slavonic", chars: "АБВГДЕЖꙀЗИІЇКЛМНОПРСТѸФХѠЦЧШЩЪꙐЬѢꙖѤЮѦѨѪѬѮѰѲѴѶ" }
+      ];
+
+      for (const v of customVariants) {
+        const vChars = new Set(v.chars.split(""));
+        const items = cyrillicItems.filter(it => vChars.has(it.label));
+        fs.writeFileSync(path.join(OUTPUT_DIR, `cyrillic-${v.id}.json`), JSON.stringify(items, null, 2));
+        variants.push({ id: v.id, label: v.label });
+      }
+
+      fs.writeFileSync(path.join(OUTPUT_DIR, `cyrillic-main.json`), JSON.stringify(cyrillicItems, null, 2));
+      variants.push({ id: "main", label: "All Characters" });
+      
+      manifest[langId] = { label: info.label, variants };
+      processedScripts.add("Cyrillic");
+      continue;
+    }
+
     for (const scriptName of info.scripts) {
       const items = await processScript(scriptName, names);
       if (items.length > 0) {
