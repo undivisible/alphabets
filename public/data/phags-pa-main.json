@@ -1,0 +1,282 @@
+[
+  {
+    "label": "꡵",
+    "meta": "phags-pa double head mark",
+    "ipa": ""
+  },
+  {
+    "label": "ꡝ",
+    "meta": "phags-pa letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ꡭ",
+    "meta": "phags-pa letter alternate ya",
+    "ipa": ""
+  },
+  {
+    "label": "ꡰ",
+    "meta": "phags-pa letter aspirated fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡎ",
+    "meta": "phags-pa letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ꡄ",
+    "meta": "phags-pa letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ꡳ",
+    "meta": "phags-pa letter candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ꡅ",
+    "meta": "phags-pa letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡊ",
+    "meta": "phags-pa letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ꡫ",
+    "meta": "phags-pa letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ꡒ",
+    "meta": "phags-pa letter dza",
+    "ipa": ""
+  },
+  {
+    "label": "ꡠ",
+    "meta": "phags-pa letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ꡦ",
+    "meta": "phags-pa letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ꡤ",
+    "meta": "phags-pa letter fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡂ",
+    "meta": "phags-pa letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ꡥ",
+    "meta": "phags-pa letter gga",
+    "ipa": ""
+  },
+  {
+    "label": "ꡜ",
+    "meta": "phags-pa letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡞ",
+    "meta": "phags-pa letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ꡆ",
+    "meta": "phags-pa letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ꡀ",
+    "meta": "phags-pa letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ꡁ",
+    "meta": "phags-pa letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡙ",
+    "meta": "phags-pa letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ꡏ",
+    "meta": "phags-pa letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ꡋ",
+    "meta": "phags-pa letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ꡃ",
+    "meta": "phags-pa letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ꡬ",
+    "meta": "phags-pa letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ꡇ",
+    "meta": "phags-pa letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ꡡ",
+    "meta": "phags-pa letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ꡌ",
+    "meta": "phags-pa letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡍ",
+    "meta": "phags-pa letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡢ",
+    "meta": "phags-pa letter qa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡘ",
+    "meta": "phags-pa letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꡛ",
+    "meta": "phags-pa letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡚ",
+    "meta": "phags-pa letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡖ",
+    "meta": "phags-pa letter small a",
+    "ipa": ""
+  },
+  {
+    "label": "ꡈ",
+    "meta": "phags-pa letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ꡉ",
+    "meta": "phags-pa letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡐ",
+    "meta": "phags-pa letter tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡑ",
+    "meta": "phags-pa letter tsha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡩ",
+    "meta": "phags-pa letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ꡪ",
+    "meta": "phags-pa letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡟ",
+    "meta": "phags-pa letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ꡯ",
+    "meta": "phags-pa letter voiced ha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡮ",
+    "meta": "phags-pa letter voiceless sha",
+    "ipa": ""
+  },
+  {
+    "label": "ꡓ",
+    "meta": "phags-pa letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡣ",
+    "meta": "phags-pa letter xa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡗ",
+    "meta": "phags-pa letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ꡕ",
+    "meta": "phags-pa letter za",
+    "ipa": ""
+  },
+  {
+    "label": "ꡔ",
+    "meta": "phags-pa letter zha",
+    "ipa": ""
+  },
+  {
+    "label": "꡷",
+    "meta": "phags-pa mark double shad",
+    "ipa": ""
+  },
+  {
+    "label": "꡶",
+    "meta": "phags-pa mark shad",
+    "ipa": ""
+  },
+  {
+    "label": "꡴",
+    "meta": "phags-pa single head mark",
+    "ipa": ""
+  },
+  {
+    "label": "ꡱ",
+    "meta": "phags-pa subjoined letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꡧ",
+    "meta": "phags-pa subjoined letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ꡨ",
+    "meta": "phags-pa subjoined letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ꡲ",
+    "meta": "phags-pa superfixed letter ra",
+    "ipa": ""
+  }
+]

@@ -1,0 +1,2592 @@
+[
+  {
+    "label": "𝉄",
+    "meta": "combining greek musical pentaseme",
+    "ipa": ""
+  },
+  {
+    "label": "𝉃",
+    "meta": "combining greek musical tetraseme",
+    "ipa": ""
+  },
+  {
+    "label": "𝉂",
+    "meta": "combining greek musical triseme",
+    "ipa": ""
+  },
+  {
+    "label": "𐅄",
+    "meta": "greek acrophonic attic fifty",
+    "ipa": ""
+  },
+  {
+    "label": "𐅑",
+    "meta": "greek acrophonic attic fifty staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅊",
+    "meta": "greek acrophonic attic fifty talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅇",
+    "meta": "greek acrophonic attic fifty thousand",
+    "ipa": ""
+  },
+  {
+    "label": "𐅖",
+    "meta": "greek acrophonic attic fifty thousand staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅃",
+    "meta": "greek acrophonic attic five",
+    "ipa": ""
+  },
+  {
+    "label": "𐅅",
+    "meta": "greek acrophonic attic five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅓",
+    "meta": "greek acrophonic attic five hundred staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅌",
+    "meta": "greek acrophonic attic five hundred talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅏",
+    "meta": "greek acrophonic attic five staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅈",
+    "meta": "greek acrophonic attic five talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅆",
+    "meta": "greek acrophonic attic five thousand",
+    "ipa": ""
+  },
+  {
+    "label": "𐅎",
+    "meta": "greek acrophonic attic five thousand talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅂",
+    "meta": "greek acrophonic attic one drachma",
+    "ipa": ""
+  },
+  {
+    "label": "𐅁",
+    "meta": "greek acrophonic attic one half",
+    "ipa": ""
+  },
+  {
+    "label": "𐅒",
+    "meta": "greek acrophonic attic one hundred staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅋",
+    "meta": "greek acrophonic attic one hundred talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅀",
+    "meta": "greek acrophonic attic one quarter",
+    "ipa": ""
+  },
+  {
+    "label": "𐅔",
+    "meta": "greek acrophonic attic one thousand staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅍",
+    "meta": "greek acrophonic attic one thousand talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅗",
+    "meta": "greek acrophonic attic ten mnas",
+    "ipa": ""
+  },
+  {
+    "label": "𐅐",
+    "meta": "greek acrophonic attic ten staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅉",
+    "meta": "greek acrophonic attic ten talents",
+    "ipa": ""
+  },
+  {
+    "label": "𐅕",
+    "meta": "greek acrophonic attic ten thousand staters",
+    "ipa": ""
+  },
+  {
+    "label": "𐅯",
+    "meta": "greek acrophonic carystian five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅝",
+    "meta": "greek acrophonic cyrenaic two drachmas",
+    "ipa": ""
+  },
+  {
+    "label": "𐅳",
+    "meta": "greek acrophonic delphic five mnas",
+    "ipa": ""
+  },
+  {
+    "label": "𐅬",
+    "meta": "greek acrophonic epidaurean five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅛",
+    "meta": "greek acrophonic epidaurean two",
+    "ipa": ""
+  },
+  {
+    "label": "𐅞",
+    "meta": "greek acrophonic epidaurean two drachmas",
+    "ipa": ""
+  },
+  {
+    "label": "𐅘",
+    "meta": "greek acrophonic heraeum one plethron",
+    "ipa": ""
+  },
+  {
+    "label": "𐅨",
+    "meta": "greek acrophonic hermionian fifty",
+    "ipa": ""
+  },
+  {
+    "label": "𐅚",
+    "meta": "greek acrophonic hermionian one",
+    "ipa": ""
+  },
+  {
+    "label": "𐅢",
+    "meta": "greek acrophonic hermionian ten",
+    "ipa": ""
+  },
+  {
+    "label": "𐅣",
+    "meta": "greek acrophonic messenian ten",
+    "ipa": ""
+  },
+  {
+    "label": "𐅰",
+    "meta": "greek acrophonic naxian five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅴",
+    "meta": "greek acrophonic stratian fifty mnas",
+    "ipa": ""
+  },
+  {
+    "label": "𐅩",
+    "meta": "greek acrophonic thespian fifty",
+    "ipa": ""
+  },
+  {
+    "label": "𐅮",
+    "meta": "greek acrophonic thespian five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅲",
+    "meta": "greek acrophonic thespian five thousand",
+    "ipa": ""
+  },
+  {
+    "label": "𐅙",
+    "meta": "greek acrophonic thespian one",
+    "ipa": ""
+  },
+  {
+    "label": "𐅪",
+    "meta": "greek acrophonic thespian one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅱",
+    "meta": "greek acrophonic thespian one thousand",
+    "ipa": ""
+  },
+  {
+    "label": "𐅤",
+    "meta": "greek acrophonic thespian ten",
+    "ipa": ""
+  },
+  {
+    "label": "𐅥",
+    "meta": "greek acrophonic thespian thirty",
+    "ipa": ""
+  },
+  {
+    "label": "𐅫",
+    "meta": "greek acrophonic thespian three hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅜",
+    "meta": "greek acrophonic thespian two",
+    "ipa": ""
+  },
+  {
+    "label": "𐅦",
+    "meta": "greek acrophonic troezenian fifty",
+    "ipa": ""
+  },
+  {
+    "label": "𐅧",
+    "meta": "greek acrophonic troezenian fifty alternate form",
+    "ipa": ""
+  },
+  {
+    "label": "𐅟",
+    "meta": "greek acrophonic troezenian five",
+    "ipa": ""
+  },
+  {
+    "label": "𐅭",
+    "meta": "greek acrophonic troezenian five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐅠",
+    "meta": "greek acrophonic troezenian ten",
+    "ipa": ""
+  },
+  {
+    "label": "𐅡",
+    "meta": "greek acrophonic troezenian ten alternate form",
+    "ipa": ""
+  },
+  {
+    "label": "𐆇",
+    "meta": "greek aroura sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐆆",
+    "meta": "greek artabe sign",
+    "ipa": ""
+  },
+  {
+    "label": "ϐ",
+    "meta": "greek beta symbol",
+    "ipa": ""
+  },
+  {
+    "label": "Ͼ",
+    "meta": "greek capital dotted lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "Ϗ",
+    "meta": "greek capital kai symbol",
+    "ipa": ""
+  },
+  {
+    "label": "Α",
+    "meta": "greek capital letter alpha",
+    "ipa": ""
+  },
+  {
+    "label": "Ἁ",
+    "meta": "greek capital letter alpha with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἅ",
+    "meta": "greek capital letter alpha with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾍ",
+    "meta": "greek capital letter alpha with dasia and oxia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἇ",
+    "meta": "greek capital letter alpha with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾏ",
+    "meta": "greek capital letter alpha with dasia and perispomeni and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾉ",
+    "meta": "greek capital letter alpha with dasia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἃ",
+    "meta": "greek capital letter alpha with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾋ",
+    "meta": "greek capital letter alpha with dasia and varia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ᾱ",
+    "meta": "greek capital letter alpha with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ά",
+    "meta": "greek capital letter alpha with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾼ",
+    "meta": "greek capital letter alpha with prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἀ",
+    "meta": "greek capital letter alpha with psili",
+    "ipa": ""
+  },
+  {
+    "label": "Ἄ",
+    "meta": "greek capital letter alpha with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾌ",
+    "meta": "greek capital letter alpha with psili and oxia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἆ",
+    "meta": "greek capital letter alpha with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾎ",
+    "meta": "greek capital letter alpha with psili and perispomeni and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾈ",
+    "meta": "greek capital letter alpha with psili and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἂ",
+    "meta": "greek capital letter alpha with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾊ",
+    "meta": "greek capital letter alpha with psili and varia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ά",
+    "meta": "greek capital letter alpha with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὰ",
+    "meta": "greek capital letter alpha with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ᾰ",
+    "meta": "greek capital letter alpha with vrachy",
+    "ipa": ""
+  },
+  {
+    "label": "Ͳ",
+    "meta": "greek capital letter archaic sampi",
+    "ipa": ""
+  },
+  {
+    "label": "Β",
+    "meta": "greek capital letter beta",
+    "ipa": ""
+  },
+  {
+    "label": "Χ",
+    "meta": "greek capital letter chi",
+    "ipa": ""
+  },
+  {
+    "label": "Δ",
+    "meta": "greek capital letter delta",
+    "ipa": ""
+  },
+  {
+    "label": "Ε",
+    "meta": "greek capital letter epsilon",
+    "ipa": ""
+  },
+  {
+    "label": "Ἑ",
+    "meta": "greek capital letter epsilon with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἕ",
+    "meta": "greek capital letter epsilon with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἓ",
+    "meta": "greek capital letter epsilon with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Έ",
+    "meta": "greek capital letter epsilon with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἐ",
+    "meta": "greek capital letter epsilon with psili",
+    "ipa": ""
+  },
+  {
+    "label": "Ἔ",
+    "meta": "greek capital letter epsilon with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἒ",
+    "meta": "greek capital letter epsilon with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Έ",
+    "meta": "greek capital letter epsilon with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὲ",
+    "meta": "greek capital letter epsilon with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Η",
+    "meta": "greek capital letter eta",
+    "ipa": ""
+  },
+  {
+    "label": "Ἡ",
+    "meta": "greek capital letter eta with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἥ",
+    "meta": "greek capital letter eta with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾝ",
+    "meta": "greek capital letter eta with dasia and oxia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἧ",
+    "meta": "greek capital letter eta with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾟ",
+    "meta": "greek capital letter eta with dasia and perispomeni and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾙ",
+    "meta": "greek capital letter eta with dasia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἣ",
+    "meta": "greek capital letter eta with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾛ",
+    "meta": "greek capital letter eta with dasia and varia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ή",
+    "meta": "greek capital letter eta with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῌ",
+    "meta": "greek capital letter eta with prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἠ",
+    "meta": "greek capital letter eta with psili",
+    "ipa": ""
+  },
+  {
+    "label": "Ἤ",
+    "meta": "greek capital letter eta with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾜ",
+    "meta": "greek capital letter eta with psili and oxia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἦ",
+    "meta": "greek capital letter eta with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾞ",
+    "meta": "greek capital letter eta with psili and perispomeni and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾘ",
+    "meta": "greek capital letter eta with psili and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἢ",
+    "meta": "greek capital letter eta with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾚ",
+    "meta": "greek capital letter eta with psili and varia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ή",
+    "meta": "greek capital letter eta with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὴ",
+    "meta": "greek capital letter eta with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Γ",
+    "meta": "greek capital letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "Ͱ",
+    "meta": "greek capital letter heta",
+    "ipa": ""
+  },
+  {
+    "label": "Ι",
+    "meta": "greek capital letter iota",
+    "ipa": ""
+  },
+  {
+    "label": "Ἱ",
+    "meta": "greek capital letter iota with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἵ",
+    "meta": "greek capital letter iota with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἷ",
+    "meta": "greek capital letter iota with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἳ",
+    "meta": "greek capital letter iota with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ϊ",
+    "meta": "greek capital letter iota with dialytika",
+    "ipa": ""
+  },
+  {
+    "label": "Ῑ",
+    "meta": "greek capital letter iota with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ί",
+    "meta": "greek capital letter iota with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἰ",
+    "meta": "greek capital letter iota with psili",
+    "ipa": ""
+  },
+  {
+    "label": "Ἴ",
+    "meta": "greek capital letter iota with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ἶ",
+    "meta": "greek capital letter iota with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ἲ",
+    "meta": "greek capital letter iota with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ί",
+    "meta": "greek capital letter iota with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὶ",
+    "meta": "greek capital letter iota with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ῐ",
+    "meta": "greek capital letter iota with vrachy",
+    "ipa": ""
+  },
+  {
+    "label": "Κ",
+    "meta": "greek capital letter kappa",
+    "ipa": ""
+  },
+  {
+    "label": "Λ",
+    "meta": "greek capital letter lamda",
+    "ipa": ""
+  },
+  {
+    "label": "Μ",
+    "meta": "greek capital letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "Ν",
+    "meta": "greek capital letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "Ω",
+    "meta": "greek capital letter omega",
+    "ipa": ""
+  },
+  {
+    "label": "Ὡ",
+    "meta": "greek capital letter omega with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὥ",
+    "meta": "greek capital letter omega with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾭ",
+    "meta": "greek capital letter omega with dasia and oxia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ὧ",
+    "meta": "greek capital letter omega with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾯ",
+    "meta": "greek capital letter omega with dasia and perispomeni and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾩ",
+    "meta": "greek capital letter omega with dasia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ὣ",
+    "meta": "greek capital letter omega with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾫ",
+    "meta": "greek capital letter omega with dasia and varia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ώ",
+    "meta": "greek capital letter omega with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῼ",
+    "meta": "greek capital letter omega with prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ὠ",
+    "meta": "greek capital letter omega with psili",
+    "ipa": ""
+  },
+  {
+    "label": "Ὤ",
+    "meta": "greek capital letter omega with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾬ",
+    "meta": "greek capital letter omega with psili and oxia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ὦ",
+    "meta": "greek capital letter omega with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾮ",
+    "meta": "greek capital letter omega with psili and perispomeni and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾨ",
+    "meta": "greek capital letter omega with psili and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ὢ",
+    "meta": "greek capital letter omega with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾪ",
+    "meta": "greek capital letter omega with psili and varia and prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ώ",
+    "meta": "greek capital letter omega with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὼ",
+    "meta": "greek capital letter omega with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ο",
+    "meta": "greek capital letter omicron",
+    "ipa": ""
+  },
+  {
+    "label": "Ὁ",
+    "meta": "greek capital letter omicron with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὅ",
+    "meta": "greek capital letter omicron with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὃ",
+    "meta": "greek capital letter omicron with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ό",
+    "meta": "greek capital letter omicron with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὀ",
+    "meta": "greek capital letter omicron with psili",
+    "ipa": ""
+  },
+  {
+    "label": "Ὄ",
+    "meta": "greek capital letter omicron with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὂ",
+    "meta": "greek capital letter omicron with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ό",
+    "meta": "greek capital letter omicron with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὸ",
+    "meta": "greek capital letter omicron with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ͷ",
+    "meta": "greek capital letter pamphylian digamma",
+    "ipa": ""
+  },
+  {
+    "label": "Φ",
+    "meta": "greek capital letter phi",
+    "ipa": ""
+  },
+  {
+    "label": "Π",
+    "meta": "greek capital letter pi",
+    "ipa": ""
+  },
+  {
+    "label": "Ψ",
+    "meta": "greek capital letter psi",
+    "ipa": ""
+  },
+  {
+    "label": "Ρ",
+    "meta": "greek capital letter rho",
+    "ipa": ""
+  },
+  {
+    "label": "Ῥ",
+    "meta": "greek capital letter rho with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ϻ",
+    "meta": "greek capital letter san",
+    "ipa": ""
+  },
+  {
+    "label": "Ϸ",
+    "meta": "greek capital letter sho",
+    "ipa": ""
+  },
+  {
+    "label": "Σ",
+    "meta": "greek capital letter sigma",
+    "ipa": ""
+  },
+  {
+    "label": "Τ",
+    "meta": "greek capital letter tau",
+    "ipa": ""
+  },
+  {
+    "label": "Θ",
+    "meta": "greek capital letter theta",
+    "ipa": ""
+  },
+  {
+    "label": "Υ",
+    "meta": "greek capital letter upsilon",
+    "ipa": ""
+  },
+  {
+    "label": "Ὑ",
+    "meta": "greek capital letter upsilon with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὕ",
+    "meta": "greek capital letter upsilon with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ὗ",
+    "meta": "greek capital letter upsilon with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "Ὓ",
+    "meta": "greek capital letter upsilon with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ϋ",
+    "meta": "greek capital letter upsilon with dialytika",
+    "ipa": ""
+  },
+  {
+    "label": "Ῡ",
+    "meta": "greek capital letter upsilon with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ύ",
+    "meta": "greek capital letter upsilon with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "Ύ",
+    "meta": "greek capital letter upsilon with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "Ὺ",
+    "meta": "greek capital letter upsilon with varia",
+    "ipa": ""
+  },
+  {
+    "label": "Ῠ",
+    "meta": "greek capital letter upsilon with vrachy",
+    "ipa": ""
+  },
+  {
+    "label": "Ξ",
+    "meta": "greek capital letter xi",
+    "ipa": ""
+  },
+  {
+    "label": "Ϳ",
+    "meta": "greek capital letter yot",
+    "ipa": ""
+  },
+  {
+    "label": "Ζ",
+    "meta": "greek capital letter zeta",
+    "ipa": ""
+  },
+  {
+    "label": "Ϲ",
+    "meta": "greek capital lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "Ͽ",
+    "meta": "greek capital reversed dotted lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "Ͻ",
+    "meta": "greek capital reversed lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϴ",
+    "meta": "greek capital theta symbol",
+    "ipa": ""
+  },
+  {
+    "label": "῾",
+    "meta": "greek dasia",
+    "ipa": ""
+  },
+  {
+    "label": "῞",
+    "meta": "greek dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "῟",
+    "meta": "greek dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "῝",
+    "meta": "greek dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "΅",
+    "meta": "greek dialytika and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "῁",
+    "meta": "greek dialytika and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "῭",
+    "meta": "greek dialytika and varia",
+    "ipa": ""
+  },
+  {
+    "label": "𐅻",
+    "meta": "greek drachma sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐆀",
+    "meta": "greek five obols sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅿",
+    "meta": "greek four obols sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐆈",
+    "meta": "greek gramma sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐆍",
+    "meta": "greek indiction sign",
+    "ipa": ""
+  },
+  {
+    "label": "𝈝",
+    "meta": "greek instrumental notation symbol-1",
+    "ipa": ""
+  },
+  {
+    "label": "𝈣",
+    "meta": "greek instrumental notation symbol-11",
+    "ipa": ""
+  },
+  {
+    "label": "𝈤",
+    "meta": "greek instrumental notation symbol-12",
+    "ipa": ""
+  },
+  {
+    "label": "𝈥",
+    "meta": "greek instrumental notation symbol-13",
+    "ipa": ""
+  },
+  {
+    "label": "𝈦",
+    "meta": "greek instrumental notation symbol-14",
+    "ipa": ""
+  },
+  {
+    "label": "𝈧",
+    "meta": "greek instrumental notation symbol-17",
+    "ipa": ""
+  },
+  {
+    "label": "𝈨",
+    "meta": "greek instrumental notation symbol-18",
+    "ipa": ""
+  },
+  {
+    "label": "𝈩",
+    "meta": "greek instrumental notation symbol-19",
+    "ipa": ""
+  },
+  {
+    "label": "𝈞",
+    "meta": "greek instrumental notation symbol-2",
+    "ipa": ""
+  },
+  {
+    "label": "𝈪",
+    "meta": "greek instrumental notation symbol-23",
+    "ipa": ""
+  },
+  {
+    "label": "𝈫",
+    "meta": "greek instrumental notation symbol-24",
+    "ipa": ""
+  },
+  {
+    "label": "𝈬",
+    "meta": "greek instrumental notation symbol-25",
+    "ipa": ""
+  },
+  {
+    "label": "𝈭",
+    "meta": "greek instrumental notation symbol-26",
+    "ipa": ""
+  },
+  {
+    "label": "𝈮",
+    "meta": "greek instrumental notation symbol-27",
+    "ipa": ""
+  },
+  {
+    "label": "𝈯",
+    "meta": "greek instrumental notation symbol-29",
+    "ipa": ""
+  },
+  {
+    "label": "𝈰",
+    "meta": "greek instrumental notation symbol-30",
+    "ipa": ""
+  },
+  {
+    "label": "𝈱",
+    "meta": "greek instrumental notation symbol-32",
+    "ipa": ""
+  },
+  {
+    "label": "𝈲",
+    "meta": "greek instrumental notation symbol-36",
+    "ipa": ""
+  },
+  {
+    "label": "𝈳",
+    "meta": "greek instrumental notation symbol-37",
+    "ipa": ""
+  },
+  {
+    "label": "𝈴",
+    "meta": "greek instrumental notation symbol-38",
+    "ipa": ""
+  },
+  {
+    "label": "𝈵",
+    "meta": "greek instrumental notation symbol-39",
+    "ipa": ""
+  },
+  {
+    "label": "𝈟",
+    "meta": "greek instrumental notation symbol-4",
+    "ipa": ""
+  },
+  {
+    "label": "𝈶",
+    "meta": "greek instrumental notation symbol-40",
+    "ipa": ""
+  },
+  {
+    "label": "𝈷",
+    "meta": "greek instrumental notation symbol-42",
+    "ipa": ""
+  },
+  {
+    "label": "𝈸",
+    "meta": "greek instrumental notation symbol-43",
+    "ipa": ""
+  },
+  {
+    "label": "𝈹",
+    "meta": "greek instrumental notation symbol-45",
+    "ipa": ""
+  },
+  {
+    "label": "𝈺",
+    "meta": "greek instrumental notation symbol-47",
+    "ipa": ""
+  },
+  {
+    "label": "𝈻",
+    "meta": "greek instrumental notation symbol-48",
+    "ipa": ""
+  },
+  {
+    "label": "𝈼",
+    "meta": "greek instrumental notation symbol-49",
+    "ipa": ""
+  },
+  {
+    "label": "𝈠",
+    "meta": "greek instrumental notation symbol-5",
+    "ipa": ""
+  },
+  {
+    "label": "𝈽",
+    "meta": "greek instrumental notation symbol-50",
+    "ipa": ""
+  },
+  {
+    "label": "𝈾",
+    "meta": "greek instrumental notation symbol-51",
+    "ipa": ""
+  },
+  {
+    "label": "𝈿",
+    "meta": "greek instrumental notation symbol-52",
+    "ipa": ""
+  },
+  {
+    "label": "𝉀",
+    "meta": "greek instrumental notation symbol-53",
+    "ipa": ""
+  },
+  {
+    "label": "𝉁",
+    "meta": "greek instrumental notation symbol-54",
+    "ipa": ""
+  },
+  {
+    "label": "𝈡",
+    "meta": "greek instrumental notation symbol-7",
+    "ipa": ""
+  },
+  {
+    "label": "𝈢",
+    "meta": "greek instrumental notation symbol-8",
+    "ipa": ""
+  },
+  {
+    "label": "ϗ",
+    "meta": "greek kai symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϰ",
+    "meta": "greek kappa symbol",
+    "ipa": ""
+  },
+  {
+    "label": "᾽",
+    "meta": "greek koronis",
+    "ipa": ""
+  },
+  {
+    "label": "𐆂",
+    "meta": "greek kyathos base sign",
+    "ipa": ""
+  },
+  {
+    "label": "Ϙ",
+    "meta": "greek letter archaic koppa",
+    "ipa": ""
+  },
+  {
+    "label": "Ϝ",
+    "meta": "greek letter digamma",
+    "ipa": ""
+  },
+  {
+    "label": "Ϟ",
+    "meta": "greek letter koppa",
+    "ipa": ""
+  },
+  {
+    "label": "Ϡ",
+    "meta": "greek letter sampi",
+    "ipa": ""
+  },
+  {
+    "label": "ᴦ",
+    "meta": "greek letter small capital gamma",
+    "ipa": ""
+  },
+  {
+    "label": "ᴧ",
+    "meta": "greek letter small capital lamda",
+    "ipa": ""
+  },
+  {
+    "label": "ꭥ",
+    "meta": "greek letter small capital omega",
+    "ipa": ""
+  },
+  {
+    "label": "ᴨ",
+    "meta": "greek letter small capital pi",
+    "ipa": ""
+  },
+  {
+    "label": "ᴪ",
+    "meta": "greek letter small capital psi",
+    "ipa": ""
+  },
+  {
+    "label": "ᴩ",
+    "meta": "greek letter small capital rho",
+    "ipa": ""
+  },
+  {
+    "label": "Ϛ",
+    "meta": "greek letter stigma",
+    "ipa": ""
+  },
+  {
+    "label": "ϳ",
+    "meta": "greek letter yot",
+    "ipa": ""
+  },
+  {
+    "label": "𐆃",
+    "meta": "greek litra sign",
+    "ipa": ""
+  },
+  {
+    "label": "͵",
+    "meta": "greek lower numeral sign",
+    "ipa": ""
+  },
+  {
+    "label": "ϵ",
+    "meta": "greek lunate epsilon symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϲ",
+    "meta": "greek lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "𐆁",
+    "meta": "greek metretes sign",
+    "ipa": ""
+  },
+  {
+    "label": "𝉅",
+    "meta": "greek musical leimma",
+    "ipa": ""
+  },
+  {
+    "label": "𐅼",
+    "meta": "greek obol sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅵",
+    "meta": "greek one half sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅶",
+    "meta": "greek one half sign alternate form",
+    "ipa": ""
+  },
+  {
+    "label": "𐆋",
+    "meta": "greek one quarter sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐆄",
+    "meta": "greek ounkia sign",
+    "ipa": ""
+  },
+  {
+    "label": "´",
+    "meta": "greek oxia",
+    "ipa": ""
+  },
+  {
+    "label": "῀",
+    "meta": "greek perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ϕ",
+    "meta": "greek phi symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϖ",
+    "meta": "greek pi symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ι",
+    "meta": "greek prosgegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "᾿",
+    "meta": "greek psili",
+    "ipa": ""
+  },
+  {
+    "label": "῎",
+    "meta": "greek psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "῏",
+    "meta": "greek psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "῍",
+    "meta": "greek psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "϶",
+    "meta": "greek reversed lunate epsilon symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϱ",
+    "meta": "greek rho symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϼ",
+    "meta": "greek rho with stroke symbol",
+    "ipa": ""
+  },
+  {
+    "label": "𐆌",
+    "meta": "greek sinusoid sign",
+    "ipa": ""
+  },
+  {
+    "label": "ͼ",
+    "meta": "greek small dotted lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "α",
+    "meta": "greek small letter alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ἁ",
+    "meta": "greek small letter alpha with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ἅ",
+    "meta": "greek small letter alpha with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾅ",
+    "meta": "greek small letter alpha with dasia and oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἇ",
+    "meta": "greek small letter alpha with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾇ",
+    "meta": "greek small letter alpha with dasia and perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἃ",
+    "meta": "greek small letter alpha with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾃ",
+    "meta": "greek small letter alpha with dasia and varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾁ",
+    "meta": "greek small letter alpha with dasia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾱ",
+    "meta": "greek small letter alpha with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ά",
+    "meta": "greek small letter alpha with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾴ",
+    "meta": "greek small letter alpha with oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾶ",
+    "meta": "greek small letter alpha with perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾷ",
+    "meta": "greek small letter alpha with perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἀ",
+    "meta": "greek small letter alpha with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ἄ",
+    "meta": "greek small letter alpha with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾄ",
+    "meta": "greek small letter alpha with psili and oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἆ",
+    "meta": "greek small letter alpha with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾆ",
+    "meta": "greek small letter alpha with psili and perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἂ",
+    "meta": "greek small letter alpha with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾂ",
+    "meta": "greek small letter alpha with psili and varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾀ",
+    "meta": "greek small letter alpha with psili and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ά",
+    "meta": "greek small letter alpha with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὰ",
+    "meta": "greek small letter alpha with varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾲ",
+    "meta": "greek small letter alpha with varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾰ",
+    "meta": "greek small letter alpha with vrachy",
+    "ipa": ""
+  },
+  {
+    "label": "ᾳ",
+    "meta": "greek small letter alpha with ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ϙ",
+    "meta": "greek small letter archaic koppa",
+    "ipa": ""
+  },
+  {
+    "label": "ͳ",
+    "meta": "greek small letter archaic sampi",
+    "ipa": ""
+  },
+  {
+    "label": "β",
+    "meta": "greek small letter beta",
+    "ipa": ""
+  },
+  {
+    "label": "χ",
+    "meta": "greek small letter chi",
+    "ipa": ""
+  },
+  {
+    "label": "δ",
+    "meta": "greek small letter delta",
+    "ipa": ""
+  },
+  {
+    "label": "ϝ",
+    "meta": "greek small letter digamma",
+    "ipa": ""
+  },
+  {
+    "label": "ε",
+    "meta": "greek small letter epsilon",
+    "ipa": ""
+  },
+  {
+    "label": "ἑ",
+    "meta": "greek small letter epsilon with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ἕ",
+    "meta": "greek small letter epsilon with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ἓ",
+    "meta": "greek small letter epsilon with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "έ",
+    "meta": "greek small letter epsilon with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ἐ",
+    "meta": "greek small letter epsilon with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ἔ",
+    "meta": "greek small letter epsilon with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ἒ",
+    "meta": "greek small letter epsilon with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "έ",
+    "meta": "greek small letter epsilon with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὲ",
+    "meta": "greek small letter epsilon with varia",
+    "ipa": ""
+  },
+  {
+    "label": "η",
+    "meta": "greek small letter eta",
+    "ipa": ""
+  },
+  {
+    "label": "ἡ",
+    "meta": "greek small letter eta with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ἥ",
+    "meta": "greek small letter eta with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾕ",
+    "meta": "greek small letter eta with dasia and oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἧ",
+    "meta": "greek small letter eta with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾗ",
+    "meta": "greek small letter eta with dasia and perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἣ",
+    "meta": "greek small letter eta with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾓ",
+    "meta": "greek small letter eta with dasia and varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾑ",
+    "meta": "greek small letter eta with dasia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ή",
+    "meta": "greek small letter eta with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῄ",
+    "meta": "greek small letter eta with oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ῆ",
+    "meta": "greek small letter eta with perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ῇ",
+    "meta": "greek small letter eta with perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἠ",
+    "meta": "greek small letter eta with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ἤ",
+    "meta": "greek small letter eta with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾔ",
+    "meta": "greek small letter eta with psili and oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἦ",
+    "meta": "greek small letter eta with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾖ",
+    "meta": "greek small letter eta with psili and perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἢ",
+    "meta": "greek small letter eta with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾒ",
+    "meta": "greek small letter eta with psili and varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾐ",
+    "meta": "greek small letter eta with psili and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ή",
+    "meta": "greek small letter eta with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὴ",
+    "meta": "greek small letter eta with varia",
+    "ipa": ""
+  },
+  {
+    "label": "ῂ",
+    "meta": "greek small letter eta with varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ῃ",
+    "meta": "greek small letter eta with ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ς",
+    "meta": "greek small letter final sigma",
+    "ipa": ""
+  },
+  {
+    "label": "γ",
+    "meta": "greek small letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "ͱ",
+    "meta": "greek small letter heta",
+    "ipa": ""
+  },
+  {
+    "label": "ι",
+    "meta": "greek small letter iota",
+    "ipa": ""
+  },
+  {
+    "label": "ἱ",
+    "meta": "greek small letter iota with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ἵ",
+    "meta": "greek small letter iota with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ἷ",
+    "meta": "greek small letter iota with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἳ",
+    "meta": "greek small letter iota with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ϊ",
+    "meta": "greek small letter iota with dialytika",
+    "ipa": ""
+  },
+  {
+    "label": "ΐ",
+    "meta": "greek small letter iota with dialytika and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῗ",
+    "meta": "greek small letter iota with dialytika and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ΐ",
+    "meta": "greek small letter iota with dialytika and tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ῒ",
+    "meta": "greek small letter iota with dialytika and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ῑ",
+    "meta": "greek small letter iota with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ί",
+    "meta": "greek small letter iota with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῖ",
+    "meta": "greek small letter iota with perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἰ",
+    "meta": "greek small letter iota with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ἴ",
+    "meta": "greek small letter iota with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ἶ",
+    "meta": "greek small letter iota with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ἲ",
+    "meta": "greek small letter iota with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ί",
+    "meta": "greek small letter iota with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὶ",
+    "meta": "greek small letter iota with varia",
+    "ipa": ""
+  },
+  {
+    "label": "ῐ",
+    "meta": "greek small letter iota with vrachy",
+    "ipa": ""
+  },
+  {
+    "label": "κ",
+    "meta": "greek small letter kappa",
+    "ipa": ""
+  },
+  {
+    "label": "ϟ",
+    "meta": "greek small letter koppa",
+    "ipa": ""
+  },
+  {
+    "label": "λ",
+    "meta": "greek small letter lamda",
+    "ipa": ""
+  },
+  {
+    "label": "μ",
+    "meta": "greek small letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "ν",
+    "meta": "greek small letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "ω",
+    "meta": "greek small letter omega",
+    "ipa": ""
+  },
+  {
+    "label": "ὡ",
+    "meta": "greek small letter omega with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ὥ",
+    "meta": "greek small letter omega with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾥ",
+    "meta": "greek small letter omega with dasia and oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὧ",
+    "meta": "greek small letter omega with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾧ",
+    "meta": "greek small letter omega with dasia and perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὣ",
+    "meta": "greek small letter omega with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾣ",
+    "meta": "greek small letter omega with dasia and varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾡ",
+    "meta": "greek small letter omega with dasia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ώ",
+    "meta": "greek small letter omega with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῴ",
+    "meta": "greek small letter omega with oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ῶ",
+    "meta": "greek small letter omega with perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ῷ",
+    "meta": "greek small letter omega with perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὠ",
+    "meta": "greek small letter omega with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ὤ",
+    "meta": "greek small letter omega with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾤ",
+    "meta": "greek small letter omega with psili and oxia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὦ",
+    "meta": "greek small letter omega with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾦ",
+    "meta": "greek small letter omega with psili and perispomeni and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὢ",
+    "meta": "greek small letter omega with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ᾢ",
+    "meta": "greek small letter omega with psili and varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ᾠ",
+    "meta": "greek small letter omega with psili and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ώ",
+    "meta": "greek small letter omega with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὼ",
+    "meta": "greek small letter omega with varia",
+    "ipa": ""
+  },
+  {
+    "label": "ῲ",
+    "meta": "greek small letter omega with varia and ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ῳ",
+    "meta": "greek small letter omega with ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "ο",
+    "meta": "greek small letter omicron",
+    "ipa": ""
+  },
+  {
+    "label": "ὁ",
+    "meta": "greek small letter omicron with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ὅ",
+    "meta": "greek small letter omicron with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ὃ",
+    "meta": "greek small letter omicron with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ό",
+    "meta": "greek small letter omicron with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ὀ",
+    "meta": "greek small letter omicron with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ὄ",
+    "meta": "greek small letter omicron with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ὂ",
+    "meta": "greek small letter omicron with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ό",
+    "meta": "greek small letter omicron with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὸ",
+    "meta": "greek small letter omicron with varia",
+    "ipa": ""
+  },
+  {
+    "label": "ͷ",
+    "meta": "greek small letter pamphylian digamma",
+    "ipa": ""
+  },
+  {
+    "label": "φ",
+    "meta": "greek small letter phi",
+    "ipa": ""
+  },
+  {
+    "label": "π",
+    "meta": "greek small letter pi",
+    "ipa": ""
+  },
+  {
+    "label": "ψ",
+    "meta": "greek small letter psi",
+    "ipa": ""
+  },
+  {
+    "label": "ρ",
+    "meta": "greek small letter rho",
+    "ipa": ""
+  },
+  {
+    "label": "ῥ",
+    "meta": "greek small letter rho with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ῤ",
+    "meta": "greek small letter rho with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ϡ",
+    "meta": "greek small letter sampi",
+    "ipa": ""
+  },
+  {
+    "label": "ϻ",
+    "meta": "greek small letter san",
+    "ipa": ""
+  },
+  {
+    "label": "ϸ",
+    "meta": "greek small letter sho",
+    "ipa": ""
+  },
+  {
+    "label": "σ",
+    "meta": "greek small letter sigma",
+    "ipa": ""
+  },
+  {
+    "label": "ϛ",
+    "meta": "greek small letter stigma",
+    "ipa": ""
+  },
+  {
+    "label": "τ",
+    "meta": "greek small letter tau",
+    "ipa": ""
+  },
+  {
+    "label": "θ",
+    "meta": "greek small letter theta",
+    "ipa": ""
+  },
+  {
+    "label": "υ",
+    "meta": "greek small letter upsilon",
+    "ipa": ""
+  },
+  {
+    "label": "ὑ",
+    "meta": "greek small letter upsilon with dasia",
+    "ipa": ""
+  },
+  {
+    "label": "ὕ",
+    "meta": "greek small letter upsilon with dasia and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ὗ",
+    "meta": "greek small letter upsilon with dasia and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὓ",
+    "meta": "greek small letter upsilon with dasia and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ϋ",
+    "meta": "greek small letter upsilon with dialytika",
+    "ipa": ""
+  },
+  {
+    "label": "ΰ",
+    "meta": "greek small letter upsilon with dialytika and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῧ",
+    "meta": "greek small letter upsilon with dialytika and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ΰ",
+    "meta": "greek small letter upsilon with dialytika and tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ῢ",
+    "meta": "greek small letter upsilon with dialytika and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ῡ",
+    "meta": "greek small letter upsilon with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ύ",
+    "meta": "greek small letter upsilon with oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ῦ",
+    "meta": "greek small letter upsilon with perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὐ",
+    "meta": "greek small letter upsilon with psili",
+    "ipa": ""
+  },
+  {
+    "label": "ὔ",
+    "meta": "greek small letter upsilon with psili and oxia",
+    "ipa": ""
+  },
+  {
+    "label": "ὖ",
+    "meta": "greek small letter upsilon with psili and perispomeni",
+    "ipa": ""
+  },
+  {
+    "label": "ὒ",
+    "meta": "greek small letter upsilon with psili and varia",
+    "ipa": ""
+  },
+  {
+    "label": "ύ",
+    "meta": "greek small letter upsilon with tonos",
+    "ipa": ""
+  },
+  {
+    "label": "ὺ",
+    "meta": "greek small letter upsilon with varia",
+    "ipa": ""
+  },
+  {
+    "label": "ῠ",
+    "meta": "greek small letter upsilon with vrachy",
+    "ipa": ""
+  },
+  {
+    "label": "ξ",
+    "meta": "greek small letter xi",
+    "ipa": ""
+  },
+  {
+    "label": "ζ",
+    "meta": "greek small letter zeta",
+    "ipa": ""
+  },
+  {
+    "label": "ͽ",
+    "meta": "greek small reversed dotted lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ͻ",
+    "meta": "greek small reversed lunate sigma symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ᵦ",
+    "meta": "greek subscript small letter beta",
+    "ipa": ""
+  },
+  {
+    "label": "ᵪ",
+    "meta": "greek subscript small letter chi",
+    "ipa": ""
+  },
+  {
+    "label": "ᵧ",
+    "meta": "greek subscript small letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "ᵩ",
+    "meta": "greek subscript small letter phi",
+    "ipa": ""
+  },
+  {
+    "label": "ᵨ",
+    "meta": "greek subscript small letter rho",
+    "ipa": ""
+  },
+  {
+    "label": "𐆠",
+    "meta": "greek symbol tau rho",
+    "ipa": ""
+  },
+  {
+    "label": "𐅺",
+    "meta": "greek talent sign",
+    "ipa": ""
+  },
+  {
+    "label": "ϑ",
+    "meta": "greek theta symbol",
+    "ipa": ""
+  },
+  {
+    "label": "𐅾",
+    "meta": "greek three obols sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅸",
+    "meta": "greek three quarters sign",
+    "ipa": ""
+  },
+  {
+    "label": "΄",
+    "meta": "greek tonos",
+    "ipa": ""
+  },
+  {
+    "label": "𐆉",
+    "meta": "greek tryblion base sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅽",
+    "meta": "greek two obols sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅷",
+    "meta": "greek two thirds sign",
+    "ipa": ""
+  },
+  {
+    "label": "ϓ",
+    "meta": "greek upsilon with acute and hook symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϔ",
+    "meta": "greek upsilon with diaeresis and hook symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ϒ",
+    "meta": "greek upsilon with hook symbol",
+    "ipa": ""
+  },
+  {
+    "label": "`",
+    "meta": "greek varia",
+    "ipa": ""
+  },
+  {
+    "label": "𝈀",
+    "meta": "greek vocal notation symbol-1",
+    "ipa": ""
+  },
+  {
+    "label": "𝈉",
+    "meta": "greek vocal notation symbol-10",
+    "ipa": ""
+  },
+  {
+    "label": "𝈊",
+    "meta": "greek vocal notation symbol-11",
+    "ipa": ""
+  },
+  {
+    "label": "𝈋",
+    "meta": "greek vocal notation symbol-12",
+    "ipa": ""
+  },
+  {
+    "label": "𝈌",
+    "meta": "greek vocal notation symbol-13",
+    "ipa": ""
+  },
+  {
+    "label": "𝈍",
+    "meta": "greek vocal notation symbol-14",
+    "ipa": ""
+  },
+  {
+    "label": "𝈎",
+    "meta": "greek vocal notation symbol-15",
+    "ipa": ""
+  },
+  {
+    "label": "𝈏",
+    "meta": "greek vocal notation symbol-16",
+    "ipa": ""
+  },
+  {
+    "label": "𝈐",
+    "meta": "greek vocal notation symbol-17",
+    "ipa": ""
+  },
+  {
+    "label": "𝈑",
+    "meta": "greek vocal notation symbol-18",
+    "ipa": ""
+  },
+  {
+    "label": "𝈒",
+    "meta": "greek vocal notation symbol-19",
+    "ipa": ""
+  },
+  {
+    "label": "𝈁",
+    "meta": "greek vocal notation symbol-2",
+    "ipa": ""
+  },
+  {
+    "label": "𝈓",
+    "meta": "greek vocal notation symbol-20",
+    "ipa": ""
+  },
+  {
+    "label": "𝈔",
+    "meta": "greek vocal notation symbol-21",
+    "ipa": ""
+  },
+  {
+    "label": "𝈕",
+    "meta": "greek vocal notation symbol-22",
+    "ipa": ""
+  },
+  {
+    "label": "𝈖",
+    "meta": "greek vocal notation symbol-23",
+    "ipa": ""
+  },
+  {
+    "label": "𝈗",
+    "meta": "greek vocal notation symbol-24",
+    "ipa": ""
+  },
+  {
+    "label": "𝈂",
+    "meta": "greek vocal notation symbol-3",
+    "ipa": ""
+  },
+  {
+    "label": "𝈃",
+    "meta": "greek vocal notation symbol-4",
+    "ipa": ""
+  },
+  {
+    "label": "𝈄",
+    "meta": "greek vocal notation symbol-5",
+    "ipa": ""
+  },
+  {
+    "label": "𝈘",
+    "meta": "greek vocal notation symbol-50",
+    "ipa": ""
+  },
+  {
+    "label": "𝈙",
+    "meta": "greek vocal notation symbol-51",
+    "ipa": ""
+  },
+  {
+    "label": "𝈚",
+    "meta": "greek vocal notation symbol-52",
+    "ipa": ""
+  },
+  {
+    "label": "𝈛",
+    "meta": "greek vocal notation symbol-53",
+    "ipa": ""
+  },
+  {
+    "label": "𝈜",
+    "meta": "greek vocal notation symbol-54",
+    "ipa": ""
+  },
+  {
+    "label": "𝈅",
+    "meta": "greek vocal notation symbol-6",
+    "ipa": ""
+  },
+  {
+    "label": "𝈆",
+    "meta": "greek vocal notation symbol-7",
+    "ipa": ""
+  },
+  {
+    "label": "𝈇",
+    "meta": "greek vocal notation symbol-8",
+    "ipa": ""
+  },
+  {
+    "label": "𝈈",
+    "meta": "greek vocal notation symbol-9",
+    "ipa": ""
+  },
+  {
+    "label": "𐆅",
+    "meta": "greek xestes sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐅹",
+    "meta": "greek year sign",
+    "ipa": ""
+  },
+  {
+    "label": "ͺ",
+    "meta": "greek ypogegrammeni",
+    "ipa": ""
+  },
+  {
+    "label": "𐆊",
+    "meta": "greek zero sign",
+    "ipa": ""
+  },
+  {
+    "label": "ᵝ",
+    "meta": "modifier letter small beta",
+    "ipa": ""
+  },
+  {
+    "label": "ᵡ",
+    "meta": "modifier letter small chi",
+    "ipa": ""
+  },
+  {
+    "label": "ᵟ",
+    "meta": "modifier letter small delta",
+    "ipa": ""
+  },
+  {
+    "label": "ᵞ",
+    "meta": "modifier letter small greek gamma",
+    "ipa": ""
+  },
+  {
+    "label": "ᵠ",
+    "meta": "modifier letter small greek phi",
+    "ipa": ""
+  },
+  {
+    "label": "ᶿ",
+    "meta": "modifier letter small theta",
+    "ipa": ""
+  },
+  {
+    "label": "𐆎",
+    "meta": "nomisma sign",
+    "ipa": ""
+  },
+  {
+    "label": "Ω",
+    "meta": "ohm sign",
+    "ipa": ""
+  }
+]

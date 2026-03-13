@@ -1,0 +1,557 @@
+[
+  {
+    "label": "𑇨",
+    "meta": "sinhala archaic digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "𑇥",
+    "meta": "sinhala archaic digit five",
+    "ipa": ""
+  },
+  {
+    "label": "𑇤",
+    "meta": "sinhala archaic digit four",
+    "ipa": ""
+  },
+  {
+    "label": "𑇩",
+    "meta": "sinhala archaic digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "𑇡",
+    "meta": "sinhala archaic digit one",
+    "ipa": ""
+  },
+  {
+    "label": "𑇧",
+    "meta": "sinhala archaic digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "𑇦",
+    "meta": "sinhala archaic digit six",
+    "ipa": ""
+  },
+  {
+    "label": "𑇣",
+    "meta": "sinhala archaic digit three",
+    "ipa": ""
+  },
+  {
+    "label": "𑇢",
+    "meta": "sinhala archaic digit two",
+    "ipa": ""
+  },
+  {
+    "label": "𑇱",
+    "meta": "sinhala archaic number eighty",
+    "ipa": ""
+  },
+  {
+    "label": "𑇮",
+    "meta": "sinhala archaic number fifty",
+    "ipa": ""
+  },
+  {
+    "label": "𑇭",
+    "meta": "sinhala archaic number forty",
+    "ipa": ""
+  },
+  {
+    "label": "𑇲",
+    "meta": "sinhala archaic number ninety",
+    "ipa": ""
+  },
+  {
+    "label": "𑇳",
+    "meta": "sinhala archaic number one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𑇴",
+    "meta": "sinhala archaic number one thousand",
+    "ipa": ""
+  },
+  {
+    "label": "𑇰",
+    "meta": "sinhala archaic number seventy",
+    "ipa": ""
+  },
+  {
+    "label": "𑇯",
+    "meta": "sinhala archaic number sixty",
+    "ipa": ""
+  },
+  {
+    "label": "𑇪",
+    "meta": "sinhala archaic number ten",
+    "ipa": ""
+  },
+  {
+    "label": "𑇬",
+    "meta": "sinhala archaic number thirty",
+    "ipa": ""
+  },
+  {
+    "label": "𑇫",
+    "meta": "sinhala archaic number twenty",
+    "ipa": ""
+  },
+  {
+    "label": "ආ",
+    "meta": "sinhala letter aayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඈ",
+    "meta": "sinhala letter aeeyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඇ",
+    "meta": "sinhala letter aeyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඓ",
+    "meta": "sinhala letter aiyanna",
+    "ipa": ""
+  },
+  {
+    "label": "බ",
+    "meta": "sinhala letter alpapraana bayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ච",
+    "meta": "sinhala letter alpapraana cayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ද",
+    "meta": "sinhala letter alpapraana dayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඩ",
+    "meta": "sinhala letter alpapraana ddayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ග",
+    "meta": "sinhala letter alpapraana gayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ජ",
+    "meta": "sinhala letter alpapraana jayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ක",
+    "meta": "sinhala letter alpapraana kayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ප",
+    "meta": "sinhala letter alpapraana payanna",
+    "ipa": ""
+  },
+  {
+    "label": "ත",
+    "meta": "sinhala letter alpapraana tayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ට",
+    "meta": "sinhala letter alpapraana ttayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඹ",
+    "meta": "sinhala letter amba bayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඖ",
+    "meta": "sinhala letter auyanna",
+    "ipa": ""
+  },
+  {
+    "label": "අ",
+    "meta": "sinhala letter ayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ල",
+    "meta": "sinhala letter dantaja layanna",
+    "ipa": ""
+  },
+  {
+    "label": "න",
+    "meta": "sinhala letter dantaja nayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ස",
+    "meta": "sinhala letter dantaja sayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඒ",
+    "meta": "sinhala letter eeyanna",
+    "ipa": ""
+  },
+  {
+    "label": "එ",
+    "meta": "sinhala letter eyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ෆ",
+    "meta": "sinhala letter fayanna",
+    "ipa": ""
+  },
+  {
+    "label": "හ",
+    "meta": "sinhala letter hayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඊ",
+    "meta": "sinhala letter iiyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඐ",
+    "meta": "sinhala letter iluuyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඏ",
+    "meta": "sinhala letter iluyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඎ",
+    "meta": "sinhala letter iruuyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඍ",
+    "meta": "sinhala letter iruyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඉ",
+    "meta": "sinhala letter iyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඞ",
+    "meta": "sinhala letter kantaja naasikyaya",
+    "ipa": ""
+  },
+  {
+    "label": "භ",
+    "meta": "sinhala letter mahaapraana bayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඡ",
+    "meta": "sinhala letter mahaapraana cayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ධ",
+    "meta": "sinhala letter mahaapraana dayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඪ",
+    "meta": "sinhala letter mahaapraana ddayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඝ",
+    "meta": "sinhala letter mahaapraana gayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඣ",
+    "meta": "sinhala letter mahaapraana jayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඛ",
+    "meta": "sinhala letter mahaapraana kayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඵ",
+    "meta": "sinhala letter mahaapraana payanna",
+    "ipa": ""
+  },
+  {
+    "label": "ථ",
+    "meta": "sinhala letter mahaapraana tayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඨ",
+    "meta": "sinhala letter mahaapraana ttayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ම",
+    "meta": "sinhala letter mayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ළ",
+    "meta": "sinhala letter muurdhaja layanna",
+    "ipa": ""
+  },
+  {
+    "label": "ණ",
+    "meta": "sinhala letter muurdhaja nayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ෂ",
+    "meta": "sinhala letter muurdhaja sayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඕ",
+    "meta": "sinhala letter ooyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඔ",
+    "meta": "sinhala letter oyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ර",
+    "meta": "sinhala letter rayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඳ",
+    "meta": "sinhala letter sanyaka dayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඬ",
+    "meta": "sinhala letter sanyaka ddayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඟ",
+    "meta": "sinhala letter sanyaka gayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඦ",
+    "meta": "sinhala letter sanyaka jayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඤ",
+    "meta": "sinhala letter taaluja naasikyaya",
+    "ipa": ""
+  },
+  {
+    "label": "ඥ",
+    "meta": "sinhala letter taaluja sanyooga naaksikyaya",
+    "ipa": ""
+  },
+  {
+    "label": "ශ",
+    "meta": "sinhala letter taaluja sayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ඌ",
+    "meta": "sinhala letter uuyanna",
+    "ipa": ""
+  },
+  {
+    "label": "උ",
+    "meta": "sinhala letter uyanna",
+    "ipa": ""
+  },
+  {
+    "label": "ව",
+    "meta": "sinhala letter vayanna",
+    "ipa": ""
+  },
+  {
+    "label": "ය",
+    "meta": "sinhala letter yayanna",
+    "ipa": ""
+  },
+  {
+    "label": "෮",
+    "meta": "sinhala lith digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "෫",
+    "meta": "sinhala lith digit five",
+    "ipa": ""
+  },
+  {
+    "label": "෪",
+    "meta": "sinhala lith digit four",
+    "ipa": ""
+  },
+  {
+    "label": "෯",
+    "meta": "sinhala lith digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "෧",
+    "meta": "sinhala lith digit one",
+    "ipa": ""
+  },
+  {
+    "label": "෭",
+    "meta": "sinhala lith digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "෬",
+    "meta": "sinhala lith digit six",
+    "ipa": ""
+  },
+  {
+    "label": "෩",
+    "meta": "sinhala lith digit three",
+    "ipa": ""
+  },
+  {
+    "label": "෨",
+    "meta": "sinhala lith digit two",
+    "ipa": ""
+  },
+  {
+    "label": "෦",
+    "meta": "sinhala lith digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "෴",
+    "meta": "sinhala punctuation kunddaliya",
+    "ipa": ""
+  },
+  {
+    "label": "්",
+    "meta": "sinhala sign al-lakuna",
+    "ipa": ""
+  },
+  {
+    "label": "ං",
+    "meta": "sinhala sign anusvaraya",
+    "ipa": ""
+  },
+  {
+    "label": "ඁ",
+    "meta": "sinhala sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ඃ",
+    "meta": "sinhala sign visargaya",
+    "ipa": ""
+  },
+  {
+    "label": "ා",
+    "meta": "sinhala vowel sign aela-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෑ",
+    "meta": "sinhala vowel sign diga aeda-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෲ",
+    "meta": "sinhala vowel sign diga gaetta-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෳ",
+    "meta": "sinhala vowel sign diga gayanukitta",
+    "ipa": ""
+  },
+  {
+    "label": "ී",
+    "meta": "sinhala vowel sign diga is-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ේ",
+    "meta": "sinhala vowel sign diga kombuva",
+    "ipa": ""
+  },
+  {
+    "label": "ූ",
+    "meta": "sinhala vowel sign diga paa-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෘ",
+    "meta": "sinhala vowel sign gaetta-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෟ",
+    "meta": "sinhala vowel sign gayanukitta",
+    "ipa": ""
+  },
+  {
+    "label": "ැ",
+    "meta": "sinhala vowel sign ketti aeda-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ි",
+    "meta": "sinhala vowel sign ketti is-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ු",
+    "meta": "sinhala vowel sign ketti paa-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෛ",
+    "meta": "sinhala vowel sign kombu deka",
+    "ipa": ""
+  },
+  {
+    "label": "ෙ",
+    "meta": "sinhala vowel sign kombuva",
+    "ipa": ""
+  },
+  {
+    "label": "ො",
+    "meta": "sinhala vowel sign kombuva haa aela-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෝ",
+    "meta": "sinhala vowel sign kombuva haa diga aela-pilla",
+    "ipa": ""
+  },
+  {
+    "label": "ෞ",
+    "meta": "sinhala vowel sign kombuva haa gayanukitta",
+    "ipa": ""
+  }
+]

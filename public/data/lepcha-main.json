@@ -1,0 +1,372 @@
+[
+  {
+    "label": "ᰭ",
+    "meta": "lepcha consonant sign k",
+    "ipa": ""
+  },
+  {
+    "label": "ᰵ",
+    "meta": "lepcha consonant sign kang",
+    "ipa": ""
+  },
+  {
+    "label": "ᰯ",
+    "meta": "lepcha consonant sign l",
+    "ipa": ""
+  },
+  {
+    "label": "ᰮ",
+    "meta": "lepcha consonant sign m",
+    "ipa": ""
+  },
+  {
+    "label": "ᰰ",
+    "meta": "lepcha consonant sign n",
+    "ipa": ""
+  },
+  {
+    "label": "ᰴ",
+    "meta": "lepcha consonant sign nyin-do",
+    "ipa": ""
+  },
+  {
+    "label": "ᰱ",
+    "meta": "lepcha consonant sign p",
+    "ipa": ""
+  },
+  {
+    "label": "ᰲ",
+    "meta": "lepcha consonant sign r",
+    "ipa": ""
+  },
+  {
+    "label": "ᰳ",
+    "meta": "lepcha consonant sign t",
+    "ipa": ""
+  },
+  {
+    "label": "᱈",
+    "meta": "lepcha digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "᱅",
+    "meta": "lepcha digit five",
+    "ipa": ""
+  },
+  {
+    "label": "᱄",
+    "meta": "lepcha digit four",
+    "ipa": ""
+  },
+  {
+    "label": "᱉",
+    "meta": "lepcha digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "᱁",
+    "meta": "lepcha digit one",
+    "ipa": ""
+  },
+  {
+    "label": "᱇",
+    "meta": "lepcha digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "᱆",
+    "meta": "lepcha digit six",
+    "ipa": ""
+  },
+  {
+    "label": "᱃",
+    "meta": "lepcha digit three",
+    "ipa": ""
+  },
+  {
+    "label": "᱂",
+    "meta": "lepcha digit two",
+    "ipa": ""
+  },
+  {
+    "label": "᱀",
+    "meta": "lepcha digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "ᰣ",
+    "meta": "lepcha letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ᰓ",
+    "meta": "lepcha letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᰔ",
+    "meta": "lepcha letter bla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰆ",
+    "meta": "lepcha letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ᰇ",
+    "meta": "lepcha letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰌ",
+    "meta": "lepcha letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ᱏ",
+    "meta": "lepcha letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ᰙ",
+    "meta": "lepcha letter dza",
+    "ipa": ""
+  },
+  {
+    "label": "ᰑ",
+    "meta": "lepcha letter fa",
+    "ipa": ""
+  },
+  {
+    "label": "ᰒ",
+    "meta": "lepcha letter fla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰃ",
+    "meta": "lepcha letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ᰄ",
+    "meta": "lepcha letter gla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰝ",
+    "meta": "lepcha letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰞ",
+    "meta": "lepcha letter hla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰈ",
+    "meta": "lepcha letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ᰀ",
+    "meta": "lepcha letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᰂ",
+    "meta": "lepcha letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰁ",
+    "meta": "lepcha letter kla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰜ",
+    "meta": "lepcha letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ᰕ",
+    "meta": "lepcha letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᰖ",
+    "meta": "lepcha letter mla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰍ",
+    "meta": "lepcha letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ᰅ",
+    "meta": "lepcha letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᰉ",
+    "meta": "lepcha letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ᰎ",
+    "meta": "lepcha letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᰐ",
+    "meta": "lepcha letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰏ",
+    "meta": "lepcha letter pla",
+    "ipa": ""
+  },
+  {
+    "label": "ᰛ",
+    "meta": "lepcha letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᰠ",
+    "meta": "lepcha letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᰡ",
+    "meta": "lepcha letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰊ",
+    "meta": "lepcha letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᰋ",
+    "meta": "lepcha letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰗ",
+    "meta": "lepcha letter tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ᰘ",
+    "meta": "lepcha letter tsha",
+    "ipa": ""
+  },
+  {
+    "label": "ᱍ",
+    "meta": "lepcha letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ᱎ",
+    "meta": "lepcha letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ᰟ",
+    "meta": "lepcha letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ᰢ",
+    "meta": "lepcha letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᰚ",
+    "meta": "lepcha letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "᰽",
+    "meta": "lepcha punctuation cer-wa",
+    "ipa": ""
+  },
+  {
+    "label": "᰼",
+    "meta": "lepcha punctuation nyet thyoom ta-rol",
+    "ipa": ""
+  },
+  {
+    "label": "᰻",
+    "meta": "lepcha punctuation ta-rol",
+    "ipa": ""
+  },
+  {
+    "label": "᰿",
+    "meta": "lepcha punctuation tshook",
+    "ipa": ""
+  },
+  {
+    "label": "᰾",
+    "meta": "lepcha punctuation tshook cer-wa",
+    "ipa": ""
+  },
+  {
+    "label": "᰷",
+    "meta": "lepcha sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "ᰶ",
+    "meta": "lepcha sign ran",
+    "ipa": ""
+  },
+  {
+    "label": "ᰥ",
+    "meta": "lepcha subjoined letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᰤ",
+    "meta": "lepcha subjoined letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᰦ",
+    "meta": "lepcha vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ᰬ",
+    "meta": "lepcha vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ᰧ",
+    "meta": "lepcha vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ᰨ",
+    "meta": "lepcha vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ᰩ",
+    "meta": "lepcha vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ᰪ",
+    "meta": "lepcha vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ᰫ",
+    "meta": "lepcha vowel sign uu",
+    "ipa": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "label": "𑠻",
+    "meta": "dogra abbreviation sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑠀",
+    "meta": "dogra letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑠁",
+    "meta": "dogra letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑠇",
+    "meta": "dogra letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑠉",
+    "meta": "dogra letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑠠",
+    "meta": "dogra letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑠡",
+    "meta": "dogra letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠏",
+    "meta": "dogra letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑠐",
+    "meta": "dogra letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠛",
+    "meta": "dogra letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑠖",
+    "meta": "dogra letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑠗",
+    "meta": "dogra letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠜",
+    "meta": "dogra letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠆",
+    "meta": "dogra letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑠌",
+    "meta": "dogra letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑠍",
+    "meta": "dogra letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠪",
+    "meta": "dogra letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠂",
+    "meta": "dogra letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑠃",
+    "meta": "dogra letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑠑",
+    "meta": "dogra letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑠒",
+    "meta": "dogra letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠊",
+    "meta": "dogra letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑠋",
+    "meta": "dogra letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠥",
+    "meta": "dogra letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑠢",
+    "meta": "dogra letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑠝",
+    "meta": "dogra letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑠎",
+    "meta": "dogra letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑠘",
+    "meta": "dogra letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑠓",
+    "meta": "dogra letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑠈",
+    "meta": "dogra letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑠞",
+    "meta": "dogra letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑠟",
+    "meta": "dogra letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠤",
+    "meta": "dogra letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑠫",
+    "meta": "dogra letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "𑠩",
+    "meta": "dogra letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑠧",
+    "meta": "dogra letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠨",
+    "meta": "dogra letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑠙",
+    "meta": "dogra letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑠚",
+    "meta": "dogra letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠔",
+    "meta": "dogra letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑠕",
+    "meta": "dogra letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑠄",
+    "meta": "dogra letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑠅",
+    "meta": "dogra letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑠦",
+    "meta": "dogra letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑠣",
+    "meta": "dogra letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑠷",
+    "meta": "dogra sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑠺",
+    "meta": "dogra sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "𑠹",
+    "meta": "dogra sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑠸",
+    "meta": "dogra sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑠬",
+    "meta": "dogra vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑠴",
+    "meta": "dogra vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑠶",
+    "meta": "dogra vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑠳",
+    "meta": "dogra vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑠭",
+    "meta": "dogra vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑠮",
+    "meta": "dogra vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑠵",
+    "meta": "dogra vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑠯",
+    "meta": "dogra vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑠰",
+    "meta": "dogra vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑠱",
+    "meta": "dogra vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑠲",
+    "meta": "dogra vowel sign vocalic rr",
+    "ipa": ""
+  }
+]

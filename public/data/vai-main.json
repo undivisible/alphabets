@@ -1,0 +1,1502 @@
+[
+  {
+    "label": "꘍",
+    "meta": "vai comma",
+    "ipa": ""
+  },
+  {
+    "label": "꘨",
+    "meta": "vai digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "꘥",
+    "meta": "vai digit five",
+    "ipa": ""
+  },
+  {
+    "label": "꘤",
+    "meta": "vai digit four",
+    "ipa": ""
+  },
+  {
+    "label": "꘩",
+    "meta": "vai digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "꘡",
+    "meta": "vai digit one",
+    "ipa": ""
+  },
+  {
+    "label": "꘧",
+    "meta": "vai digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "꘦",
+    "meta": "vai digit six",
+    "ipa": ""
+  },
+  {
+    "label": "꘣",
+    "meta": "vai digit three",
+    "ipa": ""
+  },
+  {
+    "label": "꘢",
+    "meta": "vai digit two",
+    "ipa": ""
+  },
+  {
+    "label": "꘠",
+    "meta": "vai digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "꘎",
+    "meta": "vai full stop",
+    "ipa": ""
+  },
+  {
+    "label": "꘏",
+    "meta": "vai question mark",
+    "ipa": ""
+  },
+  {
+    "label": "ꕉ",
+    "meta": "vai syllable a",
+    "ipa": ""
+  },
+  {
+    "label": "ꕊ",
+    "meta": "vai syllable an",
+    "ipa": ""
+  },
+  {
+    "label": "ꕒ",
+    "meta": "vai syllable ba",
+    "ipa": ""
+  },
+  {
+    "label": "ꗪ",
+    "meta": "vai syllable be",
+    "ipa": ""
+  },
+  {
+    "label": "ꔇ",
+    "meta": "vai syllable bee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕑ",
+    "meta": "vai syllable bha",
+    "ipa": ""
+  },
+  {
+    "label": "ꗩ",
+    "meta": "vai syllable bhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔆ",
+    "meta": "vai syllable bhee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔫ",
+    "meta": "vai syllable bhi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗂ",
+    "meta": "vai syllable bho",
+    "ipa": ""
+  },
+  {
+    "label": "ꕷ",
+    "meta": "vai syllable bhoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖜ",
+    "meta": "vai syllable bhu",
+    "ipa": ""
+  },
+  {
+    "label": "ꔬ",
+    "meta": "vai syllable bi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗃ",
+    "meta": "vai syllable bo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕸ",
+    "meta": "vai syllable boo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖝ",
+    "meta": "vai syllable bu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕦ",
+    "meta": "vai syllable ca",
+    "ipa": ""
+  },
+  {
+    "label": "ꗿ",
+    "meta": "vai syllable ce",
+    "ipa": ""
+  },
+  {
+    "label": "ꔚ",
+    "meta": "vai syllable cee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔿ",
+    "meta": "vai syllable ci",
+    "ipa": ""
+  },
+  {
+    "label": "ꗗ",
+    "meta": "vai syllable co",
+    "ipa": ""
+  },
+  {
+    "label": "ꖋ",
+    "meta": "vai syllable coo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖰ",
+    "meta": "vai syllable cu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕠ",
+    "meta": "vai syllable da",
+    "ipa": ""
+  },
+  {
+    "label": "ꗹ",
+    "meta": "vai syllable de",
+    "ipa": ""
+  },
+  {
+    "label": "ꔔ",
+    "meta": "vai syllable dee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕜ",
+    "meta": "vai syllable dha",
+    "ipa": ""
+  },
+  {
+    "label": "ꗵ",
+    "meta": "vai syllable dhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔐ",
+    "meta": "vai syllable dhee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕝ",
+    "meta": "vai syllable dhha",
+    "ipa": ""
+  },
+  {
+    "label": "ꗶ",
+    "meta": "vai syllable dhhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔑ",
+    "meta": "vai syllable dhhee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔶ",
+    "meta": "vai syllable dhhi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗎ",
+    "meta": "vai syllable dhho",
+    "ipa": ""
+  },
+  {
+    "label": "ꖂ",
+    "meta": "vai syllable dhhoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖧ",
+    "meta": "vai syllable dhhu",
+    "ipa": ""
+  },
+  {
+    "label": "ꔵ",
+    "meta": "vai syllable dhi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗍ",
+    "meta": "vai syllable dho",
+    "ipa": ""
+  },
+  {
+    "label": "ꖁ",
+    "meta": "vai syllable dhoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖦ",
+    "meta": "vai syllable dhu",
+    "ipa": ""
+  },
+  {
+    "label": "ꔹ",
+    "meta": "vai syllable di",
+    "ipa": ""
+  },
+  {
+    "label": "ꗑ",
+    "meta": "vai syllable do",
+    "ipa": ""
+  },
+  {
+    "label": "ꖅ",
+    "meta": "vai syllable doo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖪ",
+    "meta": "vai syllable du",
+    "ipa": ""
+  },
+  {
+    "label": "ꗡ",
+    "meta": "vai syllable e",
+    "ipa": ""
+  },
+  {
+    "label": "ꔀ",
+    "meta": "vai syllable ee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔁ",
+    "meta": "vai syllable een",
+    "ipa": ""
+  },
+  {
+    "label": "ꗢ",
+    "meta": "vai syllable en",
+    "ipa": ""
+  },
+  {
+    "label": "ꕘ",
+    "meta": "vai syllable fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꗱ",
+    "meta": "vai syllable fe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔌ",
+    "meta": "vai syllable fee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔱ",
+    "meta": "vai syllable fi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗉ",
+    "meta": "vai syllable fo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕽ",
+    "meta": "vai syllable foo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖢ",
+    "meta": "vai syllable fu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕭ",
+    "meta": "vai syllable ga",
+    "ipa": ""
+  },
+  {
+    "label": "ꕗ",
+    "meta": "vai syllable gba",
+    "ipa": ""
+  },
+  {
+    "label": "ꗯ",
+    "meta": "vai syllable gbe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔋ",
+    "meta": "vai syllable gbee",
+    "ipa": ""
+  },
+  {
+    "label": "ꗰ",
+    "meta": "vai syllable gben",
+    "ipa": ""
+  },
+  {
+    "label": "ꔰ",
+    "meta": "vai syllable gbi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗇ",
+    "meta": "vai syllable gbo",
+    "ipa": ""
+  },
+  {
+    "label": "ꗈ",
+    "meta": "vai syllable gbon",
+    "ipa": ""
+  },
+  {
+    "label": "ꕼ",
+    "meta": "vai syllable gboo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖡ",
+    "meta": "vai syllable gbu",
+    "ipa": ""
+  },
+  {
+    "label": "ꘆ",
+    "meta": "vai syllable ge",
+    "ipa": ""
+  },
+  {
+    "label": "ꔠ",
+    "meta": "vai syllable gee",
+    "ipa": ""
+  },
+  {
+    "label": "ꘇ",
+    "meta": "vai syllable gen",
+    "ipa": ""
+  },
+  {
+    "label": "ꕅ",
+    "meta": "vai syllable gi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗝ",
+    "meta": "vai syllable go",
+    "ipa": ""
+  },
+  {
+    "label": "ꖑ",
+    "meta": "vai syllable goo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖶ",
+    "meta": "vai syllable gu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕌ",
+    "meta": "vai syllable ha",
+    "ipa": ""
+  },
+  {
+    "label": "ꕍ",
+    "meta": "vai syllable han",
+    "ipa": ""
+  },
+  {
+    "label": "ꗤ",
+    "meta": "vai syllable he",
+    "ipa": ""
+  },
+  {
+    "label": "ꔂ",
+    "meta": "vai syllable hee",
+    "ipa": ""
+  },
+  {
+    "label": "ꗥ",
+    "meta": "vai syllable hen",
+    "ipa": ""
+  },
+  {
+    "label": "ꔦ",
+    "meta": "vai syllable hi",
+    "ipa": ""
+  },
+  {
+    "label": "ꔧ",
+    "meta": "vai syllable hin",
+    "ipa": ""
+  },
+  {
+    "label": "ꖽ",
+    "meta": "vai syllable ho",
+    "ipa": ""
+  },
+  {
+    "label": "ꖾ",
+    "meta": "vai syllable hon",
+    "ipa": ""
+  },
+  {
+    "label": "ꕳ",
+    "meta": "vai syllable hoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖗ",
+    "meta": "vai syllable hu",
+    "ipa": ""
+  },
+  {
+    "label": "ꖘ",
+    "meta": "vai syllable hun",
+    "ipa": ""
+  },
+  {
+    "label": "ꔤ",
+    "meta": "vai syllable i",
+    "ipa": ""
+  },
+  {
+    "label": "ꔥ",
+    "meta": "vai syllable in",
+    "ipa": ""
+  },
+  {
+    "label": "ꕧ",
+    "meta": "vai syllable ja",
+    "ipa": ""
+  },
+  {
+    "label": "ꘀ",
+    "meta": "vai syllable je",
+    "ipa": ""
+  },
+  {
+    "label": "ꔛ",
+    "meta": "vai syllable jee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕀ",
+    "meta": "vai syllable ji",
+    "ipa": ""
+  },
+  {
+    "label": "ꗘ",
+    "meta": "vai syllable jo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖌ",
+    "meta": "vai syllable joo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖱ",
+    "meta": "vai syllable ju",
+    "ipa": ""
+  },
+  {
+    "label": "ꕪ",
+    "meta": "vai syllable ka",
+    "ipa": ""
+  },
+  {
+    "label": "ꕫ",
+    "meta": "vai syllable kan",
+    "ipa": ""
+  },
+  {
+    "label": "ꘃ",
+    "meta": "vai syllable ke",
+    "ipa": ""
+  },
+  {
+    "label": "ꔞ",
+    "meta": "vai syllable kee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕃ",
+    "meta": "vai syllable ki",
+    "ipa": ""
+  },
+  {
+    "label": "ꗛ",
+    "meta": "vai syllable ko",
+    "ipa": ""
+  },
+  {
+    "label": "ꖏ",
+    "meta": "vai syllable koo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕔ",
+    "meta": "vai syllable kpa",
+    "ipa": ""
+  },
+  {
+    "label": "ꕕ",
+    "meta": "vai syllable kpan",
+    "ipa": ""
+  },
+  {
+    "label": "ꗬ",
+    "meta": "vai syllable kpe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔉ",
+    "meta": "vai syllable kpee",
+    "ipa": ""
+  },
+  {
+    "label": "ꗭ",
+    "meta": "vai syllable kpen",
+    "ipa": ""
+  },
+  {
+    "label": "ꔮ",
+    "meta": "vai syllable kpi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗅ",
+    "meta": "vai syllable kpo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕺ",
+    "meta": "vai syllable kpoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖟ",
+    "meta": "vai syllable kpu",
+    "ipa": ""
+  },
+  {
+    "label": "ꖴ",
+    "meta": "vai syllable ku",
+    "ipa": ""
+  },
+  {
+    "label": "ꕞ",
+    "meta": "vai syllable la",
+    "ipa": ""
+  },
+  {
+    "label": "ꗷ",
+    "meta": "vai syllable le",
+    "ipa": ""
+  },
+  {
+    "label": "ꔒ",
+    "meta": "vai syllable lee",
+    "ipa": ""
+  },
+  {
+    "label": "ꘌ",
+    "meta": "vai syllable lengthener",
+    "ipa": ""
+  },
+  {
+    "label": "ꔷ",
+    "meta": "vai syllable li",
+    "ipa": ""
+  },
+  {
+    "label": "ꗏ",
+    "meta": "vai syllable lo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖃ",
+    "meta": "vai syllable loo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖨ",
+    "meta": "vai syllable lu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕮ",
+    "meta": "vai syllable ma",
+    "ipa": ""
+  },
+  {
+    "label": "ꕓ",
+    "meta": "vai syllable mba",
+    "ipa": ""
+  },
+  {
+    "label": "ꗫ",
+    "meta": "vai syllable mbe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔈ",
+    "meta": "vai syllable mbee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔭ",
+    "meta": "vai syllable mbi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗄ",
+    "meta": "vai syllable mbo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕹ",
+    "meta": "vai syllable mboo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖞ",
+    "meta": "vai syllable mbu",
+    "ipa": ""
+  },
+  {
+    "label": "ꘈ",
+    "meta": "vai syllable me",
+    "ipa": ""
+  },
+  {
+    "label": "ꔡ",
+    "meta": "vai syllable mee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕖ",
+    "meta": "vai syllable mgba",
+    "ipa": ""
+  },
+  {
+    "label": "ꗮ",
+    "meta": "vai syllable mgbe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔊ",
+    "meta": "vai syllable mgbee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔯ",
+    "meta": "vai syllable mgbi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗆ",
+    "meta": "vai syllable mgbo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕻ",
+    "meta": "vai syllable mgboo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖠ",
+    "meta": "vai syllable mgbu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕆ",
+    "meta": "vai syllable mi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗞ",
+    "meta": "vai syllable mo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖒ",
+    "meta": "vai syllable moo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖷ",
+    "meta": "vai syllable mu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕯ",
+    "meta": "vai syllable na",
+    "ipa": ""
+  },
+  {
+    "label": "ꕡ",
+    "meta": "vai syllable nda",
+    "ipa": ""
+  },
+  {
+    "label": "ꗺ",
+    "meta": "vai syllable nde",
+    "ipa": ""
+  },
+  {
+    "label": "ꔕ",
+    "meta": "vai syllable ndee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔺ",
+    "meta": "vai syllable ndi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗒ",
+    "meta": "vai syllable ndo",
+    "ipa": ""
+  },
+  {
+    "label": "ꘫ",
+    "meta": "vai syllable ndole do",
+    "ipa": ""
+  },
+  {
+    "label": "ꘐ",
+    "meta": "vai syllable ndole fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꘑ",
+    "meta": "vai syllable ndole ka",
+    "ipa": ""
+  },
+  {
+    "label": "ꘪ",
+    "meta": "vai syllable ndole ma",
+    "ipa": ""
+  },
+  {
+    "label": "ꘒ",
+    "meta": "vai syllable ndole soo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖆ",
+    "meta": "vai syllable ndoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖫ",
+    "meta": "vai syllable ndu",
+    "ipa": ""
+  },
+  {
+    "label": "ꘉ",
+    "meta": "vai syllable ne",
+    "ipa": ""
+  },
+  {
+    "label": "ꔢ",
+    "meta": "vai syllable nee",
+    "ipa": ""
+  },
+  {
+    "label": "ꘋ",
+    "meta": "vai syllable ng",
+    "ipa": ""
+  },
+  {
+    "label": "ꕋ",
+    "meta": "vai syllable ngan",
+    "ipa": ""
+  },
+  {
+    "label": "ꗣ",
+    "meta": "vai syllable ngen",
+    "ipa": ""
+  },
+  {
+    "label": "ꕬ",
+    "meta": "vai syllable ngga",
+    "ipa": ""
+  },
+  {
+    "label": "ꘄ",
+    "meta": "vai syllable ngge",
+    "ipa": ""
+  },
+  {
+    "label": "ꔟ",
+    "meta": "vai syllable nggee",
+    "ipa": ""
+  },
+  {
+    "label": "ꘅ",
+    "meta": "vai syllable nggen",
+    "ipa": ""
+  },
+  {
+    "label": "ꕄ",
+    "meta": "vai syllable nggi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗜ",
+    "meta": "vai syllable nggo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖐ",
+    "meta": "vai syllable nggoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖵ",
+    "meta": "vai syllable nggu",
+    "ipa": ""
+  },
+  {
+    "label": "ꖼ",
+    "meta": "vai syllable ngon",
+    "ipa": ""
+  },
+  {
+    "label": "ꕇ",
+    "meta": "vai syllable ni",
+    "ipa": ""
+  },
+  {
+    "label": "ꕨ",
+    "meta": "vai syllable nja",
+    "ipa": ""
+  },
+  {
+    "label": "ꘁ",
+    "meta": "vai syllable nje",
+    "ipa": ""
+  },
+  {
+    "label": "ꔜ",
+    "meta": "vai syllable njee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕁ",
+    "meta": "vai syllable nji",
+    "ipa": ""
+  },
+  {
+    "label": "ꗙ",
+    "meta": "vai syllable njo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖍ",
+    "meta": "vai syllable njoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖲ",
+    "meta": "vai syllable nju",
+    "ipa": ""
+  },
+  {
+    "label": "ꗟ",
+    "meta": "vai syllable no",
+    "ipa": ""
+  },
+  {
+    "label": "ꖓ",
+    "meta": "vai syllable noo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖸ",
+    "meta": "vai syllable nu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕰ",
+    "meta": "vai syllable nya",
+    "ipa": ""
+  },
+  {
+    "label": "ꘊ",
+    "meta": "vai syllable nye",
+    "ipa": ""
+  },
+  {
+    "label": "ꔣ",
+    "meta": "vai syllable nyee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕈ",
+    "meta": "vai syllable nyi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗠ",
+    "meta": "vai syllable nyo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖔ",
+    "meta": "vai syllable nyoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖹ",
+    "meta": "vai syllable nyu",
+    "ipa": ""
+  },
+  {
+    "label": "ꖺ",
+    "meta": "vai syllable o",
+    "ipa": ""
+  },
+  {
+    "label": "ꖻ",
+    "meta": "vai syllable on",
+    "ipa": ""
+  },
+  {
+    "label": "ꕱ",
+    "meta": "vai syllable oo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕲ",
+    "meta": "vai syllable oon",
+    "ipa": ""
+  },
+  {
+    "label": "ꕐ",
+    "meta": "vai syllable pa",
+    "ipa": ""
+  },
+  {
+    "label": "ꗨ",
+    "meta": "vai syllable pe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔅ",
+    "meta": "vai syllable pee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔪ",
+    "meta": "vai syllable pi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗁ",
+    "meta": "vai syllable po",
+    "ipa": ""
+  },
+  {
+    "label": "ꕶ",
+    "meta": "vai syllable poo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖛ",
+    "meta": "vai syllable pu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕟ",
+    "meta": "vai syllable ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꗸ",
+    "meta": "vai syllable re",
+    "ipa": ""
+  },
+  {
+    "label": "ꔓ",
+    "meta": "vai syllable ree",
+    "ipa": ""
+  },
+  {
+    "label": "ꔸ",
+    "meta": "vai syllable ri",
+    "ipa": ""
+  },
+  {
+    "label": "ꗐ",
+    "meta": "vai syllable ro",
+    "ipa": ""
+  },
+  {
+    "label": "ꖄ",
+    "meta": "vai syllable roo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖩ",
+    "meta": "vai syllable ru",
+    "ipa": ""
+  },
+  {
+    "label": "ꕢ",
+    "meta": "vai syllable sa",
+    "ipa": ""
+  },
+  {
+    "label": "ꗻ",
+    "meta": "vai syllable se",
+    "ipa": ""
+  },
+  {
+    "label": "ꔖ",
+    "meta": "vai syllable see",
+    "ipa": ""
+  },
+  {
+    "label": "ꕣ",
+    "meta": "vai syllable sha",
+    "ipa": ""
+  },
+  {
+    "label": "ꗼ",
+    "meta": "vai syllable she",
+    "ipa": ""
+  },
+  {
+    "label": "ꔗ",
+    "meta": "vai syllable shee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔼ",
+    "meta": "vai syllable shi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗔ",
+    "meta": "vai syllable sho",
+    "ipa": ""
+  },
+  {
+    "label": "ꖈ",
+    "meta": "vai syllable shoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖭ",
+    "meta": "vai syllable shu",
+    "ipa": ""
+  },
+  {
+    "label": "ꔻ",
+    "meta": "vai syllable si",
+    "ipa": ""
+  },
+  {
+    "label": "ꗓ",
+    "meta": "vai syllable so",
+    "ipa": ""
+  },
+  {
+    "label": "ꖇ",
+    "meta": "vai syllable soo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖬ",
+    "meta": "vai syllable su",
+    "ipa": ""
+  },
+  {
+    "label": "ꕚ",
+    "meta": "vai syllable ta",
+    "ipa": ""
+  },
+  {
+    "label": "ꗳ",
+    "meta": "vai syllable te",
+    "ipa": ""
+  },
+  {
+    "label": "ꔎ",
+    "meta": "vai syllable tee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕛ",
+    "meta": "vai syllable tha",
+    "ipa": ""
+  },
+  {
+    "label": "ꗴ",
+    "meta": "vai syllable the",
+    "ipa": ""
+  },
+  {
+    "label": "ꔏ",
+    "meta": "vai syllable thee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔴ",
+    "meta": "vai syllable thi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗌ",
+    "meta": "vai syllable tho",
+    "ipa": ""
+  },
+  {
+    "label": "ꖀ",
+    "meta": "vai syllable thoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖥ",
+    "meta": "vai syllable thu",
+    "ipa": ""
+  },
+  {
+    "label": "ꔳ",
+    "meta": "vai syllable ti",
+    "ipa": ""
+  },
+  {
+    "label": "ꗋ",
+    "meta": "vai syllable to",
+    "ipa": ""
+  },
+  {
+    "label": "ꕿ",
+    "meta": "vai syllable too",
+    "ipa": ""
+  },
+  {
+    "label": "ꖤ",
+    "meta": "vai syllable tu",
+    "ipa": ""
+  },
+  {
+    "label": "ꖕ",
+    "meta": "vai syllable u",
+    "ipa": ""
+  },
+  {
+    "label": "ꖖ",
+    "meta": "vai syllable un",
+    "ipa": ""
+  },
+  {
+    "label": "ꕙ",
+    "meta": "vai syllable va",
+    "ipa": ""
+  },
+  {
+    "label": "ꗲ",
+    "meta": "vai syllable ve",
+    "ipa": ""
+  },
+  {
+    "label": "ꔍ",
+    "meta": "vai syllable vee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔲ",
+    "meta": "vai syllable vi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗊ",
+    "meta": "vai syllable vo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕾ",
+    "meta": "vai syllable voo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖣ",
+    "meta": "vai syllable vu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕎ",
+    "meta": "vai syllable wa",
+    "ipa": ""
+  },
+  {
+    "label": "ꕏ",
+    "meta": "vai syllable wan",
+    "ipa": ""
+  },
+  {
+    "label": "ꗦ",
+    "meta": "vai syllable we",
+    "ipa": ""
+  },
+  {
+    "label": "ꔃ",
+    "meta": "vai syllable wee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔄ",
+    "meta": "vai syllable ween",
+    "ipa": ""
+  },
+  {
+    "label": "ꗧ",
+    "meta": "vai syllable wen",
+    "ipa": ""
+  },
+  {
+    "label": "ꔨ",
+    "meta": "vai syllable wi",
+    "ipa": ""
+  },
+  {
+    "label": "ꔩ",
+    "meta": "vai syllable win",
+    "ipa": ""
+  },
+  {
+    "label": "ꖿ",
+    "meta": "vai syllable wo",
+    "ipa": ""
+  },
+  {
+    "label": "ꗀ",
+    "meta": "vai syllable won",
+    "ipa": ""
+  },
+  {
+    "label": "ꕴ",
+    "meta": "vai syllable woo",
+    "ipa": ""
+  },
+  {
+    "label": "ꕵ",
+    "meta": "vai syllable woon",
+    "ipa": ""
+  },
+  {
+    "label": "ꖙ",
+    "meta": "vai syllable wu",
+    "ipa": ""
+  },
+  {
+    "label": "ꖚ",
+    "meta": "vai syllable wun",
+    "ipa": ""
+  },
+  {
+    "label": "ꕩ",
+    "meta": "vai syllable ya",
+    "ipa": ""
+  },
+  {
+    "label": "ꘂ",
+    "meta": "vai syllable ye",
+    "ipa": ""
+  },
+  {
+    "label": "ꔝ",
+    "meta": "vai syllable yee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕂ",
+    "meta": "vai syllable yi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗚ",
+    "meta": "vai syllable yo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖎ",
+    "meta": "vai syllable yoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖳ",
+    "meta": "vai syllable yu",
+    "ipa": ""
+  },
+  {
+    "label": "ꕤ",
+    "meta": "vai syllable za",
+    "ipa": ""
+  },
+  {
+    "label": "ꗽ",
+    "meta": "vai syllable ze",
+    "ipa": ""
+  },
+  {
+    "label": "ꔘ",
+    "meta": "vai syllable zee",
+    "ipa": ""
+  },
+  {
+    "label": "ꕥ",
+    "meta": "vai syllable zha",
+    "ipa": ""
+  },
+  {
+    "label": "ꗾ",
+    "meta": "vai syllable zhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꔙ",
+    "meta": "vai syllable zhee",
+    "ipa": ""
+  },
+  {
+    "label": "ꔾ",
+    "meta": "vai syllable zhi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗖ",
+    "meta": "vai syllable zho",
+    "ipa": ""
+  },
+  {
+    "label": "ꖊ",
+    "meta": "vai syllable zhoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖯ",
+    "meta": "vai syllable zhu",
+    "ipa": ""
+  },
+  {
+    "label": "ꔽ",
+    "meta": "vai syllable zi",
+    "ipa": ""
+  },
+  {
+    "label": "ꗕ",
+    "meta": "vai syllable zo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖉ",
+    "meta": "vai syllable zoo",
+    "ipa": ""
+  },
+  {
+    "label": "ꖮ",
+    "meta": "vai syllable zu",
+    "ipa": ""
+  },
+  {
+    "label": "ꘗ",
+    "meta": "vai symbol bang",
+    "ipa": ""
+  },
+  {
+    "label": "ꘚ",
+    "meta": "vai symbol dang",
+    "ipa": ""
+  },
+  {
+    "label": "ꘞ",
+    "meta": "vai symbol do-o",
+    "ipa": ""
+  },
+  {
+    "label": "ꘛ",
+    "meta": "vai symbol doong",
+    "ipa": ""
+  },
+  {
+    "label": "ꘘ",
+    "meta": "vai symbol faa",
+    "ipa": ""
+  },
+  {
+    "label": "ꘓ",
+    "meta": "vai symbol feeng",
+    "ipa": ""
+  },
+  {
+    "label": "ꘟ",
+    "meta": "vai symbol jong",
+    "ipa": ""
+  },
+  {
+    "label": "ꘔ",
+    "meta": "vai symbol keeng",
+    "ipa": ""
+  },
+  {
+    "label": "ꘜ",
+    "meta": "vai symbol kung",
+    "ipa": ""
+  },
+  {
+    "label": "ꘖ",
+    "meta": "vai symbol nii",
+    "ipa": ""
+  },
+  {
+    "label": "ꘙ",
+    "meta": "vai symbol taa",
+    "ipa": ""
+  },
+  {
+    "label": "ꘕ",
+    "meta": "vai symbol ting",
+    "ipa": ""
+  },
+  {
+    "label": "ꘝ",
+    "meta": "vai symbol tong",
+    "ipa": ""
+  }
+]

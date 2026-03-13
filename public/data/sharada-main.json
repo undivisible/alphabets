@@ -1,0 +1,482 @@
+[
+  {
+    "label": "𑇇",
+    "meta": "sharada abbreviation sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑇝",
+    "meta": "sharada continuation sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑇅",
+    "meta": "sharada danda",
+    "ipa": ""
+  },
+  {
+    "label": "𑇘",
+    "meta": "sharada digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "𑇕",
+    "meta": "sharada digit five",
+    "ipa": ""
+  },
+  {
+    "label": "𑇔",
+    "meta": "sharada digit four",
+    "ipa": ""
+  },
+  {
+    "label": "𑇙",
+    "meta": "sharada digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "𑇑",
+    "meta": "sharada digit one",
+    "ipa": ""
+  },
+  {
+    "label": "𑇗",
+    "meta": "sharada digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "𑇖",
+    "meta": "sharada digit six",
+    "ipa": ""
+  },
+  {
+    "label": "𑇓",
+    "meta": "sharada digit three",
+    "ipa": ""
+  },
+  {
+    "label": "𑇒",
+    "meta": "sharada digit two",
+    "ipa": ""
+  },
+  {
+    "label": "𑇐",
+    "meta": "sharada digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "𑇆",
+    "meta": "sharada double danda",
+    "ipa": ""
+  },
+  {
+    "label": "𑇚",
+    "meta": "sharada ekam",
+    "ipa": ""
+  },
+  {
+    "label": "𑇌",
+    "meta": "sharada extra short vowel mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑇜",
+    "meta": "sharada headstroke",
+    "ipa": ""
+  },
+  {
+    "label": "𑆃",
+    "meta": "sharada letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑆄",
+    "meta": "sharada letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑆎",
+    "meta": "sharada letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑆐",
+    "meta": "sharada letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑆧",
+    "meta": "sharada letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑆨",
+    "meta": "sharada letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆖",
+    "meta": "sharada letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑆗",
+    "meta": "sharada letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆢",
+    "meta": "sharada letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑆝",
+    "meta": "sharada letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑆞",
+    "meta": "sharada letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆣",
+    "meta": "sharada letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆍",
+    "meta": "sharada letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑆓",
+    "meta": "sharada letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑆔",
+    "meta": "sharada letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆲",
+    "meta": "sharada letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆅",
+    "meta": "sharada letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑆆",
+    "meta": "sharada letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑆘",
+    "meta": "sharada letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑆙",
+    "meta": "sharada letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆑",
+    "meta": "sharada letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑆒",
+    "meta": "sharada letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆬",
+    "meta": "sharada letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑆭",
+    "meta": "sharada letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "𑆩",
+    "meta": "sharada letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑆤",
+    "meta": "sharada letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑆕",
+    "meta": "sharada letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑆟",
+    "meta": "sharada letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑆚",
+    "meta": "sharada letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑆏",
+    "meta": "sharada letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑆥",
+    "meta": "sharada letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑆦",
+    "meta": "sharada letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆫",
+    "meta": "sharada letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑆱",
+    "meta": "sharada letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑆯",
+    "meta": "sharada letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆰",
+    "meta": "sharada letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑆠",
+    "meta": "sharada letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑆡",
+    "meta": "sharada letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆛",
+    "meta": "sharada letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑆜",
+    "meta": "sharada letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆇",
+    "meta": "sharada letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑆈",
+    "meta": "sharada letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑆮",
+    "meta": "sharada letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑆋",
+    "meta": "sharada letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑆌",
+    "meta": "sharada letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑆉",
+    "meta": "sharada letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑆊",
+    "meta": "sharada letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑆪",
+    "meta": "sharada letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑇄",
+    "meta": "sharada om",
+    "ipa": ""
+  },
+  {
+    "label": "𑇉",
+    "meta": "sharada sandhi mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑇞",
+    "meta": "sharada section mark-1",
+    "ipa": ""
+  },
+  {
+    "label": "𑇟",
+    "meta": "sharada section mark-2",
+    "ipa": ""
+  },
+  {
+    "label": "𑇈",
+    "meta": "sharada separator",
+    "ipa": ""
+  },
+  {
+    "label": "𑆁",
+    "meta": "sharada sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑇁",
+    "meta": "sharada sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "𑆀",
+    "meta": "sharada sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "𑇏",
+    "meta": "sharada sign inverted candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "𑇂",
+    "meta": "sharada sign jihvamuliya",
+    "ipa": ""
+  },
+  {
+    "label": "𑇊",
+    "meta": "sharada sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "𑇛",
+    "meta": "sharada sign siddham",
+    "ipa": ""
+  },
+  {
+    "label": "𑇃",
+    "meta": "sharada sign upadhmaniya",
+    "ipa": ""
+  },
+  {
+    "label": "𑇀",
+    "meta": "sharada sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑆂",
+    "meta": "sharada sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑇍",
+    "meta": "sharada sutra mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑇋",
+    "meta": "sharada vowel modifier mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑆳",
+    "meta": "sharada vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑆽",
+    "meta": "sharada vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑆿",
+    "meta": "sharada vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑆼",
+    "meta": "sharada vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑆴",
+    "meta": "sharada vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑆵",
+    "meta": "sharada vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑆾",
+    "meta": "sharada vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑇎",
+    "meta": "sharada vowel sign prishthamatra e",
+    "ipa": ""
+  },
+  {
+    "label": "𑆶",
+    "meta": "sharada vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑆷",
+    "meta": "sharada vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑆺",
+    "meta": "sharada vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑆻",
+    "meta": "sharada vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑆸",
+    "meta": "sharada vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑆹",
+    "meta": "sharada vowel sign vocalic rr",
+    "ipa": ""
+  }
+]

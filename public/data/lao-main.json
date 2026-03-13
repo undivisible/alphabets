@@ -1,0 +1,417 @@
+[
+  {
+    "label": "໌",
+    "meta": "lao cancellation mark",
+    "ipa": ""
+  },
+  {
+    "label": "໘",
+    "meta": "lao digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "໕",
+    "meta": "lao digit five",
+    "ipa": ""
+  },
+  {
+    "label": "໔",
+    "meta": "lao digit four",
+    "ipa": ""
+  },
+  {
+    "label": "໙",
+    "meta": "lao digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "໑",
+    "meta": "lao digit one",
+    "ipa": ""
+  },
+  {
+    "label": "໗",
+    "meta": "lao digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "໖",
+    "meta": "lao digit six",
+    "ipa": ""
+  },
+  {
+    "label": "໓",
+    "meta": "lao digit three",
+    "ipa": ""
+  },
+  {
+    "label": "໒",
+    "meta": "lao digit two",
+    "ipa": ""
+  },
+  {
+    "label": "໐",
+    "meta": "lao digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "ຯ",
+    "meta": "lao ellipsis",
+    "ipa": ""
+  },
+  {
+    "label": "ໝ",
+    "meta": "lao ho mo",
+    "ipa": ""
+  },
+  {
+    "label": "ໜ",
+    "meta": "lao ho no",
+    "ipa": ""
+  },
+  {
+    "label": "ໆ",
+    "meta": "lao ko la",
+    "ipa": ""
+  },
+  {
+    "label": "ບ",
+    "meta": "lao letter bo",
+    "ipa": ""
+  },
+  {
+    "label": "ຈ",
+    "meta": "lao letter co",
+    "ipa": ""
+  },
+  {
+    "label": "ດ",
+    "meta": "lao letter do",
+    "ipa": ""
+  },
+  {
+    "label": "ຟ",
+    "meta": "lao letter fo sung",
+    "ipa": ""
+  },
+  {
+    "label": "ຝ",
+    "meta": "lao letter fo tam",
+    "ipa": ""
+  },
+  {
+    "label": "ຫ",
+    "meta": "lao letter ho sung",
+    "ipa": ""
+  },
+  {
+    "label": "ຮ",
+    "meta": "lao letter ho tam",
+    "ipa": ""
+  },
+  {
+    "label": "ໞ",
+    "meta": "lao letter khmu go",
+    "ipa": ""
+  },
+  {
+    "label": "ໟ",
+    "meta": "lao letter khmu nyo",
+    "ipa": ""
+  },
+  {
+    "label": "ຂ",
+    "meta": "lao letter kho sung",
+    "ipa": ""
+  },
+  {
+    "label": "ຄ",
+    "meta": "lao letter kho tam",
+    "ipa": ""
+  },
+  {
+    "label": "ກ",
+    "meta": "lao letter ko",
+    "ipa": ""
+  },
+  {
+    "label": "ຣ",
+    "meta": "lao letter lo ling",
+    "ipa": ""
+  },
+  {
+    "label": "ລ",
+    "meta": "lao letter lo loot",
+    "ipa": ""
+  },
+  {
+    "label": "ມ",
+    "meta": "lao letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "ງ",
+    "meta": "lao letter ngo",
+    "ipa": ""
+  },
+  {
+    "label": "ນ",
+    "meta": "lao letter no",
+    "ipa": ""
+  },
+  {
+    "label": "ຍ",
+    "meta": "lao letter nyo",
+    "ipa": ""
+  },
+  {
+    "label": "ອ",
+    "meta": "lao letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ຠ",
+    "meta": "lao letter pali bha",
+    "ipa": ""
+  },
+  {
+    "label": "ຉ",
+    "meta": "lao letter pali cha",
+    "ipa": ""
+  },
+  {
+    "label": "ຑ",
+    "meta": "lao letter pali dda",
+    "ipa": ""
+  },
+  {
+    "label": "ຒ",
+    "meta": "lao letter pali ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ຘ",
+    "meta": "lao letter pali dha",
+    "ipa": ""
+  },
+  {
+    "label": "ຆ",
+    "meta": "lao letter pali gha",
+    "ipa": ""
+  },
+  {
+    "label": "ຌ",
+    "meta": "lao letter pali jha",
+    "ipa": ""
+  },
+  {
+    "label": "ຬ",
+    "meta": "lao letter pali lla",
+    "ipa": ""
+  },
+  {
+    "label": "ຓ",
+    "meta": "lao letter pali nna",
+    "ipa": ""
+  },
+  {
+    "label": "ຎ",
+    "meta": "lao letter pali nya",
+    "ipa": ""
+  },
+  {
+    "label": "ຏ",
+    "meta": "lao letter pali tta",
+    "ipa": ""
+  },
+  {
+    "label": "ຐ",
+    "meta": "lao letter pali ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ຜ",
+    "meta": "lao letter pho sung",
+    "ipa": ""
+  },
+  {
+    "label": "ພ",
+    "meta": "lao letter pho tam",
+    "ipa": ""
+  },
+  {
+    "label": "ປ",
+    "meta": "lao letter po",
+    "ipa": ""
+  },
+  {
+    "label": "ຨ",
+    "meta": "lao letter sanskrit sha",
+    "ipa": ""
+  },
+  {
+    "label": "ຩ",
+    "meta": "lao letter sanskrit ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ສ",
+    "meta": "lao letter so sung",
+    "ipa": ""
+  },
+  {
+    "label": "ຊ",
+    "meta": "lao letter so tam",
+    "ipa": ""
+  },
+  {
+    "label": "ຖ",
+    "meta": "lao letter tho sung",
+    "ipa": ""
+  },
+  {
+    "label": "ທ",
+    "meta": "lao letter tho tam",
+    "ipa": ""
+  },
+  {
+    "label": "ຕ",
+    "meta": "lao letter to",
+    "ipa": ""
+  },
+  {
+    "label": "ວ",
+    "meta": "lao letter wo",
+    "ipa": ""
+  },
+  {
+    "label": "ຢ",
+    "meta": "lao letter yo",
+    "ipa": ""
+  },
+  {
+    "label": "ໍ",
+    "meta": "lao niggahita",
+    "ipa": ""
+  },
+  {
+    "label": "ຼ",
+    "meta": "lao semivowel sign lo",
+    "ipa": ""
+  },
+  {
+    "label": "ຽ",
+    "meta": "lao semivowel sign nyo",
+    "ipa": ""
+  },
+  {
+    "label": "຺",
+    "meta": "lao sign pali virama",
+    "ipa": ""
+  },
+  {
+    "label": "໋",
+    "meta": "lao tone mai catawa",
+    "ipa": ""
+  },
+  {
+    "label": "່",
+    "meta": "lao tone mai ek",
+    "ipa": ""
+  },
+  {
+    "label": "້",
+    "meta": "lao tone mai tho",
+    "ipa": ""
+  },
+  {
+    "label": "໊",
+    "meta": "lao tone mai ti",
+    "ipa": ""
+  },
+  {
+    "label": "ະ",
+    "meta": "lao vowel sign a",
+    "ipa": ""
+  },
+  {
+    "label": "າ",
+    "meta": "lao vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ໄ",
+    "meta": "lao vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ຳ",
+    "meta": "lao vowel sign am",
+    "ipa": ""
+  },
+  {
+    "label": "ໃ",
+    "meta": "lao vowel sign ay",
+    "ipa": ""
+  },
+  {
+    "label": "ເ",
+    "meta": "lao vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ແ",
+    "meta": "lao vowel sign ei",
+    "ipa": ""
+  },
+  {
+    "label": "ິ",
+    "meta": "lao vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ີ",
+    "meta": "lao vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ັ",
+    "meta": "lao vowel sign mai kan",
+    "ipa": ""
+  },
+  {
+    "label": "ົ",
+    "meta": "lao vowel sign mai kon",
+    "ipa": ""
+  },
+  {
+    "label": "ໂ",
+    "meta": "lao vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ຸ",
+    "meta": "lao vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ູ",
+    "meta": "lao vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ຶ",
+    "meta": "lao vowel sign y",
+    "ipa": ""
+  },
+  {
+    "label": "ື",
+    "meta": "lao vowel sign yy",
+    "ipa": ""
+  },
+  {
+    "label": "໎",
+    "meta": "lao yamakkan",
+    "ipa": ""
+  }
+]

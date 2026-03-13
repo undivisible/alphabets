@@ -1,0 +1,482 @@
+[
+  {
+    "label": "՟",
+    "meta": "armenian abbreviation mark",
+    "ipa": ""
+  },
+  {
+    "label": "՚",
+    "meta": "armenian apostrophe",
+    "ipa": ""
+  },
+  {
+    "label": "Ա",
+    "meta": "armenian capital letter ayb",
+    "ipa": ""
+  },
+  {
+    "label": "Բ",
+    "meta": "armenian capital letter ben",
+    "ipa": ""
+  },
+  {
+    "label": "Ծ",
+    "meta": "armenian capital letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "Չ",
+    "meta": "armenian capital letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "Ճ",
+    "meta": "armenian capital letter cheh",
+    "ipa": ""
+  },
+  {
+    "label": "Ց",
+    "meta": "armenian capital letter co",
+    "ipa": ""
+  },
+  {
+    "label": "Դ",
+    "meta": "armenian capital letter da",
+    "ipa": ""
+  },
+  {
+    "label": "Ե",
+    "meta": "armenian capital letter ech",
+    "ipa": ""
+  },
+  {
+    "label": "Է",
+    "meta": "armenian capital letter eh",
+    "ipa": ""
+  },
+  {
+    "label": "Ը",
+    "meta": "armenian capital letter et",
+    "ipa": ""
+  },
+  {
+    "label": "Ֆ",
+    "meta": "armenian capital letter feh",
+    "ipa": ""
+  },
+  {
+    "label": "Ղ",
+    "meta": "armenian capital letter ghad",
+    "ipa": ""
+  },
+  {
+    "label": "Գ",
+    "meta": "armenian capital letter gim",
+    "ipa": ""
+  },
+  {
+    "label": "Հ",
+    "meta": "armenian capital letter ho",
+    "ipa": ""
+  },
+  {
+    "label": "Ի",
+    "meta": "armenian capital letter ini",
+    "ipa": ""
+  },
+  {
+    "label": "Ձ",
+    "meta": "armenian capital letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "Ջ",
+    "meta": "armenian capital letter jheh",
+    "ipa": ""
+  },
+  {
+    "label": "Ք",
+    "meta": "armenian capital letter keh",
+    "ipa": ""
+  },
+  {
+    "label": "Կ",
+    "meta": "armenian capital letter ken",
+    "ipa": ""
+  },
+  {
+    "label": "Լ",
+    "meta": "armenian capital letter liwn",
+    "ipa": ""
+  },
+  {
+    "label": "Մ",
+    "meta": "armenian capital letter men",
+    "ipa": ""
+  },
+  {
+    "label": "Ն",
+    "meta": "armenian capital letter now",
+    "ipa": ""
+  },
+  {
+    "label": "Օ",
+    "meta": "armenian capital letter oh",
+    "ipa": ""
+  },
+  {
+    "label": "Պ",
+    "meta": "armenian capital letter peh",
+    "ipa": ""
+  },
+  {
+    "label": "Փ",
+    "meta": "armenian capital letter piwr",
+    "ipa": ""
+  },
+  {
+    "label": "Ռ",
+    "meta": "armenian capital letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "Ր",
+    "meta": "armenian capital letter reh",
+    "ipa": ""
+  },
+  {
+    "label": "Ս",
+    "meta": "armenian capital letter seh",
+    "ipa": ""
+  },
+  {
+    "label": "Շ",
+    "meta": "armenian capital letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "Տ",
+    "meta": "armenian capital letter tiwn",
+    "ipa": ""
+  },
+  {
+    "label": "Թ",
+    "meta": "armenian capital letter to",
+    "ipa": ""
+  },
+  {
+    "label": "Վ",
+    "meta": "armenian capital letter vew",
+    "ipa": ""
+  },
+  {
+    "label": "Ո",
+    "meta": "armenian capital letter vo",
+    "ipa": ""
+  },
+  {
+    "label": "Խ",
+    "meta": "armenian capital letter xeh",
+    "ipa": ""
+  },
+  {
+    "label": "Յ",
+    "meta": "armenian capital letter yi",
+    "ipa": ""
+  },
+  {
+    "label": "Ւ",
+    "meta": "armenian capital letter yiwn",
+    "ipa": ""
+  },
+  {
+    "label": "Զ",
+    "meta": "armenian capital letter za",
+    "ipa": ""
+  },
+  {
+    "label": "Ժ",
+    "meta": "armenian capital letter zhe",
+    "ipa": ""
+  },
+  {
+    "label": "՝",
+    "meta": "armenian comma",
+    "ipa": ""
+  },
+  {
+    "label": "֏",
+    "meta": "armenian dram sign",
+    "ipa": ""
+  },
+  {
+    "label": "՛",
+    "meta": "armenian emphasis mark",
+    "ipa": ""
+  },
+  {
+    "label": "՜",
+    "meta": "armenian exclamation mark",
+    "ipa": ""
+  },
+  {
+    "label": "։",
+    "meta": "armenian full stop",
+    "ipa": ""
+  },
+  {
+    "label": "֊",
+    "meta": "armenian hyphen",
+    "ipa": ""
+  },
+  {
+    "label": "ՙ",
+    "meta": "armenian modifier letter left half ring",
+    "ipa": ""
+  },
+  {
+    "label": "՞",
+    "meta": "armenian question mark",
+    "ipa": ""
+  },
+  {
+    "label": "ա",
+    "meta": "armenian small letter ayb",
+    "ipa": ""
+  },
+  {
+    "label": "բ",
+    "meta": "armenian small letter ben",
+    "ipa": ""
+  },
+  {
+    "label": "ծ",
+    "meta": "armenian small letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "չ",
+    "meta": "armenian small letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ճ",
+    "meta": "armenian small letter cheh",
+    "ipa": ""
+  },
+  {
+    "label": "ց",
+    "meta": "armenian small letter co",
+    "ipa": ""
+  },
+  {
+    "label": "դ",
+    "meta": "armenian small letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ե",
+    "meta": "armenian small letter ech",
+    "ipa": ""
+  },
+  {
+    "label": "է",
+    "meta": "armenian small letter eh",
+    "ipa": ""
+  },
+  {
+    "label": "ը",
+    "meta": "armenian small letter et",
+    "ipa": ""
+  },
+  {
+    "label": "ֆ",
+    "meta": "armenian small letter feh",
+    "ipa": ""
+  },
+  {
+    "label": "ղ",
+    "meta": "armenian small letter ghad",
+    "ipa": ""
+  },
+  {
+    "label": "գ",
+    "meta": "armenian small letter gim",
+    "ipa": ""
+  },
+  {
+    "label": "հ",
+    "meta": "armenian small letter ho",
+    "ipa": ""
+  },
+  {
+    "label": "ի",
+    "meta": "armenian small letter ini",
+    "ipa": ""
+  },
+  {
+    "label": "ձ",
+    "meta": "armenian small letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ջ",
+    "meta": "armenian small letter jheh",
+    "ipa": ""
+  },
+  {
+    "label": "ք",
+    "meta": "armenian small letter keh",
+    "ipa": ""
+  },
+  {
+    "label": "կ",
+    "meta": "armenian small letter ken",
+    "ipa": ""
+  },
+  {
+    "label": "լ",
+    "meta": "armenian small letter liwn",
+    "ipa": ""
+  },
+  {
+    "label": "մ",
+    "meta": "armenian small letter men",
+    "ipa": ""
+  },
+  {
+    "label": "ն",
+    "meta": "armenian small letter now",
+    "ipa": ""
+  },
+  {
+    "label": "օ",
+    "meta": "armenian small letter oh",
+    "ipa": ""
+  },
+  {
+    "label": "պ",
+    "meta": "armenian small letter peh",
+    "ipa": ""
+  },
+  {
+    "label": "փ",
+    "meta": "armenian small letter piwr",
+    "ipa": ""
+  },
+  {
+    "label": "ռ",
+    "meta": "armenian small letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ր",
+    "meta": "armenian small letter reh",
+    "ipa": ""
+  },
+  {
+    "label": "ս",
+    "meta": "armenian small letter seh",
+    "ipa": ""
+  },
+  {
+    "label": "շ",
+    "meta": "armenian small letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "տ",
+    "meta": "armenian small letter tiwn",
+    "ipa": ""
+  },
+  {
+    "label": "թ",
+    "meta": "armenian small letter to",
+    "ipa": ""
+  },
+  {
+    "label": "ՠ",
+    "meta": "armenian small letter turned ayb",
+    "ipa": ""
+  },
+  {
+    "label": "վ",
+    "meta": "armenian small letter vew",
+    "ipa": ""
+  },
+  {
+    "label": "ո",
+    "meta": "armenian small letter vo",
+    "ipa": ""
+  },
+  {
+    "label": "խ",
+    "meta": "armenian small letter xeh",
+    "ipa": ""
+  },
+  {
+    "label": "յ",
+    "meta": "armenian small letter yi",
+    "ipa": ""
+  },
+  {
+    "label": "ֈ",
+    "meta": "armenian small letter yi with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ւ",
+    "meta": "armenian small letter yiwn",
+    "ipa": ""
+  },
+  {
+    "label": "զ",
+    "meta": "armenian small letter za",
+    "ipa": ""
+  },
+  {
+    "label": "ժ",
+    "meta": "armenian small letter zhe",
+    "ipa": ""
+  },
+  {
+    "label": "և",
+    "meta": "armenian small ligature ech yiwn",
+    "ipa": ""
+  },
+  {
+    "label": "ﬔ",
+    "meta": "armenian small ligature men ech",
+    "ipa": ""
+  },
+  {
+    "label": "ﬕ",
+    "meta": "armenian small ligature men ini",
+    "ipa": ""
+  },
+  {
+    "label": "ﬓ",
+    "meta": "armenian small ligature men now",
+    "ipa": ""
+  },
+  {
+    "label": "ﬗ",
+    "meta": "armenian small ligature men xeh",
+    "ipa": ""
+  },
+  {
+    "label": "ﬖ",
+    "meta": "armenian small ligature vew now",
+    "ipa": ""
+  },
+  {
+    "label": "֎",
+    "meta": "left-facing armenian eternity sign",
+    "ipa": ""
+  },
+  {
+    "label": "֍",
+    "meta": "right-facing armenian eternity sign",
+    "ipa": ""
+  }
+]

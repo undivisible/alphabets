@@ -1,0 +1,457 @@
+[
+  {
+    "label": "ೖ",
+    "meta": "kannada ai length mark",
+    "ipa": ""
+  },
+  {
+    "label": "೮",
+    "meta": "kannada digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "೫",
+    "meta": "kannada digit five",
+    "ipa": ""
+  },
+  {
+    "label": "೪",
+    "meta": "kannada digit four",
+    "ipa": ""
+  },
+  {
+    "label": "೯",
+    "meta": "kannada digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "೧",
+    "meta": "kannada digit one",
+    "ipa": ""
+  },
+  {
+    "label": "೭",
+    "meta": "kannada digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "೬",
+    "meta": "kannada digit six",
+    "ipa": ""
+  },
+  {
+    "label": "೩",
+    "meta": "kannada digit three",
+    "ipa": ""
+  },
+  {
+    "label": "೨",
+    "meta": "kannada digit two",
+    "ipa": ""
+  },
+  {
+    "label": "೦",
+    "meta": "kannada digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "ೕ",
+    "meta": "kannada length mark",
+    "ipa": ""
+  },
+  {
+    "label": "ಅ",
+    "meta": "kannada letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ಆ",
+    "meta": "kannada letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ಐ",
+    "meta": "kannada letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ಔ",
+    "meta": "kannada letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ಬ",
+    "meta": "kannada letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ಭ",
+    "meta": "kannada letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "ಚ",
+    "meta": "kannada letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ಛ",
+    "meta": "kannada letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ದ",
+    "meta": "kannada letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ಡ",
+    "meta": "kannada letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ಢ",
+    "meta": "kannada letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ಧ",
+    "meta": "kannada letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ಎ",
+    "meta": "kannada letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ಏ",
+    "meta": "kannada letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ೞ",
+    "meta": "kannada letter fa",
+    "ipa": ""
+  },
+  {
+    "label": "ಗ",
+    "meta": "kannada letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ಘ",
+    "meta": "kannada letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ಹ",
+    "meta": "kannada letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ಇ",
+    "meta": "kannada letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ಈ",
+    "meta": "kannada letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ಜ",
+    "meta": "kannada letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ಝ",
+    "meta": "kannada letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ಕ",
+    "meta": "kannada letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ಖ",
+    "meta": "kannada letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ಲ",
+    "meta": "kannada letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ಳ",
+    "meta": "kannada letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ಮ",
+    "meta": "kannada letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ನ",
+    "meta": "kannada letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ೝ",
+    "meta": "kannada letter nakaara pollu",
+    "ipa": ""
+  },
+  {
+    "label": "ಙ",
+    "meta": "kannada letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ಣ",
+    "meta": "kannada letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ಞ",
+    "meta": "kannada letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ಒ",
+    "meta": "kannada letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ಓ",
+    "meta": "kannada letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ಪ",
+    "meta": "kannada letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ಫ",
+    "meta": "kannada letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ರ",
+    "meta": "kannada letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ಱ",
+    "meta": "kannada letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ಸ",
+    "meta": "kannada letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ಶ",
+    "meta": "kannada letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ಷ",
+    "meta": "kannada letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ತ",
+    "meta": "kannada letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ಥ",
+    "meta": "kannada letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ಟ",
+    "meta": "kannada letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ಠ",
+    "meta": "kannada letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ಉ",
+    "meta": "kannada letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ಊ",
+    "meta": "kannada letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ವ",
+    "meta": "kannada letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ಌ",
+    "meta": "kannada letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ೡ",
+    "meta": "kannada letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ಋ",
+    "meta": "kannada letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ೠ",
+    "meta": "kannada letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ಯ",
+    "meta": "kannada letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ಂ",
+    "meta": "kannada sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ಽ",
+    "meta": "kannada sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "ಁ",
+    "meta": "kannada sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ೳ",
+    "meta": "kannada sign combining anusvara above right",
+    "ipa": ""
+  },
+  {
+    "label": "ೱ",
+    "meta": "kannada sign jihvamuliya",
+    "ipa": ""
+  },
+  {
+    "label": "಼",
+    "meta": "kannada sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "಄",
+    "meta": "kannada sign siddham",
+    "ipa": ""
+  },
+  {
+    "label": "ಀ",
+    "meta": "kannada sign spacing candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ೲ",
+    "meta": "kannada sign upadhmaniya",
+    "ipa": ""
+  },
+  {
+    "label": "್",
+    "meta": "kannada sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "ಃ",
+    "meta": "kannada sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "ಾ",
+    "meta": "kannada vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ೈ",
+    "meta": "kannada vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ೌ",
+    "meta": "kannada vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "ೆ",
+    "meta": "kannada vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ೇ",
+    "meta": "kannada vowel sign ee",
+    "ipa": ""
+  },
+  {
+    "label": "ಿ",
+    "meta": "kannada vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ೀ",
+    "meta": "kannada vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ೊ",
+    "meta": "kannada vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ೋ",
+    "meta": "kannada vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ು",
+    "meta": "kannada vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ೂ",
+    "meta": "kannada vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ೢ",
+    "meta": "kannada vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ೣ",
+    "meta": "kannada vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ೃ",
+    "meta": "kannada vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ೄ",
+    "meta": "kannada vowel sign vocalic rr",
+    "ipa": ""
+  }
+]

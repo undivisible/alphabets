@@ -1,0 +1,417 @@
+[
+  {
+    "label": "᧘",
+    "meta": "new tai lue digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "᧕",
+    "meta": "new tai lue digit five",
+    "ipa": ""
+  },
+  {
+    "label": "᧔",
+    "meta": "new tai lue digit four",
+    "ipa": ""
+  },
+  {
+    "label": "᧙",
+    "meta": "new tai lue digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "᧑",
+    "meta": "new tai lue digit one",
+    "ipa": ""
+  },
+  {
+    "label": "᧗",
+    "meta": "new tai lue digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "᧖",
+    "meta": "new tai lue digit six",
+    "ipa": ""
+  },
+  {
+    "label": "᧓",
+    "meta": "new tai lue digit three",
+    "ipa": ""
+  },
+  {
+    "label": "᧒",
+    "meta": "new tai lue digit two",
+    "ipa": ""
+  },
+  {
+    "label": "᧐",
+    "meta": "new tai lue digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "ᧇ",
+    "meta": "new tai lue letter final b",
+    "ipa": ""
+  },
+  {
+    "label": "ᧆ",
+    "meta": "new tai lue letter final d",
+    "ipa": ""
+  },
+  {
+    "label": "ᧅ",
+    "meta": "new tai lue letter final k",
+    "ipa": ""
+  },
+  {
+    "label": "ᧄ",
+    "meta": "new tai lue letter final m",
+    "ipa": ""
+  },
+  {
+    "label": "ᧃ",
+    "meta": "new tai lue letter final n",
+    "ipa": ""
+  },
+  {
+    "label": "ᧂ",
+    "meta": "new tai lue letter final ng",
+    "ipa": ""
+  },
+  {
+    "label": "ᧁ",
+    "meta": "new tai lue letter final v",
+    "ipa": ""
+  },
+  {
+    "label": "ᦢ",
+    "meta": "new tai lue letter high ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᦡ",
+    "meta": "new tai lue letter high da",
+    "ipa": ""
+  },
+  {
+    "label": "ᦚ",
+    "meta": "new tai lue letter high fa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦠ",
+    "meta": "new tai lue letter high ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᦂ",
+    "meta": "new tai lue letter high ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᦦ",
+    "meta": "new tai lue letter high kva",
+    "ipa": ""
+  },
+  {
+    "label": "ᦜ",
+    "meta": "new tai lue letter high la",
+    "ipa": ""
+  },
+  {
+    "label": "ᦖ",
+    "meta": "new tai lue letter high ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᦐ",
+    "meta": "new tai lue letter high na",
+    "ipa": ""
+  },
+  {
+    "label": "ᦄ",
+    "meta": "new tai lue letter high nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᦔ",
+    "meta": "new tai lue letter high pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦕ",
+    "meta": "new tai lue letter high pha",
+    "ipa": ""
+  },
+  {
+    "label": "ᦀ",
+    "meta": "new tai lue letter high qa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦉ",
+    "meta": "new tai lue letter high sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦪ",
+    "meta": "new tai lue letter high sua",
+    "ipa": ""
+  },
+  {
+    "label": "ᦎ",
+    "meta": "new tai lue letter high ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᦏ",
+    "meta": "new tai lue letter high tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᦈ",
+    "meta": "new tai lue letter high tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦛ",
+    "meta": "new tai lue letter high va",
+    "ipa": ""
+  },
+  {
+    "label": "ᦃ",
+    "meta": "new tai lue letter high xa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦧ",
+    "meta": "new tai lue letter high xva",
+    "ipa": ""
+  },
+  {
+    "label": "ᦊ",
+    "meta": "new tai lue letter high ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᦥ",
+    "meta": "new tai lue letter low ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᦤ",
+    "meta": "new tai lue letter low da",
+    "ipa": ""
+  },
+  {
+    "label": "ᦝ",
+    "meta": "new tai lue letter low fa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦣ",
+    "meta": "new tai lue letter low ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᦅ",
+    "meta": "new tai lue letter low ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᦨ",
+    "meta": "new tai lue letter low kva",
+    "ipa": ""
+  },
+  {
+    "label": "ᦟ",
+    "meta": "new tai lue letter low la",
+    "ipa": ""
+  },
+  {
+    "label": "ᦙ",
+    "meta": "new tai lue letter low ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᦓ",
+    "meta": "new tai lue letter low na",
+    "ipa": ""
+  },
+  {
+    "label": "ᦇ",
+    "meta": "new tai lue letter low nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᦗ",
+    "meta": "new tai lue letter low pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦘ",
+    "meta": "new tai lue letter low pha",
+    "ipa": ""
+  },
+  {
+    "label": "ᦁ",
+    "meta": "new tai lue letter low qa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦌ",
+    "meta": "new tai lue letter low sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦫ",
+    "meta": "new tai lue letter low sua",
+    "ipa": ""
+  },
+  {
+    "label": "ᦑ",
+    "meta": "new tai lue letter low ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᦒ",
+    "meta": "new tai lue letter low tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᦋ",
+    "meta": "new tai lue letter low tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦞ",
+    "meta": "new tai lue letter low va",
+    "ipa": ""
+  },
+  {
+    "label": "ᦆ",
+    "meta": "new tai lue letter low xa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦩ",
+    "meta": "new tai lue letter low xva",
+    "ipa": ""
+  },
+  {
+    "label": "ᦍ",
+    "meta": "new tai lue letter low ya",
+    "ipa": ""
+  },
+  {
+    "label": "᧞",
+    "meta": "new tai lue sign lae",
+    "ipa": ""
+  },
+  {
+    "label": "᧟",
+    "meta": "new tai lue sign laev",
+    "ipa": ""
+  },
+  {
+    "label": "᧚",
+    "meta": "new tai lue tham digit one",
+    "ipa": ""
+  },
+  {
+    "label": "ᧈ",
+    "meta": "new tai lue tone mark-1",
+    "ipa": ""
+  },
+  {
+    "label": "ᧉ",
+    "meta": "new tai lue tone mark-2",
+    "ipa": ""
+  },
+  {
+    "label": "ᦱ",
+    "meta": "new tai lue vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦻ",
+    "meta": "new tai lue vowel sign aay",
+    "ipa": ""
+  },
+  {
+    "label": "ᦶ",
+    "meta": "new tai lue vowel sign ae",
+    "ipa": ""
+  },
+  {
+    "label": "ᦺ",
+    "meta": "new tai lue vowel sign ay",
+    "ipa": ""
+  },
+  {
+    "label": "ᦵ",
+    "meta": "new tai lue vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ᦲ",
+    "meta": "new tai lue vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ᧀ",
+    "meta": "new tai lue vowel sign iy",
+    "ipa": ""
+  },
+  {
+    "label": "ᦷ",
+    "meta": "new tai lue vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ᦸ",
+    "meta": "new tai lue vowel sign oa",
+    "ipa": ""
+  },
+  {
+    "label": "ᦾ",
+    "meta": "new tai lue vowel sign oay",
+    "ipa": ""
+  },
+  {
+    "label": "ᦽ",
+    "meta": "new tai lue vowel sign oy",
+    "ipa": ""
+  },
+  {
+    "label": "ᦳ",
+    "meta": "new tai lue vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ᦹ",
+    "meta": "new tai lue vowel sign ue",
+    "ipa": ""
+  },
+  {
+    "label": "ᦿ",
+    "meta": "new tai lue vowel sign uey",
+    "ipa": ""
+  },
+  {
+    "label": "ᦴ",
+    "meta": "new tai lue vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ᦼ",
+    "meta": "new tai lue vowel sign uy",
+    "ipa": ""
+  },
+  {
+    "label": "ᦰ",
+    "meta": "new tai lue vowel sign vowel shortener",
+    "ipa": ""
+  }
+]

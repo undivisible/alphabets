@@ -1,0 +1,502 @@
+[
+  {
+    "label": "ౖ",
+    "meta": "telugu ai length mark",
+    "ipa": ""
+  },
+  {
+    "label": "౮",
+    "meta": "telugu digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "౫",
+    "meta": "telugu digit five",
+    "ipa": ""
+  },
+  {
+    "label": "౪",
+    "meta": "telugu digit four",
+    "ipa": ""
+  },
+  {
+    "label": "౯",
+    "meta": "telugu digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "౧",
+    "meta": "telugu digit one",
+    "ipa": ""
+  },
+  {
+    "label": "౭",
+    "meta": "telugu digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "౬",
+    "meta": "telugu digit six",
+    "ipa": ""
+  },
+  {
+    "label": "౩",
+    "meta": "telugu digit three",
+    "ipa": ""
+  },
+  {
+    "label": "౨",
+    "meta": "telugu digit two",
+    "ipa": ""
+  },
+  {
+    "label": "౦",
+    "meta": "telugu digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "౼",
+    "meta": "telugu fraction digit one for even powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "౹",
+    "meta": "telugu fraction digit one for odd powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "౾",
+    "meta": "telugu fraction digit three for even powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "౻",
+    "meta": "telugu fraction digit three for odd powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "౽",
+    "meta": "telugu fraction digit two for even powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "౺",
+    "meta": "telugu fraction digit two for odd powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "౸",
+    "meta": "telugu fraction digit zero for odd powers of four",
+    "ipa": ""
+  },
+  {
+    "label": "ౕ",
+    "meta": "telugu length mark",
+    "ipa": ""
+  },
+  {
+    "label": "అ",
+    "meta": "telugu letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ఆ",
+    "meta": "telugu letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ఐ",
+    "meta": "telugu letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ఔ",
+    "meta": "telugu letter au",
+    "ipa": ""
+  },
+  {
+    "label": "బ",
+    "meta": "telugu letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "భ",
+    "meta": "telugu letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "చ",
+    "meta": "telugu letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ఛ",
+    "meta": "telugu letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ద",
+    "meta": "telugu letter da",
+    "ipa": ""
+  },
+  {
+    "label": "డ",
+    "meta": "telugu letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ఢ",
+    "meta": "telugu letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ధ",
+    "meta": "telugu letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ౙ",
+    "meta": "telugu letter dza",
+    "ipa": ""
+  },
+  {
+    "label": "ఎ",
+    "meta": "telugu letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ఏ",
+    "meta": "telugu letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "గ",
+    "meta": "telugu letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ఘ",
+    "meta": "telugu letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "హ",
+    "meta": "telugu letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ఇ",
+    "meta": "telugu letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ఈ",
+    "meta": "telugu letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "జ",
+    "meta": "telugu letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ఝ",
+    "meta": "telugu letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "క",
+    "meta": "telugu letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ఖ",
+    "meta": "telugu letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ల",
+    "meta": "telugu letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ళ",
+    "meta": "telugu letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ఴ",
+    "meta": "telugu letter llla",
+    "ipa": ""
+  },
+  {
+    "label": "మ",
+    "meta": "telugu letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "న",
+    "meta": "telugu letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ౝ",
+    "meta": "telugu letter nakaara pollu",
+    "ipa": ""
+  },
+  {
+    "label": "ఙ",
+    "meta": "telugu letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ణ",
+    "meta": "telugu letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ఞ",
+    "meta": "telugu letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ఒ",
+    "meta": "telugu letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ఓ",
+    "meta": "telugu letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ప",
+    "meta": "telugu letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ఫ",
+    "meta": "telugu letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ర",
+    "meta": "telugu letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ఱ",
+    "meta": "telugu letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ౚ",
+    "meta": "telugu letter rrra",
+    "ipa": ""
+  },
+  {
+    "label": "స",
+    "meta": "telugu letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "శ",
+    "meta": "telugu letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ష",
+    "meta": "telugu letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "త",
+    "meta": "telugu letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "థ",
+    "meta": "telugu letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ౘ",
+    "meta": "telugu letter tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ట",
+    "meta": "telugu letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ఠ",
+    "meta": "telugu letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ఉ",
+    "meta": "telugu letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ఊ",
+    "meta": "telugu letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "వ",
+    "meta": "telugu letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ఌ",
+    "meta": "telugu letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ౡ",
+    "meta": "telugu letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ఋ",
+    "meta": "telugu letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ౠ",
+    "meta": "telugu letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "య",
+    "meta": "telugu letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ం",
+    "meta": "telugu sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ఽ",
+    "meta": "telugu sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "ఁ",
+    "meta": "telugu sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ఄ",
+    "meta": "telugu sign combining anusvara above",
+    "ipa": ""
+  },
+  {
+    "label": "ఀ",
+    "meta": "telugu sign combining candrabindu above",
+    "ipa": ""
+  },
+  {
+    "label": "఼",
+    "meta": "telugu sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "౷",
+    "meta": "telugu sign siddham",
+    "ipa": ""
+  },
+  {
+    "label": "౿",
+    "meta": "telugu sign tuumu",
+    "ipa": ""
+  },
+  {
+    "label": "్",
+    "meta": "telugu sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "ః",
+    "meta": "telugu sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "ా",
+    "meta": "telugu vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ై",
+    "meta": "telugu vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ౌ",
+    "meta": "telugu vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "ె",
+    "meta": "telugu vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ే",
+    "meta": "telugu vowel sign ee",
+    "ipa": ""
+  },
+  {
+    "label": "ి",
+    "meta": "telugu vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ీ",
+    "meta": "telugu vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ొ",
+    "meta": "telugu vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ో",
+    "meta": "telugu vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ు",
+    "meta": "telugu vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ూ",
+    "meta": "telugu vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ౢ",
+    "meta": "telugu vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ౣ",
+    "meta": "telugu vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ృ",
+    "meta": "telugu vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ౄ",
+    "meta": "telugu vowel sign vocalic rr",
+    "ipa": ""
+  }
+]

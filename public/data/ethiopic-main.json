@@ -1,0 +1,2617 @@
+[
+  {
+    "label": "፥",
+    "meta": "ethiopic colon",
+    "ipa": ""
+  },
+  {
+    "label": "፝",
+    "meta": "ethiopic combining gemination and vowel length mark",
+    "ipa": ""
+  },
+  {
+    "label": "፟",
+    "meta": "ethiopic combining gemination mark",
+    "ipa": ""
+  },
+  {
+    "label": "፞",
+    "meta": "ethiopic combining vowel length mark",
+    "ipa": ""
+  },
+  {
+    "label": "፣",
+    "meta": "ethiopic comma",
+    "ipa": ""
+  },
+  {
+    "label": "፰",
+    "meta": "ethiopic digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "፭",
+    "meta": "ethiopic digit five",
+    "ipa": ""
+  },
+  {
+    "label": "፬",
+    "meta": "ethiopic digit four",
+    "ipa": ""
+  },
+  {
+    "label": "፱",
+    "meta": "ethiopic digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "፩",
+    "meta": "ethiopic digit one",
+    "ipa": ""
+  },
+  {
+    "label": "፯",
+    "meta": "ethiopic digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "፮",
+    "meta": "ethiopic digit six",
+    "ipa": ""
+  },
+  {
+    "label": "፫",
+    "meta": "ethiopic digit three",
+    "ipa": ""
+  },
+  {
+    "label": "፪",
+    "meta": "ethiopic digit two",
+    "ipa": ""
+  },
+  {
+    "label": "።",
+    "meta": "ethiopic full stop",
+    "ipa": ""
+  },
+  {
+    "label": "፹",
+    "meta": "ethiopic number eighty",
+    "ipa": ""
+  },
+  {
+    "label": "፶",
+    "meta": "ethiopic number fifty",
+    "ipa": ""
+  },
+  {
+    "label": "፵",
+    "meta": "ethiopic number forty",
+    "ipa": ""
+  },
+  {
+    "label": "፻",
+    "meta": "ethiopic number hundred",
+    "ipa": ""
+  },
+  {
+    "label": "፺",
+    "meta": "ethiopic number ninety",
+    "ipa": ""
+  },
+  {
+    "label": "፸",
+    "meta": "ethiopic number seventy",
+    "ipa": ""
+  },
+  {
+    "label": "፷",
+    "meta": "ethiopic number sixty",
+    "ipa": ""
+  },
+  {
+    "label": "፲",
+    "meta": "ethiopic number ten",
+    "ipa": ""
+  },
+  {
+    "label": "፼",
+    "meta": "ethiopic number ten thousand",
+    "ipa": ""
+  },
+  {
+    "label": "፴",
+    "meta": "ethiopic number thirty",
+    "ipa": ""
+  },
+  {
+    "label": "፳",
+    "meta": "ethiopic number twenty",
+    "ipa": ""
+  },
+  {
+    "label": "፨",
+    "meta": "ethiopic paragraph separator",
+    "ipa": ""
+  },
+  {
+    "label": "፦",
+    "meta": "ethiopic preface colon",
+    "ipa": ""
+  },
+  {
+    "label": "፧",
+    "meta": "ethiopic question mark",
+    "ipa": ""
+  },
+  {
+    "label": "፠",
+    "meta": "ethiopic section mark",
+    "ipa": ""
+  },
+  {
+    "label": "፤",
+    "meta": "ethiopic semicolon",
+    "ipa": ""
+  },
+  {
+    "label": "በ",
+    "meta": "ethiopic syllable ba",
+    "ipa": ""
+  },
+  {
+    "label": "ባ",
+    "meta": "ethiopic syllable baa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬨ",
+    "meta": "ethiopic syllable bba",
+    "ipa": ""
+  },
+  {
+    "label": "ꬫ",
+    "meta": "ethiopic syllable bbaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬭ",
+    "meta": "ethiopic syllable bbe",
+    "ipa": ""
+  },
+  {
+    "label": "ꬬ",
+    "meta": "ethiopic syllable bbee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬪ",
+    "meta": "ethiopic syllable bbi",
+    "ipa": ""
+  },
+  {
+    "label": "ꬮ",
+    "meta": "ethiopic syllable bbo",
+    "ipa": ""
+  },
+  {
+    "label": "ꬩ",
+    "meta": "ethiopic syllable bbu",
+    "ipa": ""
+  },
+  {
+    "label": "ብ",
+    "meta": "ethiopic syllable be",
+    "ipa": ""
+  },
+  {
+    "label": "ቤ",
+    "meta": "ethiopic syllable bee",
+    "ipa": ""
+  },
+  {
+    "label": "ቢ",
+    "meta": "ethiopic syllable bi",
+    "ipa": ""
+  },
+  {
+    "label": "ቦ",
+    "meta": "ethiopic syllable bo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶅ",
+    "meta": "ethiopic syllable boa",
+    "ipa": ""
+  },
+  {
+    "label": "ቡ",
+    "meta": "ethiopic syllable bu",
+    "ipa": ""
+  },
+  {
+    "label": "ቧ",
+    "meta": "ethiopic syllable bwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎇ",
+    "meta": "ethiopic syllable bwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᎆ",
+    "meta": "ethiopic syllable bwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᎅ",
+    "meta": "ethiopic syllable bwi",
+    "ipa": ""
+  },
+  {
+    "label": "ቸ",
+    "meta": "ethiopic syllable ca",
+    "ipa": ""
+  },
+  {
+    "label": "ቻ",
+    "meta": "ethiopic syllable caa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶨ",
+    "meta": "ethiopic syllable cca",
+    "ipa": ""
+  },
+  {
+    "label": "ⶫ",
+    "meta": "ethiopic syllable ccaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶭ",
+    "meta": "ethiopic syllable cce",
+    "ipa": ""
+  },
+  {
+    "label": "ⶬ",
+    "meta": "ethiopic syllable ccee",
+    "ipa": ""
+  },
+  {
+    "label": "ⶸ",
+    "meta": "ethiopic syllable ccha",
+    "ipa": ""
+  },
+  {
+    "label": "ⶻ",
+    "meta": "ethiopic syllable cchaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶽ",
+    "meta": "ethiopic syllable cche",
+    "ipa": ""
+  },
+  {
+    "label": "ⶼ",
+    "meta": "ethiopic syllable cchee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬠ",
+    "meta": "ethiopic syllable cchha",
+    "ipa": ""
+  },
+  {
+    "label": "ꬣ",
+    "meta": "ethiopic syllable cchhaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬥ",
+    "meta": "ethiopic syllable cchhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꬤ",
+    "meta": "ethiopic syllable cchhee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬢ",
+    "meta": "ethiopic syllable cchhi",
+    "ipa": ""
+  },
+  {
+    "label": "ꬦ",
+    "meta": "ethiopic syllable cchho",
+    "ipa": ""
+  },
+  {
+    "label": "ꬡ",
+    "meta": "ethiopic syllable cchhu",
+    "ipa": ""
+  },
+  {
+    "label": "ⶺ",
+    "meta": "ethiopic syllable cchi",
+    "ipa": ""
+  },
+  {
+    "label": "ⶾ",
+    "meta": "ethiopic syllable ccho",
+    "ipa": ""
+  },
+  {
+    "label": "ⶹ",
+    "meta": "ethiopic syllable cchu",
+    "ipa": ""
+  },
+  {
+    "label": "ⶪ",
+    "meta": "ethiopic syllable cci",
+    "ipa": ""
+  },
+  {
+    "label": "ⶮ",
+    "meta": "ethiopic syllable cco",
+    "ipa": ""
+  },
+  {
+    "label": "ⶩ",
+    "meta": "ethiopic syllable ccu",
+    "ipa": ""
+  },
+  {
+    "label": "ች",
+    "meta": "ethiopic syllable ce",
+    "ipa": ""
+  },
+  {
+    "label": "ቼ",
+    "meta": "ethiopic syllable cee",
+    "ipa": ""
+  },
+  {
+    "label": "ጨ",
+    "meta": "ethiopic syllable cha",
+    "ipa": ""
+  },
+  {
+    "label": "ጫ",
+    "meta": "ethiopic syllable chaa",
+    "ipa": ""
+  },
+  {
+    "label": "ጭ",
+    "meta": "ethiopic syllable che",
+    "ipa": ""
+  },
+  {
+    "label": "ጬ",
+    "meta": "ethiopic syllable chee",
+    "ipa": ""
+  },
+  {
+    "label": "ጪ",
+    "meta": "ethiopic syllable chi",
+    "ipa": ""
+  },
+  {
+    "label": "ጮ",
+    "meta": "ethiopic syllable cho",
+    "ipa": ""
+  },
+  {
+    "label": "ⶐ",
+    "meta": "ethiopic syllable choa",
+    "ipa": ""
+  },
+  {
+    "label": "ጩ",
+    "meta": "ethiopic syllable chu",
+    "ipa": ""
+  },
+  {
+    "label": "ጯ",
+    "meta": "ethiopic syllable chwa",
+    "ipa": ""
+  },
+  {
+    "label": "ቺ",
+    "meta": "ethiopic syllable ci",
+    "ipa": ""
+  },
+  {
+    "label": "ቾ",
+    "meta": "ethiopic syllable co",
+    "ipa": ""
+  },
+  {
+    "label": "ⶇ",
+    "meta": "ethiopic syllable coa",
+    "ipa": ""
+  },
+  {
+    "label": "ቹ",
+    "meta": "ethiopic syllable cu",
+    "ipa": ""
+  },
+  {
+    "label": "ቿ",
+    "meta": "ethiopic syllable cwa",
+    "ipa": ""
+  },
+  {
+    "label": "ደ",
+    "meta": "ethiopic syllable da",
+    "ipa": ""
+  },
+  {
+    "label": "ዳ",
+    "meta": "ethiopic syllable daa",
+    "ipa": ""
+  },
+  {
+    "label": "ዸ",
+    "meta": "ethiopic syllable dda",
+    "ipa": ""
+  },
+  {
+    "label": "ዻ",
+    "meta": "ethiopic syllable ddaa",
+    "ipa": ""
+  },
+  {
+    "label": "ዽ",
+    "meta": "ethiopic syllable dde",
+    "ipa": ""
+  },
+  {
+    "label": "ዼ",
+    "meta": "ethiopic syllable ddee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬋ",
+    "meta": "ethiopic syllable ddhaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬍ",
+    "meta": "ethiopic syllable ddhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꬌ",
+    "meta": "ethiopic syllable ddhee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬊ",
+    "meta": "ethiopic syllable ddhi",
+    "ipa": ""
+  },
+  {
+    "label": "ꬎ",
+    "meta": "ethiopic syllable ddho",
+    "ipa": ""
+  },
+  {
+    "label": "ꬉ",
+    "meta": "ethiopic syllable ddhu",
+    "ipa": ""
+  },
+  {
+    "label": "ዺ",
+    "meta": "ethiopic syllable ddi",
+    "ipa": ""
+  },
+  {
+    "label": "ዾ",
+    "meta": "ethiopic syllable ddo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶍ",
+    "meta": "ethiopic syllable ddoa",
+    "ipa": ""
+  },
+  {
+    "label": "ዹ",
+    "meta": "ethiopic syllable ddu",
+    "ipa": ""
+  },
+  {
+    "label": "ዿ",
+    "meta": "ethiopic syllable ddwa",
+    "ipa": ""
+  },
+  {
+    "label": "ድ",
+    "meta": "ethiopic syllable de",
+    "ipa": ""
+  },
+  {
+    "label": "ዴ",
+    "meta": "ethiopic syllable dee",
+    "ipa": ""
+  },
+  {
+    "label": "ዲ",
+    "meta": "ethiopic syllable di",
+    "ipa": ""
+  },
+  {
+    "label": "ዶ",
+    "meta": "ethiopic syllable do",
+    "ipa": ""
+  },
+  {
+    "label": "ⶌ",
+    "meta": "ethiopic syllable doa",
+    "ipa": ""
+  },
+  {
+    "label": "ዱ",
+    "meta": "ethiopic syllable du",
+    "ipa": ""
+  },
+  {
+    "label": "ዷ",
+    "meta": "ethiopic syllable dwa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬓ",
+    "meta": "ethiopic syllable dzaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬕ",
+    "meta": "ethiopic syllable dze",
+    "ipa": ""
+  },
+  {
+    "label": "ꬔ",
+    "meta": "ethiopic syllable dzee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬒ",
+    "meta": "ethiopic syllable dzi",
+    "ipa": ""
+  },
+  {
+    "label": "ꬖ",
+    "meta": "ethiopic syllable dzo",
+    "ipa": ""
+  },
+  {
+    "label": "ꬑ",
+    "meta": "ethiopic syllable dzu",
+    "ipa": ""
+  },
+  {
+    "label": "ፈ",
+    "meta": "ethiopic syllable fa",
+    "ipa": ""
+  },
+  {
+    "label": "ፋ",
+    "meta": "ethiopic syllable faa",
+    "ipa": ""
+  },
+  {
+    "label": "ፍ",
+    "meta": "ethiopic syllable fe",
+    "ipa": ""
+  },
+  {
+    "label": "ፌ",
+    "meta": "ethiopic syllable fee",
+    "ipa": ""
+  },
+  {
+    "label": "ፊ",
+    "meta": "ethiopic syllable fi",
+    "ipa": ""
+  },
+  {
+    "label": "ፎ",
+    "meta": "ethiopic syllable fo",
+    "ipa": ""
+  },
+  {
+    "label": "ፉ",
+    "meta": "ethiopic syllable fu",
+    "ipa": ""
+  },
+  {
+    "label": "ፏ",
+    "meta": "ethiopic syllable fwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎋ",
+    "meta": "ethiopic syllable fwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᎊ",
+    "meta": "ethiopic syllable fwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᎉ",
+    "meta": "ethiopic syllable fwi",
+    "ipa": ""
+  },
+  {
+    "label": "ፚ",
+    "meta": "ethiopic syllable fya",
+    "ipa": ""
+  },
+  {
+    "label": "ገ",
+    "meta": "ethiopic syllable ga",
+    "ipa": ""
+  },
+  {
+    "label": "ጋ",
+    "meta": "ethiopic syllable gaa",
+    "ipa": ""
+  },
+  {
+    "label": "ግ",
+    "meta": "ethiopic syllable ge",
+    "ipa": ""
+  },
+  {
+    "label": "ጌ",
+    "meta": "ethiopic syllable gee",
+    "ipa": ""
+  },
+  {
+    "label": "ጘ",
+    "meta": "ethiopic syllable gga",
+    "ipa": ""
+  },
+  {
+    "label": "ጛ",
+    "meta": "ethiopic syllable ggaa",
+    "ipa": ""
+  },
+  {
+    "label": "ጝ",
+    "meta": "ethiopic syllable gge",
+    "ipa": ""
+  },
+  {
+    "label": "ጜ",
+    "meta": "ethiopic syllable ggee",
+    "ipa": ""
+  },
+  {
+    "label": "ጚ",
+    "meta": "ethiopic syllable ggi",
+    "ipa": ""
+  },
+  {
+    "label": "ጞ",
+    "meta": "ethiopic syllable ggo",
+    "ipa": ""
+  },
+  {
+    "label": "ጙ",
+    "meta": "ethiopic syllable ggu",
+    "ipa": ""
+  },
+  {
+    "label": "ⶓ",
+    "meta": "ethiopic syllable ggwa",
+    "ipa": ""
+  },
+  {
+    "label": "ጟ",
+    "meta": "ethiopic syllable ggwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶖ",
+    "meta": "ethiopic syllable ggwe",
+    "ipa": ""
+  },
+  {
+    "label": "ⶕ",
+    "meta": "ethiopic syllable ggwee",
+    "ipa": ""
+  },
+  {
+    "label": "ⶔ",
+    "meta": "ethiopic syllable ggwi",
+    "ipa": ""
+  },
+  {
+    "label": "ጊ",
+    "meta": "ethiopic syllable gi",
+    "ipa": ""
+  },
+  {
+    "label": "አ",
+    "meta": "ethiopic syllable glottal a",
+    "ipa": ""
+  },
+  {
+    "label": "ኣ",
+    "meta": "ethiopic syllable glottal aa",
+    "ipa": ""
+  },
+  {
+    "label": "እ",
+    "meta": "ethiopic syllable glottal e",
+    "ipa": ""
+  },
+  {
+    "label": "ኤ",
+    "meta": "ethiopic syllable glottal ee",
+    "ipa": ""
+  },
+  {
+    "label": "ኢ",
+    "meta": "ethiopic syllable glottal i",
+    "ipa": ""
+  },
+  {
+    "label": "ኦ",
+    "meta": "ethiopic syllable glottal o",
+    "ipa": ""
+  },
+  {
+    "label": "ⶊ",
+    "meta": "ethiopic syllable glottal oa",
+    "ipa": ""
+  },
+  {
+    "label": "ኡ",
+    "meta": "ethiopic syllable glottal u",
+    "ipa": ""
+  },
+  {
+    "label": "ኧ",
+    "meta": "ethiopic syllable glottal wa",
+    "ipa": ""
+  },
+  {
+    "label": "ጎ",
+    "meta": "ethiopic syllable go",
+    "ipa": ""
+  },
+  {
+    "label": "ጏ",
+    "meta": "ethiopic syllable goa",
+    "ipa": ""
+  },
+  {
+    "label": "ጉ",
+    "meta": "ethiopic syllable gu",
+    "ipa": ""
+  },
+  {
+    "label": "𞟴",
+    "meta": "ethiopic syllable gurage bwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟳",
+    "meta": "ethiopic syllable gurage bwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟼",
+    "meta": "ethiopic syllable gurage fwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟻",
+    "meta": "ethiopic syllable gurage fwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟺",
+    "meta": "ethiopic syllable gurage gwe",
+    "ipa": ""
+  },
+  {
+    "label": "𞟹",
+    "meta": "ethiopic syllable gurage gwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟸",
+    "meta": "ethiopic syllable gurage gwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟨",
+    "meta": "ethiopic syllable gurage hhwa",
+    "ipa": ""
+  },
+  {
+    "label": "𞟷",
+    "meta": "ethiopic syllable gurage kwe",
+    "ipa": ""
+  },
+  {
+    "label": "𞟶",
+    "meta": "ethiopic syllable gurage kwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟵",
+    "meta": "ethiopic syllable gurage kwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟮",
+    "meta": "ethiopic syllable gurage mwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟭",
+    "meta": "ethiopic syllable gurage mwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟾",
+    "meta": "ethiopic syllable gurage pwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟽",
+    "meta": "ethiopic syllable gurage pwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟲",
+    "meta": "ethiopic syllable gurage qwe",
+    "ipa": ""
+  },
+  {
+    "label": "𞟱",
+    "meta": "ethiopic syllable gurage qwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟰",
+    "meta": "ethiopic syllable gurage qwi",
+    "ipa": ""
+  },
+  {
+    "label": "ጐ",
+    "meta": "ethiopic syllable gwa",
+    "ipa": ""
+  },
+  {
+    "label": "ጓ",
+    "meta": "ethiopic syllable gwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ጕ",
+    "meta": "ethiopic syllable gwe",
+    "ipa": ""
+  },
+  {
+    "label": "ጔ",
+    "meta": "ethiopic syllable gwee",
+    "ipa": ""
+  },
+  {
+    "label": "ጒ",
+    "meta": "ethiopic syllable gwi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷘ",
+    "meta": "ethiopic syllable gya",
+    "ipa": ""
+  },
+  {
+    "label": "ⷛ",
+    "meta": "ethiopic syllable gyaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⷝ",
+    "meta": "ethiopic syllable gye",
+    "ipa": ""
+  },
+  {
+    "label": "ⷜ",
+    "meta": "ethiopic syllable gyee",
+    "ipa": ""
+  },
+  {
+    "label": "ⷚ",
+    "meta": "ethiopic syllable gyi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷞ",
+    "meta": "ethiopic syllable gyo",
+    "ipa": ""
+  },
+  {
+    "label": "ⷙ",
+    "meta": "ethiopic syllable gyu",
+    "ipa": ""
+  },
+  {
+    "label": "ሀ",
+    "meta": "ethiopic syllable ha",
+    "ipa": ""
+  },
+  {
+    "label": "ሃ",
+    "meta": "ethiopic syllable haa",
+    "ipa": ""
+  },
+  {
+    "label": "ህ",
+    "meta": "ethiopic syllable he",
+    "ipa": ""
+  },
+  {
+    "label": "ሄ",
+    "meta": "ethiopic syllable hee",
+    "ipa": ""
+  },
+  {
+    "label": "ሐ",
+    "meta": "ethiopic syllable hha",
+    "ipa": ""
+  },
+  {
+    "label": "ሓ",
+    "meta": "ethiopic syllable hhaa",
+    "ipa": ""
+  },
+  {
+    "label": "ሕ",
+    "meta": "ethiopic syllable hhe",
+    "ipa": ""
+  },
+  {
+    "label": "ሔ",
+    "meta": "ethiopic syllable hhee",
+    "ipa": ""
+  },
+  {
+    "label": "ሒ",
+    "meta": "ethiopic syllable hhi",
+    "ipa": ""
+  },
+  {
+    "label": "ሖ",
+    "meta": "ethiopic syllable hho",
+    "ipa": ""
+  },
+  {
+    "label": "ሑ",
+    "meta": "ethiopic syllable hhu",
+    "ipa": ""
+  },
+  {
+    "label": "ሗ",
+    "meta": "ethiopic syllable hhwa",
+    "ipa": ""
+  },
+  {
+    "label": "𞟫",
+    "meta": "ethiopic syllable hhwe",
+    "ipa": ""
+  },
+  {
+    "label": "𞟪",
+    "meta": "ethiopic syllable hhwee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟩",
+    "meta": "ethiopic syllable hhwi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟠",
+    "meta": "ethiopic syllable hhya",
+    "ipa": ""
+  },
+  {
+    "label": "𞟣",
+    "meta": "ethiopic syllable hhyaa",
+    "ipa": ""
+  },
+  {
+    "label": "𞟥",
+    "meta": "ethiopic syllable hhye",
+    "ipa": ""
+  },
+  {
+    "label": "𞟤",
+    "meta": "ethiopic syllable hhyee",
+    "ipa": ""
+  },
+  {
+    "label": "𞟢",
+    "meta": "ethiopic syllable hhyi",
+    "ipa": ""
+  },
+  {
+    "label": "𞟦",
+    "meta": "ethiopic syllable hhyo",
+    "ipa": ""
+  },
+  {
+    "label": "𞟡",
+    "meta": "ethiopic syllable hhyu",
+    "ipa": ""
+  },
+  {
+    "label": "ሂ",
+    "meta": "ethiopic syllable hi",
+    "ipa": ""
+  },
+  {
+    "label": "ሆ",
+    "meta": "ethiopic syllable ho",
+    "ipa": ""
+  },
+  {
+    "label": "ሇ",
+    "meta": "ethiopic syllable hoa",
+    "ipa": ""
+  },
+  {
+    "label": "ሁ",
+    "meta": "ethiopic syllable hu",
+    "ipa": ""
+  },
+  {
+    "label": "ጀ",
+    "meta": "ethiopic syllable ja",
+    "ipa": ""
+  },
+  {
+    "label": "ጃ",
+    "meta": "ethiopic syllable jaa",
+    "ipa": ""
+  },
+  {
+    "label": "ጅ",
+    "meta": "ethiopic syllable je",
+    "ipa": ""
+  },
+  {
+    "label": "ጄ",
+    "meta": "ethiopic syllable jee",
+    "ipa": ""
+  },
+  {
+    "label": "ጂ",
+    "meta": "ethiopic syllable ji",
+    "ipa": ""
+  },
+  {
+    "label": "ጆ",
+    "meta": "ethiopic syllable jo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶎ",
+    "meta": "ethiopic syllable joa",
+    "ipa": ""
+  },
+  {
+    "label": "ጁ",
+    "meta": "ethiopic syllable ju",
+    "ipa": ""
+  },
+  {
+    "label": "ጇ",
+    "meta": "ethiopic syllable jwa",
+    "ipa": ""
+  },
+  {
+    "label": "ከ",
+    "meta": "ethiopic syllable ka",
+    "ipa": ""
+  },
+  {
+    "label": "ካ",
+    "meta": "ethiopic syllable kaa",
+    "ipa": ""
+  },
+  {
+    "label": "ክ",
+    "meta": "ethiopic syllable ke",
+    "ipa": ""
+  },
+  {
+    "label": "ኬ",
+    "meta": "ethiopic syllable kee",
+    "ipa": ""
+  },
+  {
+    "label": "ኪ",
+    "meta": "ethiopic syllable ki",
+    "ipa": ""
+  },
+  {
+    "label": "ኮ",
+    "meta": "ethiopic syllable ko",
+    "ipa": ""
+  },
+  {
+    "label": "ኯ",
+    "meta": "ethiopic syllable koa",
+    "ipa": ""
+  },
+  {
+    "label": "ኩ",
+    "meta": "ethiopic syllable ku",
+    "ipa": ""
+  },
+  {
+    "label": "ኰ",
+    "meta": "ethiopic syllable kwa",
+    "ipa": ""
+  },
+  {
+    "label": "ኳ",
+    "meta": "ethiopic syllable kwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ኵ",
+    "meta": "ethiopic syllable kwe",
+    "ipa": ""
+  },
+  {
+    "label": "ኴ",
+    "meta": "ethiopic syllable kwee",
+    "ipa": ""
+  },
+  {
+    "label": "ኲ",
+    "meta": "ethiopic syllable kwi",
+    "ipa": ""
+  },
+  {
+    "label": "ኸ",
+    "meta": "ethiopic syllable kxa",
+    "ipa": ""
+  },
+  {
+    "label": "ኻ",
+    "meta": "ethiopic syllable kxaa",
+    "ipa": ""
+  },
+  {
+    "label": "ኽ",
+    "meta": "ethiopic syllable kxe",
+    "ipa": ""
+  },
+  {
+    "label": "ኼ",
+    "meta": "ethiopic syllable kxee",
+    "ipa": ""
+  },
+  {
+    "label": "ኺ",
+    "meta": "ethiopic syllable kxi",
+    "ipa": ""
+  },
+  {
+    "label": "ኾ",
+    "meta": "ethiopic syllable kxo",
+    "ipa": ""
+  },
+  {
+    "label": "ኹ",
+    "meta": "ethiopic syllable kxu",
+    "ipa": ""
+  },
+  {
+    "label": "ዀ",
+    "meta": "ethiopic syllable kxwa",
+    "ipa": ""
+  },
+  {
+    "label": "ዃ",
+    "meta": "ethiopic syllable kxwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ዅ",
+    "meta": "ethiopic syllable kxwe",
+    "ipa": ""
+  },
+  {
+    "label": "ዄ",
+    "meta": "ethiopic syllable kxwee",
+    "ipa": ""
+  },
+  {
+    "label": "ዂ",
+    "meta": "ethiopic syllable kxwi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷈ",
+    "meta": "ethiopic syllable kya",
+    "ipa": ""
+  },
+  {
+    "label": "ⷋ",
+    "meta": "ethiopic syllable kyaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⷍ",
+    "meta": "ethiopic syllable kye",
+    "ipa": ""
+  },
+  {
+    "label": "ⷌ",
+    "meta": "ethiopic syllable kyee",
+    "ipa": ""
+  },
+  {
+    "label": "ⷊ",
+    "meta": "ethiopic syllable kyi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷎ",
+    "meta": "ethiopic syllable kyo",
+    "ipa": ""
+  },
+  {
+    "label": "ⷉ",
+    "meta": "ethiopic syllable kyu",
+    "ipa": ""
+  },
+  {
+    "label": "ለ",
+    "meta": "ethiopic syllable la",
+    "ipa": ""
+  },
+  {
+    "label": "ላ",
+    "meta": "ethiopic syllable laa",
+    "ipa": ""
+  },
+  {
+    "label": "ል",
+    "meta": "ethiopic syllable le",
+    "ipa": ""
+  },
+  {
+    "label": "ሌ",
+    "meta": "ethiopic syllable lee",
+    "ipa": ""
+  },
+  {
+    "label": "ሊ",
+    "meta": "ethiopic syllable li",
+    "ipa": ""
+  },
+  {
+    "label": "ሎ",
+    "meta": "ethiopic syllable lo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶀ",
+    "meta": "ethiopic syllable loa",
+    "ipa": ""
+  },
+  {
+    "label": "ሉ",
+    "meta": "ethiopic syllable lu",
+    "ipa": ""
+  },
+  {
+    "label": "ሏ",
+    "meta": "ethiopic syllable lwa",
+    "ipa": ""
+  },
+  {
+    "label": "መ",
+    "meta": "ethiopic syllable ma",
+    "ipa": ""
+  },
+  {
+    "label": "ማ",
+    "meta": "ethiopic syllable maa",
+    "ipa": ""
+  },
+  {
+    "label": "ም",
+    "meta": "ethiopic syllable me",
+    "ipa": ""
+  },
+  {
+    "label": "ሜ",
+    "meta": "ethiopic syllable mee",
+    "ipa": ""
+  },
+  {
+    "label": "ሚ",
+    "meta": "ethiopic syllable mi",
+    "ipa": ""
+  },
+  {
+    "label": "ሞ",
+    "meta": "ethiopic syllable mo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶁ",
+    "meta": "ethiopic syllable moa",
+    "ipa": ""
+  },
+  {
+    "label": "ሙ",
+    "meta": "ethiopic syllable mu",
+    "ipa": ""
+  },
+  {
+    "label": "ሟ",
+    "meta": "ethiopic syllable mwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎃ",
+    "meta": "ethiopic syllable mwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᎂ",
+    "meta": "ethiopic syllable mwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᎁ",
+    "meta": "ethiopic syllable mwi",
+    "ipa": ""
+  },
+  {
+    "label": "ፙ",
+    "meta": "ethiopic syllable mya",
+    "ipa": ""
+  },
+  {
+    "label": "ነ",
+    "meta": "ethiopic syllable na",
+    "ipa": ""
+  },
+  {
+    "label": "ና",
+    "meta": "ethiopic syllable naa",
+    "ipa": ""
+  },
+  {
+    "label": "ን",
+    "meta": "ethiopic syllable ne",
+    "ipa": ""
+  },
+  {
+    "label": "ኔ",
+    "meta": "ethiopic syllable nee",
+    "ipa": ""
+  },
+  {
+    "label": "ኒ",
+    "meta": "ethiopic syllable ni",
+    "ipa": ""
+  },
+  {
+    "label": "ኖ",
+    "meta": "ethiopic syllable no",
+    "ipa": ""
+  },
+  {
+    "label": "ⶈ",
+    "meta": "ethiopic syllable noa",
+    "ipa": ""
+  },
+  {
+    "label": "ኑ",
+    "meta": "ethiopic syllable nu",
+    "ipa": ""
+  },
+  {
+    "label": "ኗ",
+    "meta": "ethiopic syllable nwa",
+    "ipa": ""
+  },
+  {
+    "label": "ኘ",
+    "meta": "ethiopic syllable nya",
+    "ipa": ""
+  },
+  {
+    "label": "ኛ",
+    "meta": "ethiopic syllable nyaa",
+    "ipa": ""
+  },
+  {
+    "label": "ኝ",
+    "meta": "ethiopic syllable nye",
+    "ipa": ""
+  },
+  {
+    "label": "ኜ",
+    "meta": "ethiopic syllable nyee",
+    "ipa": ""
+  },
+  {
+    "label": "ኚ",
+    "meta": "ethiopic syllable nyi",
+    "ipa": ""
+  },
+  {
+    "label": "ኞ",
+    "meta": "ethiopic syllable nyo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶉ",
+    "meta": "ethiopic syllable nyoa",
+    "ipa": ""
+  },
+  {
+    "label": "ኙ",
+    "meta": "ethiopic syllable nyu",
+    "ipa": ""
+  },
+  {
+    "label": "ኟ",
+    "meta": "ethiopic syllable nywa",
+    "ipa": ""
+  },
+  {
+    "label": "ፐ",
+    "meta": "ethiopic syllable pa",
+    "ipa": ""
+  },
+  {
+    "label": "ፓ",
+    "meta": "ethiopic syllable paa",
+    "ipa": ""
+  },
+  {
+    "label": "ፕ",
+    "meta": "ethiopic syllable pe",
+    "ipa": ""
+  },
+  {
+    "label": "ፔ",
+    "meta": "ethiopic syllable pee",
+    "ipa": ""
+  },
+  {
+    "label": "ጰ",
+    "meta": "ethiopic syllable pha",
+    "ipa": ""
+  },
+  {
+    "label": "ጳ",
+    "meta": "ethiopic syllable phaa",
+    "ipa": ""
+  },
+  {
+    "label": "ዐ",
+    "meta": "ethiopic syllable pharyngeal a",
+    "ipa": ""
+  },
+  {
+    "label": "ዓ",
+    "meta": "ethiopic syllable pharyngeal aa",
+    "ipa": ""
+  },
+  {
+    "label": "ዕ",
+    "meta": "ethiopic syllable pharyngeal e",
+    "ipa": ""
+  },
+  {
+    "label": "ዔ",
+    "meta": "ethiopic syllable pharyngeal ee",
+    "ipa": ""
+  },
+  {
+    "label": "ዒ",
+    "meta": "ethiopic syllable pharyngeal i",
+    "ipa": ""
+  },
+  {
+    "label": "ዖ",
+    "meta": "ethiopic syllable pharyngeal o",
+    "ipa": ""
+  },
+  {
+    "label": "ዑ",
+    "meta": "ethiopic syllable pharyngeal u",
+    "ipa": ""
+  },
+  {
+    "label": "ጵ",
+    "meta": "ethiopic syllable phe",
+    "ipa": ""
+  },
+  {
+    "label": "ጴ",
+    "meta": "ethiopic syllable phee",
+    "ipa": ""
+  },
+  {
+    "label": "ጲ",
+    "meta": "ethiopic syllable phi",
+    "ipa": ""
+  },
+  {
+    "label": "ጶ",
+    "meta": "ethiopic syllable pho",
+    "ipa": ""
+  },
+  {
+    "label": "ⶑ",
+    "meta": "ethiopic syllable phoa",
+    "ipa": ""
+  },
+  {
+    "label": "ጱ",
+    "meta": "ethiopic syllable phu",
+    "ipa": ""
+  },
+  {
+    "label": "ጷ",
+    "meta": "ethiopic syllable phwa",
+    "ipa": ""
+  },
+  {
+    "label": "ፒ",
+    "meta": "ethiopic syllable pi",
+    "ipa": ""
+  },
+  {
+    "label": "ፖ",
+    "meta": "ethiopic syllable po",
+    "ipa": ""
+  },
+  {
+    "label": "ⶒ",
+    "meta": "ethiopic syllable poa",
+    "ipa": ""
+  },
+  {
+    "label": "ፑ",
+    "meta": "ethiopic syllable pu",
+    "ipa": ""
+  },
+  {
+    "label": "ፗ",
+    "meta": "ethiopic syllable pwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎏ",
+    "meta": "ethiopic syllable pwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᎎ",
+    "meta": "ethiopic syllable pwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᎍ",
+    "meta": "ethiopic syllable pwi",
+    "ipa": ""
+  },
+  {
+    "label": "ቀ",
+    "meta": "ethiopic syllable qa",
+    "ipa": ""
+  },
+  {
+    "label": "ቃ",
+    "meta": "ethiopic syllable qaa",
+    "ipa": ""
+  },
+  {
+    "label": "ቅ",
+    "meta": "ethiopic syllable qe",
+    "ipa": ""
+  },
+  {
+    "label": "ቄ",
+    "meta": "ethiopic syllable qee",
+    "ipa": ""
+  },
+  {
+    "label": "ቐ",
+    "meta": "ethiopic syllable qha",
+    "ipa": ""
+  },
+  {
+    "label": "ቓ",
+    "meta": "ethiopic syllable qhaa",
+    "ipa": ""
+  },
+  {
+    "label": "ቕ",
+    "meta": "ethiopic syllable qhe",
+    "ipa": ""
+  },
+  {
+    "label": "ቔ",
+    "meta": "ethiopic syllable qhee",
+    "ipa": ""
+  },
+  {
+    "label": "ቒ",
+    "meta": "ethiopic syllable qhi",
+    "ipa": ""
+  },
+  {
+    "label": "ቖ",
+    "meta": "ethiopic syllable qho",
+    "ipa": ""
+  },
+  {
+    "label": "ቑ",
+    "meta": "ethiopic syllable qhu",
+    "ipa": ""
+  },
+  {
+    "label": "ቘ",
+    "meta": "ethiopic syllable qhwa",
+    "ipa": ""
+  },
+  {
+    "label": "ቛ",
+    "meta": "ethiopic syllable qhwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ቝ",
+    "meta": "ethiopic syllable qhwe",
+    "ipa": ""
+  },
+  {
+    "label": "ቜ",
+    "meta": "ethiopic syllable qhwee",
+    "ipa": ""
+  },
+  {
+    "label": "ቚ",
+    "meta": "ethiopic syllable qhwi",
+    "ipa": ""
+  },
+  {
+    "label": "ቂ",
+    "meta": "ethiopic syllable qi",
+    "ipa": ""
+  },
+  {
+    "label": "ቆ",
+    "meta": "ethiopic syllable qo",
+    "ipa": ""
+  },
+  {
+    "label": "ቇ",
+    "meta": "ethiopic syllable qoa",
+    "ipa": ""
+  },
+  {
+    "label": "ቁ",
+    "meta": "ethiopic syllable qu",
+    "ipa": ""
+  },
+  {
+    "label": "ቈ",
+    "meta": "ethiopic syllable qwa",
+    "ipa": ""
+  },
+  {
+    "label": "ቋ",
+    "meta": "ethiopic syllable qwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ቍ",
+    "meta": "ethiopic syllable qwe",
+    "ipa": ""
+  },
+  {
+    "label": "ቌ",
+    "meta": "ethiopic syllable qwee",
+    "ipa": ""
+  },
+  {
+    "label": "ቊ",
+    "meta": "ethiopic syllable qwi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷀ",
+    "meta": "ethiopic syllable qya",
+    "ipa": ""
+  },
+  {
+    "label": "ⷃ",
+    "meta": "ethiopic syllable qyaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⷅ",
+    "meta": "ethiopic syllable qye",
+    "ipa": ""
+  },
+  {
+    "label": "ⷄ",
+    "meta": "ethiopic syllable qyee",
+    "ipa": ""
+  },
+  {
+    "label": "ⷂ",
+    "meta": "ethiopic syllable qyi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷆ",
+    "meta": "ethiopic syllable qyo",
+    "ipa": ""
+  },
+  {
+    "label": "ⷁ",
+    "meta": "ethiopic syllable qyu",
+    "ipa": ""
+  },
+  {
+    "label": "ረ",
+    "meta": "ethiopic syllable ra",
+    "ipa": ""
+  },
+  {
+    "label": "ራ",
+    "meta": "ethiopic syllable raa",
+    "ipa": ""
+  },
+  {
+    "label": "ር",
+    "meta": "ethiopic syllable re",
+    "ipa": ""
+  },
+  {
+    "label": "ሬ",
+    "meta": "ethiopic syllable ree",
+    "ipa": ""
+  },
+  {
+    "label": "ሪ",
+    "meta": "ethiopic syllable ri",
+    "ipa": ""
+  },
+  {
+    "label": "ሮ",
+    "meta": "ethiopic syllable ro",
+    "ipa": ""
+  },
+  {
+    "label": "ⶂ",
+    "meta": "ethiopic syllable roa",
+    "ipa": ""
+  },
+  {
+    "label": "ሩ",
+    "meta": "ethiopic syllable ru",
+    "ipa": ""
+  },
+  {
+    "label": "ሯ",
+    "meta": "ethiopic syllable rwa",
+    "ipa": ""
+  },
+  {
+    "label": "ፘ",
+    "meta": "ethiopic syllable rya",
+    "ipa": ""
+  },
+  {
+    "label": "ሰ",
+    "meta": "ethiopic syllable sa",
+    "ipa": ""
+  },
+  {
+    "label": "ሳ",
+    "meta": "ethiopic syllable saa",
+    "ipa": ""
+  },
+  {
+    "label": "ስ",
+    "meta": "ethiopic syllable se",
+    "ipa": ""
+  },
+  {
+    "label": "ᎄ",
+    "meta": "ethiopic syllable sebatbeit bwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎈ",
+    "meta": "ethiopic syllable sebatbeit fwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎀ",
+    "meta": "ethiopic syllable sebatbeit mwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᎌ",
+    "meta": "ethiopic syllable sebatbeit pwa",
+    "ipa": ""
+  },
+  {
+    "label": "ሴ",
+    "meta": "ethiopic syllable see",
+    "ipa": ""
+  },
+  {
+    "label": "ሸ",
+    "meta": "ethiopic syllable sha",
+    "ipa": ""
+  },
+  {
+    "label": "ሻ",
+    "meta": "ethiopic syllable shaa",
+    "ipa": ""
+  },
+  {
+    "label": "ሽ",
+    "meta": "ethiopic syllable she",
+    "ipa": ""
+  },
+  {
+    "label": "ሼ",
+    "meta": "ethiopic syllable shee",
+    "ipa": ""
+  },
+  {
+    "label": "ሺ",
+    "meta": "ethiopic syllable shi",
+    "ipa": ""
+  },
+  {
+    "label": "ሾ",
+    "meta": "ethiopic syllable sho",
+    "ipa": ""
+  },
+  {
+    "label": "ⶄ",
+    "meta": "ethiopic syllable shoa",
+    "ipa": ""
+  },
+  {
+    "label": "ሹ",
+    "meta": "ethiopic syllable shu",
+    "ipa": ""
+  },
+  {
+    "label": "ሿ",
+    "meta": "ethiopic syllable shwa",
+    "ipa": ""
+  },
+  {
+    "label": "ሲ",
+    "meta": "ethiopic syllable si",
+    "ipa": ""
+  },
+  {
+    "label": "ሶ",
+    "meta": "ethiopic syllable so",
+    "ipa": ""
+  },
+  {
+    "label": "ⶃ",
+    "meta": "ethiopic syllable soa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶠ",
+    "meta": "ethiopic syllable ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶣ",
+    "meta": "ethiopic syllable ssaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶥ",
+    "meta": "ethiopic syllable sse",
+    "ipa": ""
+  },
+  {
+    "label": "ⶤ",
+    "meta": "ethiopic syllable ssee",
+    "ipa": ""
+  },
+  {
+    "label": "ⶢ",
+    "meta": "ethiopic syllable ssi",
+    "ipa": ""
+  },
+  {
+    "label": "ⶦ",
+    "meta": "ethiopic syllable sso",
+    "ipa": ""
+  },
+  {
+    "label": "ⶡ",
+    "meta": "ethiopic syllable ssu",
+    "ipa": ""
+  },
+  {
+    "label": "ሱ",
+    "meta": "ethiopic syllable su",
+    "ipa": ""
+  },
+  {
+    "label": "ሷ",
+    "meta": "ethiopic syllable swa",
+    "ipa": ""
+  },
+  {
+    "label": "ሠ",
+    "meta": "ethiopic syllable sza",
+    "ipa": ""
+  },
+  {
+    "label": "ሣ",
+    "meta": "ethiopic syllable szaa",
+    "ipa": ""
+  },
+  {
+    "label": "ሥ",
+    "meta": "ethiopic syllable sze",
+    "ipa": ""
+  },
+  {
+    "label": "ሤ",
+    "meta": "ethiopic syllable szee",
+    "ipa": ""
+  },
+  {
+    "label": "ሢ",
+    "meta": "ethiopic syllable szi",
+    "ipa": ""
+  },
+  {
+    "label": "ሦ",
+    "meta": "ethiopic syllable szo",
+    "ipa": ""
+  },
+  {
+    "label": "ሡ",
+    "meta": "ethiopic syllable szu",
+    "ipa": ""
+  },
+  {
+    "label": "ሧ",
+    "meta": "ethiopic syllable szwa",
+    "ipa": ""
+  },
+  {
+    "label": "ተ",
+    "meta": "ethiopic syllable ta",
+    "ipa": ""
+  },
+  {
+    "label": "ታ",
+    "meta": "ethiopic syllable taa",
+    "ipa": ""
+  },
+  {
+    "label": "ት",
+    "meta": "ethiopic syllable te",
+    "ipa": ""
+  },
+  {
+    "label": "ቴ",
+    "meta": "ethiopic syllable tee",
+    "ipa": ""
+  },
+  {
+    "label": "ጠ",
+    "meta": "ethiopic syllable tha",
+    "ipa": ""
+  },
+  {
+    "label": "ጣ",
+    "meta": "ethiopic syllable thaa",
+    "ipa": ""
+  },
+  {
+    "label": "ጥ",
+    "meta": "ethiopic syllable the",
+    "ipa": ""
+  },
+  {
+    "label": "ጤ",
+    "meta": "ethiopic syllable thee",
+    "ipa": ""
+  },
+  {
+    "label": "ጢ",
+    "meta": "ethiopic syllable thi",
+    "ipa": ""
+  },
+  {
+    "label": "ጦ",
+    "meta": "ethiopic syllable tho",
+    "ipa": ""
+  },
+  {
+    "label": "ⶏ",
+    "meta": "ethiopic syllable thoa",
+    "ipa": ""
+  },
+  {
+    "label": "ጡ",
+    "meta": "ethiopic syllable thu",
+    "ipa": ""
+  },
+  {
+    "label": "ጧ",
+    "meta": "ethiopic syllable thwa",
+    "ipa": ""
+  },
+  {
+    "label": "ቲ",
+    "meta": "ethiopic syllable ti",
+    "ipa": ""
+  },
+  {
+    "label": "ቶ",
+    "meta": "ethiopic syllable to",
+    "ipa": ""
+  },
+  {
+    "label": "ⶆ",
+    "meta": "ethiopic syllable toa",
+    "ipa": ""
+  },
+  {
+    "label": "ጸ",
+    "meta": "ethiopic syllable tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ጻ",
+    "meta": "ethiopic syllable tsaa",
+    "ipa": ""
+  },
+  {
+    "label": "ጽ",
+    "meta": "ethiopic syllable tse",
+    "ipa": ""
+  },
+  {
+    "label": "ጼ",
+    "meta": "ethiopic syllable tsee",
+    "ipa": ""
+  },
+  {
+    "label": "ጺ",
+    "meta": "ethiopic syllable tsi",
+    "ipa": ""
+  },
+  {
+    "label": "ጾ",
+    "meta": "ethiopic syllable tso",
+    "ipa": ""
+  },
+  {
+    "label": "ጹ",
+    "meta": "ethiopic syllable tsu",
+    "ipa": ""
+  },
+  {
+    "label": "ጿ",
+    "meta": "ethiopic syllable tswa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬃ",
+    "meta": "ethiopic syllable tthaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꬅ",
+    "meta": "ethiopic syllable tthe",
+    "ipa": ""
+  },
+  {
+    "label": "ꬄ",
+    "meta": "ethiopic syllable tthee",
+    "ipa": ""
+  },
+  {
+    "label": "ꬂ",
+    "meta": "ethiopic syllable tthi",
+    "ipa": ""
+  },
+  {
+    "label": "ꬆ",
+    "meta": "ethiopic syllable ttho",
+    "ipa": ""
+  },
+  {
+    "label": "ꬁ",
+    "meta": "ethiopic syllable tthu",
+    "ipa": ""
+  },
+  {
+    "label": "ቱ",
+    "meta": "ethiopic syllable tu",
+    "ipa": ""
+  },
+  {
+    "label": "ቷ",
+    "meta": "ethiopic syllable twa",
+    "ipa": ""
+  },
+  {
+    "label": "ፀ",
+    "meta": "ethiopic syllable tza",
+    "ipa": ""
+  },
+  {
+    "label": "ፃ",
+    "meta": "ethiopic syllable tzaa",
+    "ipa": ""
+  },
+  {
+    "label": "ፅ",
+    "meta": "ethiopic syllable tze",
+    "ipa": ""
+  },
+  {
+    "label": "ፄ",
+    "meta": "ethiopic syllable tzee",
+    "ipa": ""
+  },
+  {
+    "label": "ፂ",
+    "meta": "ethiopic syllable tzi",
+    "ipa": ""
+  },
+  {
+    "label": "ፆ",
+    "meta": "ethiopic syllable tzo",
+    "ipa": ""
+  },
+  {
+    "label": "ፇ",
+    "meta": "ethiopic syllable tzoa",
+    "ipa": ""
+  },
+  {
+    "label": "ፁ",
+    "meta": "ethiopic syllable tzu",
+    "ipa": ""
+  },
+  {
+    "label": "ቨ",
+    "meta": "ethiopic syllable va",
+    "ipa": ""
+  },
+  {
+    "label": "ቫ",
+    "meta": "ethiopic syllable vaa",
+    "ipa": ""
+  },
+  {
+    "label": "ቭ",
+    "meta": "ethiopic syllable ve",
+    "ipa": ""
+  },
+  {
+    "label": "ቬ",
+    "meta": "ethiopic syllable vee",
+    "ipa": ""
+  },
+  {
+    "label": "ቪ",
+    "meta": "ethiopic syllable vi",
+    "ipa": ""
+  },
+  {
+    "label": "ቮ",
+    "meta": "ethiopic syllable vo",
+    "ipa": ""
+  },
+  {
+    "label": "ቩ",
+    "meta": "ethiopic syllable vu",
+    "ipa": ""
+  },
+  {
+    "label": "ቯ",
+    "meta": "ethiopic syllable vwa",
+    "ipa": ""
+  },
+  {
+    "label": "ወ",
+    "meta": "ethiopic syllable wa",
+    "ipa": ""
+  },
+  {
+    "label": "ዋ",
+    "meta": "ethiopic syllable waa",
+    "ipa": ""
+  },
+  {
+    "label": "ው",
+    "meta": "ethiopic syllable we",
+    "ipa": ""
+  },
+  {
+    "label": "ዌ",
+    "meta": "ethiopic syllable wee",
+    "ipa": ""
+  },
+  {
+    "label": "ዊ",
+    "meta": "ethiopic syllable wi",
+    "ipa": ""
+  },
+  {
+    "label": "ዎ",
+    "meta": "ethiopic syllable wo",
+    "ipa": ""
+  },
+  {
+    "label": "ዏ",
+    "meta": "ethiopic syllable woa",
+    "ipa": ""
+  },
+  {
+    "label": "ዉ",
+    "meta": "ethiopic syllable wu",
+    "ipa": ""
+  },
+  {
+    "label": "ኀ",
+    "meta": "ethiopic syllable xa",
+    "ipa": ""
+  },
+  {
+    "label": "ኃ",
+    "meta": "ethiopic syllable xaa",
+    "ipa": ""
+  },
+  {
+    "label": "ኅ",
+    "meta": "ethiopic syllable xe",
+    "ipa": ""
+  },
+  {
+    "label": "ኄ",
+    "meta": "ethiopic syllable xee",
+    "ipa": ""
+  },
+  {
+    "label": "ኂ",
+    "meta": "ethiopic syllable xi",
+    "ipa": ""
+  },
+  {
+    "label": "ኆ",
+    "meta": "ethiopic syllable xo",
+    "ipa": ""
+  },
+  {
+    "label": "ኇ",
+    "meta": "ethiopic syllable xoa",
+    "ipa": ""
+  },
+  {
+    "label": "ኁ",
+    "meta": "ethiopic syllable xu",
+    "ipa": ""
+  },
+  {
+    "label": "ኈ",
+    "meta": "ethiopic syllable xwa",
+    "ipa": ""
+  },
+  {
+    "label": "ኋ",
+    "meta": "ethiopic syllable xwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ኍ",
+    "meta": "ethiopic syllable xwe",
+    "ipa": ""
+  },
+  {
+    "label": "ኌ",
+    "meta": "ethiopic syllable xwee",
+    "ipa": ""
+  },
+  {
+    "label": "ኊ",
+    "meta": "ethiopic syllable xwi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷐ",
+    "meta": "ethiopic syllable xya",
+    "ipa": ""
+  },
+  {
+    "label": "ⷓ",
+    "meta": "ethiopic syllable xyaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⷕ",
+    "meta": "ethiopic syllable xye",
+    "ipa": ""
+  },
+  {
+    "label": "ⷔ",
+    "meta": "ethiopic syllable xyee",
+    "ipa": ""
+  },
+  {
+    "label": "ⷒ",
+    "meta": "ethiopic syllable xyi",
+    "ipa": ""
+  },
+  {
+    "label": "ⷖ",
+    "meta": "ethiopic syllable xyo",
+    "ipa": ""
+  },
+  {
+    "label": "ⷑ",
+    "meta": "ethiopic syllable xyu",
+    "ipa": ""
+  },
+  {
+    "label": "የ",
+    "meta": "ethiopic syllable ya",
+    "ipa": ""
+  },
+  {
+    "label": "ያ",
+    "meta": "ethiopic syllable yaa",
+    "ipa": ""
+  },
+  {
+    "label": "ይ",
+    "meta": "ethiopic syllable ye",
+    "ipa": ""
+  },
+  {
+    "label": "ዬ",
+    "meta": "ethiopic syllable yee",
+    "ipa": ""
+  },
+  {
+    "label": "ዪ",
+    "meta": "ethiopic syllable yi",
+    "ipa": ""
+  },
+  {
+    "label": "ዮ",
+    "meta": "ethiopic syllable yo",
+    "ipa": ""
+  },
+  {
+    "label": "ዯ",
+    "meta": "ethiopic syllable yoa",
+    "ipa": ""
+  },
+  {
+    "label": "ዩ",
+    "meta": "ethiopic syllable yu",
+    "ipa": ""
+  },
+  {
+    "label": "ዘ",
+    "meta": "ethiopic syllable za",
+    "ipa": ""
+  },
+  {
+    "label": "ዛ",
+    "meta": "ethiopic syllable zaa",
+    "ipa": ""
+  },
+  {
+    "label": "ዝ",
+    "meta": "ethiopic syllable ze",
+    "ipa": ""
+  },
+  {
+    "label": "ዜ",
+    "meta": "ethiopic syllable zee",
+    "ipa": ""
+  },
+  {
+    "label": "ዠ",
+    "meta": "ethiopic syllable zha",
+    "ipa": ""
+  },
+  {
+    "label": "ዣ",
+    "meta": "ethiopic syllable zhaa",
+    "ipa": ""
+  },
+  {
+    "label": "ዥ",
+    "meta": "ethiopic syllable zhe",
+    "ipa": ""
+  },
+  {
+    "label": "ዤ",
+    "meta": "ethiopic syllable zhee",
+    "ipa": ""
+  },
+  {
+    "label": "ዢ",
+    "meta": "ethiopic syllable zhi",
+    "ipa": ""
+  },
+  {
+    "label": "ዦ",
+    "meta": "ethiopic syllable zho",
+    "ipa": ""
+  },
+  {
+    "label": "ዡ",
+    "meta": "ethiopic syllable zhu",
+    "ipa": ""
+  },
+  {
+    "label": "ዧ",
+    "meta": "ethiopic syllable zhwa",
+    "ipa": ""
+  },
+  {
+    "label": "ዚ",
+    "meta": "ethiopic syllable zi",
+    "ipa": ""
+  },
+  {
+    "label": "ዞ",
+    "meta": "ethiopic syllable zo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶋ",
+    "meta": "ethiopic syllable zoa",
+    "ipa": ""
+  },
+  {
+    "label": "ዙ",
+    "meta": "ethiopic syllable zu",
+    "ipa": ""
+  },
+  {
+    "label": "ዟ",
+    "meta": "ethiopic syllable zwa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶰ",
+    "meta": "ethiopic syllable zza",
+    "ipa": ""
+  },
+  {
+    "label": "ⶳ",
+    "meta": "ethiopic syllable zzaa",
+    "ipa": ""
+  },
+  {
+    "label": "ⶵ",
+    "meta": "ethiopic syllable zze",
+    "ipa": ""
+  },
+  {
+    "label": "ⶴ",
+    "meta": "ethiopic syllable zzee",
+    "ipa": ""
+  },
+  {
+    "label": "ⶲ",
+    "meta": "ethiopic syllable zzi",
+    "ipa": ""
+  },
+  {
+    "label": "ⶶ",
+    "meta": "ethiopic syllable zzo",
+    "ipa": ""
+  },
+  {
+    "label": "ⶱ",
+    "meta": "ethiopic syllable zzu",
+    "ipa": ""
+  },
+  {
+    "label": "᎖",
+    "meta": "ethiopic tonal mark chiret",
+    "ipa": ""
+  },
+  {
+    "label": "᎑",
+    "meta": "ethiopic tonal mark deret",
+    "ipa": ""
+  },
+  {
+    "label": "᎘",
+    "meta": "ethiopic tonal mark deret-hidet",
+    "ipa": ""
+  },
+  {
+    "label": "᎔",
+    "meta": "ethiopic tonal mark difat",
+    "ipa": ""
+  },
+  {
+    "label": "᎗",
+    "meta": "ethiopic tonal mark hidet",
+    "ipa": ""
+  },
+  {
+    "label": "᎕",
+    "meta": "ethiopic tonal mark kenat",
+    "ipa": ""
+  },
+  {
+    "label": "᎙",
+    "meta": "ethiopic tonal mark kurt",
+    "ipa": ""
+  },
+  {
+    "label": "᎒",
+    "meta": "ethiopic tonal mark rikrik",
+    "ipa": ""
+  },
+  {
+    "label": "᎓",
+    "meta": "ethiopic tonal mark short rikrik",
+    "ipa": ""
+  },
+  {
+    "label": "᎐",
+    "meta": "ethiopic tonal mark yizet",
+    "ipa": ""
+  },
+  {
+    "label": "፡",
+    "meta": "ethiopic wordspace",
+    "ipa": ""
+  }
+]

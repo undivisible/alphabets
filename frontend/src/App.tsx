@@ -75,7 +75,7 @@ export default function App() {
       return;
     }
     setLoading(true);
-    fetch(`./data/${language}.json`)
+    fetch(`./data/${language}-${variant}.json`)
       .then(res => res.json())
       .then(data => {
         setDynamicItems(data);
@@ -85,7 +85,7 @@ export default function App() {
         console.error("Failed to load script data", err);
         setLoading(false);
       });
-  }, [language]);
+  }, [language, variant]);
 
   const languageLookup = useMemo(() => languageOptions.map((entry: any) => ({ key: entry.value, normalized: normalizeText(entry.label) })), [languageOptions]);
   const variantLookup = useMemo(() => {

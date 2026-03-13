@@ -1,0 +1,7407 @@
+[
+  {
+    "label": "Å",
+    "meta": "angstrom sign",
+    "ipa": ""
+  },
+  {
+    "label": "ª",
+    "meta": "feminine ordinal indicator",
+    "ipa": ""
+  },
+  {
+    "label": "Ａ",
+    "meta": "fullwidth latin capital letter a",
+    "ipa": ""
+  },
+  {
+    "label": "Ｂ",
+    "meta": "fullwidth latin capital letter b",
+    "ipa": ""
+  },
+  {
+    "label": "Ｃ",
+    "meta": "fullwidth latin capital letter c",
+    "ipa": ""
+  },
+  {
+    "label": "Ｄ",
+    "meta": "fullwidth latin capital letter d",
+    "ipa": ""
+  },
+  {
+    "label": "Ｅ",
+    "meta": "fullwidth latin capital letter e",
+    "ipa": ""
+  },
+  {
+    "label": "Ｆ",
+    "meta": "fullwidth latin capital letter f",
+    "ipa": ""
+  },
+  {
+    "label": "Ｇ",
+    "meta": "fullwidth latin capital letter g",
+    "ipa": ""
+  },
+  {
+    "label": "Ｈ",
+    "meta": "fullwidth latin capital letter h",
+    "ipa": ""
+  },
+  {
+    "label": "Ｉ",
+    "meta": "fullwidth latin capital letter i",
+    "ipa": ""
+  },
+  {
+    "label": "Ｊ",
+    "meta": "fullwidth latin capital letter j",
+    "ipa": ""
+  },
+  {
+    "label": "Ｋ",
+    "meta": "fullwidth latin capital letter k",
+    "ipa": ""
+  },
+  {
+    "label": "Ｌ",
+    "meta": "fullwidth latin capital letter l",
+    "ipa": ""
+  },
+  {
+    "label": "Ｍ",
+    "meta": "fullwidth latin capital letter m",
+    "ipa": ""
+  },
+  {
+    "label": "Ｎ",
+    "meta": "fullwidth latin capital letter n",
+    "ipa": ""
+  },
+  {
+    "label": "Ｏ",
+    "meta": "fullwidth latin capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ｐ",
+    "meta": "fullwidth latin capital letter p",
+    "ipa": ""
+  },
+  {
+    "label": "Ｑ",
+    "meta": "fullwidth latin capital letter q",
+    "ipa": ""
+  },
+  {
+    "label": "Ｒ",
+    "meta": "fullwidth latin capital letter r",
+    "ipa": ""
+  },
+  {
+    "label": "Ｓ",
+    "meta": "fullwidth latin capital letter s",
+    "ipa": ""
+  },
+  {
+    "label": "Ｔ",
+    "meta": "fullwidth latin capital letter t",
+    "ipa": ""
+  },
+  {
+    "label": "Ｕ",
+    "meta": "fullwidth latin capital letter u",
+    "ipa": ""
+  },
+  {
+    "label": "Ｖ",
+    "meta": "fullwidth latin capital letter v",
+    "ipa": ""
+  },
+  {
+    "label": "Ｗ",
+    "meta": "fullwidth latin capital letter w",
+    "ipa": ""
+  },
+  {
+    "label": "Ｘ",
+    "meta": "fullwidth latin capital letter x",
+    "ipa": ""
+  },
+  {
+    "label": "Ｙ",
+    "meta": "fullwidth latin capital letter y",
+    "ipa": ""
+  },
+  {
+    "label": "Ｚ",
+    "meta": "fullwidth latin capital letter z",
+    "ipa": ""
+  },
+  {
+    "label": "ａ",
+    "meta": "fullwidth latin small letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ｂ",
+    "meta": "fullwidth latin small letter b",
+    "ipa": ""
+  },
+  {
+    "label": "ｃ",
+    "meta": "fullwidth latin small letter c",
+    "ipa": ""
+  },
+  {
+    "label": "ｄ",
+    "meta": "fullwidth latin small letter d",
+    "ipa": ""
+  },
+  {
+    "label": "ｅ",
+    "meta": "fullwidth latin small letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ｆ",
+    "meta": "fullwidth latin small letter f",
+    "ipa": ""
+  },
+  {
+    "label": "ｇ",
+    "meta": "fullwidth latin small letter g",
+    "ipa": ""
+  },
+  {
+    "label": "ｈ",
+    "meta": "fullwidth latin small letter h",
+    "ipa": ""
+  },
+  {
+    "label": "ｉ",
+    "meta": "fullwidth latin small letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ｊ",
+    "meta": "fullwidth latin small letter j",
+    "ipa": ""
+  },
+  {
+    "label": "ｋ",
+    "meta": "fullwidth latin small letter k",
+    "ipa": ""
+  },
+  {
+    "label": "ｌ",
+    "meta": "fullwidth latin small letter l",
+    "ipa": ""
+  },
+  {
+    "label": "ｍ",
+    "meta": "fullwidth latin small letter m",
+    "ipa": ""
+  },
+  {
+    "label": "ｎ",
+    "meta": "fullwidth latin small letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ｏ",
+    "meta": "fullwidth latin small letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ｐ",
+    "meta": "fullwidth latin small letter p",
+    "ipa": ""
+  },
+  {
+    "label": "ｑ",
+    "meta": "fullwidth latin small letter q",
+    "ipa": ""
+  },
+  {
+    "label": "ｒ",
+    "meta": "fullwidth latin small letter r",
+    "ipa": ""
+  },
+  {
+    "label": "ｓ",
+    "meta": "fullwidth latin small letter s",
+    "ipa": ""
+  },
+  {
+    "label": "ｔ",
+    "meta": "fullwidth latin small letter t",
+    "ipa": ""
+  },
+  {
+    "label": "ｕ",
+    "meta": "fullwidth latin small letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ｖ",
+    "meta": "fullwidth latin small letter v",
+    "ipa": ""
+  },
+  {
+    "label": "ｗ",
+    "meta": "fullwidth latin small letter w",
+    "ipa": ""
+  },
+  {
+    "label": "ｘ",
+    "meta": "fullwidth latin small letter x",
+    "ipa": ""
+  },
+  {
+    "label": "ｙ",
+    "meta": "fullwidth latin small letter y",
+    "ipa": ""
+  },
+  {
+    "label": "ｚ",
+    "meta": "fullwidth latin small letter z",
+    "ipa": ""
+  },
+  {
+    "label": "K",
+    "meta": "kelvin sign",
+    "ipa": ""
+  },
+  {
+    "label": "A",
+    "meta": "latin capital letter a",
+    "ipa": ""
+  },
+  {
+    "label": "Á",
+    "meta": "latin capital letter a with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ă",
+    "meta": "latin capital letter a with breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ắ",
+    "meta": "latin capital letter a with breve and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ặ",
+    "meta": "latin capital letter a with breve and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ằ",
+    "meta": "latin capital letter a with breve and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ẳ",
+    "meta": "latin capital letter a with breve and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ẵ",
+    "meta": "latin capital letter a with breve and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ǎ",
+    "meta": "latin capital letter a with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Â",
+    "meta": "latin capital letter a with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ấ",
+    "meta": "latin capital letter a with circumflex and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ậ",
+    "meta": "latin capital letter a with circumflex and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ầ",
+    "meta": "latin capital letter a with circumflex and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ẩ",
+    "meta": "latin capital letter a with circumflex and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ẫ",
+    "meta": "latin capital letter a with circumflex and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ä",
+    "meta": "latin capital letter a with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ǟ",
+    "meta": "latin capital letter a with diaeresis and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ȧ",
+    "meta": "latin capital letter a with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ǡ",
+    "meta": "latin capital letter a with dot above and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ạ",
+    "meta": "latin capital letter a with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ȁ",
+    "meta": "latin capital letter a with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "À",
+    "meta": "latin capital letter a with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ả",
+    "meta": "latin capital letter a with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ȃ",
+    "meta": "latin capital letter a with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ā",
+    "meta": "latin capital letter a with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ą",
+    "meta": "latin capital letter a with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "Å",
+    "meta": "latin capital letter a with ring above",
+    "ipa": ""
+  },
+  {
+    "label": "Ǻ",
+    "meta": "latin capital letter a with ring above and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ḁ",
+    "meta": "latin capital letter a with ring below",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱥ",
+    "meta": "latin capital letter a with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ã",
+    "meta": "latin capital letter a with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜳ",
+    "meta": "latin capital letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "Æ",
+    "meta": "latin capital letter ae",
+    "ipa": ""
+  },
+  {
+    "label": "Ǽ",
+    "meta": "latin capital letter ae with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ǣ",
+    "meta": "latin capital letter ae with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ɖ",
+    "meta": "latin capital letter african d",
+    "ipa": ""
+  },
+  {
+    "label": "Ɑ",
+    "meta": "latin capital letter alpha",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟃ",
+    "meta": "latin capital letter anglicana w",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜵ",
+    "meta": "latin capital letter ao",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜷ",
+    "meta": "latin capital letter au",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜹ",
+    "meta": "latin capital letter av",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜻ",
+    "meta": "latin capital letter av with horizontal bar",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜽ",
+    "meta": "latin capital letter ay",
+    "ipa": ""
+  },
+  {
+    "label": "B",
+    "meta": "latin capital letter b",
+    "ipa": ""
+  },
+  {
+    "label": "Ḃ",
+    "meta": "latin capital letter b with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ḅ",
+    "meta": "latin capital letter b with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞗ",
+    "meta": "latin capital letter b with flourish",
+    "ipa": ""
+  },
+  {
+    "label": "Ɓ",
+    "meta": "latin capital letter b with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ḇ",
+    "meta": "latin capital letter b with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ƀ",
+    "meta": "latin capital letter b with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ƃ",
+    "meta": "latin capital letter b with topbar",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞵ",
+    "meta": "latin capital letter beta",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝇ",
+    "meta": "latin capital letter broken l",
+    "ipa": ""
+  },
+  {
+    "label": "C",
+    "meta": "latin capital letter c",
+    "ipa": ""
+  },
+  {
+    "label": "Ć",
+    "meta": "latin capital letter c with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞓ",
+    "meta": "latin capital letter c with bar",
+    "ipa": ""
+  },
+  {
+    "label": "Č",
+    "meta": "latin capital letter c with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ç",
+    "meta": "latin capital letter c with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ḉ",
+    "meta": "latin capital letter c with cedilla and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ĉ",
+    "meta": "latin capital letter c with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ċ",
+    "meta": "latin capital letter c with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ƈ",
+    "meta": "latin capital letter c with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞔ",
+    "meta": "latin capital letter c with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ȼ",
+    "meta": "latin capital letter c with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭓ",
+    "meta": "latin capital letter chi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟑ",
+    "meta": "latin capital letter closed insular g",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝯ",
+    "meta": "latin capital letter con",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜭ",
+    "meta": "latin capital letter cuatrillo",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜯ",
+    "meta": "latin capital letter cuatrillo with comma",
+    "ipa": ""
+  },
+  {
+    "label": "D",
+    "meta": "latin capital letter d",
+    "ipa": ""
+  },
+  {
+    "label": "Ď",
+    "meta": "latin capital letter d with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ḑ",
+    "meta": "latin capital letter d with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ḓ",
+    "meta": "latin capital letter d with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "Ḋ",
+    "meta": "latin capital letter d with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ḍ",
+    "meta": "latin capital letter d with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ɗ",
+    "meta": "latin capital letter d with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ḏ",
+    "meta": "latin capital letter d with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟈ",
+    "meta": "latin capital letter d with short stroke overlay",
+    "ipa": ""
+  },
+  {
+    "label": "ǲ",
+    "meta": "latin capital letter d with small letter z",
+    "ipa": ""
+  },
+  {
+    "label": "ǅ",
+    "meta": "latin capital letter d with small letter z with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Đ",
+    "meta": "latin capital letter d with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ƌ",
+    "meta": "latin capital letter d with topbar",
+    "ipa": ""
+  },
+  {
+    "label": "Ǳ",
+    "meta": "latin capital letter dz",
+    "ipa": ""
+  },
+  {
+    "label": "Ǆ",
+    "meta": "latin capital letter dz with caron",
+    "ipa": ""
+  },
+  {
+    "label": "E",
+    "meta": "latin capital letter e",
+    "ipa": ""
+  },
+  {
+    "label": "É",
+    "meta": "latin capital letter e with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ĕ",
+    "meta": "latin capital letter e with breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ě",
+    "meta": "latin capital letter e with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ȩ",
+    "meta": "latin capital letter e with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ḝ",
+    "meta": "latin capital letter e with cedilla and breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ê",
+    "meta": "latin capital letter e with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ế",
+    "meta": "latin capital letter e with circumflex and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ệ",
+    "meta": "latin capital letter e with circumflex and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ề",
+    "meta": "latin capital letter e with circumflex and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ể",
+    "meta": "latin capital letter e with circumflex and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ễ",
+    "meta": "latin capital letter e with circumflex and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ḙ",
+    "meta": "latin capital letter e with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "Ë",
+    "meta": "latin capital letter e with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ė",
+    "meta": "latin capital letter e with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ẹ",
+    "meta": "latin capital letter e with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ȅ",
+    "meta": "latin capital letter e with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "È",
+    "meta": "latin capital letter e with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ẻ",
+    "meta": "latin capital letter e with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ȇ",
+    "meta": "latin capital letter e with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ē",
+    "meta": "latin capital letter e with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ḗ",
+    "meta": "latin capital letter e with macron and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ḕ",
+    "meta": "latin capital letter e with macron and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ę",
+    "meta": "latin capital letter e with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "Ɇ",
+    "meta": "latin capital letter e with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ẽ",
+    "meta": "latin capital letter e with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ḛ",
+    "meta": "latin capital letter e with tilde below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜥ",
+    "meta": "latin capital letter egyptological ain",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜣ",
+    "meta": "latin capital letter egyptological alef",
+    "ipa": ""
+  },
+  {
+    "label": "Ŋ",
+    "meta": "latin capital letter eng",
+    "ipa": ""
+  },
+  {
+    "label": "Ʃ",
+    "meta": "latin capital letter esh",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝫ",
+    "meta": "latin capital letter et",
+    "ipa": ""
+  },
+  {
+    "label": "Ð",
+    "meta": "latin capital letter eth",
+    "ipa": ""
+  },
+  {
+    "label": "Ʒ",
+    "meta": "latin capital letter ezh",
+    "ipa": ""
+  },
+  {
+    "label": "Ƹ",
+    "meta": "latin capital letter ezh reversed",
+    "ipa": ""
+  },
+  {
+    "label": "Ǯ",
+    "meta": "latin capital letter ezh with caron",
+    "ipa": ""
+  },
+  {
+    "label": "F",
+    "meta": "latin capital letter f",
+    "ipa": ""
+  },
+  {
+    "label": "Ḟ",
+    "meta": "latin capital letter f with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ƒ",
+    "meta": "latin capital letter f with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞙ",
+    "meta": "latin capital letter f with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "G",
+    "meta": "latin capital letter g",
+    "ipa": ""
+  },
+  {
+    "label": "Ǵ",
+    "meta": "latin capital letter g with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ğ",
+    "meta": "latin capital letter g with breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ǧ",
+    "meta": "latin capital letter g with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ģ",
+    "meta": "latin capital letter g with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ĝ",
+    "meta": "latin capital letter g with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ġ",
+    "meta": "latin capital letter g with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ɠ",
+    "meta": "latin capital letter g with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ḡ",
+    "meta": "latin capital letter g with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞡ",
+    "meta": "latin capital letter g with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ǥ",
+    "meta": "latin capital letter g with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ɣ",
+    "meta": "latin capital letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞻ",
+    "meta": "latin capital letter glottal a",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞽ",
+    "meta": "latin capital letter glottal i",
+    "ipa": ""
+  },
+  {
+    "label": "Ɂ",
+    "meta": "latin capital letter glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞿ",
+    "meta": "latin capital letter glottal u",
+    "ipa": ""
+  },
+  {
+    "label": "H",
+    "meta": "latin capital letter h",
+    "ipa": ""
+  },
+  {
+    "label": "Ḫ",
+    "meta": "latin capital letter h with breve below",
+    "ipa": ""
+  },
+  {
+    "label": "Ȟ",
+    "meta": "latin capital letter h with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ḩ",
+    "meta": "latin capital letter h with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ĥ",
+    "meta": "latin capital letter h with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱨ",
+    "meta": "latin capital letter h with descender",
+    "ipa": ""
+  },
+  {
+    "label": "Ḧ",
+    "meta": "latin capital letter h with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ḣ",
+    "meta": "latin capital letter h with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ḥ",
+    "meta": "latin capital letter h with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ɦ",
+    "meta": "latin capital letter h with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ħ",
+    "meta": "latin capital letter h with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱶ",
+    "meta": "latin capital letter half h",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜧ",
+    "meta": "latin capital letter heng",
+    "ipa": ""
+  },
+  {
+    "label": "Ƕ",
+    "meta": "latin capital letter hwair",
+    "ipa": ""
+  },
+  {
+    "label": "I",
+    "meta": "latin capital letter i",
+    "ipa": ""
+  },
+  {
+    "label": "Í",
+    "meta": "latin capital letter i with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ĭ",
+    "meta": "latin capital letter i with breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ǐ",
+    "meta": "latin capital letter i with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Î",
+    "meta": "latin capital letter i with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ï",
+    "meta": "latin capital letter i with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ḯ",
+    "meta": "latin capital letter i with diaeresis and acute",
+    "ipa": ""
+  },
+  {
+    "label": "İ",
+    "meta": "latin capital letter i with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ị",
+    "meta": "latin capital letter i with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ȉ",
+    "meta": "latin capital letter i with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ì",
+    "meta": "latin capital letter i with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ỉ",
+    "meta": "latin capital letter i with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ȋ",
+    "meta": "latin capital letter i with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ī",
+    "meta": "latin capital letter i with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Į",
+    "meta": "latin capital letter i with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "Ɨ",
+    "meta": "latin capital letter i with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ĩ",
+    "meta": "latin capital letter i with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ḭ",
+    "meta": "latin capital letter i with tilde below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝺ",
+    "meta": "latin capital letter insular d",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝼ",
+    "meta": "latin capital letter insular f",
+    "ipa": ""
+  },
+  {
+    "label": "Ᵹ",
+    "meta": "latin capital letter insular g",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞃ",
+    "meta": "latin capital letter insular r",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞅ",
+    "meta": "latin capital letter insular s",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞇ",
+    "meta": "latin capital letter insular t",
+    "ipa": ""
+  },
+  {
+    "label": "Ɩ",
+    "meta": "latin capital letter iota",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝭ",
+    "meta": "latin capital letter is",
+    "ipa": ""
+  },
+  {
+    "label": "J",
+    "meta": "latin capital letter j",
+    "ipa": ""
+  },
+  {
+    "label": "Ĵ",
+    "meta": "latin capital letter j with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ʝ",
+    "meta": "latin capital letter j with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "Ɉ",
+    "meta": "latin capital letter j with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "K",
+    "meta": "latin capital letter k",
+    "ipa": ""
+  },
+  {
+    "label": "Ḱ",
+    "meta": "latin capital letter k with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ǩ",
+    "meta": "latin capital letter k with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ķ",
+    "meta": "latin capital letter k with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱪ",
+    "meta": "latin capital letter k with descender",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝃ",
+    "meta": "latin capital letter k with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ḳ",
+    "meta": "latin capital letter k with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ƙ",
+    "meta": "latin capital letter k with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ḵ",
+    "meta": "latin capital letter k with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞣ",
+    "meta": "latin capital letter k with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝁ",
+    "meta": "latin capital letter k with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝅ",
+    "meta": "latin capital letter k with stroke and diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "L",
+    "meta": "latin capital letter l",
+    "ipa": ""
+  },
+  {
+    "label": "Ĺ",
+    "meta": "latin capital letter l with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ƚ",
+    "meta": "latin capital letter l with bar",
+    "ipa": ""
+  },
+  {
+    "label": "Ɬ",
+    "meta": "latin capital letter l with belt",
+    "ipa": ""
+  },
+  {
+    "label": "Ľ",
+    "meta": "latin capital letter l with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ļ",
+    "meta": "latin capital letter l with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ḽ",
+    "meta": "latin capital letter l with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "Ḷ",
+    "meta": "latin capital letter l with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ḹ",
+    "meta": "latin capital letter l with dot below and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱡ",
+    "meta": "latin capital letter l with double bar",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝉ",
+    "meta": "latin capital letter l with high stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ḻ",
+    "meta": "latin capital letter l with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ŀ",
+    "meta": "latin capital letter l with middle dot",
+    "ipa": ""
+  },
+  {
+    "label": "Ɫ",
+    "meta": "latin capital letter l with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ǈ",
+    "meta": "latin capital letter l with small letter j",
+    "ipa": ""
+  },
+  {
+    "label": "Ł",
+    "meta": "latin capital letter l with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ǉ",
+    "meta": "latin capital letter lj",
+    "ipa": ""
+  },
+  {
+    "label": "M",
+    "meta": "latin capital letter m",
+    "ipa": ""
+  },
+  {
+    "label": "Ḿ",
+    "meta": "latin capital letter m with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ṁ",
+    "meta": "latin capital letter m with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ṃ",
+    "meta": "latin capital letter m with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ɱ",
+    "meta": "latin capital letter m with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟗ",
+    "meta": "latin capital letter middle scots s",
+    "ipa": ""
+  },
+  {
+    "label": "Ỻ",
+    "meta": "latin capital letter middle-welsh ll",
+    "ipa": ""
+  },
+  {
+    "label": "Ỽ",
+    "meta": "latin capital letter middle-welsh v",
+    "ipa": ""
+  },
+  {
+    "label": "N",
+    "meta": "latin capital letter n",
+    "ipa": ""
+  },
+  {
+    "label": "Ń",
+    "meta": "latin capital letter n with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ň",
+    "meta": "latin capital letter n with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ņ",
+    "meta": "latin capital letter n with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ṋ",
+    "meta": "latin capital letter n with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞑ",
+    "meta": "latin capital letter n with descender",
+    "ipa": ""
+  },
+  {
+    "label": "Ṅ",
+    "meta": "latin capital letter n with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ṇ",
+    "meta": "latin capital letter n with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ǹ",
+    "meta": "latin capital letter n with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ɲ",
+    "meta": "latin capital letter n with left hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ṉ",
+    "meta": "latin capital letter n with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ƞ",
+    "meta": "latin capital letter n with long right leg",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞥ",
+    "meta": "latin capital letter n with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ǋ",
+    "meta": "latin capital letter n with small letter j",
+    "ipa": ""
+  },
+  {
+    "label": "Ñ",
+    "meta": "latin capital letter n with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ǌ",
+    "meta": "latin capital letter nj",
+    "ipa": ""
+  },
+  {
+    "label": "O",
+    "meta": "latin capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ó",
+    "meta": "latin capital letter o with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ŏ",
+    "meta": "latin capital letter o with breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ǒ",
+    "meta": "latin capital letter o with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ô",
+    "meta": "latin capital letter o with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ố",
+    "meta": "latin capital letter o with circumflex and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ộ",
+    "meta": "latin capital letter o with circumflex and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ồ",
+    "meta": "latin capital letter o with circumflex and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ổ",
+    "meta": "latin capital letter o with circumflex and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ỗ",
+    "meta": "latin capital letter o with circumflex and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ö",
+    "meta": "latin capital letter o with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ȫ",
+    "meta": "latin capital letter o with diaeresis and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ȯ",
+    "meta": "latin capital letter o with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ȱ",
+    "meta": "latin capital letter o with dot above and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ọ",
+    "meta": "latin capital letter o with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ő",
+    "meta": "latin capital letter o with double acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ȍ",
+    "meta": "latin capital letter o with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ò",
+    "meta": "latin capital letter o with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ỏ",
+    "meta": "latin capital letter o with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ơ",
+    "meta": "latin capital letter o with horn",
+    "ipa": ""
+  },
+  {
+    "label": "Ớ",
+    "meta": "latin capital letter o with horn and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ợ",
+    "meta": "latin capital letter o with horn and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ờ",
+    "meta": "latin capital letter o with horn and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ở",
+    "meta": "latin capital letter o with horn and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ỡ",
+    "meta": "latin capital letter o with horn and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ȏ",
+    "meta": "latin capital letter o with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝋ",
+    "meta": "latin capital letter o with long stroke overlay",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝍ",
+    "meta": "latin capital letter o with loop",
+    "ipa": ""
+  },
+  {
+    "label": "Ō",
+    "meta": "latin capital letter o with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ṓ",
+    "meta": "latin capital letter o with macron and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ṑ",
+    "meta": "latin capital letter o with macron and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ɵ",
+    "meta": "latin capital letter o with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ǫ",
+    "meta": "latin capital letter o with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "Ǭ",
+    "meta": "latin capital letter o with ogonek and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ø",
+    "meta": "latin capital letter o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ǿ",
+    "meta": "latin capital letter o with stroke and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Õ",
+    "meta": "latin capital letter o with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ṍ",
+    "meta": "latin capital letter o with tilde and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ṏ",
+    "meta": "latin capital letter o with tilde and diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ȭ",
+    "meta": "latin capital letter o with tilde and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ƣ",
+    "meta": "latin capital letter oi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟁ",
+    "meta": "latin capital letter old polish o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞷ",
+    "meta": "latin capital letter omega",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝏ",
+    "meta": "latin capital letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "Ɛ",
+    "meta": "latin capital letter open e",
+    "ipa": ""
+  },
+  {
+    "label": "Ɔ",
+    "meta": "latin capital letter open o",
+    "ipa": ""
+  },
+  {
+    "label": "Ȣ",
+    "meta": "latin capital letter ou",
+    "ipa": ""
+  },
+  {
+    "label": "P",
+    "meta": "latin capital letter p",
+    "ipa": ""
+  },
+  {
+    "label": "Ṕ",
+    "meta": "latin capital letter p with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ṗ",
+    "meta": "latin capital letter p with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝓ",
+    "meta": "latin capital letter p with flourish",
+    "ipa": ""
+  },
+  {
+    "label": "Ƥ",
+    "meta": "latin capital letter p with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝕ",
+    "meta": "latin capital letter p with squirrel tail",
+    "ipa": ""
+  },
+  {
+    "label": "Ᵽ",
+    "meta": "latin capital letter p with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝑ",
+    "meta": "latin capital letter p with stroke through descender",
+    "ipa": ""
+  },
+  {
+    "label": "Q",
+    "meta": "latin capital letter q",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝙ",
+    "meta": "latin capital letter q with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝗ",
+    "meta": "latin capital letter q with stroke through descender",
+    "ipa": ""
+  },
+  {
+    "label": "R",
+    "meta": "latin capital letter r",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝛ",
+    "meta": "latin capital letter r rotunda",
+    "ipa": ""
+  },
+  {
+    "label": "Ŕ",
+    "meta": "latin capital letter r with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ř",
+    "meta": "latin capital letter r with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ŗ",
+    "meta": "latin capital letter r with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ṙ",
+    "meta": "latin capital letter r with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ṛ",
+    "meta": "latin capital letter r with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ṝ",
+    "meta": "latin capital letter r with dot below and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ȑ",
+    "meta": "latin capital letter r with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ȓ",
+    "meta": "latin capital letter r with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ṟ",
+    "meta": "latin capital letter r with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞧ",
+    "meta": "latin capital letter r with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ɍ",
+    "meta": "latin capital letter r with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ɽ",
+    "meta": "latin capital letter r with tail",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜿ",
+    "meta": "latin capital letter reversed c with dot",
+    "ipa": ""
+  },
+  {
+    "label": "Ǝ",
+    "meta": "latin capital letter reversed e",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟶ",
+    "meta": "latin capital letter reversed half h",
+    "ipa": ""
+  },
+  {
+    "label": "Ɜ",
+    "meta": "latin capital letter reversed open e",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝝ",
+    "meta": "latin capital letter rum rotunda",
+    "ipa": ""
+  },
+  {
+    "label": "S",
+    "meta": "latin capital letter s",
+    "ipa": ""
+  },
+  {
+    "label": "Ś",
+    "meta": "latin capital letter s with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ṥ",
+    "meta": "latin capital letter s with acute and dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Š",
+    "meta": "latin capital letter s with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ṧ",
+    "meta": "latin capital letter s with caron and dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ş",
+    "meta": "latin capital letter s with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ŝ",
+    "meta": "latin capital letter s with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ș",
+    "meta": "latin capital letter s with comma below",
+    "ipa": ""
+  },
+  {
+    "label": "Ṡ",
+    "meta": "latin capital letter s with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ṣ",
+    "meta": "latin capital letter s with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ṩ",
+    "meta": "latin capital letter s with dot below and dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ʂ",
+    "meta": "latin capital letter s with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞩ",
+    "meta": "latin capital letter s with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟊ",
+    "meta": "latin capital letter s with short stroke overlay",
+    "ipa": ""
+  },
+  {
+    "label": "Ȿ",
+    "meta": "latin capital letter s with swash tail",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞌ",
+    "meta": "latin capital letter saltillo",
+    "ipa": ""
+  },
+  {
+    "label": "Ə",
+    "meta": "latin capital letter schwa",
+    "ipa": ""
+  },
+  {
+    "label": "Ɡ",
+    "meta": "latin capital letter script g",
+    "ipa": ""
+  },
+  {
+    "label": "ẞ",
+    "meta": "latin capital letter sharp s",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟙ",
+    "meta": "latin capital letter sigmoid s",
+    "ipa": ""
+  },
+  {
+    "label": "Ɪ",
+    "meta": "latin capital letter small capital i",
+    "ipa": ""
+  },
+  {
+    "label": "Ɋ",
+    "meta": "latin capital letter small q with hook tail",
+    "ipa": ""
+  },
+  {
+    "label": "T",
+    "meta": "latin capital letter t",
+    "ipa": ""
+  },
+  {
+    "label": "Ť",
+    "meta": "latin capital letter t with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ţ",
+    "meta": "latin capital letter t with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "Ṱ",
+    "meta": "latin capital letter t with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "Ț",
+    "meta": "latin capital letter t with comma below",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱦ",
+    "meta": "latin capital letter t with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ṫ",
+    "meta": "latin capital letter t with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ṭ",
+    "meta": "latin capital letter t with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ƭ",
+    "meta": "latin capital letter t with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ṯ",
+    "meta": "latin capital letter t with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ʈ",
+    "meta": "latin capital letter t with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ŧ",
+    "meta": "latin capital letter t with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Þ",
+    "meta": "latin capital letter thorn",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝥ",
+    "meta": "latin capital letter thorn with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝧ",
+    "meta": "latin capital letter thorn with stroke through descender",
+    "ipa": ""
+  },
+  {
+    "label": "Ƽ",
+    "meta": "latin capital letter tone five",
+    "ipa": ""
+  },
+  {
+    "label": "Ƅ",
+    "meta": "latin capital letter tone six",
+    "ipa": ""
+  },
+  {
+    "label": "Ƨ",
+    "meta": "latin capital letter tone two",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜫ",
+    "meta": "latin capital letter tresillo",
+    "ipa": ""
+  },
+  {
+    "label": "Ɐ",
+    "meta": "latin capital letter turned a",
+    "ipa": ""
+  },
+  {
+    "label": "Ɒ",
+    "meta": "latin capital letter turned alpha",
+    "ipa": ""
+  },
+  {
+    "label": "Ɥ",
+    "meta": "latin capital letter turned h",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝿ",
+    "meta": "latin capital letter turned insular g",
+    "ipa": ""
+  },
+  {
+    "label": "Ʞ",
+    "meta": "latin capital letter turned k",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞁ",
+    "meta": "latin capital letter turned l",
+    "ipa": ""
+  },
+  {
+    "label": "Ɯ",
+    "meta": "latin capital letter turned m",
+    "ipa": ""
+  },
+  {
+    "label": "Ʇ",
+    "meta": "latin capital letter turned t",
+    "ipa": ""
+  },
+  {
+    "label": "Ʌ",
+    "meta": "latin capital letter turned v",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜩ",
+    "meta": "latin capital letter tz",
+    "ipa": ""
+  },
+  {
+    "label": "U",
+    "meta": "latin capital letter u",
+    "ipa": ""
+  },
+  {
+    "label": "Ʉ",
+    "meta": "latin capital letter u bar",
+    "ipa": ""
+  },
+  {
+    "label": "Ú",
+    "meta": "latin capital letter u with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ŭ",
+    "meta": "latin capital letter u with breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ǔ",
+    "meta": "latin capital letter u with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Û",
+    "meta": "latin capital letter u with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ṷ",
+    "meta": "latin capital letter u with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "Ü",
+    "meta": "latin capital letter u with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ǘ",
+    "meta": "latin capital letter u with diaeresis and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ǚ",
+    "meta": "latin capital letter u with diaeresis and caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ǜ",
+    "meta": "latin capital letter u with diaeresis and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ǖ",
+    "meta": "latin capital letter u with diaeresis and macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ṳ",
+    "meta": "latin capital letter u with diaeresis below",
+    "ipa": ""
+  },
+  {
+    "label": "Ụ",
+    "meta": "latin capital letter u with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ű",
+    "meta": "latin capital letter u with double acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ȕ",
+    "meta": "latin capital letter u with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ù",
+    "meta": "latin capital letter u with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ủ",
+    "meta": "latin capital letter u with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ư",
+    "meta": "latin capital letter u with horn",
+    "ipa": ""
+  },
+  {
+    "label": "Ứ",
+    "meta": "latin capital letter u with horn and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ự",
+    "meta": "latin capital letter u with horn and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ừ",
+    "meta": "latin capital letter u with horn and grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ử",
+    "meta": "latin capital letter u with horn and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ữ",
+    "meta": "latin capital letter u with horn and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ȗ",
+    "meta": "latin capital letter u with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "Ū",
+    "meta": "latin capital letter u with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ṻ",
+    "meta": "latin capital letter u with macron and diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ų",
+    "meta": "latin capital letter u with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "Ů",
+    "meta": "latin capital letter u with ring above",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞹ",
+    "meta": "latin capital letter u with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ũ",
+    "meta": "latin capital letter u with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ṹ",
+    "meta": "latin capital letter u with tilde and acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ṵ",
+    "meta": "latin capital letter u with tilde below",
+    "ipa": ""
+  },
+  {
+    "label": "Ʊ",
+    "meta": "latin capital letter upsilon",
+    "ipa": ""
+  },
+  {
+    "label": "V",
+    "meta": "latin capital letter v",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝟ",
+    "meta": "latin capital letter v with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ṿ",
+    "meta": "latin capital letter v with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ʋ",
+    "meta": "latin capital letter v with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ṽ",
+    "meta": "latin capital letter v with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝩ",
+    "meta": "latin capital letter vend",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝣ",
+    "meta": "latin capital letter visigothic z",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞛ",
+    "meta": "latin capital letter volapuk ae",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞝ",
+    "meta": "latin capital letter volapuk oe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞟ",
+    "meta": "latin capital letter volapuk ue",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝡ",
+    "meta": "latin capital letter vy",
+    "ipa": ""
+  },
+  {
+    "label": "W",
+    "meta": "latin capital letter w",
+    "ipa": ""
+  },
+  {
+    "label": "Ẃ",
+    "meta": "latin capital letter w with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ŵ",
+    "meta": "latin capital letter w with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ẅ",
+    "meta": "latin capital letter w with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ẇ",
+    "meta": "latin capital letter w with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ẉ",
+    "meta": "latin capital letter w with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ẁ",
+    "meta": "latin capital letter w with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱳ",
+    "meta": "latin capital letter w with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ƿ",
+    "meta": "latin capital letter wynn",
+    "ipa": ""
+  },
+  {
+    "label": "X",
+    "meta": "latin capital letter x",
+    "ipa": ""
+  },
+  {
+    "label": "Ẍ",
+    "meta": "latin capital letter x with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ẋ",
+    "meta": "latin capital letter x with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Y",
+    "meta": "latin capital letter y",
+    "ipa": ""
+  },
+  {
+    "label": "Ý",
+    "meta": "latin capital letter y with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ŷ",
+    "meta": "latin capital letter y with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ÿ",
+    "meta": "latin capital letter y with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "Ẏ",
+    "meta": "latin capital letter y with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ỵ",
+    "meta": "latin capital letter y with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ỳ",
+    "meta": "latin capital letter y with grave",
+    "ipa": ""
+  },
+  {
+    "label": "Ƴ",
+    "meta": "latin capital letter y with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ỷ",
+    "meta": "latin capital letter y with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "Ỿ",
+    "meta": "latin capital letter y with loop",
+    "ipa": ""
+  },
+  {
+    "label": "Ȳ",
+    "meta": "latin capital letter y with macron",
+    "ipa": ""
+  },
+  {
+    "label": "Ɏ",
+    "meta": "latin capital letter y with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ỹ",
+    "meta": "latin capital letter y with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "Ȝ",
+    "meta": "latin capital letter yogh",
+    "ipa": ""
+  },
+  {
+    "label": "Z",
+    "meta": "latin capital letter z",
+    "ipa": ""
+  },
+  {
+    "label": "Ź",
+    "meta": "latin capital letter z with acute",
+    "ipa": ""
+  },
+  {
+    "label": "Ž",
+    "meta": "latin capital letter z with caron",
+    "ipa": ""
+  },
+  {
+    "label": "Ẑ",
+    "meta": "latin capital letter z with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱬ",
+    "meta": "latin capital letter z with descender",
+    "ipa": ""
+  },
+  {
+    "label": "Ż",
+    "meta": "latin capital letter z with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "Ẓ",
+    "meta": "latin capital letter z with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "Ȥ",
+    "meta": "latin capital letter z with hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ẕ",
+    "meta": "latin capital letter z with line below",
+    "ipa": ""
+  },
+  {
+    "label": "Ᶎ",
+    "meta": "latin capital letter z with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "Ƶ",
+    "meta": "latin capital letter z with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "Ɀ",
+    "meta": "latin capital letter z with swash tail",
+    "ipa": ""
+  },
+  {
+    "label": "Ĳ",
+    "meta": "latin capital ligature ij",
+    "ipa": ""
+  },
+  {
+    "label": "Œ",
+    "meta": "latin capital ligature oe",
+    "ipa": ""
+  },
+  {
+    "label": "ꟿ",
+    "meta": "latin epigraphic letter archaic m",
+    "ipa": ""
+  },
+  {
+    "label": "ꟾ",
+    "meta": "latin epigraphic letter i longa",
+    "ipa": ""
+  },
+  {
+    "label": "ꟽ",
+    "meta": "latin epigraphic letter inverted m",
+    "ipa": ""
+  },
+  {
+    "label": "ꟻ",
+    "meta": "latin epigraphic letter reversed f",
+    "ipa": ""
+  },
+  {
+    "label": "ꟼ",
+    "meta": "latin epigraphic letter reversed p",
+    "ipa": ""
+  },
+  {
+    "label": "ꟷ",
+    "meta": "latin epigraphic letter sideways i",
+    "ipa": ""
+  },
+  {
+    "label": "ᴥ",
+    "meta": "latin letter ain",
+    "ipa": ""
+  },
+  {
+    "label": "ǂ",
+    "meta": "latin letter alveolar click",
+    "ipa": ""
+  },
+  {
+    "label": "ʭ",
+    "meta": "latin letter bidental percussive",
+    "ipa": ""
+  },
+  {
+    "label": "ʘ",
+    "meta": "latin letter bilabial click",
+    "ipa": ""
+  },
+  {
+    "label": "ʬ",
+    "meta": "latin letter bilabial percussive",
+    "ipa": ""
+  },
+  {
+    "label": "ǀ",
+    "meta": "latin letter dental click",
+    "ipa": ""
+  },
+  {
+    "label": "ʔ",
+    "meta": "latin letter glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "ʡ",
+    "meta": "latin letter glottal stop with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ʖ",
+    "meta": "latin letter inverted glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "𝼎",
+    "meta": "latin letter inverted glottal stop with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ƾ",
+    "meta": "latin letter inverted glottal stop with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ǁ",
+    "meta": "latin letter lateral click",
+    "ipa": ""
+  },
+  {
+    "label": "ʕ",
+    "meta": "latin letter pharyngeal voiced fricative",
+    "ipa": ""
+  },
+  {
+    "label": "ǃ",
+    "meta": "latin letter retroflex click",
+    "ipa": ""
+  },
+  {
+    "label": "𝼊",
+    "meta": "latin letter retroflex click with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ƪ",
+    "meta": "latin letter reversed esh loop",
+    "ipa": ""
+  },
+  {
+    "label": "ʢ",
+    "meta": "latin letter reversed glottal stop with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꞏ",
+    "meta": "latin letter sinological dot",
+    "ipa": ""
+  },
+  {
+    "label": "ᴀ",
+    "meta": "latin letter small capital a",
+    "ipa": ""
+  },
+  {
+    "label": "ᴁ",
+    "meta": "latin letter small capital ae",
+    "ipa": ""
+  },
+  {
+    "label": "ʙ",
+    "meta": "latin letter small capital b",
+    "ipa": ""
+  },
+  {
+    "label": "ᴃ",
+    "meta": "latin letter small capital barred b",
+    "ipa": ""
+  },
+  {
+    "label": "ᴄ",
+    "meta": "latin letter small capital c",
+    "ipa": ""
+  },
+  {
+    "label": "ᴅ",
+    "meta": "latin letter small capital d",
+    "ipa": ""
+  },
+  {
+    "label": "ᴇ",
+    "meta": "latin letter small capital e",
+    "ipa": ""
+  },
+  {
+    "label": "ᴆ",
+    "meta": "latin letter small capital eth",
+    "ipa": ""
+  },
+  {
+    "label": "ᴣ",
+    "meta": "latin letter small capital ezh",
+    "ipa": ""
+  },
+  {
+    "label": "ꜰ",
+    "meta": "latin letter small capital f",
+    "ipa": ""
+  },
+  {
+    "label": "ɢ",
+    "meta": "latin letter small capital g",
+    "ipa": ""
+  },
+  {
+    "label": "ʛ",
+    "meta": "latin letter small capital g with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ʜ",
+    "meta": "latin letter small capital h",
+    "ipa": ""
+  },
+  {
+    "label": "ɪ",
+    "meta": "latin letter small capital i",
+    "ipa": ""
+  },
+  {
+    "label": "ʁ",
+    "meta": "latin letter small capital inverted r",
+    "ipa": ""
+  },
+  {
+    "label": "ᴊ",
+    "meta": "latin letter small capital j",
+    "ipa": ""
+  },
+  {
+    "label": "ᴋ",
+    "meta": "latin letter small capital k",
+    "ipa": ""
+  },
+  {
+    "label": "ʟ",
+    "meta": "latin letter small capital l",
+    "ipa": ""
+  },
+  {
+    "label": "𝼄",
+    "meta": "latin letter small capital l with belt",
+    "ipa": ""
+  },
+  {
+    "label": "ᴌ",
+    "meta": "latin letter small capital l with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴍ",
+    "meta": "latin letter small capital m",
+    "ipa": ""
+  },
+  {
+    "label": "ɴ",
+    "meta": "latin letter small capital n",
+    "ipa": ""
+  },
+  {
+    "label": "ᴏ",
+    "meta": "latin letter small capital o",
+    "ipa": ""
+  },
+  {
+    "label": "ɶ",
+    "meta": "latin letter small capital oe",
+    "ipa": ""
+  },
+  {
+    "label": "ᴐ",
+    "meta": "latin letter small capital open o",
+    "ipa": ""
+  },
+  {
+    "label": "ᴕ",
+    "meta": "latin letter small capital ou",
+    "ipa": ""
+  },
+  {
+    "label": "ᴘ",
+    "meta": "latin letter small capital p",
+    "ipa": ""
+  },
+  {
+    "label": "ꞯ",
+    "meta": "latin letter small capital q",
+    "ipa": ""
+  },
+  {
+    "label": "ʀ",
+    "meta": "latin letter small capital r",
+    "ipa": ""
+  },
+  {
+    "label": "ꭆ",
+    "meta": "latin letter small capital r with right leg",
+    "ipa": ""
+  },
+  {
+    "label": "ᴎ",
+    "meta": "latin letter small capital reversed n",
+    "ipa": ""
+  },
+  {
+    "label": "ᴙ",
+    "meta": "latin letter small capital reversed r",
+    "ipa": ""
+  },
+  {
+    "label": "ꝶ",
+    "meta": "latin letter small capital rum",
+    "ipa": ""
+  },
+  {
+    "label": "ꜱ",
+    "meta": "latin letter small capital s",
+    "ipa": ""
+  },
+  {
+    "label": "ᴛ",
+    "meta": "latin letter small capital t",
+    "ipa": ""
+  },
+  {
+    "label": "ⱻ",
+    "meta": "latin letter small capital turned e",
+    "ipa": ""
+  },
+  {
+    "label": "𝼂",
+    "meta": "latin letter small capital turned g",
+    "ipa": ""
+  },
+  {
+    "label": "𝼐",
+    "meta": "latin letter small capital turned k",
+    "ipa": ""
+  },
+  {
+    "label": "ꟺ",
+    "meta": "latin letter small capital turned m",
+    "ipa": ""
+  },
+  {
+    "label": "ᴚ",
+    "meta": "latin letter small capital turned r",
+    "ipa": ""
+  },
+  {
+    "label": "ᴜ",
+    "meta": "latin letter small capital u",
+    "ipa": ""
+  },
+  {
+    "label": "ᴠ",
+    "meta": "latin letter small capital v",
+    "ipa": ""
+  },
+  {
+    "label": "ᴡ",
+    "meta": "latin letter small capital w",
+    "ipa": ""
+  },
+  {
+    "label": "ʏ",
+    "meta": "latin letter small capital y",
+    "ipa": ""
+  },
+  {
+    "label": "ᴢ",
+    "meta": "latin letter small capital z",
+    "ipa": ""
+  },
+  {
+    "label": "ʗ",
+    "meta": "latin letter stretched c",
+    "ipa": ""
+  },
+  {
+    "label": "𝼏",
+    "meta": "latin letter stretched c with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ƻ",
+    "meta": "latin letter two with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴤ",
+    "meta": "latin letter voiced laryngeal spirant",
+    "ipa": ""
+  },
+  {
+    "label": "ƿ",
+    "meta": "latin letter wynn",
+    "ipa": ""
+  },
+  {
+    "label": "Ʀ",
+    "meta": "latin letter yr",
+    "ipa": ""
+  },
+  {
+    "label": "ᵻ",
+    "meta": "latin small capital letter i with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᵾ",
+    "meta": "latin small capital letter u with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "a",
+    "meta": "latin small letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ꬱ",
+    "meta": "latin small letter a reversed-schwa",
+    "ipa": ""
+  },
+  {
+    "label": "á",
+    "meta": "latin small letter a with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ă",
+    "meta": "latin small letter a with breve",
+    "ipa": ""
+  },
+  {
+    "label": "ắ",
+    "meta": "latin small letter a with breve and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ặ",
+    "meta": "latin small letter a with breve and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ằ",
+    "meta": "latin small letter a with breve and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ẳ",
+    "meta": "latin small letter a with breve and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ẵ",
+    "meta": "latin small letter a with breve and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ǎ",
+    "meta": "latin small letter a with caron",
+    "ipa": ""
+  },
+  {
+    "label": "â",
+    "meta": "latin small letter a with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ấ",
+    "meta": "latin small letter a with circumflex and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ậ",
+    "meta": "latin small letter a with circumflex and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ầ",
+    "meta": "latin small letter a with circumflex and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ẩ",
+    "meta": "latin small letter a with circumflex and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ẫ",
+    "meta": "latin small letter a with circumflex and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ä",
+    "meta": "latin small letter a with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ǟ",
+    "meta": "latin small letter a with diaeresis and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ȧ",
+    "meta": "latin small letter a with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ǡ",
+    "meta": "latin small letter a with dot above and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ạ",
+    "meta": "latin small letter a with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ȁ",
+    "meta": "latin small letter a with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "à",
+    "meta": "latin small letter a with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ả",
+    "meta": "latin small letter a with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ȃ",
+    "meta": "latin small letter a with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "ā",
+    "meta": "latin small letter a with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ą",
+    "meta": "latin small letter a with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "ᶏ",
+    "meta": "latin small letter a with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ẚ",
+    "meta": "latin small letter a with right half ring",
+    "ipa": ""
+  },
+  {
+    "label": "å",
+    "meta": "latin small letter a with ring above",
+    "ipa": ""
+  },
+  {
+    "label": "ǻ",
+    "meta": "latin small letter a with ring above and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ḁ",
+    "meta": "latin small letter a with ring below",
+    "ipa": ""
+  },
+  {
+    "label": "ⱥ",
+    "meta": "latin small letter a with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ã",
+    "meta": "latin small letter a with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ꜳ",
+    "meta": "latin small letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "æ",
+    "meta": "latin small letter ae",
+    "ipa": ""
+  },
+  {
+    "label": "ǽ",
+    "meta": "latin small letter ae with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ǣ",
+    "meta": "latin small letter ae with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ɑ",
+    "meta": "latin small letter alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ᶐ",
+    "meta": "latin small letter alpha with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꟃ",
+    "meta": "latin small letter anglicana w",
+    "ipa": ""
+  },
+  {
+    "label": "ꜵ",
+    "meta": "latin small letter ao",
+    "ipa": ""
+  },
+  {
+    "label": "ꜷ",
+    "meta": "latin small letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ꜹ",
+    "meta": "latin small letter av",
+    "ipa": ""
+  },
+  {
+    "label": "ꜻ",
+    "meta": "latin small letter av with horizontal bar",
+    "ipa": ""
+  },
+  {
+    "label": "ꜽ",
+    "meta": "latin small letter ay",
+    "ipa": ""
+  },
+  {
+    "label": "b",
+    "meta": "latin small letter b",
+    "ipa": ""
+  },
+  {
+    "label": "ḃ",
+    "meta": "latin small letter b with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ḅ",
+    "meta": "latin small letter b with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ꞗ",
+    "meta": "latin small letter b with flourish",
+    "ipa": ""
+  },
+  {
+    "label": "ɓ",
+    "meta": "latin small letter b with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ḇ",
+    "meta": "latin small letter b with line below",
+    "ipa": ""
+  },
+  {
+    "label": "ᵬ",
+    "meta": "latin small letter b with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶀ",
+    "meta": "latin small letter b with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ƀ",
+    "meta": "latin small letter b with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ƃ",
+    "meta": "latin small letter b with topbar",
+    "ipa": ""
+  },
+  {
+    "label": "ꬰ",
+    "meta": "latin small letter barred alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ꬳ",
+    "meta": "latin small letter barred e",
+    "ipa": ""
+  },
+  {
+    "label": "ɵ",
+    "meta": "latin small letter barred o",
+    "ipa": ""
+  },
+  {
+    "label": "ꭍ",
+    "meta": "latin small letter baseline esh",
+    "ipa": ""
+  },
+  {
+    "label": "ꞵ",
+    "meta": "latin small letter beta",
+    "ipa": ""
+  },
+  {
+    "label": "ꬲ",
+    "meta": "latin small letter blackletter e",
+    "ipa": ""
+  },
+  {
+    "label": "ꬽ",
+    "meta": "latin small letter blackletter o",
+    "ipa": ""
+  },
+  {
+    "label": "ꬾ",
+    "meta": "latin small letter blackletter o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴗ",
+    "meta": "latin small letter bottom half o",
+    "ipa": ""
+  },
+  {
+    "label": "ꝇ",
+    "meta": "latin small letter broken l",
+    "ipa": ""
+  },
+  {
+    "label": "c",
+    "meta": "latin small letter c",
+    "ipa": ""
+  },
+  {
+    "label": "ć",
+    "meta": "latin small letter c with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ꞓ",
+    "meta": "latin small letter c with bar",
+    "ipa": ""
+  },
+  {
+    "label": "č",
+    "meta": "latin small letter c with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ç",
+    "meta": "latin small letter c with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ḉ",
+    "meta": "latin small letter c with cedilla and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ĉ",
+    "meta": "latin small letter c with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ɕ",
+    "meta": "latin small letter c with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ċ",
+    "meta": "latin small letter c with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ƈ",
+    "meta": "latin small letter c with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꞔ",
+    "meta": "latin small letter c with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "𝼝",
+    "meta": "latin small letter c with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ȼ",
+    "meta": "latin small letter c with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꭓ",
+    "meta": "latin small letter chi",
+    "ipa": ""
+  },
+  {
+    "label": "ꭕ",
+    "meta": "latin small letter chi with low left serif",
+    "ipa": ""
+  },
+  {
+    "label": "ꭔ",
+    "meta": "latin small letter chi with low right ring",
+    "ipa": ""
+  },
+  {
+    "label": "ꟑ",
+    "meta": "latin small letter closed insular g",
+    "ipa": ""
+  },
+  {
+    "label": "ɷ",
+    "meta": "latin small letter closed omega",
+    "ipa": ""
+  },
+  {
+    "label": "ʚ",
+    "meta": "latin small letter closed open e",
+    "ipa": ""
+  },
+  {
+    "label": "ɞ",
+    "meta": "latin small letter closed reversed open e",
+    "ipa": ""
+  },
+  {
+    "label": "ꝯ",
+    "meta": "latin small letter con",
+    "ipa": ""
+  },
+  {
+    "label": "ꜭ",
+    "meta": "latin small letter cuatrillo",
+    "ipa": ""
+  },
+  {
+    "label": "ꜯ",
+    "meta": "latin small letter cuatrillo with comma",
+    "ipa": ""
+  },
+  {
+    "label": "d",
+    "meta": "latin small letter d",
+    "ipa": ""
+  },
+  {
+    "label": "ď",
+    "meta": "latin small letter d with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ḑ",
+    "meta": "latin small letter d with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ḓ",
+    "meta": "latin small letter d with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "ȡ",
+    "meta": "latin small letter d with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ḋ",
+    "meta": "latin small letter d with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ḍ",
+    "meta": "latin small letter d with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ɗ",
+    "meta": "latin small letter d with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶑ",
+    "meta": "latin small letter d with hook and tail",
+    "ipa": ""
+  },
+  {
+    "label": "ḏ",
+    "meta": "latin small letter d with line below",
+    "ipa": ""
+  },
+  {
+    "label": "𝼥",
+    "meta": "latin small letter d with mid-height left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵭ",
+    "meta": "latin small letter d with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶁ",
+    "meta": "latin small letter d with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꟈ",
+    "meta": "latin small letter d with short stroke overlay",
+    "ipa": ""
+  },
+  {
+    "label": "đ",
+    "meta": "latin small letter d with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ɖ",
+    "meta": "latin small letter d with tail",
+    "ipa": ""
+  },
+  {
+    "label": "ƌ",
+    "meta": "latin small letter d with topbar",
+    "ipa": ""
+  },
+  {
+    "label": "ȸ",
+    "meta": "latin small letter db digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ẟ",
+    "meta": "latin small letter delta",
+    "ipa": ""
+  },
+  {
+    "label": "ʤ",
+    "meta": "latin small letter dezh digraph",
+    "ipa": ""
+  },
+  {
+    "label": "𝼒",
+    "meta": "latin small letter dezh digraph with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "𝼙",
+    "meta": "latin small letter dezh digraph with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ı",
+    "meta": "latin small letter dotless i",
+    "ipa": ""
+  },
+  {
+    "label": "ȷ",
+    "meta": "latin small letter dotless j",
+    "ipa": ""
+  },
+  {
+    "label": "ɟ",
+    "meta": "latin small letter dotless j with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ʄ",
+    "meta": "latin small letter dotless j with stroke and hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꭈ",
+    "meta": "latin small letter double r",
+    "ipa": ""
+  },
+  {
+    "label": "ꭊ",
+    "meta": "latin small letter double r with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ꟓ",
+    "meta": "latin small letter double thorn",
+    "ipa": ""
+  },
+  {
+    "label": "ꟕ",
+    "meta": "latin small letter double wynn",
+    "ipa": ""
+  },
+  {
+    "label": "ꝱ",
+    "meta": "latin small letter dum",
+    "ipa": ""
+  },
+  {
+    "label": "ǳ",
+    "meta": "latin small letter dz",
+    "ipa": ""
+  },
+  {
+    "label": "ʣ",
+    "meta": "latin small letter dz digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ʥ",
+    "meta": "latin small letter dz digraph with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ꭦ",
+    "meta": "latin small letter dz digraph with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ǆ",
+    "meta": "latin small letter dz with caron",
+    "ipa": ""
+  },
+  {
+    "label": "e",
+    "meta": "latin small letter e",
+    "ipa": ""
+  },
+  {
+    "label": "é",
+    "meta": "latin small letter e with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ĕ",
+    "meta": "latin small letter e with breve",
+    "ipa": ""
+  },
+  {
+    "label": "ě",
+    "meta": "latin small letter e with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ȩ",
+    "meta": "latin small letter e with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ḝ",
+    "meta": "latin small letter e with cedilla and breve",
+    "ipa": ""
+  },
+  {
+    "label": "ê",
+    "meta": "latin small letter e with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ế",
+    "meta": "latin small letter e with circumflex and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ệ",
+    "meta": "latin small letter e with circumflex and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ề",
+    "meta": "latin small letter e with circumflex and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ể",
+    "meta": "latin small letter e with circumflex and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ễ",
+    "meta": "latin small letter e with circumflex and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ḙ",
+    "meta": "latin small letter e with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "ë",
+    "meta": "latin small letter e with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ė",
+    "meta": "latin small letter e with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ẹ",
+    "meta": "latin small letter e with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ȅ",
+    "meta": "latin small letter e with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "ꬴ",
+    "meta": "latin small letter e with flourish",
+    "ipa": ""
+  },
+  {
+    "label": "è",
+    "meta": "latin small letter e with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ẻ",
+    "meta": "latin small letter e with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ȇ",
+    "meta": "latin small letter e with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "ē",
+    "meta": "latin small letter e with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ḗ",
+    "meta": "latin small letter e with macron and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ḕ",
+    "meta": "latin small letter e with macron and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ⱸ",
+    "meta": "latin small letter e with notch",
+    "ipa": ""
+  },
+  {
+    "label": "ę",
+    "meta": "latin small letter e with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "ᶒ",
+    "meta": "latin small letter e with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɇ",
+    "meta": "latin small letter e with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ẽ",
+    "meta": "latin small letter e with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ḛ",
+    "meta": "latin small letter e with tilde below",
+    "ipa": ""
+  },
+  {
+    "label": "ꜥ",
+    "meta": "latin small letter egyptological ain",
+    "ipa": ""
+  },
+  {
+    "label": "ꜣ",
+    "meta": "latin small letter egyptological alef",
+    "ipa": ""
+  },
+  {
+    "label": "ŋ",
+    "meta": "latin small letter eng",
+    "ipa": ""
+  },
+  {
+    "label": "ꬼ",
+    "meta": "latin small letter eng with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "𝼔",
+    "meta": "latin small letter eng with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ʃ",
+    "meta": "latin small letter esh",
+    "ipa": ""
+  },
+  {
+    "label": "ʆ",
+    "meta": "latin small letter esh with curl",
+    "ipa": ""
+  },
+  {
+    "label": "𝼋",
+    "meta": "latin small letter esh with double bar",
+    "ipa": ""
+  },
+  {
+    "label": "𝼌",
+    "meta": "latin small letter esh with double bar and curl",
+    "ipa": ""
+  },
+  {
+    "label": "ᶋ",
+    "meta": "latin small letter esh with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶘ",
+    "meta": "latin small letter esh with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꝫ",
+    "meta": "latin small letter et",
+    "ipa": ""
+  },
+  {
+    "label": "ð",
+    "meta": "latin small letter eth",
+    "ipa": ""
+  },
+  {
+    "label": "ʒ",
+    "meta": "latin small letter ezh",
+    "ipa": ""
+  },
+  {
+    "label": "ƹ",
+    "meta": "latin small letter ezh reversed",
+    "ipa": ""
+  },
+  {
+    "label": "ǯ",
+    "meta": "latin small letter ezh with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ʓ",
+    "meta": "latin small letter ezh with curl",
+    "ipa": ""
+  },
+  {
+    "label": "𝼘",
+    "meta": "latin small letter ezh with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶚ",
+    "meta": "latin small letter ezh with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ƺ",
+    "meta": "latin small letter ezh with tail",
+    "ipa": ""
+  },
+  {
+    "label": "f",
+    "meta": "latin small letter f",
+    "ipa": ""
+  },
+  {
+    "label": "ḟ",
+    "meta": "latin small letter f with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ƒ",
+    "meta": "latin small letter f with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵮ",
+    "meta": "latin small letter f with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶂ",
+    "meta": "latin small letter f with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꞙ",
+    "meta": "latin small letter f with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ʩ",
+    "meta": "latin small letter feng digraph",
+    "ipa": ""
+  },
+  {
+    "label": "𝼀",
+    "meta": "latin small letter feng digraph with trill",
+    "ipa": ""
+  },
+  {
+    "label": "g",
+    "meta": "latin small letter g",
+    "ipa": ""
+  },
+  {
+    "label": "ǵ",
+    "meta": "latin small letter g with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ğ",
+    "meta": "latin small letter g with breve",
+    "ipa": ""
+  },
+  {
+    "label": "ǧ",
+    "meta": "latin small letter g with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ģ",
+    "meta": "latin small letter g with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ĝ",
+    "meta": "latin small letter g with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ġ",
+    "meta": "latin small letter g with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ɠ",
+    "meta": "latin small letter g with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ḡ",
+    "meta": "latin small letter g with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ꞡ",
+    "meta": "latin small letter g with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᶃ",
+    "meta": "latin small letter g with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ǥ",
+    "meta": "latin small letter g with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ɣ",
+    "meta": "latin small letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "ꞻ",
+    "meta": "latin small letter glottal a",
+    "ipa": ""
+  },
+  {
+    "label": "ꞽ",
+    "meta": "latin small letter glottal i",
+    "ipa": ""
+  },
+  {
+    "label": "ɂ",
+    "meta": "latin small letter glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "ꞿ",
+    "meta": "latin small letter glottal u",
+    "ipa": ""
+  },
+  {
+    "label": "h",
+    "meta": "latin small letter h",
+    "ipa": ""
+  },
+  {
+    "label": "ḫ",
+    "meta": "latin small letter h with breve below",
+    "ipa": ""
+  },
+  {
+    "label": "ȟ",
+    "meta": "latin small letter h with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ḩ",
+    "meta": "latin small letter h with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ĥ",
+    "meta": "latin small letter h with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ⱨ",
+    "meta": "latin small letter h with descender",
+    "ipa": ""
+  },
+  {
+    "label": "ḧ",
+    "meta": "latin small letter h with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ḣ",
+    "meta": "latin small letter h with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ḥ",
+    "meta": "latin small letter h with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ɦ",
+    "meta": "latin small letter h with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ẖ",
+    "meta": "latin small letter h with line below",
+    "ipa": ""
+  },
+  {
+    "label": "ꞕ",
+    "meta": "latin small letter h with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ħ",
+    "meta": "latin small letter h with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ⱶ",
+    "meta": "latin small letter half h",
+    "ipa": ""
+  },
+  {
+    "label": "ꜧ",
+    "meta": "latin small letter heng",
+    "ipa": ""
+  },
+  {
+    "label": "ɧ",
+    "meta": "latin small letter heng with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ƕ",
+    "meta": "latin small letter hv",
+    "ipa": ""
+  },
+  {
+    "label": "i",
+    "meta": "latin small letter i",
+    "ipa": ""
+  },
+  {
+    "label": "í",
+    "meta": "latin small letter i with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ĭ",
+    "meta": "latin small letter i with breve",
+    "ipa": ""
+  },
+  {
+    "label": "ǐ",
+    "meta": "latin small letter i with caron",
+    "ipa": ""
+  },
+  {
+    "label": "î",
+    "meta": "latin small letter i with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ï",
+    "meta": "latin small letter i with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ḯ",
+    "meta": "latin small letter i with diaeresis and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ị",
+    "meta": "latin small letter i with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ȉ",
+    "meta": "latin small letter i with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "ì",
+    "meta": "latin small letter i with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ỉ",
+    "meta": "latin small letter i with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ȋ",
+    "meta": "latin small letter i with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "ī",
+    "meta": "latin small letter i with macron",
+    "ipa": ""
+  },
+  {
+    "label": "į",
+    "meta": "latin small letter i with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "ᶖ",
+    "meta": "latin small letter i with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɨ",
+    "meta": "latin small letter i with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "𝼚",
+    "meta": "latin small letter i with stroke and retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ĩ",
+    "meta": "latin small letter i with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ḭ",
+    "meta": "latin small letter i with tilde below",
+    "ipa": ""
+  },
+  {
+    "label": "ꝺ",
+    "meta": "latin small letter insular d",
+    "ipa": ""
+  },
+  {
+    "label": "ꝼ",
+    "meta": "latin small letter insular f",
+    "ipa": ""
+  },
+  {
+    "label": "ᵹ",
+    "meta": "latin small letter insular g",
+    "ipa": ""
+  },
+  {
+    "label": "ꞃ",
+    "meta": "latin small letter insular r",
+    "ipa": ""
+  },
+  {
+    "label": "ꞅ",
+    "meta": "latin small letter insular s",
+    "ipa": ""
+  },
+  {
+    "label": "ꞇ",
+    "meta": "latin small letter insular t",
+    "ipa": ""
+  },
+  {
+    "label": "ꭤ",
+    "meta": "latin small letter inverted alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ꭀ",
+    "meta": "latin small letter inverted oe",
+    "ipa": ""
+  },
+  {
+    "label": "ɩ",
+    "meta": "latin small letter iota",
+    "ipa": ""
+  },
+  {
+    "label": "ᵼ",
+    "meta": "latin small letter iota with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꭡ",
+    "meta": "latin small letter iotified e",
+    "ipa": ""
+  },
+  {
+    "label": "ꝭ",
+    "meta": "latin small letter is",
+    "ipa": ""
+  },
+  {
+    "label": "j",
+    "meta": "latin small letter j",
+    "ipa": ""
+  },
+  {
+    "label": "ǰ",
+    "meta": "latin small letter j with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ĵ",
+    "meta": "latin small letter j with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ʝ",
+    "meta": "latin small letter j with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ɉ",
+    "meta": "latin small letter j with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "k",
+    "meta": "latin small letter k",
+    "ipa": ""
+  },
+  {
+    "label": "ḱ",
+    "meta": "latin small letter k with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ǩ",
+    "meta": "latin small letter k with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ķ",
+    "meta": "latin small letter k with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ⱪ",
+    "meta": "latin small letter k with descender",
+    "ipa": ""
+  },
+  {
+    "label": "ꝃ",
+    "meta": "latin small letter k with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ḳ",
+    "meta": "latin small letter k with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ƙ",
+    "meta": "latin small letter k with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ḵ",
+    "meta": "latin small letter k with line below",
+    "ipa": ""
+  },
+  {
+    "label": "ꞣ",
+    "meta": "latin small letter k with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᶄ",
+    "meta": "latin small letter k with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꝁ",
+    "meta": "latin small letter k with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꝅ",
+    "meta": "latin small letter k with stroke and diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ĸ",
+    "meta": "latin small letter kra",
+    "ipa": ""
+  },
+  {
+    "label": "l",
+    "meta": "latin small letter l",
+    "ipa": ""
+  },
+  {
+    "label": "ĺ",
+    "meta": "latin small letter l with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ƚ",
+    "meta": "latin small letter l with bar",
+    "ipa": ""
+  },
+  {
+    "label": "ɬ",
+    "meta": "latin small letter l with belt",
+    "ipa": ""
+  },
+  {
+    "label": "𝼓",
+    "meta": "latin small letter l with belt and palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ľ",
+    "meta": "latin small letter l with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ļ",
+    "meta": "latin small letter l with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ḽ",
+    "meta": "latin small letter l with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "ȴ",
+    "meta": "latin small letter l with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ḷ",
+    "meta": "latin small letter l with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ḹ",
+    "meta": "latin small letter l with dot below and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ⱡ",
+    "meta": "latin small letter l with double bar",
+    "ipa": ""
+  },
+  {
+    "label": "ꬸ",
+    "meta": "latin small letter l with double middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "𝼑",
+    "meta": "latin small letter l with fishhook",
+    "ipa": ""
+  },
+  {
+    "label": "ꝉ",
+    "meta": "latin small letter l with high stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꬷ",
+    "meta": "latin small letter l with inverted lazy s",
+    "ipa": ""
+  },
+  {
+    "label": "ḻ",
+    "meta": "latin small letter l with line below",
+    "ipa": ""
+  },
+  {
+    "label": "𝼦",
+    "meta": "latin small letter l with mid-height left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ŀ",
+    "meta": "latin small letter l with middle dot",
+    "ipa": ""
+  },
+  {
+    "label": "ꬹ",
+    "meta": "latin small letter l with middle ring",
+    "ipa": ""
+  },
+  {
+    "label": "ɫ",
+    "meta": "latin small letter l with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶅ",
+    "meta": "latin small letter l with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɭ",
+    "meta": "latin small letter l with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꞎ",
+    "meta": "latin small letter l with retroflex hook and belt",
+    "ipa": ""
+  },
+  {
+    "label": "ł",
+    "meta": "latin small letter l with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ƛ",
+    "meta": "latin small letter lambda with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꬵ",
+    "meta": "latin small letter lenis f",
+    "ipa": ""
+  },
+  {
+    "label": "ɮ",
+    "meta": "latin small letter lezh",
+    "ipa": ""
+  },
+  {
+    "label": "𝼅",
+    "meta": "latin small letter lezh with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ǉ",
+    "meta": "latin small letter lj",
+    "ipa": ""
+  },
+  {
+    "label": "ſ",
+    "meta": "latin small letter long s",
+    "ipa": ""
+  },
+  {
+    "label": "ẜ",
+    "meta": "latin small letter long s with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ẛ",
+    "meta": "latin small letter long s with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ẝ",
+    "meta": "latin small letter long s with high stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ʪ",
+    "meta": "latin small letter ls digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ꝲ",
+    "meta": "latin small letter lum",
+    "ipa": ""
+  },
+  {
+    "label": "ʫ",
+    "meta": "latin small letter lz digraph",
+    "ipa": ""
+  },
+  {
+    "label": "m",
+    "meta": "latin small letter m",
+    "ipa": ""
+  },
+  {
+    "label": "ḿ",
+    "meta": "latin small letter m with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ꬺ",
+    "meta": "latin small letter m with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ṁ",
+    "meta": "latin small letter m with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ṃ",
+    "meta": "latin small letter m with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ɱ",
+    "meta": "latin small letter m with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵯ",
+    "meta": "latin small letter m with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶆ",
+    "meta": "latin small letter m with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꟗ",
+    "meta": "latin small letter middle scots s",
+    "ipa": ""
+  },
+  {
+    "label": "ỻ",
+    "meta": "latin small letter middle-welsh ll",
+    "ipa": ""
+  },
+  {
+    "label": "ỽ",
+    "meta": "latin small letter middle-welsh v",
+    "ipa": ""
+  },
+  {
+    "label": "ꝳ",
+    "meta": "latin small letter mum",
+    "ipa": ""
+  },
+  {
+    "label": "n",
+    "meta": "latin small letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ŉ",
+    "meta": "latin small letter n preceded by apostrophe",
+    "ipa": ""
+  },
+  {
+    "label": "ń",
+    "meta": "latin small letter n with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ň",
+    "meta": "latin small letter n with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ņ",
+    "meta": "latin small letter n with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ṋ",
+    "meta": "latin small letter n with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "ꬻ",
+    "meta": "latin small letter n with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ȵ",
+    "meta": "latin small letter n with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ꞑ",
+    "meta": "latin small letter n with descender",
+    "ipa": ""
+  },
+  {
+    "label": "ṅ",
+    "meta": "latin small letter n with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ṇ",
+    "meta": "latin small letter n with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ǹ",
+    "meta": "latin small letter n with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ɲ",
+    "meta": "latin small letter n with left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ṉ",
+    "meta": "latin small letter n with line below",
+    "ipa": ""
+  },
+  {
+    "label": "ƞ",
+    "meta": "latin small letter n with long right leg",
+    "ipa": ""
+  },
+  {
+    "label": "𝼧",
+    "meta": "latin small letter n with mid-height left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵰ",
+    "meta": "latin small letter n with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ꞥ",
+    "meta": "latin small letter n with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᶇ",
+    "meta": "latin small letter n with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɳ",
+    "meta": "latin small letter n with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ñ",
+    "meta": "latin small letter n with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ǌ",
+    "meta": "latin small letter nj",
+    "ipa": ""
+  },
+  {
+    "label": "ꝴ",
+    "meta": "latin small letter num",
+    "ipa": ""
+  },
+  {
+    "label": "o",
+    "meta": "latin small letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ó",
+    "meta": "latin small letter o with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ŏ",
+    "meta": "latin small letter o with breve",
+    "ipa": ""
+  },
+  {
+    "label": "ǒ",
+    "meta": "latin small letter o with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ô",
+    "meta": "latin small letter o with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ố",
+    "meta": "latin small letter o with circumflex and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ộ",
+    "meta": "latin small letter o with circumflex and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ồ",
+    "meta": "latin small letter o with circumflex and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ổ",
+    "meta": "latin small letter o with circumflex and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ỗ",
+    "meta": "latin small letter o with circumflex and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ö",
+    "meta": "latin small letter o with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ȫ",
+    "meta": "latin small letter o with diaeresis and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ȯ",
+    "meta": "latin small letter o with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ȱ",
+    "meta": "latin small letter o with dot above and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ọ",
+    "meta": "latin small letter o with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ő",
+    "meta": "latin small letter o with double acute",
+    "ipa": ""
+  },
+  {
+    "label": "ȍ",
+    "meta": "latin small letter o with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "ò",
+    "meta": "latin small letter o with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ỏ",
+    "meta": "latin small letter o with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ơ",
+    "meta": "latin small letter o with horn",
+    "ipa": ""
+  },
+  {
+    "label": "ớ",
+    "meta": "latin small letter o with horn and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ợ",
+    "meta": "latin small letter o with horn and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ờ",
+    "meta": "latin small letter o with horn and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ở",
+    "meta": "latin small letter o with horn and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ỡ",
+    "meta": "latin small letter o with horn and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ȏ",
+    "meta": "latin small letter o with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "ꝋ",
+    "meta": "latin small letter o with long stroke overlay",
+    "ipa": ""
+  },
+  {
+    "label": "ꝍ",
+    "meta": "latin small letter o with loop",
+    "ipa": ""
+  },
+  {
+    "label": "ⱺ",
+    "meta": "latin small letter o with low ring inside",
+    "ipa": ""
+  },
+  {
+    "label": "ō",
+    "meta": "latin small letter o with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ṓ",
+    "meta": "latin small letter o with macron and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ṑ",
+    "meta": "latin small letter o with macron and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ǫ",
+    "meta": "latin small letter o with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "ǭ",
+    "meta": "latin small letter o with ogonek and macron",
+    "ipa": ""
+  },
+  {
+    "label": "𝼛",
+    "meta": "latin small letter o with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ø",
+    "meta": "latin small letter o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ǿ",
+    "meta": "latin small letter o with stroke and acute",
+    "ipa": ""
+  },
+  {
+    "label": "õ",
+    "meta": "latin small letter o with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ṍ",
+    "meta": "latin small letter o with tilde and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ṏ",
+    "meta": "latin small letter o with tilde and diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ȭ",
+    "meta": "latin small letter o with tilde and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ƣ",
+    "meta": "latin small letter oi",
+    "ipa": ""
+  },
+  {
+    "label": "ꟁ",
+    "meta": "latin small letter old polish o",
+    "ipa": ""
+  },
+  {
+    "label": "ꞷ",
+    "meta": "latin small letter omega",
+    "ipa": ""
+  },
+  {
+    "label": "ꝏ",
+    "meta": "latin small letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ɛ",
+    "meta": "latin small letter open e",
+    "ipa": ""
+  },
+  {
+    "label": "ᶓ",
+    "meta": "latin small letter open e with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɔ",
+    "meta": "latin small letter open o",
+    "ipa": ""
+  },
+  {
+    "label": "ᶗ",
+    "meta": "latin small letter open o with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꬿ",
+    "meta": "latin small letter open o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꭢ",
+    "meta": "latin small letter open oe",
+    "ipa": ""
+  },
+  {
+    "label": "ȣ",
+    "meta": "latin small letter ou",
+    "ipa": ""
+  },
+  {
+    "label": "p",
+    "meta": "latin small letter p",
+    "ipa": ""
+  },
+  {
+    "label": "ṕ",
+    "meta": "latin small letter p with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ṗ",
+    "meta": "latin small letter p with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ꝓ",
+    "meta": "latin small letter p with flourish",
+    "ipa": ""
+  },
+  {
+    "label": "ƥ",
+    "meta": "latin small letter p with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵱ",
+    "meta": "latin small letter p with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶈ",
+    "meta": "latin small letter p with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꝕ",
+    "meta": "latin small letter p with squirrel tail",
+    "ipa": ""
+  },
+  {
+    "label": "ᵽ",
+    "meta": "latin small letter p with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꝑ",
+    "meta": "latin small letter p with stroke through descender",
+    "ipa": ""
+  },
+  {
+    "label": "ɸ",
+    "meta": "latin small letter phi",
+    "ipa": ""
+  },
+  {
+    "label": "q",
+    "meta": "latin small letter q",
+    "ipa": ""
+  },
+  {
+    "label": "ꝙ",
+    "meta": "latin small letter q with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ʠ",
+    "meta": "latin small letter q with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɋ",
+    "meta": "latin small letter q with hook tail",
+    "ipa": ""
+  },
+  {
+    "label": "ꝗ",
+    "meta": "latin small letter q with stroke through descender",
+    "ipa": ""
+  },
+  {
+    "label": "ȹ",
+    "meta": "latin small letter qp digraph",
+    "ipa": ""
+  },
+  {
+    "label": "r",
+    "meta": "latin small letter r",
+    "ipa": ""
+  },
+  {
+    "label": "ꝛ",
+    "meta": "latin small letter r rotunda",
+    "ipa": ""
+  },
+  {
+    "label": "ŕ",
+    "meta": "latin small letter r with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ř",
+    "meta": "latin small letter r with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ŗ",
+    "meta": "latin small letter r with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ꭉ",
+    "meta": "latin small letter r with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ṙ",
+    "meta": "latin small letter r with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ṛ",
+    "meta": "latin small letter r with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ṝ",
+    "meta": "latin small letter r with dot below and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ȑ",
+    "meta": "latin small letter r with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "ɾ",
+    "meta": "latin small letter r with fishhook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵳ",
+    "meta": "latin small letter r with fishhook and middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "𝼖",
+    "meta": "latin small letter r with fishhook and palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ȓ",
+    "meta": "latin small letter r with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "ṟ",
+    "meta": "latin small letter r with line below",
+    "ipa": ""
+  },
+  {
+    "label": "ɼ",
+    "meta": "latin small letter r with long leg",
+    "ipa": ""
+  },
+  {
+    "label": "𝼨",
+    "meta": "latin small letter r with mid-height left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵲ",
+    "meta": "latin small letter r with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ꞧ",
+    "meta": "latin small letter r with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᶉ",
+    "meta": "latin small letter r with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɍ",
+    "meta": "latin small letter r with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ɽ",
+    "meta": "latin small letter r with tail",
+    "ipa": ""
+  },
+  {
+    "label": "ꭇ",
+    "meta": "latin small letter r without handle",
+    "ipa": ""
+  },
+  {
+    "label": "ɤ",
+    "meta": "latin small letter rams horn",
+    "ipa": ""
+  },
+  {
+    "label": "ↄ",
+    "meta": "latin small letter reversed c",
+    "ipa": ""
+  },
+  {
+    "label": "ꜿ",
+    "meta": "latin small letter reversed c with dot",
+    "ipa": ""
+  },
+  {
+    "label": "ɘ",
+    "meta": "latin small letter reversed e",
+    "ipa": ""
+  },
+  {
+    "label": "𝼇",
+    "meta": "latin small letter reversed eng",
+    "ipa": ""
+  },
+  {
+    "label": "ꟶ",
+    "meta": "latin small letter reversed half h",
+    "ipa": ""
+  },
+  {
+    "label": "𝼃",
+    "meta": "latin small letter reversed k",
+    "ipa": ""
+  },
+  {
+    "label": "ɜ",
+    "meta": "latin small letter reversed open e",
+    "ipa": ""
+  },
+  {
+    "label": "ɝ",
+    "meta": "latin small letter reversed open e with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶔ",
+    "meta": "latin small letter reversed open e with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɿ",
+    "meta": "latin small letter reversed r with fishhook",
+    "ipa": ""
+  },
+  {
+    "label": "𝼁",
+    "meta": "latin small letter reversed script g",
+    "ipa": ""
+  },
+  {
+    "label": "ꝵ",
+    "meta": "latin small letter rum",
+    "ipa": ""
+  },
+  {
+    "label": "ꝝ",
+    "meta": "latin small letter rum rotunda",
+    "ipa": ""
+  },
+  {
+    "label": "s",
+    "meta": "latin small letter s",
+    "ipa": ""
+  },
+  {
+    "label": "ś",
+    "meta": "latin small letter s with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ṥ",
+    "meta": "latin small letter s with acute and dot above",
+    "ipa": ""
+  },
+  {
+    "label": "š",
+    "meta": "latin small letter s with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ṧ",
+    "meta": "latin small letter s with caron and dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ş",
+    "meta": "latin small letter s with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ŝ",
+    "meta": "latin small letter s with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ș",
+    "meta": "latin small letter s with comma below",
+    "ipa": ""
+  },
+  {
+    "label": "𝼞",
+    "meta": "latin small letter s with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ṡ",
+    "meta": "latin small letter s with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ṣ",
+    "meta": "latin small letter s with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ṩ",
+    "meta": "latin small letter s with dot below and dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ʂ",
+    "meta": "latin small letter s with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𝼩",
+    "meta": "latin small letter s with mid-height left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵴ",
+    "meta": "latin small letter s with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ꞩ",
+    "meta": "latin small letter s with oblique stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᶊ",
+    "meta": "latin small letter s with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꟊ",
+    "meta": "latin small letter s with short stroke overlay",
+    "ipa": ""
+  },
+  {
+    "label": "ȿ",
+    "meta": "latin small letter s with swash tail",
+    "ipa": ""
+  },
+  {
+    "label": "ꭠ",
+    "meta": "latin small letter sakha yat",
+    "ipa": ""
+  },
+  {
+    "label": "ꞌ",
+    "meta": "latin small letter saltillo",
+    "ipa": ""
+  },
+  {
+    "label": "ə",
+    "meta": "latin small letter schwa",
+    "ipa": ""
+  },
+  {
+    "label": "ɚ",
+    "meta": "latin small letter schwa with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶕ",
+    "meta": "latin small letter schwa with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɡ",
+    "meta": "latin small letter script g",
+    "ipa": ""
+  },
+  {
+    "label": "ꬶ",
+    "meta": "latin small letter script g with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ꭋ",
+    "meta": "latin small letter script r",
+    "ipa": ""
+  },
+  {
+    "label": "ꭌ",
+    "meta": "latin small letter script r with ring",
+    "ipa": ""
+  },
+  {
+    "label": "ß",
+    "meta": "latin small letter sharp s",
+    "ipa": ""
+  },
+  {
+    "label": "ᴞ",
+    "meta": "latin small letter sideways diaeresized u",
+    "ipa": ""
+  },
+  {
+    "label": "ᴑ",
+    "meta": "latin small letter sideways o",
+    "ipa": ""
+  },
+  {
+    "label": "ᴓ",
+    "meta": "latin small letter sideways o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴒ",
+    "meta": "latin small letter sideways open o",
+    "ipa": ""
+  },
+  {
+    "label": "ᴟ",
+    "meta": "latin small letter sideways turned m",
+    "ipa": ""
+  },
+  {
+    "label": "ᴝ",
+    "meta": "latin small letter sideways u",
+    "ipa": ""
+  },
+  {
+    "label": "ꟙ",
+    "meta": "latin small letter sigmoid s",
+    "ipa": ""
+  },
+  {
+    "label": "ʅ",
+    "meta": "latin small letter squat reversed esh",
+    "ipa": ""
+  },
+  {
+    "label": "ꭅ",
+    "meta": "latin small letter stirrup r",
+    "ipa": ""
+  },
+  {
+    "label": "t",
+    "meta": "latin small letter t",
+    "ipa": ""
+  },
+  {
+    "label": "ť",
+    "meta": "latin small letter t with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ţ",
+    "meta": "latin small letter t with cedilla",
+    "ipa": ""
+  },
+  {
+    "label": "ṱ",
+    "meta": "latin small letter t with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "ț",
+    "meta": "latin small letter t with comma below",
+    "ipa": ""
+  },
+  {
+    "label": "ȶ",
+    "meta": "latin small letter t with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ẗ",
+    "meta": "latin small letter t with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ⱦ",
+    "meta": "latin small letter t with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ṫ",
+    "meta": "latin small letter t with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ṭ",
+    "meta": "latin small letter t with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ƭ",
+    "meta": "latin small letter t with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𝼉",
+    "meta": "latin small letter t with hook and retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ṯ",
+    "meta": "latin small letter t with line below",
+    "ipa": ""
+  },
+  {
+    "label": "𝼪",
+    "meta": "latin small letter t with mid-height left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵵ",
+    "meta": "latin small letter t with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ƫ",
+    "meta": "latin small letter t with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ʈ",
+    "meta": "latin small letter t with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ŧ",
+    "meta": "latin small letter t with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ⱷ",
+    "meta": "latin small letter tailless phi",
+    "ipa": ""
+  },
+  {
+    "label": "ʨ",
+    "meta": "latin small letter tc digraph with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ʧ",
+    "meta": "latin small letter tesh digraph",
+    "ipa": ""
+  },
+  {
+    "label": "𝼗",
+    "meta": "latin small letter tesh digraph with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "𝼜",
+    "meta": "latin small letter tesh digraph with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵺ",
+    "meta": "latin small letter th with strikethrough",
+    "ipa": ""
+  },
+  {
+    "label": "þ",
+    "meta": "latin small letter thorn",
+    "ipa": ""
+  },
+  {
+    "label": "ꝥ",
+    "meta": "latin small letter thorn with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꝧ",
+    "meta": "latin small letter thorn with stroke through descender",
+    "ipa": ""
+  },
+  {
+    "label": "ƽ",
+    "meta": "latin small letter tone five",
+    "ipa": ""
+  },
+  {
+    "label": "ƅ",
+    "meta": "latin small letter tone six",
+    "ipa": ""
+  },
+  {
+    "label": "ƨ",
+    "meta": "latin small letter tone two",
+    "ipa": ""
+  },
+  {
+    "label": "ᴖ",
+    "meta": "latin small letter top half o",
+    "ipa": ""
+  },
+  {
+    "label": "ꜫ",
+    "meta": "latin small letter tresillo",
+    "ipa": ""
+  },
+  {
+    "label": "ʦ",
+    "meta": "latin small letter ts digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ꭧ",
+    "meta": "latin small letter ts digraph with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꝷ",
+    "meta": "latin small letter tum",
+    "ipa": ""
+  },
+  {
+    "label": "ɐ",
+    "meta": "latin small letter turned a",
+    "ipa": ""
+  },
+  {
+    "label": "ᴂ",
+    "meta": "latin small letter turned ae",
+    "ipa": ""
+  },
+  {
+    "label": "ɒ",
+    "meta": "latin small letter turned alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ƍ",
+    "meta": "latin small letter turned delta",
+    "ipa": ""
+  },
+  {
+    "label": "ǝ",
+    "meta": "latin small letter turned e",
+    "ipa": ""
+  },
+  {
+    "label": "ᵷ",
+    "meta": "latin small letter turned g",
+    "ipa": ""
+  },
+  {
+    "label": "ɥ",
+    "meta": "latin small letter turned h",
+    "ipa": ""
+  },
+  {
+    "label": "ʮ",
+    "meta": "latin small letter turned h with fishhook",
+    "ipa": ""
+  },
+  {
+    "label": "ʯ",
+    "meta": "latin small letter turned h with fishhook and tail",
+    "ipa": ""
+  },
+  {
+    "label": "ᴉ",
+    "meta": "latin small letter turned i",
+    "ipa": ""
+  },
+  {
+    "label": "ꝿ",
+    "meta": "latin small letter turned insular g",
+    "ipa": ""
+  },
+  {
+    "label": "ʞ",
+    "meta": "latin small letter turned k",
+    "ipa": ""
+  },
+  {
+    "label": "ꞁ",
+    "meta": "latin small letter turned l",
+    "ipa": ""
+  },
+  {
+    "label": "ɯ",
+    "meta": "latin small letter turned m",
+    "ipa": ""
+  },
+  {
+    "label": "ɰ",
+    "meta": "latin small letter turned m with long leg",
+    "ipa": ""
+  },
+  {
+    "label": "ꭃ",
+    "meta": "latin small letter turned o open-o",
+    "ipa": ""
+  },
+  {
+    "label": "ꭄ",
+    "meta": "latin small letter turned o open-o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴔ",
+    "meta": "latin small letter turned oe",
+    "ipa": ""
+  },
+  {
+    "label": "ꭂ",
+    "meta": "latin small letter turned oe with horizontal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꭁ",
+    "meta": "latin small letter turned oe with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴈ",
+    "meta": "latin small letter turned open e",
+    "ipa": ""
+  },
+  {
+    "label": "ɹ",
+    "meta": "latin small letter turned r",
+    "ipa": ""
+  },
+  {
+    "label": "ɻ",
+    "meta": "latin small letter turned r with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ɺ",
+    "meta": "latin small letter turned r with long leg",
+    "ipa": ""
+  },
+  {
+    "label": "𝼈",
+    "meta": "latin small letter turned r with long leg and retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꭨ",
+    "meta": "latin small letter turned r with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "𝼕",
+    "meta": "latin small letter turned r with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ⱹ",
+    "meta": "latin small letter turned r with tail",
+    "ipa": ""
+  },
+  {
+    "label": "ʇ",
+    "meta": "latin small letter turned t",
+    "ipa": ""
+  },
+  {
+    "label": "𝼍",
+    "meta": "latin small letter turned t with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ꭑ",
+    "meta": "latin small letter turned ui",
+    "ipa": ""
+  },
+  {
+    "label": "ʌ",
+    "meta": "latin small letter turned v",
+    "ipa": ""
+  },
+  {
+    "label": "ʍ",
+    "meta": "latin small letter turned w",
+    "ipa": ""
+  },
+  {
+    "label": "ʎ",
+    "meta": "latin small letter turned y",
+    "ipa": ""
+  },
+  {
+    "label": "𝼆",
+    "meta": "latin small letter turned y with belt",
+    "ipa": ""
+  },
+  {
+    "label": "ꜩ",
+    "meta": "latin small letter tz",
+    "ipa": ""
+  },
+  {
+    "label": "u",
+    "meta": "latin small letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ʉ",
+    "meta": "latin small letter u bar",
+    "ipa": ""
+  },
+  {
+    "label": "ꭏ",
+    "meta": "latin small letter u bar with short right leg",
+    "ipa": ""
+  },
+  {
+    "label": "ú",
+    "meta": "latin small letter u with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ŭ",
+    "meta": "latin small letter u with breve",
+    "ipa": ""
+  },
+  {
+    "label": "ǔ",
+    "meta": "latin small letter u with caron",
+    "ipa": ""
+  },
+  {
+    "label": "û",
+    "meta": "latin small letter u with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ṷ",
+    "meta": "latin small letter u with circumflex below",
+    "ipa": ""
+  },
+  {
+    "label": "ü",
+    "meta": "latin small letter u with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ǘ",
+    "meta": "latin small letter u with diaeresis and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ǚ",
+    "meta": "latin small letter u with diaeresis and caron",
+    "ipa": ""
+  },
+  {
+    "label": "ǜ",
+    "meta": "latin small letter u with diaeresis and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ǖ",
+    "meta": "latin small letter u with diaeresis and macron",
+    "ipa": ""
+  },
+  {
+    "label": "ṳ",
+    "meta": "latin small letter u with diaeresis below",
+    "ipa": ""
+  },
+  {
+    "label": "ụ",
+    "meta": "latin small letter u with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ű",
+    "meta": "latin small letter u with double acute",
+    "ipa": ""
+  },
+  {
+    "label": "ȕ",
+    "meta": "latin small letter u with double grave",
+    "ipa": ""
+  },
+  {
+    "label": "ù",
+    "meta": "latin small letter u with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ủ",
+    "meta": "latin small letter u with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ư",
+    "meta": "latin small letter u with horn",
+    "ipa": ""
+  },
+  {
+    "label": "ứ",
+    "meta": "latin small letter u with horn and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ự",
+    "meta": "latin small letter u with horn and dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ừ",
+    "meta": "latin small letter u with horn and grave",
+    "ipa": ""
+  },
+  {
+    "label": "ử",
+    "meta": "latin small letter u with horn and hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ữ",
+    "meta": "latin small letter u with horn and tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ȗ",
+    "meta": "latin small letter u with inverted breve",
+    "ipa": ""
+  },
+  {
+    "label": "ꭒ",
+    "meta": "latin small letter u with left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ū",
+    "meta": "latin small letter u with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ṻ",
+    "meta": "latin small letter u with macron and diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ų",
+    "meta": "latin small letter u with ogonek",
+    "ipa": ""
+  },
+  {
+    "label": "ᶙ",
+    "meta": "latin small letter u with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ů",
+    "meta": "latin small letter u with ring above",
+    "ipa": ""
+  },
+  {
+    "label": "ꭎ",
+    "meta": "latin small letter u with short right leg",
+    "ipa": ""
+  },
+  {
+    "label": "ꞹ",
+    "meta": "latin small letter u with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ũ",
+    "meta": "latin small letter u with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ṹ",
+    "meta": "latin small letter u with tilde and acute",
+    "ipa": ""
+  },
+  {
+    "label": "ṵ",
+    "meta": "latin small letter u with tilde below",
+    "ipa": ""
+  },
+  {
+    "label": "ᵫ",
+    "meta": "latin small letter ue",
+    "ipa": ""
+  },
+  {
+    "label": "ꭐ",
+    "meta": "latin small letter ui",
+    "ipa": ""
+  },
+  {
+    "label": "ꝸ",
+    "meta": "latin small letter um",
+    "ipa": ""
+  },
+  {
+    "label": "ꭣ",
+    "meta": "latin small letter uo",
+    "ipa": ""
+  },
+  {
+    "label": "ʊ",
+    "meta": "latin small letter upsilon",
+    "ipa": ""
+  },
+  {
+    "label": "ᵿ",
+    "meta": "latin small letter upsilon with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "v",
+    "meta": "latin small letter v",
+    "ipa": ""
+  },
+  {
+    "label": "ⱴ",
+    "meta": "latin small letter v with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ꝟ",
+    "meta": "latin small letter v with diagonal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ṿ",
+    "meta": "latin small letter v with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ʋ",
+    "meta": "latin small letter v with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶌ",
+    "meta": "latin small letter v with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ⱱ",
+    "meta": "latin small letter v with right hook",
+    "ipa": ""
+  },
+  {
+    "label": "ṽ",
+    "meta": "latin small letter v with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ꝩ",
+    "meta": "latin small letter vend",
+    "ipa": ""
+  },
+  {
+    "label": "ꝣ",
+    "meta": "latin small letter visigothic z",
+    "ipa": ""
+  },
+  {
+    "label": "ꞛ",
+    "meta": "latin small letter volapuk ae",
+    "ipa": ""
+  },
+  {
+    "label": "ꞝ",
+    "meta": "latin small letter volapuk oe",
+    "ipa": ""
+  },
+  {
+    "label": "ꞟ",
+    "meta": "latin small letter volapuk ue",
+    "ipa": ""
+  },
+  {
+    "label": "ꝡ",
+    "meta": "latin small letter vy",
+    "ipa": ""
+  },
+  {
+    "label": "w",
+    "meta": "latin small letter w",
+    "ipa": ""
+  },
+  {
+    "label": "ẃ",
+    "meta": "latin small letter w with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ŵ",
+    "meta": "latin small letter w with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ẅ",
+    "meta": "latin small letter w with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ẇ",
+    "meta": "latin small letter w with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ẉ",
+    "meta": "latin small letter w with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ẁ",
+    "meta": "latin small letter w with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ⱳ",
+    "meta": "latin small letter w with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ẘ",
+    "meta": "latin small letter w with ring above",
+    "ipa": ""
+  },
+  {
+    "label": "x",
+    "meta": "latin small letter x",
+    "ipa": ""
+  },
+  {
+    "label": "ẍ",
+    "meta": "latin small letter x with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ẋ",
+    "meta": "latin small letter x with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ꭗ",
+    "meta": "latin small letter x with long left leg",
+    "ipa": ""
+  },
+  {
+    "label": "ꭘ",
+    "meta": "latin small letter x with long left leg and low right ring",
+    "ipa": ""
+  },
+  {
+    "label": "ꭙ",
+    "meta": "latin small letter x with long left leg with serif",
+    "ipa": ""
+  },
+  {
+    "label": "ꭖ",
+    "meta": "latin small letter x with low right ring",
+    "ipa": ""
+  },
+  {
+    "label": "ᶍ",
+    "meta": "latin small letter x with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "y",
+    "meta": "latin small letter y",
+    "ipa": ""
+  },
+  {
+    "label": "ý",
+    "meta": "latin small letter y with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ŷ",
+    "meta": "latin small letter y with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ÿ",
+    "meta": "latin small letter y with diaeresis",
+    "ipa": ""
+  },
+  {
+    "label": "ẏ",
+    "meta": "latin small letter y with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ỵ",
+    "meta": "latin small letter y with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ỳ",
+    "meta": "latin small letter y with grave",
+    "ipa": ""
+  },
+  {
+    "label": "ƴ",
+    "meta": "latin small letter y with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ỷ",
+    "meta": "latin small letter y with hook above",
+    "ipa": ""
+  },
+  {
+    "label": "ỿ",
+    "meta": "latin small letter y with loop",
+    "ipa": ""
+  },
+  {
+    "label": "ȳ",
+    "meta": "latin small letter y with macron",
+    "ipa": ""
+  },
+  {
+    "label": "ẙ",
+    "meta": "latin small letter y with ring above",
+    "ipa": ""
+  },
+  {
+    "label": "ꭚ",
+    "meta": "latin small letter y with short right leg",
+    "ipa": ""
+  },
+  {
+    "label": "ɏ",
+    "meta": "latin small letter y with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ỹ",
+    "meta": "latin small letter y with tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ȝ",
+    "meta": "latin small letter yogh",
+    "ipa": ""
+  },
+  {
+    "label": "z",
+    "meta": "latin small letter z",
+    "ipa": ""
+  },
+  {
+    "label": "ź",
+    "meta": "latin small letter z with acute",
+    "ipa": ""
+  },
+  {
+    "label": "ž",
+    "meta": "latin small letter z with caron",
+    "ipa": ""
+  },
+  {
+    "label": "ẑ",
+    "meta": "latin small letter z with circumflex",
+    "ipa": ""
+  },
+  {
+    "label": "ʑ",
+    "meta": "latin small letter z with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ⱬ",
+    "meta": "latin small letter z with descender",
+    "ipa": ""
+  },
+  {
+    "label": "ż",
+    "meta": "latin small letter z with dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ẓ",
+    "meta": "latin small letter z with dot below",
+    "ipa": ""
+  },
+  {
+    "label": "ȥ",
+    "meta": "latin small letter z with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ẕ",
+    "meta": "latin small letter z with line below",
+    "ipa": ""
+  },
+  {
+    "label": "ᵶ",
+    "meta": "latin small letter z with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶎ",
+    "meta": "latin small letter z with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ʐ",
+    "meta": "latin small letter z with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ƶ",
+    "meta": "latin small letter z with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ɀ",
+    "meta": "latin small letter z with swash tail",
+    "ipa": ""
+  },
+  {
+    "label": "ﬀ",
+    "meta": "latin small ligature ff",
+    "ipa": ""
+  },
+  {
+    "label": "ﬃ",
+    "meta": "latin small ligature ffi",
+    "ipa": ""
+  },
+  {
+    "label": "ﬄ",
+    "meta": "latin small ligature ffl",
+    "ipa": ""
+  },
+  {
+    "label": "ﬁ",
+    "meta": "latin small ligature fi",
+    "ipa": ""
+  },
+  {
+    "label": "ﬂ",
+    "meta": "latin small ligature fl",
+    "ipa": ""
+  },
+  {
+    "label": "ĳ",
+    "meta": "latin small ligature ij",
+    "ipa": ""
+  },
+  {
+    "label": "ﬅ",
+    "meta": "latin small ligature long s t",
+    "ipa": ""
+  },
+  {
+    "label": "œ",
+    "meta": "latin small ligature oe",
+    "ipa": ""
+  },
+  {
+    "label": "ﬆ",
+    "meta": "latin small ligature st",
+    "ipa": ""
+  },
+  {
+    "label": "ₐ",
+    "meta": "latin subscript small letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ₑ",
+    "meta": "latin subscript small letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ₕ",
+    "meta": "latin subscript small letter h",
+    "ipa": ""
+  },
+  {
+    "label": "ᵢ",
+    "meta": "latin subscript small letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ⱼ",
+    "meta": "latin subscript small letter j",
+    "ipa": ""
+  },
+  {
+    "label": "ₖ",
+    "meta": "latin subscript small letter k",
+    "ipa": ""
+  },
+  {
+    "label": "ₗ",
+    "meta": "latin subscript small letter l",
+    "ipa": ""
+  },
+  {
+    "label": "ₘ",
+    "meta": "latin subscript small letter m",
+    "ipa": ""
+  },
+  {
+    "label": "ₙ",
+    "meta": "latin subscript small letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ₒ",
+    "meta": "latin subscript small letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ₚ",
+    "meta": "latin subscript small letter p",
+    "ipa": ""
+  },
+  {
+    "label": "ᵣ",
+    "meta": "latin subscript small letter r",
+    "ipa": ""
+  },
+  {
+    "label": "ₛ",
+    "meta": "latin subscript small letter s",
+    "ipa": ""
+  },
+  {
+    "label": "ₔ",
+    "meta": "latin subscript small letter schwa",
+    "ipa": ""
+  },
+  {
+    "label": "ₜ",
+    "meta": "latin subscript small letter t",
+    "ipa": ""
+  },
+  {
+    "label": "ᵤ",
+    "meta": "latin subscript small letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ᵥ",
+    "meta": "latin subscript small letter v",
+    "ipa": ""
+  },
+  {
+    "label": "ₓ",
+    "meta": "latin subscript small letter x",
+    "ipa": ""
+  },
+  {
+    "label": "º",
+    "meta": "masculine ordinal indicator",
+    "ipa": ""
+  },
+  {
+    "label": "𐞸",
+    "meta": "modifier letter alveolar click",
+    "ipa": ""
+  },
+  {
+    "label": "𐞵",
+    "meta": "modifier letter bilabial click",
+    "ipa": ""
+  },
+  {
+    "label": "ᴬ",
+    "meta": "modifier letter capital a",
+    "ipa": ""
+  },
+  {
+    "label": "ᴭ",
+    "meta": "modifier letter capital ae",
+    "ipa": ""
+  },
+  {
+    "label": "ᴮ",
+    "meta": "modifier letter capital b",
+    "ipa": ""
+  },
+  {
+    "label": "ᴯ",
+    "meta": "modifier letter capital barred b",
+    "ipa": ""
+  },
+  {
+    "label": "ꟲ",
+    "meta": "modifier letter capital c",
+    "ipa": ""
+  },
+  {
+    "label": "ᴰ",
+    "meta": "modifier letter capital d",
+    "ipa": ""
+  },
+  {
+    "label": "ᴱ",
+    "meta": "modifier letter capital e",
+    "ipa": ""
+  },
+  {
+    "label": "ꟳ",
+    "meta": "modifier letter capital f",
+    "ipa": ""
+  },
+  {
+    "label": "ᴳ",
+    "meta": "modifier letter capital g",
+    "ipa": ""
+  },
+  {
+    "label": "ᴴ",
+    "meta": "modifier letter capital h",
+    "ipa": ""
+  },
+  {
+    "label": "ꟸ",
+    "meta": "modifier letter capital h with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᴵ",
+    "meta": "modifier letter capital i",
+    "ipa": ""
+  },
+  {
+    "label": "ᴶ",
+    "meta": "modifier letter capital j",
+    "ipa": ""
+  },
+  {
+    "label": "ᴷ",
+    "meta": "modifier letter capital k",
+    "ipa": ""
+  },
+  {
+    "label": "ᴸ",
+    "meta": "modifier letter capital l",
+    "ipa": ""
+  },
+  {
+    "label": "ᴹ",
+    "meta": "modifier letter capital m",
+    "ipa": ""
+  },
+  {
+    "label": "ᴺ",
+    "meta": "modifier letter capital n",
+    "ipa": ""
+  },
+  {
+    "label": "ᴼ",
+    "meta": "modifier letter capital o",
+    "ipa": ""
+  },
+  {
+    "label": "ᴽ",
+    "meta": "modifier letter capital ou",
+    "ipa": ""
+  },
+  {
+    "label": "ᴾ",
+    "meta": "modifier letter capital p",
+    "ipa": ""
+  },
+  {
+    "label": "ꟴ",
+    "meta": "modifier letter capital q",
+    "ipa": ""
+  },
+  {
+    "label": "ᴿ",
+    "meta": "modifier letter capital r",
+    "ipa": ""
+  },
+  {
+    "label": "ᴲ",
+    "meta": "modifier letter capital reversed e",
+    "ipa": ""
+  },
+  {
+    "label": "ᴻ",
+    "meta": "modifier letter capital reversed n",
+    "ipa": ""
+  },
+  {
+    "label": "ᵀ",
+    "meta": "modifier letter capital t",
+    "ipa": ""
+  },
+  {
+    "label": "ᵁ",
+    "meta": "modifier letter capital u",
+    "ipa": ""
+  },
+  {
+    "label": "ⱽ",
+    "meta": "modifier letter capital v",
+    "ipa": ""
+  },
+  {
+    "label": "ᵂ",
+    "meta": "modifier letter capital w",
+    "ipa": ""
+  },
+  {
+    "label": "𐞶",
+    "meta": "modifier letter dental click",
+    "ipa": ""
+  },
+  {
+    "label": "𐞳",
+    "meta": "modifier letter glottal stop with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "𐞷",
+    "meta": "modifier letter lateral click",
+    "ipa": ""
+  },
+  {
+    "label": "𐞹",
+    "meta": "modifier letter retroflex click with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞴",
+    "meta": "modifier letter reversed glottal stop with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᵃ",
+    "meta": "modifier letter small a",
+    "ipa": ""
+  },
+  {
+    "label": "𐞃",
+    "meta": "modifier letter small ae",
+    "ipa": ""
+  },
+  {
+    "label": "ᵜ",
+    "meta": "modifier letter small ain",
+    "ipa": ""
+  },
+  {
+    "label": "ᵅ",
+    "meta": "modifier letter small alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ᵇ",
+    "meta": "modifier letter small b",
+    "ipa": ""
+  },
+  {
+    "label": "𐞅",
+    "meta": "modifier letter small b with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶱ",
+    "meta": "modifier letter small barred o",
+    "ipa": ""
+  },
+  {
+    "label": "ᵕ",
+    "meta": "modifier letter small bottom half o",
+    "ipa": ""
+  },
+  {
+    "label": "ᶜ",
+    "meta": "modifier letter small c",
+    "ipa": ""
+  },
+  {
+    "label": "ᶝ",
+    "meta": "modifier letter small c with curl",
+    "ipa": ""
+  },
+  {
+    "label": "𐞀",
+    "meta": "modifier letter small capital aa",
+    "ipa": ""
+  },
+  {
+    "label": "𐞄",
+    "meta": "modifier letter small capital b",
+    "ipa": ""
+  },
+  {
+    "label": "𐞒",
+    "meta": "modifier letter small capital g",
+    "ipa": ""
+  },
+  {
+    "label": "𐞔",
+    "meta": "modifier letter small capital g with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞖",
+    "meta": "modifier letter small capital h",
+    "ipa": ""
+  },
+  {
+    "label": "ᶦ",
+    "meta": "modifier letter small capital i",
+    "ipa": ""
+  },
+  {
+    "label": "ᶧ",
+    "meta": "modifier letter small capital i with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ʶ",
+    "meta": "modifier letter small capital inverted r",
+    "ipa": ""
+  },
+  {
+    "label": "ᶫ",
+    "meta": "modifier letter small capital l",
+    "ipa": ""
+  },
+  {
+    "label": "𐞜",
+    "meta": "modifier letter small capital l with belt",
+    "ipa": ""
+  },
+  {
+    "label": "ᶰ",
+    "meta": "modifier letter small capital n",
+    "ipa": ""
+  },
+  {
+    "label": "𐞣",
+    "meta": "modifier letter small capital oe",
+    "ipa": ""
+  },
+  {
+    "label": "𐞪",
+    "meta": "modifier letter small capital r",
+    "ipa": ""
+  },
+  {
+    "label": "ᶸ",
+    "meta": "modifier letter small capital u",
+    "ipa": ""
+  },
+  {
+    "label": "𐞲",
+    "meta": "modifier letter small capital y",
+    "ipa": ""
+  },
+  {
+    "label": "𐞤",
+    "meta": "modifier letter small closed omega",
+    "ipa": ""
+  },
+  {
+    "label": "𐞏",
+    "meta": "modifier letter small closed reversed open e",
+    "ipa": ""
+  },
+  {
+    "label": "ᵈ",
+    "meta": "modifier letter small d",
+    "ipa": ""
+  },
+  {
+    "label": "𐞌",
+    "meta": "modifier letter small d with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞍",
+    "meta": "modifier letter small d with hook and tail",
+    "ipa": ""
+  },
+  {
+    "label": "𐞋",
+    "meta": "modifier letter small d with tail",
+    "ipa": ""
+  },
+  {
+    "label": "𐞊",
+    "meta": "modifier letter small dezh digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ᶡ",
+    "meta": "modifier letter small dotless j with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "𐞘",
+    "meta": "modifier letter small dotless j with stroke and hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞇",
+    "meta": "modifier letter small dz digraph",
+    "ipa": ""
+  },
+  {
+    "label": "𐞉",
+    "meta": "modifier letter small dz digraph with curl",
+    "ipa": ""
+  },
+  {
+    "label": "𐞈",
+    "meta": "modifier letter small dz digraph with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵉ",
+    "meta": "modifier letter small e",
+    "ipa": ""
+  },
+  {
+    "label": "ᵑ",
+    "meta": "modifier letter small eng",
+    "ipa": ""
+  },
+  {
+    "label": "ᶴ",
+    "meta": "modifier letter small esh",
+    "ipa": ""
+  },
+  {
+    "label": "ᶞ",
+    "meta": "modifier letter small eth",
+    "ipa": ""
+  },
+  {
+    "label": "ᶾ",
+    "meta": "modifier letter small ezh",
+    "ipa": ""
+  },
+  {
+    "label": "ᶠ",
+    "meta": "modifier letter small f",
+    "ipa": ""
+  },
+  {
+    "label": "𐞐",
+    "meta": "modifier letter small feng digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ᵍ",
+    "meta": "modifier letter small g",
+    "ipa": ""
+  },
+  {
+    "label": "𐞓",
+    "meta": "modifier letter small g with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ˠ",
+    "meta": "modifier letter small gamma",
+    "ipa": ""
+  },
+  {
+    "label": "ʰ",
+    "meta": "modifier letter small h",
+    "ipa": ""
+  },
+  {
+    "label": "ʱ",
+    "meta": "modifier letter small h with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞕",
+    "meta": "modifier letter small h with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ꭜ",
+    "meta": "modifier letter small heng",
+    "ipa": ""
+  },
+  {
+    "label": "𐞗",
+    "meta": "modifier letter small heng with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶤ",
+    "meta": "modifier letter small i with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᶥ",
+    "meta": "modifier letter small iota",
+    "ipa": ""
+  },
+  {
+    "label": "ʲ",
+    "meta": "modifier letter small j",
+    "ipa": ""
+  },
+  {
+    "label": "ᶨ",
+    "meta": "modifier letter small j with crossed-tail",
+    "ipa": ""
+  },
+  {
+    "label": "ᵏ",
+    "meta": "modifier letter small k",
+    "ipa": ""
+  },
+  {
+    "label": "ˡ",
+    "meta": "modifier letter small l",
+    "ipa": ""
+  },
+  {
+    "label": "𐞛",
+    "meta": "modifier letter small l with belt",
+    "ipa": ""
+  },
+  {
+    "label": "ꭝ",
+    "meta": "modifier letter small l with inverted lazy s",
+    "ipa": ""
+  },
+  {
+    "label": "ꭞ",
+    "meta": "modifier letter small l with middle tilde",
+    "ipa": ""
+  },
+  {
+    "label": "ᶪ",
+    "meta": "modifier letter small l with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶩ",
+    "meta": "modifier letter small l with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞝",
+    "meta": "modifier letter small l with retroflex hook and belt",
+    "ipa": ""
+  },
+  {
+    "label": "𐞞",
+    "meta": "modifier letter small lezh",
+    "ipa": ""
+  },
+  {
+    "label": "𐞟",
+    "meta": "modifier letter small lezh with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ꟹ",
+    "meta": "modifier letter small ligature oe",
+    "ipa": ""
+  },
+  {
+    "label": "𐞙",
+    "meta": "modifier letter small ls digraph",
+    "ipa": ""
+  },
+  {
+    "label": "𐞚",
+    "meta": "modifier letter small lz digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ᵐ",
+    "meta": "modifier letter small m",
+    "ipa": ""
+  },
+  {
+    "label": "ᶬ",
+    "meta": "modifier letter small m with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶮ",
+    "meta": "modifier letter small n with left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶯ",
+    "meta": "modifier letter small n with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵒ",
+    "meta": "modifier letter small o",
+    "ipa": ""
+  },
+  {
+    "label": "𐞢",
+    "meta": "modifier letter small o with stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᵋ",
+    "meta": "modifier letter small open e",
+    "ipa": ""
+  },
+  {
+    "label": "ᵓ",
+    "meta": "modifier letter small open o",
+    "ipa": ""
+  },
+  {
+    "label": "ᵖ",
+    "meta": "modifier letter small p",
+    "ipa": ""
+  },
+  {
+    "label": "ᶲ",
+    "meta": "modifier letter small phi",
+    "ipa": ""
+  },
+  {
+    "label": "𐞥",
+    "meta": "modifier letter small q",
+    "ipa": ""
+  },
+  {
+    "label": "ʳ",
+    "meta": "modifier letter small r",
+    "ipa": ""
+  },
+  {
+    "label": "𐞩",
+    "meta": "modifier letter small r with fishhook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞨",
+    "meta": "modifier letter small r with tail",
+    "ipa": ""
+  },
+  {
+    "label": "𐞑",
+    "meta": "modifier letter small rams horn",
+    "ipa": ""
+  },
+  {
+    "label": "𐞎",
+    "meta": "modifier letter small reversed e",
+    "ipa": ""
+  },
+  {
+    "label": "ˤ",
+    "meta": "modifier letter small reversed glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "ᶟ",
+    "meta": "modifier letter small reversed open e",
+    "ipa": ""
+  },
+  {
+    "label": "ˢ",
+    "meta": "modifier letter small s",
+    "ipa": ""
+  },
+  {
+    "label": "𐞺",
+    "meta": "modifier letter small s with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ᶳ",
+    "meta": "modifier letter small s with hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵊ",
+    "meta": "modifier letter small schwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᶢ",
+    "meta": "modifier letter small script g",
+    "ipa": ""
+  },
+  {
+    "label": "ᵙ",
+    "meta": "modifier letter small sideways u",
+    "ipa": ""
+  },
+  {
+    "label": "ᵗ",
+    "meta": "modifier letter small t",
+    "ipa": ""
+  },
+  {
+    "label": "ᶵ",
+    "meta": "modifier letter small t with palatal hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞯",
+    "meta": "modifier letter small t with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞫",
+    "meta": "modifier letter small tc digraph with curl",
+    "ipa": ""
+  },
+  {
+    "label": "𐞮",
+    "meta": "modifier letter small tesh digraph",
+    "ipa": ""
+  },
+  {
+    "label": "ᵔ",
+    "meta": "modifier letter small top half o",
+    "ipa": ""
+  },
+  {
+    "label": "𐞬",
+    "meta": "modifier letter small ts digraph",
+    "ipa": ""
+  },
+  {
+    "label": "𐞭",
+    "meta": "modifier letter small ts digraph with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᵄ",
+    "meta": "modifier letter small turned a",
+    "ipa": ""
+  },
+  {
+    "label": "ᵆ",
+    "meta": "modifier letter small turned ae",
+    "ipa": ""
+  },
+  {
+    "label": "ᶛ",
+    "meta": "modifier letter small turned alpha",
+    "ipa": ""
+  },
+  {
+    "label": "ᶣ",
+    "meta": "modifier letter small turned h",
+    "ipa": ""
+  },
+  {
+    "label": "ᵎ",
+    "meta": "modifier letter small turned i",
+    "ipa": ""
+  },
+  {
+    "label": "ᵚ",
+    "meta": "modifier letter small turned m",
+    "ipa": ""
+  },
+  {
+    "label": "ᶭ",
+    "meta": "modifier letter small turned m with long leg",
+    "ipa": ""
+  },
+  {
+    "label": "ᵌ",
+    "meta": "modifier letter small turned open e",
+    "ipa": ""
+  },
+  {
+    "label": "ʴ",
+    "meta": "modifier letter small turned r",
+    "ipa": ""
+  },
+  {
+    "label": "ʵ",
+    "meta": "modifier letter small turned r with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞦",
+    "meta": "modifier letter small turned r with long leg",
+    "ipa": ""
+  },
+  {
+    "label": "𐞧",
+    "meta": "modifier letter small turned r with long leg and retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶺ",
+    "meta": "modifier letter small turned v",
+    "ipa": ""
+  },
+  {
+    "label": "ꭩ",
+    "meta": "modifier letter small turned w",
+    "ipa": ""
+  },
+  {
+    "label": "𐞠",
+    "meta": "modifier letter small turned y",
+    "ipa": ""
+  },
+  {
+    "label": "𐞡",
+    "meta": "modifier letter small turned y with belt",
+    "ipa": ""
+  },
+  {
+    "label": "ᵘ",
+    "meta": "modifier letter small u",
+    "ipa": ""
+  },
+  {
+    "label": "ᶶ",
+    "meta": "modifier letter small u bar",
+    "ipa": ""
+  },
+  {
+    "label": "ꭟ",
+    "meta": "modifier letter small u with left hook",
+    "ipa": ""
+  },
+  {
+    "label": "ᶷ",
+    "meta": "modifier letter small upsilon",
+    "ipa": ""
+  },
+  {
+    "label": "ᵛ",
+    "meta": "modifier letter small v",
+    "ipa": ""
+  },
+  {
+    "label": "ᶹ",
+    "meta": "modifier letter small v with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞰",
+    "meta": "modifier letter small v with right hook",
+    "ipa": ""
+  },
+  {
+    "label": "ʷ",
+    "meta": "modifier letter small w",
+    "ipa": ""
+  },
+  {
+    "label": "ˣ",
+    "meta": "modifier letter small x",
+    "ipa": ""
+  },
+  {
+    "label": "ʸ",
+    "meta": "modifier letter small y",
+    "ipa": ""
+  },
+  {
+    "label": "ᶻ",
+    "meta": "modifier letter small z",
+    "ipa": ""
+  },
+  {
+    "label": "ᶽ",
+    "meta": "modifier letter small z with curl",
+    "ipa": ""
+  },
+  {
+    "label": "ᶼ",
+    "meta": "modifier letter small z with retroflex hook",
+    "ipa": ""
+  },
+  {
+    "label": "𐞂",
+    "meta": "modifier letter superscript half triangular colon",
+    "ipa": ""
+  },
+  {
+    "label": "𐞁",
+    "meta": "modifier letter superscript triangular colon",
+    "ipa": ""
+  },
+  {
+    "label": "ꝰ",
+    "meta": "modifier letter us",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅷ",
+    "meta": "roman numeral eight",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅺ",
+    "meta": "roman numeral eleven",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅼ",
+    "meta": "roman numeral fifty",
+    "ipa": ""
+  },
+  {
+    "label": "ↆ",
+    "meta": "roman numeral fifty early form",
+    "ipa": ""
+  },
+  {
+    "label": "ↇ",
+    "meta": "roman numeral fifty thousand",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅴ",
+    "meta": "roman numeral five",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅾ",
+    "meta": "roman numeral five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "ↁ",
+    "meta": "roman numeral five thousand",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅳ",
+    "meta": "roman numeral four",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅸ",
+    "meta": "roman numeral nine",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅰ",
+    "meta": "roman numeral one",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅽ",
+    "meta": "roman numeral one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "ↈ",
+    "meta": "roman numeral one hundred thousand",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅿ",
+    "meta": "roman numeral one thousand",
+    "ipa": ""
+  },
+  {
+    "label": "ↀ",
+    "meta": "roman numeral one thousand c d",
+    "ipa": ""
+  },
+  {
+    "label": "Ↄ",
+    "meta": "roman numeral reversed one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅶ",
+    "meta": "roman numeral seven",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅵ",
+    "meta": "roman numeral six",
+    "ipa": ""
+  },
+  {
+    "label": "ↅ",
+    "meta": "roman numeral six late form",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅹ",
+    "meta": "roman numeral ten",
+    "ipa": ""
+  },
+  {
+    "label": "ↂ",
+    "meta": "roman numeral ten thousand",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅲ",
+    "meta": "roman numeral three",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅻ",
+    "meta": "roman numeral twelve",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅱ",
+    "meta": "roman numeral two",
+    "ipa": ""
+  },
+  {
+    "label": "ⅷ",
+    "meta": "small roman numeral eight",
+    "ipa": ""
+  },
+  {
+    "label": "ⅺ",
+    "meta": "small roman numeral eleven",
+    "ipa": ""
+  },
+  {
+    "label": "ⅼ",
+    "meta": "small roman numeral fifty",
+    "ipa": ""
+  },
+  {
+    "label": "ⅴ",
+    "meta": "small roman numeral five",
+    "ipa": ""
+  },
+  {
+    "label": "ⅾ",
+    "meta": "small roman numeral five hundred",
+    "ipa": ""
+  },
+  {
+    "label": "ⅳ",
+    "meta": "small roman numeral four",
+    "ipa": ""
+  },
+  {
+    "label": "ⅸ",
+    "meta": "small roman numeral nine",
+    "ipa": ""
+  },
+  {
+    "label": "ⅰ",
+    "meta": "small roman numeral one",
+    "ipa": ""
+  },
+  {
+    "label": "ⅽ",
+    "meta": "small roman numeral one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "ⅿ",
+    "meta": "small roman numeral one thousand",
+    "ipa": ""
+  },
+  {
+    "label": "ⅶ",
+    "meta": "small roman numeral seven",
+    "ipa": ""
+  },
+  {
+    "label": "ⅵ",
+    "meta": "small roman numeral six",
+    "ipa": ""
+  },
+  {
+    "label": "ⅹ",
+    "meta": "small roman numeral ten",
+    "ipa": ""
+  },
+  {
+    "label": "ⅲ",
+    "meta": "small roman numeral three",
+    "ipa": ""
+  },
+  {
+    "label": "ⅻ",
+    "meta": "small roman numeral twelve",
+    "ipa": ""
+  },
+  {
+    "label": "ⅱ",
+    "meta": "small roman numeral two",
+    "ipa": ""
+  },
+  {
+    "label": "ⁱ",
+    "meta": "superscript latin small letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ⁿ",
+    "meta": "superscript latin small letter n",
+    "ipa": ""
+  },
+  {
+    "label": "Ⅎ",
+    "meta": "turned capital f",
+    "ipa": ""
+  },
+  {
+    "label": "ⅎ",
+    "meta": "turned small f",
+    "ipa": ""
+  }
+]

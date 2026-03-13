@@ -1,0 +1,1607 @@
+[
+  {
+    "label": "㋐",
+    "meta": "circled katakana a",
+    "ipa": ""
+  },
+  {
+    "label": "㋓",
+    "meta": "circled katakana e",
+    "ipa": ""
+  },
+  {
+    "label": "㋩",
+    "meta": "circled katakana ha",
+    "ipa": ""
+  },
+  {
+    "label": "㋬",
+    "meta": "circled katakana he",
+    "ipa": ""
+  },
+  {
+    "label": "㋪",
+    "meta": "circled katakana hi",
+    "ipa": ""
+  },
+  {
+    "label": "㋭",
+    "meta": "circled katakana ho",
+    "ipa": ""
+  },
+  {
+    "label": "㋫",
+    "meta": "circled katakana hu",
+    "ipa": ""
+  },
+  {
+    "label": "㋑",
+    "meta": "circled katakana i",
+    "ipa": ""
+  },
+  {
+    "label": "㋕",
+    "meta": "circled katakana ka",
+    "ipa": ""
+  },
+  {
+    "label": "㋘",
+    "meta": "circled katakana ke",
+    "ipa": ""
+  },
+  {
+    "label": "㋖",
+    "meta": "circled katakana ki",
+    "ipa": ""
+  },
+  {
+    "label": "㋙",
+    "meta": "circled katakana ko",
+    "ipa": ""
+  },
+  {
+    "label": "㋗",
+    "meta": "circled katakana ku",
+    "ipa": ""
+  },
+  {
+    "label": "㋮",
+    "meta": "circled katakana ma",
+    "ipa": ""
+  },
+  {
+    "label": "㋱",
+    "meta": "circled katakana me",
+    "ipa": ""
+  },
+  {
+    "label": "㋯",
+    "meta": "circled katakana mi",
+    "ipa": ""
+  },
+  {
+    "label": "㋲",
+    "meta": "circled katakana mo",
+    "ipa": ""
+  },
+  {
+    "label": "㋰",
+    "meta": "circled katakana mu",
+    "ipa": ""
+  },
+  {
+    "label": "㋤",
+    "meta": "circled katakana na",
+    "ipa": ""
+  },
+  {
+    "label": "㋧",
+    "meta": "circled katakana ne",
+    "ipa": ""
+  },
+  {
+    "label": "㋥",
+    "meta": "circled katakana ni",
+    "ipa": ""
+  },
+  {
+    "label": "㋨",
+    "meta": "circled katakana no",
+    "ipa": ""
+  },
+  {
+    "label": "㋦",
+    "meta": "circled katakana nu",
+    "ipa": ""
+  },
+  {
+    "label": "㋔",
+    "meta": "circled katakana o",
+    "ipa": ""
+  },
+  {
+    "label": "㋶",
+    "meta": "circled katakana ra",
+    "ipa": ""
+  },
+  {
+    "label": "㋹",
+    "meta": "circled katakana re",
+    "ipa": ""
+  },
+  {
+    "label": "㋷",
+    "meta": "circled katakana ri",
+    "ipa": ""
+  },
+  {
+    "label": "㋺",
+    "meta": "circled katakana ro",
+    "ipa": ""
+  },
+  {
+    "label": "㋸",
+    "meta": "circled katakana ru",
+    "ipa": ""
+  },
+  {
+    "label": "㋚",
+    "meta": "circled katakana sa",
+    "ipa": ""
+  },
+  {
+    "label": "㋝",
+    "meta": "circled katakana se",
+    "ipa": ""
+  },
+  {
+    "label": "㋛",
+    "meta": "circled katakana si",
+    "ipa": ""
+  },
+  {
+    "label": "㋞",
+    "meta": "circled katakana so",
+    "ipa": ""
+  },
+  {
+    "label": "㋜",
+    "meta": "circled katakana su",
+    "ipa": ""
+  },
+  {
+    "label": "㋟",
+    "meta": "circled katakana ta",
+    "ipa": ""
+  },
+  {
+    "label": "㋢",
+    "meta": "circled katakana te",
+    "ipa": ""
+  },
+  {
+    "label": "㋠",
+    "meta": "circled katakana ti",
+    "ipa": ""
+  },
+  {
+    "label": "㋣",
+    "meta": "circled katakana to",
+    "ipa": ""
+  },
+  {
+    "label": "㋡",
+    "meta": "circled katakana tu",
+    "ipa": ""
+  },
+  {
+    "label": "㋒",
+    "meta": "circled katakana u",
+    "ipa": ""
+  },
+  {
+    "label": "㋻",
+    "meta": "circled katakana wa",
+    "ipa": ""
+  },
+  {
+    "label": "㋽",
+    "meta": "circled katakana we",
+    "ipa": ""
+  },
+  {
+    "label": "㋼",
+    "meta": "circled katakana wi",
+    "ipa": ""
+  },
+  {
+    "label": "㋾",
+    "meta": "circled katakana wo",
+    "ipa": ""
+  },
+  {
+    "label": "㋳",
+    "meta": "circled katakana ya",
+    "ipa": ""
+  },
+  {
+    "label": "㋵",
+    "meta": "circled katakana yo",
+    "ipa": ""
+  },
+  {
+    "label": "㋴",
+    "meta": "circled katakana yu",
+    "ipa": ""
+  },
+  {
+    "label": "ｱ",
+    "meta": "halfwidth katakana letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ｴ",
+    "meta": "halfwidth katakana letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ﾊ",
+    "meta": "halfwidth katakana letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ﾍ",
+    "meta": "halfwidth katakana letter he",
+    "ipa": ""
+  },
+  {
+    "label": "ﾋ",
+    "meta": "halfwidth katakana letter hi",
+    "ipa": ""
+  },
+  {
+    "label": "ﾎ",
+    "meta": "halfwidth katakana letter ho",
+    "ipa": ""
+  },
+  {
+    "label": "ﾌ",
+    "meta": "halfwidth katakana letter hu",
+    "ipa": ""
+  },
+  {
+    "label": "ｲ",
+    "meta": "halfwidth katakana letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ｶ",
+    "meta": "halfwidth katakana letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ｹ",
+    "meta": "halfwidth katakana letter ke",
+    "ipa": ""
+  },
+  {
+    "label": "ｷ",
+    "meta": "halfwidth katakana letter ki",
+    "ipa": ""
+  },
+  {
+    "label": "ｺ",
+    "meta": "halfwidth katakana letter ko",
+    "ipa": ""
+  },
+  {
+    "label": "ｸ",
+    "meta": "halfwidth katakana letter ku",
+    "ipa": ""
+  },
+  {
+    "label": "ﾏ",
+    "meta": "halfwidth katakana letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ﾒ",
+    "meta": "halfwidth katakana letter me",
+    "ipa": ""
+  },
+  {
+    "label": "ﾐ",
+    "meta": "halfwidth katakana letter mi",
+    "ipa": ""
+  },
+  {
+    "label": "ﾓ",
+    "meta": "halfwidth katakana letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "ﾑ",
+    "meta": "halfwidth katakana letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "ﾝ",
+    "meta": "halfwidth katakana letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ﾅ",
+    "meta": "halfwidth katakana letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ﾈ",
+    "meta": "halfwidth katakana letter ne",
+    "ipa": ""
+  },
+  {
+    "label": "ﾆ",
+    "meta": "halfwidth katakana letter ni",
+    "ipa": ""
+  },
+  {
+    "label": "ﾉ",
+    "meta": "halfwidth katakana letter no",
+    "ipa": ""
+  },
+  {
+    "label": "ﾇ",
+    "meta": "halfwidth katakana letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "ｵ",
+    "meta": "halfwidth katakana letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ﾗ",
+    "meta": "halfwidth katakana letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ﾚ",
+    "meta": "halfwidth katakana letter re",
+    "ipa": ""
+  },
+  {
+    "label": "ﾘ",
+    "meta": "halfwidth katakana letter ri",
+    "ipa": ""
+  },
+  {
+    "label": "ﾛ",
+    "meta": "halfwidth katakana letter ro",
+    "ipa": ""
+  },
+  {
+    "label": "ﾙ",
+    "meta": "halfwidth katakana letter ru",
+    "ipa": ""
+  },
+  {
+    "label": "ｻ",
+    "meta": "halfwidth katakana letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ｾ",
+    "meta": "halfwidth katakana letter se",
+    "ipa": ""
+  },
+  {
+    "label": "ｼ",
+    "meta": "halfwidth katakana letter si",
+    "ipa": ""
+  },
+  {
+    "label": "ｧ",
+    "meta": "halfwidth katakana letter small a",
+    "ipa": ""
+  },
+  {
+    "label": "ｪ",
+    "meta": "halfwidth katakana letter small e",
+    "ipa": ""
+  },
+  {
+    "label": "ｨ",
+    "meta": "halfwidth katakana letter small i",
+    "ipa": ""
+  },
+  {
+    "label": "ｫ",
+    "meta": "halfwidth katakana letter small o",
+    "ipa": ""
+  },
+  {
+    "label": "ｯ",
+    "meta": "halfwidth katakana letter small tu",
+    "ipa": ""
+  },
+  {
+    "label": "ｩ",
+    "meta": "halfwidth katakana letter small u",
+    "ipa": ""
+  },
+  {
+    "label": "ｬ",
+    "meta": "halfwidth katakana letter small ya",
+    "ipa": ""
+  },
+  {
+    "label": "ｮ",
+    "meta": "halfwidth katakana letter small yo",
+    "ipa": ""
+  },
+  {
+    "label": "ｭ",
+    "meta": "halfwidth katakana letter small yu",
+    "ipa": ""
+  },
+  {
+    "label": "ｿ",
+    "meta": "halfwidth katakana letter so",
+    "ipa": ""
+  },
+  {
+    "label": "ｽ",
+    "meta": "halfwidth katakana letter su",
+    "ipa": ""
+  },
+  {
+    "label": "ﾀ",
+    "meta": "halfwidth katakana letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ﾃ",
+    "meta": "halfwidth katakana letter te",
+    "ipa": ""
+  },
+  {
+    "label": "ﾁ",
+    "meta": "halfwidth katakana letter ti",
+    "ipa": ""
+  },
+  {
+    "label": "ﾄ",
+    "meta": "halfwidth katakana letter to",
+    "ipa": ""
+  },
+  {
+    "label": "ﾂ",
+    "meta": "halfwidth katakana letter tu",
+    "ipa": ""
+  },
+  {
+    "label": "ｳ",
+    "meta": "halfwidth katakana letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ﾜ",
+    "meta": "halfwidth katakana letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ｦ",
+    "meta": "halfwidth katakana letter wo",
+    "ipa": ""
+  },
+  {
+    "label": "ﾔ",
+    "meta": "halfwidth katakana letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ﾖ",
+    "meta": "halfwidth katakana letter yo",
+    "ipa": ""
+  },
+  {
+    "label": "ﾕ",
+    "meta": "halfwidth katakana letter yu",
+    "ipa": ""
+  },
+  {
+    "label": "ヿ",
+    "meta": "katakana digraph koto",
+    "ipa": ""
+  },
+  {
+    "label": "ヽ",
+    "meta": "katakana iteration mark",
+    "ipa": ""
+  },
+  {
+    "label": "ア",
+    "meta": "katakana letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𛀀",
+    "meta": "katakana letter archaic e",
+    "ipa": ""
+  },
+  {
+    "label": "𛄢",
+    "meta": "katakana letter archaic wu",
+    "ipa": ""
+  },
+  {
+    "label": "𛄡",
+    "meta": "katakana letter archaic ye",
+    "ipa": ""
+  },
+  {
+    "label": "𛄠",
+    "meta": "katakana letter archaic yi",
+    "ipa": ""
+  },
+  {
+    "label": "バ",
+    "meta": "katakana letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ベ",
+    "meta": "katakana letter be",
+    "ipa": ""
+  },
+  {
+    "label": "ビ",
+    "meta": "katakana letter bi",
+    "ipa": ""
+  },
+  {
+    "label": "ボ",
+    "meta": "katakana letter bo",
+    "ipa": ""
+  },
+  {
+    "label": "ブ",
+    "meta": "katakana letter bu",
+    "ipa": ""
+  },
+  {
+    "label": "ダ",
+    "meta": "katakana letter da",
+    "ipa": ""
+  },
+  {
+    "label": "デ",
+    "meta": "katakana letter de",
+    "ipa": ""
+  },
+  {
+    "label": "ヂ",
+    "meta": "katakana letter di",
+    "ipa": ""
+  },
+  {
+    "label": "ド",
+    "meta": "katakana letter do",
+    "ipa": ""
+  },
+  {
+    "label": "ヅ",
+    "meta": "katakana letter du",
+    "ipa": ""
+  },
+  {
+    "label": "エ",
+    "meta": "katakana letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ガ",
+    "meta": "katakana letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ゲ",
+    "meta": "katakana letter ge",
+    "ipa": ""
+  },
+  {
+    "label": "ギ",
+    "meta": "katakana letter gi",
+    "ipa": ""
+  },
+  {
+    "label": "ゴ",
+    "meta": "katakana letter go",
+    "ipa": ""
+  },
+  {
+    "label": "グ",
+    "meta": "katakana letter gu",
+    "ipa": ""
+  },
+  {
+    "label": "ハ",
+    "meta": "katakana letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ヘ",
+    "meta": "katakana letter he",
+    "ipa": ""
+  },
+  {
+    "label": "ヒ",
+    "meta": "katakana letter hi",
+    "ipa": ""
+  },
+  {
+    "label": "ホ",
+    "meta": "katakana letter ho",
+    "ipa": ""
+  },
+  {
+    "label": "フ",
+    "meta": "katakana letter hu",
+    "ipa": ""
+  },
+  {
+    "label": "イ",
+    "meta": "katakana letter i",
+    "ipa": ""
+  },
+  {
+    "label": "カ",
+    "meta": "katakana letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ケ",
+    "meta": "katakana letter ke",
+    "ipa": ""
+  },
+  {
+    "label": "キ",
+    "meta": "katakana letter ki",
+    "ipa": ""
+  },
+  {
+    "label": "コ",
+    "meta": "katakana letter ko",
+    "ipa": ""
+  },
+  {
+    "label": "ク",
+    "meta": "katakana letter ku",
+    "ipa": ""
+  },
+  {
+    "label": "マ",
+    "meta": "katakana letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "メ",
+    "meta": "katakana letter me",
+    "ipa": ""
+  },
+  {
+    "label": "ミ",
+    "meta": "katakana letter mi",
+    "ipa": ""
+  },
+  {
+    "label": "𚿷",
+    "meta": "katakana letter minnan nasalized tone-1",
+    "ipa": ""
+  },
+  {
+    "label": "𚿸",
+    "meta": "katakana letter minnan nasalized tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "𚿹",
+    "meta": "katakana letter minnan nasalized tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "𚿺",
+    "meta": "katakana letter minnan nasalized tone-4",
+    "ipa": ""
+  },
+  {
+    "label": "𚿻",
+    "meta": "katakana letter minnan nasalized tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "𚿽",
+    "meta": "katakana letter minnan nasalized tone-7",
+    "ipa": ""
+  },
+  {
+    "label": "𚿾",
+    "meta": "katakana letter minnan nasalized tone-8",
+    "ipa": ""
+  },
+  {
+    "label": "𚿰",
+    "meta": "katakana letter minnan tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "𚿱",
+    "meta": "katakana letter minnan tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "𚿲",
+    "meta": "katakana letter minnan tone-4",
+    "ipa": ""
+  },
+  {
+    "label": "𚿳",
+    "meta": "katakana letter minnan tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "𚿵",
+    "meta": "katakana letter minnan tone-7",
+    "ipa": ""
+  },
+  {
+    "label": "𚿶",
+    "meta": "katakana letter minnan tone-8",
+    "ipa": ""
+  },
+  {
+    "label": "モ",
+    "meta": "katakana letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "ム",
+    "meta": "katakana letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "ン",
+    "meta": "katakana letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ナ",
+    "meta": "katakana letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ネ",
+    "meta": "katakana letter ne",
+    "ipa": ""
+  },
+  {
+    "label": "ニ",
+    "meta": "katakana letter ni",
+    "ipa": ""
+  },
+  {
+    "label": "ノ",
+    "meta": "katakana letter no",
+    "ipa": ""
+  },
+  {
+    "label": "ヌ",
+    "meta": "katakana letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "オ",
+    "meta": "katakana letter o",
+    "ipa": ""
+  },
+  {
+    "label": "パ",
+    "meta": "katakana letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ペ",
+    "meta": "katakana letter pe",
+    "ipa": ""
+  },
+  {
+    "label": "ピ",
+    "meta": "katakana letter pi",
+    "ipa": ""
+  },
+  {
+    "label": "ポ",
+    "meta": "katakana letter po",
+    "ipa": ""
+  },
+  {
+    "label": "プ",
+    "meta": "katakana letter pu",
+    "ipa": ""
+  },
+  {
+    "label": "ラ",
+    "meta": "katakana letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "レ",
+    "meta": "katakana letter re",
+    "ipa": ""
+  },
+  {
+    "label": "リ",
+    "meta": "katakana letter ri",
+    "ipa": ""
+  },
+  {
+    "label": "ロ",
+    "meta": "katakana letter ro",
+    "ipa": ""
+  },
+  {
+    "label": "ル",
+    "meta": "katakana letter ru",
+    "ipa": ""
+  },
+  {
+    "label": "サ",
+    "meta": "katakana letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "セ",
+    "meta": "katakana letter se",
+    "ipa": ""
+  },
+  {
+    "label": "シ",
+    "meta": "katakana letter si",
+    "ipa": ""
+  },
+  {
+    "label": "ァ",
+    "meta": "katakana letter small a",
+    "ipa": ""
+  },
+  {
+    "label": "ェ",
+    "meta": "katakana letter small e",
+    "ipa": ""
+  },
+  {
+    "label": "ㇵ",
+    "meta": "katakana letter small ha",
+    "ipa": ""
+  },
+  {
+    "label": "ㇸ",
+    "meta": "katakana letter small he",
+    "ipa": ""
+  },
+  {
+    "label": "ㇶ",
+    "meta": "katakana letter small hi",
+    "ipa": ""
+  },
+  {
+    "label": "ㇹ",
+    "meta": "katakana letter small ho",
+    "ipa": ""
+  },
+  {
+    "label": "ㇷ",
+    "meta": "katakana letter small hu",
+    "ipa": ""
+  },
+  {
+    "label": "ィ",
+    "meta": "katakana letter small i",
+    "ipa": ""
+  },
+  {
+    "label": "ヵ",
+    "meta": "katakana letter small ka",
+    "ipa": ""
+  },
+  {
+    "label": "ヶ",
+    "meta": "katakana letter small ke",
+    "ipa": ""
+  },
+  {
+    "label": "𛅕",
+    "meta": "katakana letter small ko",
+    "ipa": ""
+  },
+  {
+    "label": "ㇰ",
+    "meta": "katakana letter small ku",
+    "ipa": ""
+  },
+  {
+    "label": "ㇺ",
+    "meta": "katakana letter small mu",
+    "ipa": ""
+  },
+  {
+    "label": "𛅧",
+    "meta": "katakana letter small n",
+    "ipa": ""
+  },
+  {
+    "label": "ㇴ",
+    "meta": "katakana letter small nu",
+    "ipa": ""
+  },
+  {
+    "label": "ォ",
+    "meta": "katakana letter small o",
+    "ipa": ""
+  },
+  {
+    "label": "ㇻ",
+    "meta": "katakana letter small ra",
+    "ipa": ""
+  },
+  {
+    "label": "ㇾ",
+    "meta": "katakana letter small re",
+    "ipa": ""
+  },
+  {
+    "label": "ㇼ",
+    "meta": "katakana letter small ri",
+    "ipa": ""
+  },
+  {
+    "label": "ㇿ",
+    "meta": "katakana letter small ro",
+    "ipa": ""
+  },
+  {
+    "label": "ㇽ",
+    "meta": "katakana letter small ru",
+    "ipa": ""
+  },
+  {
+    "label": "ㇱ",
+    "meta": "katakana letter small si",
+    "ipa": ""
+  },
+  {
+    "label": "ㇲ",
+    "meta": "katakana letter small su",
+    "ipa": ""
+  },
+  {
+    "label": "ㇳ",
+    "meta": "katakana letter small to",
+    "ipa": ""
+  },
+  {
+    "label": "ッ",
+    "meta": "katakana letter small tu",
+    "ipa": ""
+  },
+  {
+    "label": "ゥ",
+    "meta": "katakana letter small u",
+    "ipa": ""
+  },
+  {
+    "label": "ヮ",
+    "meta": "katakana letter small wa",
+    "ipa": ""
+  },
+  {
+    "label": "𛅥",
+    "meta": "katakana letter small we",
+    "ipa": ""
+  },
+  {
+    "label": "𛅤",
+    "meta": "katakana letter small wi",
+    "ipa": ""
+  },
+  {
+    "label": "𛅦",
+    "meta": "katakana letter small wo",
+    "ipa": ""
+  },
+  {
+    "label": "ャ",
+    "meta": "katakana letter small ya",
+    "ipa": ""
+  },
+  {
+    "label": "ョ",
+    "meta": "katakana letter small yo",
+    "ipa": ""
+  },
+  {
+    "label": "ュ",
+    "meta": "katakana letter small yu",
+    "ipa": ""
+  },
+  {
+    "label": "ソ",
+    "meta": "katakana letter so",
+    "ipa": ""
+  },
+  {
+    "label": "ス",
+    "meta": "katakana letter su",
+    "ipa": ""
+  },
+  {
+    "label": "タ",
+    "meta": "katakana letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "テ",
+    "meta": "katakana letter te",
+    "ipa": ""
+  },
+  {
+    "label": "チ",
+    "meta": "katakana letter ti",
+    "ipa": ""
+  },
+  {
+    "label": "ト",
+    "meta": "katakana letter to",
+    "ipa": ""
+  },
+  {
+    "label": "ツ",
+    "meta": "katakana letter tu",
+    "ipa": ""
+  },
+  {
+    "label": "ウ",
+    "meta": "katakana letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ヷ",
+    "meta": "katakana letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ヹ",
+    "meta": "katakana letter ve",
+    "ipa": ""
+  },
+  {
+    "label": "ヸ",
+    "meta": "katakana letter vi",
+    "ipa": ""
+  },
+  {
+    "label": "ヺ",
+    "meta": "katakana letter vo",
+    "ipa": ""
+  },
+  {
+    "label": "ヴ",
+    "meta": "katakana letter vu",
+    "ipa": ""
+  },
+  {
+    "label": "ワ",
+    "meta": "katakana letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ヱ",
+    "meta": "katakana letter we",
+    "ipa": ""
+  },
+  {
+    "label": "ヰ",
+    "meta": "katakana letter wi",
+    "ipa": ""
+  },
+  {
+    "label": "ヲ",
+    "meta": "katakana letter wo",
+    "ipa": ""
+  },
+  {
+    "label": "ヤ",
+    "meta": "katakana letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ヨ",
+    "meta": "katakana letter yo",
+    "ipa": ""
+  },
+  {
+    "label": "ユ",
+    "meta": "katakana letter yu",
+    "ipa": ""
+  },
+  {
+    "label": "ザ",
+    "meta": "katakana letter za",
+    "ipa": ""
+  },
+  {
+    "label": "ゼ",
+    "meta": "katakana letter ze",
+    "ipa": ""
+  },
+  {
+    "label": "ジ",
+    "meta": "katakana letter zi",
+    "ipa": ""
+  },
+  {
+    "label": "ゾ",
+    "meta": "katakana letter zo",
+    "ipa": ""
+  },
+  {
+    "label": "ズ",
+    "meta": "katakana letter zu",
+    "ipa": ""
+  },
+  {
+    "label": "ヾ",
+    "meta": "katakana voiced iteration mark",
+    "ipa": ""
+  },
+  {
+    "label": "㌃",
+    "meta": "square aaru",
+    "ipa": ""
+  },
+  {
+    "label": "㌂",
+    "meta": "square anpea",
+    "ipa": ""
+  },
+  {
+    "label": "㌀",
+    "meta": "square apaato",
+    "ipa": ""
+  },
+  {
+    "label": "㌁",
+    "meta": "square aruhua",
+    "ipa": ""
+  },
+  {
+    "label": "㌭",
+    "meta": "square baareru",
+    "ipa": ""
+  },
+  {
+    "label": "㌼",
+    "meta": "square beeta",
+    "ipa": ""
+  },
+  {
+    "label": "㌱",
+    "meta": "square biru",
+    "ipa": ""
+  },
+  {
+    "label": "㌾",
+    "meta": "square boruto",
+    "ipa": ""
+  },
+  {
+    "label": "㌴",
+    "meta": "square bussyeru",
+    "ipa": ""
+  },
+  {
+    "label": "㌤",
+    "meta": "square daasu",
+    "ipa": ""
+  },
+  {
+    "label": "㌥",
+    "meta": "square desi",
+    "ipa": ""
+  },
+  {
+    "label": "㌦",
+    "meta": "square doru",
+    "ipa": ""
+  },
+  {
+    "label": "㌈",
+    "meta": "square eekaa",
+    "ipa": ""
+  },
+  {
+    "label": "㌇",
+    "meta": "square esukuudo",
+    "ipa": ""
+  },
+  {
+    "label": "㌏",
+    "meta": "square ganma",
+    "ipa": ""
+  },
+  {
+    "label": "㌎",
+    "meta": "square garon",
+    "ipa": ""
+  },
+  {
+    "label": "㌐",
+    "meta": "square giga",
+    "ipa": ""
+  },
+  {
+    "label": "㌑",
+    "meta": "square ginii",
+    "ipa": ""
+  },
+  {
+    "label": "㌓",
+    "meta": "square girudaa",
+    "ipa": ""
+  },
+  {
+    "label": "㌘",
+    "meta": "square guramu",
+    "ipa": ""
+  },
+  {
+    "label": "㌙",
+    "meta": "square guramuton",
+    "ipa": ""
+  },
+  {
+    "label": "㌪",
+    "meta": "square haitu",
+    "ipa": ""
+  },
+  {
+    "label": "㌶",
+    "meta": "square hekutaaru",
+    "ipa": ""
+  },
+  {
+    "label": "㌹",
+    "meta": "square herutu",
+    "ipa": ""
+  },
+  {
+    "label": "㌿",
+    "meta": "square hon",
+    "ipa": ""
+  },
+  {
+    "label": "㍂",
+    "meta": "square hoon",
+    "ipa": ""
+  },
+  {
+    "label": "㍁",
+    "meta": "square hooru",
+    "ipa": ""
+  },
+  {
+    "label": "㌲",
+    "meta": "square huaraddo",
+    "ipa": ""
+  },
+  {
+    "label": "㌳",
+    "meta": "square huiito",
+    "ipa": ""
+  },
+  {
+    "label": "㌵",
+    "meta": "square huran",
+    "ipa": ""
+  },
+  {
+    "label": "㌄",
+    "meta": "square iningu",
+    "ipa": ""
+  },
+  {
+    "label": "㌅",
+    "meta": "square inti",
+    "ipa": ""
+  },
+  {
+    "label": "㌋",
+    "meta": "square kairi",
+    "ipa": ""
+  },
+  {
+    "label": "㌌",
+    "meta": "square karatto",
+    "ipa": ""
+  },
+  {
+    "label": "㌍",
+    "meta": "square karorii",
+    "ipa": ""
+  },
+  {
+    "label": "㌜",
+    "meta": "square keesu",
+    "ipa": ""
+  },
+  {
+    "label": "㌔",
+    "meta": "square kiro",
+    "ipa": ""
+  },
+  {
+    "label": "㌕",
+    "meta": "square kiroguramu",
+    "ipa": ""
+  },
+  {
+    "label": "㌖",
+    "meta": "square kiromeetoru",
+    "ipa": ""
+  },
+  {
+    "label": "㌗",
+    "meta": "square kirowatto",
+    "ipa": ""
+  },
+  {
+    "label": "㌞",
+    "meta": "square koopo",
+    "ipa": ""
+  },
+  {
+    "label": "㌝",
+    "meta": "square koruna",
+    "ipa": ""
+  },
+  {
+    "label": "㌛",
+    "meta": "square kuroone",
+    "ipa": ""
+  },
+  {
+    "label": "㌚",
+    "meta": "square kuruzeiro",
+    "ipa": ""
+  },
+  {
+    "label": "㌒",
+    "meta": "square kyurii",
+    "ipa": ""
+  },
+  {
+    "label": "㍅",
+    "meta": "square mahha",
+    "ipa": ""
+  },
+  {
+    "label": "㍃",
+    "meta": "square maikuro",
+    "ipa": ""
+  },
+  {
+    "label": "㍄",
+    "meta": "square mairu",
+    "ipa": ""
+  },
+  {
+    "label": "㍇",
+    "meta": "square mansyon",
+    "ipa": ""
+  },
+  {
+    "label": "㍆",
+    "meta": "square maruku",
+    "ipa": ""
+  },
+  {
+    "label": "㍍",
+    "meta": "square meetoru",
+    "ipa": ""
+  },
+  {
+    "label": "㍋",
+    "meta": "square mega",
+    "ipa": ""
+  },
+  {
+    "label": "㍌",
+    "meta": "square megaton",
+    "ipa": ""
+  },
+  {
+    "label": "㍈",
+    "meta": "square mikuron",
+    "ipa": ""
+  },
+  {
+    "label": "㍉",
+    "meta": "square miri",
+    "ipa": ""
+  },
+  {
+    "label": "㍊",
+    "meta": "square miribaaru",
+    "ipa": ""
+  },
+  {
+    "label": "㌨",
+    "meta": "square nano",
+    "ipa": ""
+  },
+  {
+    "label": "㌩",
+    "meta": "square notto",
+    "ipa": ""
+  },
+  {
+    "label": "㌉",
+    "meta": "square onsu",
+    "ipa": ""
+  },
+  {
+    "label": "㌊",
+    "meta": "square oomu",
+    "ipa": ""
+  },
+  {
+    "label": "㌫",
+    "meta": "square paasento",
+    "ipa": ""
+  },
+  {
+    "label": "㌬",
+    "meta": "square paatu",
+    "ipa": ""
+  },
+  {
+    "label": "㌻",
+    "meta": "square peezi",
+    "ipa": ""
+  },
+  {
+    "label": "㌸",
+    "meta": "square penihi",
+    "ipa": ""
+  },
+  {
+    "label": "㌺",
+    "meta": "square pensu",
+    "ipa": ""
+  },
+  {
+    "label": "㌷",
+    "meta": "square peso",
+    "ipa": ""
+  },
+  {
+    "label": "㌮",
+    "meta": "square piasutoru",
+    "ipa": ""
+  },
+  {
+    "label": "㌰",
+    "meta": "square piko",
+    "ipa": ""
+  },
+  {
+    "label": "㌯",
+    "meta": "square pikuru",
+    "ipa": ""
+  },
+  {
+    "label": "㌽",
+    "meta": "square pointo",
+    "ipa": ""
+  },
+  {
+    "label": "㍀",
+    "meta": "square pondo",
+    "ipa": ""
+  },
+  {
+    "label": "㍕",
+    "meta": "square remu",
+    "ipa": ""
+  },
+  {
+    "label": "㍖",
+    "meta": "square rentogen",
+    "ipa": ""
+  },
+  {
+    "label": "㍒",
+    "meta": "square rira",
+    "ipa": ""
+  },
+  {
+    "label": "㍑",
+    "meta": "square rittoru",
+    "ipa": ""
+  },
+  {
+    "label": "㍓",
+    "meta": "square rupii",
+    "ipa": ""
+  },
+  {
+    "label": "㍔",
+    "meta": "square ruuburu",
+    "ipa": ""
+  },
+  {
+    "label": "㌟",
+    "meta": "square saikuru",
+    "ipa": ""
+  },
+  {
+    "label": "㌠",
+    "meta": "square santiimu",
+    "ipa": ""
+  },
+  {
+    "label": "㌢",
+    "meta": "square senti",
+    "ipa": ""
+  },
+  {
+    "label": "㌣",
+    "meta": "square sento",
+    "ipa": ""
+  },
+  {
+    "label": "㌡",
+    "meta": "square siringu",
+    "ipa": ""
+  },
+  {
+    "label": "㌧",
+    "meta": "square ton",
+    "ipa": ""
+  },
+  {
+    "label": "㌆",
+    "meta": "square uon",
+    "ipa": ""
+  },
+  {
+    "label": "㍗",
+    "meta": "square watto",
+    "ipa": ""
+  },
+  {
+    "label": "㍎",
+    "meta": "square yaado",
+    "ipa": ""
+  },
+  {
+    "label": "㍏",
+    "meta": "square yaaru",
+    "ipa": ""
+  },
+  {
+    "label": "㍐",
+    "meta": "square yuan",
+    "ipa": ""
+  }
+]

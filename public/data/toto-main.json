@@ -1,0 +1,157 @@
+[
+  {
+    "label": "𞊭",
+    "meta": "toto letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𞊫",
+    "meta": "toto letter ae",
+    "ipa": ""
+  },
+  {
+    "label": "𞊑",
+    "meta": "toto letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𞊬",
+    "meta": "toto letter breathy ae",
+    "ipa": ""
+  },
+  {
+    "label": "𞊧",
+    "meta": "toto letter breathy e",
+    "ipa": ""
+  },
+  {
+    "label": "𞊩",
+    "meta": "toto letter breathy eo",
+    "ipa": ""
+  },
+  {
+    "label": "𞊢",
+    "meta": "toto letter breathy i",
+    "ipa": ""
+  },
+  {
+    "label": "𞊤",
+    "meta": "toto letter breathy iu",
+    "ipa": ""
+  },
+  {
+    "label": "𞊚",
+    "meta": "toto letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𞊓",
+    "meta": "toto letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𞊦",
+    "meta": "toto letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𞊨",
+    "meta": "toto letter eo",
+    "ipa": ""
+  },
+  {
+    "label": "𞊕",
+    "meta": "toto letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𞊞",
+    "meta": "toto letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𞊡",
+    "meta": "toto letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𞊣",
+    "meta": "toto letter iu",
+    "ipa": ""
+  },
+  {
+    "label": "𞊝",
+    "meta": "toto letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𞊔",
+    "meta": "toto letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𞊠",
+    "meta": "toto letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𞊖",
+    "meta": "toto letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𞊗",
+    "meta": "toto letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𞊘",
+    "meta": "toto letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𞊪",
+    "meta": "toto letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𞊐",
+    "meta": "toto letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𞊟",
+    "meta": "toto letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𞊙",
+    "meta": "toto letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𞊒",
+    "meta": "toto letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𞊥",
+    "meta": "toto letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𞊜",
+    "meta": "toto letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "𞊛",
+    "meta": "toto letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𞊮",
+    "meta": "toto sign rising tone",
+    "ipa": ""
+  }
+]

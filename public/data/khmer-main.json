@@ -1,0 +1,732 @@
+[
+  {
+    "label": "៛",
+    "meta": "khmer currency symbol riel",
+    "ipa": ""
+  },
+  {
+    "label": "៨",
+    "meta": "khmer digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "៥",
+    "meta": "khmer digit five",
+    "ipa": ""
+  },
+  {
+    "label": "៤",
+    "meta": "khmer digit four",
+    "ipa": ""
+  },
+  {
+    "label": "៩",
+    "meta": "khmer digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "១",
+    "meta": "khmer digit one",
+    "ipa": ""
+  },
+  {
+    "label": "៧",
+    "meta": "khmer digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "៦",
+    "meta": "khmer digit six",
+    "ipa": ""
+  },
+  {
+    "label": "៣",
+    "meta": "khmer digit three",
+    "ipa": ""
+  },
+  {
+    "label": "២",
+    "meta": "khmer digit two",
+    "ipa": ""
+  },
+  {
+    "label": "០",
+    "meta": "khmer digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "ឭ",
+    "meta": "khmer independent vowel ly",
+    "ipa": ""
+  },
+  {
+    "label": "ឮ",
+    "meta": "khmer independent vowel lyy",
+    "ipa": ""
+  },
+  {
+    "label": "ឤ",
+    "meta": "khmer independent vowel qaa",
+    "ipa": ""
+  },
+  {
+    "label": "ឰ",
+    "meta": "khmer independent vowel qai",
+    "ipa": ""
+  },
+  {
+    "label": "ឣ",
+    "meta": "khmer independent vowel qaq",
+    "ipa": ""
+  },
+  {
+    "label": "ឳ",
+    "meta": "khmer independent vowel qau",
+    "ipa": ""
+  },
+  {
+    "label": "ឯ",
+    "meta": "khmer independent vowel qe",
+    "ipa": ""
+  },
+  {
+    "label": "ឥ",
+    "meta": "khmer independent vowel qi",
+    "ipa": ""
+  },
+  {
+    "label": "ឦ",
+    "meta": "khmer independent vowel qii",
+    "ipa": ""
+  },
+  {
+    "label": "ឱ",
+    "meta": "khmer independent vowel qoo type one",
+    "ipa": ""
+  },
+  {
+    "label": "ឲ",
+    "meta": "khmer independent vowel qoo type two",
+    "ipa": ""
+  },
+  {
+    "label": "ឧ",
+    "meta": "khmer independent vowel qu",
+    "ipa": ""
+  },
+  {
+    "label": "ឨ",
+    "meta": "khmer independent vowel quk",
+    "ipa": ""
+  },
+  {
+    "label": "ឩ",
+    "meta": "khmer independent vowel quu",
+    "ipa": ""
+  },
+  {
+    "label": "ឪ",
+    "meta": "khmer independent vowel quuv",
+    "ipa": ""
+  },
+  {
+    "label": "ឫ",
+    "meta": "khmer independent vowel ry",
+    "ipa": ""
+  },
+  {
+    "label": "ឬ",
+    "meta": "khmer independent vowel ryy",
+    "ipa": ""
+  },
+  {
+    "label": "ប",
+    "meta": "khmer letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ច",
+    "meta": "khmer letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ឆ",
+    "meta": "khmer letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ឈ",
+    "meta": "khmer letter cho",
+    "ipa": ""
+  },
+  {
+    "label": "ជ",
+    "meta": "khmer letter co",
+    "ipa": ""
+  },
+  {
+    "label": "ដ",
+    "meta": "khmer letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ឌ",
+    "meta": "khmer letter do",
+    "ipa": ""
+  },
+  {
+    "label": "ហ",
+    "meta": "khmer letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ក",
+    "meta": "khmer letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ខ",
+    "meta": "khmer letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ឃ",
+    "meta": "khmer letter kho",
+    "ipa": ""
+  },
+  {
+    "label": "គ",
+    "meta": "khmer letter ko",
+    "ipa": ""
+  },
+  {
+    "label": "ឡ",
+    "meta": "khmer letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ល",
+    "meta": "khmer letter lo",
+    "ipa": ""
+  },
+  {
+    "label": "ម",
+    "meta": "khmer letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "ង",
+    "meta": "khmer letter ngo",
+    "ipa": ""
+  },
+  {
+    "label": "ណ",
+    "meta": "khmer letter nno",
+    "ipa": ""
+  },
+  {
+    "label": "ន",
+    "meta": "khmer letter no",
+    "ipa": ""
+  },
+  {
+    "label": "ញ",
+    "meta": "khmer letter nyo",
+    "ipa": ""
+  },
+  {
+    "label": "ផ",
+    "meta": "khmer letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ភ",
+    "meta": "khmer letter pho",
+    "ipa": ""
+  },
+  {
+    "label": "ព",
+    "meta": "khmer letter po",
+    "ipa": ""
+  },
+  {
+    "label": "អ",
+    "meta": "khmer letter qa",
+    "ipa": ""
+  },
+  {
+    "label": "រ",
+    "meta": "khmer letter ro",
+    "ipa": ""
+  },
+  {
+    "label": "ស",
+    "meta": "khmer letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ឝ",
+    "meta": "khmer letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ឞ",
+    "meta": "khmer letter sso",
+    "ipa": ""
+  },
+  {
+    "label": "ត",
+    "meta": "khmer letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ថ",
+    "meta": "khmer letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ធ",
+    "meta": "khmer letter tho",
+    "ipa": ""
+  },
+  {
+    "label": "ទ",
+    "meta": "khmer letter to",
+    "ipa": ""
+  },
+  {
+    "label": "ឋ",
+    "meta": "khmer letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ឍ",
+    "meta": "khmer letter ttho",
+    "ipa": ""
+  },
+  {
+    "label": "វ",
+    "meta": "khmer letter vo",
+    "ipa": ""
+  },
+  {
+    "label": "យ",
+    "meta": "khmer letter yo",
+    "ipa": ""
+  },
+  {
+    "label": "៏",
+    "meta": "khmer sign ahsda",
+    "ipa": ""
+  },
+  {
+    "label": "៝",
+    "meta": "khmer sign atthacan",
+    "ipa": ""
+  },
+  {
+    "label": "ៜ",
+    "meta": "khmer sign avakrahasanya",
+    "ipa": ""
+  },
+  {
+    "label": "់",
+    "meta": "khmer sign bantoc",
+    "ipa": ""
+  },
+  {
+    "label": "៕",
+    "meta": "khmer sign bariyoosan",
+    "ipa": ""
+  },
+  {
+    "label": "៓",
+    "meta": "khmer sign bathamasat",
+    "ipa": ""
+  },
+  {
+    "label": "៘",
+    "meta": "khmer sign beyyal",
+    "ipa": ""
+  },
+  {
+    "label": "៖",
+    "meta": "khmer sign camnuc pii kuuh",
+    "ipa": ""
+  },
+  {
+    "label": "្",
+    "meta": "khmer sign coeng",
+    "ipa": ""
+  },
+  {
+    "label": "៎",
+    "meta": "khmer sign kakabat",
+    "ipa": ""
+  },
+  {
+    "label": "។",
+    "meta": "khmer sign khan",
+    "ipa": ""
+  },
+  {
+    "label": "៚",
+    "meta": "khmer sign koomuut",
+    "ipa": ""
+  },
+  {
+    "label": "ៗ",
+    "meta": "khmer sign lek too",
+    "ipa": ""
+  },
+  {
+    "label": "៉",
+    "meta": "khmer sign muusikatoan",
+    "ipa": ""
+  },
+  {
+    "label": "ំ",
+    "meta": "khmer sign nikahit",
+    "ipa": ""
+  },
+  {
+    "label": "៙",
+    "meta": "khmer sign phnaek muan",
+    "ipa": ""
+  },
+  {
+    "label": "ះ",
+    "meta": "khmer sign reahmuk",
+    "ipa": ""
+  },
+  {
+    "label": "៌",
+    "meta": "khmer sign robat",
+    "ipa": ""
+  },
+  {
+    "label": "័",
+    "meta": "khmer sign samyok sannya",
+    "ipa": ""
+  },
+  {
+    "label": "៍",
+    "meta": "khmer sign toandakhiat",
+    "ipa": ""
+  },
+  {
+    "label": "៊",
+    "meta": "khmer sign triisap",
+    "ipa": ""
+  },
+  {
+    "label": "៑",
+    "meta": "khmer sign viriam",
+    "ipa": ""
+  },
+  {
+    "label": "ៈ",
+    "meta": "khmer sign yuukaleapintu",
+    "ipa": ""
+  },
+  {
+    "label": "᧣",
+    "meta": "khmer symbol bei koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧳",
+    "meta": "khmer symbol bei roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧤",
+    "meta": "khmer symbol buon koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧴",
+    "meta": "khmer symbol buon roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧪",
+    "meta": "khmer symbol dap koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧺",
+    "meta": "khmer symbol dap roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧭",
+    "meta": "khmer symbol dap-bei koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧽",
+    "meta": "khmer symbol dap-bei roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧮",
+    "meta": "khmer symbol dap-buon koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧾",
+    "meta": "khmer symbol dap-buon roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧫",
+    "meta": "khmer symbol dap-muoy koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧻",
+    "meta": "khmer symbol dap-muoy roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧬",
+    "meta": "khmer symbol dap-pii koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧼",
+    "meta": "khmer symbol dap-pii roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧯",
+    "meta": "khmer symbol dap-pram koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧿",
+    "meta": "khmer symbol dap-pram roc",
+    "ipa": ""
+  },
+  {
+    "label": "៳",
+    "meta": "khmer symbol lek attak bei",
+    "ipa": ""
+  },
+  {
+    "label": "៴",
+    "meta": "khmer symbol lek attak buon",
+    "ipa": ""
+  },
+  {
+    "label": "៱",
+    "meta": "khmer symbol lek attak muoy",
+    "ipa": ""
+  },
+  {
+    "label": "៲",
+    "meta": "khmer symbol lek attak pii",
+    "ipa": ""
+  },
+  {
+    "label": "៵",
+    "meta": "khmer symbol lek attak pram",
+    "ipa": ""
+  },
+  {
+    "label": "៸",
+    "meta": "khmer symbol lek attak pram-bei",
+    "ipa": ""
+  },
+  {
+    "label": "៹",
+    "meta": "khmer symbol lek attak pram-buon",
+    "ipa": ""
+  },
+  {
+    "label": "៶",
+    "meta": "khmer symbol lek attak pram-muoy",
+    "ipa": ""
+  },
+  {
+    "label": "៷",
+    "meta": "khmer symbol lek attak pram-pii",
+    "ipa": ""
+  },
+  {
+    "label": "៰",
+    "meta": "khmer symbol lek attak son",
+    "ipa": ""
+  },
+  {
+    "label": "᧡",
+    "meta": "khmer symbol muoy koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧱",
+    "meta": "khmer symbol muoy roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧠",
+    "meta": "khmer symbol pathamasat",
+    "ipa": ""
+  },
+  {
+    "label": "᧢",
+    "meta": "khmer symbol pii koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧲",
+    "meta": "khmer symbol pii roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧥",
+    "meta": "khmer symbol pram koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧵",
+    "meta": "khmer symbol pram roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧨",
+    "meta": "khmer symbol pram-bei koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧸",
+    "meta": "khmer symbol pram-bei roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧩",
+    "meta": "khmer symbol pram-buon koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧹",
+    "meta": "khmer symbol pram-buon roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧦",
+    "meta": "khmer symbol pram-muoy koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧶",
+    "meta": "khmer symbol pram-muoy roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧧",
+    "meta": "khmer symbol pram-pii koet",
+    "ipa": ""
+  },
+  {
+    "label": "᧷",
+    "meta": "khmer symbol pram-pii roc",
+    "ipa": ""
+  },
+  {
+    "label": "᧰",
+    "meta": "khmer symbol tuteyasat",
+    "ipa": ""
+  },
+  {
+    "label": "឵",
+    "meta": "khmer vowel inherent aa",
+    "ipa": ""
+  },
+  {
+    "label": "឴",
+    "meta": "khmer vowel inherent aq",
+    "ipa": ""
+  },
+  {
+    "label": "ា",
+    "meta": "khmer vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ែ",
+    "meta": "khmer vowel sign ae",
+    "ipa": ""
+  },
+  {
+    "label": "ៃ",
+    "meta": "khmer vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ៅ",
+    "meta": "khmer vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "េ",
+    "meta": "khmer vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ិ",
+    "meta": "khmer vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ៀ",
+    "meta": "khmer vowel sign ie",
+    "ipa": ""
+  },
+  {
+    "label": "ី",
+    "meta": "khmer vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ើ",
+    "meta": "khmer vowel sign oe",
+    "ipa": ""
+  },
+  {
+    "label": "ោ",
+    "meta": "khmer vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ុ",
+    "meta": "khmer vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ួ",
+    "meta": "khmer vowel sign ua",
+    "ipa": ""
+  },
+  {
+    "label": "ូ",
+    "meta": "khmer vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ឹ",
+    "meta": "khmer vowel sign y",
+    "ipa": ""
+  },
+  {
+    "label": "ឿ",
+    "meta": "khmer vowel sign ya",
+    "ipa": ""
+  },
+  {
+    "label": "ឺ",
+    "meta": "khmer vowel sign yy",
+    "ipa": ""
+  }
+]

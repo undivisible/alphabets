@@ -1,0 +1,282 @@
+[
+  {
+    "label": "ᯱ",
+    "meta": "batak consonant sign h",
+    "ipa": ""
+  },
+  {
+    "label": "ᯰ",
+    "meta": "batak consonant sign ng",
+    "ipa": ""
+  },
+  {
+    "label": "ᯀ",
+    "meta": "batak letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ᯅ",
+    "meta": "batak letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᯡ",
+    "meta": "batak letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ᯑ",
+    "meta": "batak letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ᯎ",
+    "meta": "batak letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ᯂ",
+    "meta": "batak letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᯤ",
+    "meta": "batak letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ᯐ",
+    "meta": "batak letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ᯆ",
+    "meta": "batak letter karo ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᯞ",
+    "meta": "batak letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ᯔ",
+    "meta": "batak letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᯄ",
+    "meta": "batak letter mandailing ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᯊ",
+    "meta": "batak letter mandailing na",
+    "ipa": ""
+  },
+  {
+    "label": "ᯚ",
+    "meta": "batak letter mandailing sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯣ",
+    "meta": "batak letter mba",
+    "ipa": ""
+  },
+  {
+    "label": "ᯉ",
+    "meta": "batak letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ᯢ",
+    "meta": "batak letter nda",
+    "ipa": ""
+  },
+  {
+    "label": "ᯝ",
+    "meta": "batak letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᯗ",
+    "meta": "batak letter northern ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᯠ",
+    "meta": "batak letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ᯇ",
+    "meta": "batak letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯍ",
+    "meta": "batak letter pakpak wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯒ",
+    "meta": "batak letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᯘ",
+    "meta": "batak letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯁ",
+    "meta": "batak letter simalungun a",
+    "ipa": ""
+  },
+  {
+    "label": "ᯏ",
+    "meta": "batak letter simalungun ga",
+    "ipa": ""
+  },
+  {
+    "label": "ᯃ",
+    "meta": "batak letter simalungun ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᯟ",
+    "meta": "batak letter simalungun la",
+    "ipa": ""
+  },
+  {
+    "label": "ᯕ",
+    "meta": "batak letter simalungun ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᯈ",
+    "meta": "batak letter simalungun pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯓ",
+    "meta": "batak letter simalungun ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᯙ",
+    "meta": "batak letter simalungun sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯌ",
+    "meta": "batak letter simalungun wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯜ",
+    "meta": "batak letter simalungun ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᯖ",
+    "meta": "batak letter southern ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᯥ",
+    "meta": "batak letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ᯋ",
+    "meta": "batak letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᯛ",
+    "meta": "batak letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "᯲",
+    "meta": "batak pangolat",
+    "ipa": ""
+  },
+  {
+    "label": "᯳",
+    "meta": "batak panongonan",
+    "ipa": ""
+  },
+  {
+    "label": "᯦",
+    "meta": "batak sign tompi",
+    "ipa": ""
+  },
+  {
+    "label": "᯾",
+    "meta": "batak symbol bindu judul",
+    "ipa": ""
+  },
+  {
+    "label": "᯼",
+    "meta": "batak symbol bindu na metek",
+    "ipa": ""
+  },
+  {
+    "label": "᯿",
+    "meta": "batak symbol bindu pangolat",
+    "ipa": ""
+  },
+  {
+    "label": "᯽",
+    "meta": "batak symbol bindu pinarboras",
+    "ipa": ""
+  },
+  {
+    "label": "ᯧ",
+    "meta": "batak vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ᯩ",
+    "meta": "batak vowel sign ee",
+    "ipa": ""
+  },
+  {
+    "label": "ᯪ",
+    "meta": "batak vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ᯫ",
+    "meta": "batak vowel sign karo i",
+    "ipa": ""
+  },
+  {
+    "label": "ᯭ",
+    "meta": "batak vowel sign karo o",
+    "ipa": ""
+  },
+  {
+    "label": "ᯬ",
+    "meta": "batak vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ᯨ",
+    "meta": "batak vowel sign pakpak e",
+    "ipa": ""
+  },
+  {
+    "label": "ᯮ",
+    "meta": "batak vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ᯯ",
+    "meta": "batak vowel sign u for simalungun sa",
+    "ipa": ""
+  }
+]

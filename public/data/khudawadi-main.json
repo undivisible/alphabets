@@ -1,0 +1,347 @@
+[
+  {
+    "label": "𑋸",
+    "meta": "khudawadi digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "𑋵",
+    "meta": "khudawadi digit five",
+    "ipa": ""
+  },
+  {
+    "label": "𑋴",
+    "meta": "khudawadi digit four",
+    "ipa": ""
+  },
+  {
+    "label": "𑋹",
+    "meta": "khudawadi digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "𑋱",
+    "meta": "khudawadi digit one",
+    "ipa": ""
+  },
+  {
+    "label": "𑋷",
+    "meta": "khudawadi digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "𑋶",
+    "meta": "khudawadi digit six",
+    "ipa": ""
+  },
+  {
+    "label": "𑋳",
+    "meta": "khudawadi digit three",
+    "ipa": ""
+  },
+  {
+    "label": "𑋲",
+    "meta": "khudawadi digit two",
+    "ipa": ""
+  },
+  {
+    "label": "𑋰",
+    "meta": "khudawadi digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "𑊰",
+    "meta": "khudawadi letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑊱",
+    "meta": "khudawadi letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑊷",
+    "meta": "khudawadi letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑊹",
+    "meta": "khudawadi letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑋔",
+    "meta": "khudawadi letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑋕",
+    "meta": "khudawadi letter bba",
+    "ipa": ""
+  },
+  {
+    "label": "𑋖",
+    "meta": "khudawadi letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋀",
+    "meta": "khudawadi letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑋁",
+    "meta": "khudawadi letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋏",
+    "meta": "khudawadi letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑋈",
+    "meta": "khudawadi letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑋉",
+    "meta": "khudawadi letter ddda",
+    "ipa": ""
+  },
+  {
+    "label": "𑋋",
+    "meta": "khudawadi letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋐",
+    "meta": "khudawadi letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑊶",
+    "meta": "khudawadi letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑊼",
+    "meta": "khudawadi letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑊽",
+    "meta": "khudawadi letter gga",
+    "ipa": ""
+  },
+  {
+    "label": "𑊾",
+    "meta": "khudawadi letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋞",
+    "meta": "khudawadi letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑊲",
+    "meta": "khudawadi letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑊳",
+    "meta": "khudawadi letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑋂",
+    "meta": "khudawadi letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑋄",
+    "meta": "khudawadi letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋃",
+    "meta": "khudawadi letter jja",
+    "ipa": ""
+  },
+  {
+    "label": "𑊺",
+    "meta": "khudawadi letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑊻",
+    "meta": "khudawadi letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋚",
+    "meta": "khudawadi letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑋗",
+    "meta": "khudawadi letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑋑",
+    "meta": "khudawadi letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑊿",
+    "meta": "khudawadi letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑋌",
+    "meta": "khudawadi letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑋅",
+    "meta": "khudawadi letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑊸",
+    "meta": "khudawadi letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑋒",
+    "meta": "khudawadi letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑋓",
+    "meta": "khudawadi letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋙",
+    "meta": "khudawadi letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑋊",
+    "meta": "khudawadi letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "𑋝",
+    "meta": "khudawadi letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑋜",
+    "meta": "khudawadi letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋍",
+    "meta": "khudawadi letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑋎",
+    "meta": "khudawadi letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑋆",
+    "meta": "khudawadi letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑋇",
+    "meta": "khudawadi letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑊴",
+    "meta": "khudawadi letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑊵",
+    "meta": "khudawadi letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑋛",
+    "meta": "khudawadi letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑋘",
+    "meta": "khudawadi letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑋟",
+    "meta": "khudawadi sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑋩",
+    "meta": "khudawadi sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "𑋪",
+    "meta": "khudawadi sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑋠",
+    "meta": "khudawadi vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑋦",
+    "meta": "khudawadi vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑋨",
+    "meta": "khudawadi vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑋥",
+    "meta": "khudawadi vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑋡",
+    "meta": "khudawadi vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑋢",
+    "meta": "khudawadi vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑋧",
+    "meta": "khudawadi vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑋣",
+    "meta": "khudawadi vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑋤",
+    "meta": "khudawadi vowel sign uu",
+    "ipa": ""
+  }
+]

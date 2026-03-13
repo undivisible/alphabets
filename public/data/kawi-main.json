@@ -1,0 +1,432 @@
+[
+  {
+    "label": "𑽂",
+    "meta": "kawi conjoiner",
+    "ipa": ""
+  },
+  {
+    "label": "𑽃",
+    "meta": "kawi danda",
+    "ipa": ""
+  },
+  {
+    "label": "𑽘",
+    "meta": "kawi digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "𑽕",
+    "meta": "kawi digit five",
+    "ipa": ""
+  },
+  {
+    "label": "𑽔",
+    "meta": "kawi digit four",
+    "ipa": ""
+  },
+  {
+    "label": "𑽙",
+    "meta": "kawi digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "𑽑",
+    "meta": "kawi digit one",
+    "ipa": ""
+  },
+  {
+    "label": "𑽗",
+    "meta": "kawi digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "𑽖",
+    "meta": "kawi digit six",
+    "ipa": ""
+  },
+  {
+    "label": "𑽓",
+    "meta": "kawi digit three",
+    "ipa": ""
+  },
+  {
+    "label": "𑽒",
+    "meta": "kawi digit two",
+    "ipa": ""
+  },
+  {
+    "label": "𑽐",
+    "meta": "kawi digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "𑽄",
+    "meta": "kawi double danda",
+    "ipa": ""
+  },
+  {
+    "label": "𑼄",
+    "meta": "kawi letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑼅",
+    "meta": "kawi letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼏",
+    "meta": "kawi letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑼨",
+    "meta": "kawi letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑼩",
+    "meta": "kawi letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼗",
+    "meta": "kawi letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑼘",
+    "meta": "kawi letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼣",
+    "meta": "kawi letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑼞",
+    "meta": "kawi letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑼟",
+    "meta": "kawi letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼤",
+    "meta": "kawi letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼎",
+    "meta": "kawi letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑼔",
+    "meta": "kawi letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑼕",
+    "meta": "kawi letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼲",
+    "meta": "kawi letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼆",
+    "meta": "kawi letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑼇",
+    "meta": "kawi letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑼙",
+    "meta": "kawi letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑼚",
+    "meta": "kawi letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼳",
+    "meta": "kawi letter jnya",
+    "ipa": ""
+  },
+  {
+    "label": "𑼒",
+    "meta": "kawi letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑼓",
+    "meta": "kawi letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼭",
+    "meta": "kawi letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑼪",
+    "meta": "kawi letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑼥",
+    "meta": "kawi letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑼖",
+    "meta": "kawi letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑼠",
+    "meta": "kawi letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑼛",
+    "meta": "kawi letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑼐",
+    "meta": "kawi letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑼦",
+    "meta": "kawi letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼧",
+    "meta": "kawi letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼬",
+    "meta": "kawi letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑼱",
+    "meta": "kawi letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼯",
+    "meta": "kawi letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼰",
+    "meta": "kawi letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼡",
+    "meta": "kawi letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑼢",
+    "meta": "kawi letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼜",
+    "meta": "kawi letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑼝",
+    "meta": "kawi letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼈",
+    "meta": "kawi letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑼉",
+    "meta": "kawi letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑼌",
+    "meta": "kawi letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑼍",
+    "meta": "kawi letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑼊",
+    "meta": "kawi letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑼋",
+    "meta": "kawi letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑼮",
+    "meta": "kawi letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼫",
+    "meta": "kawi letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑽆",
+    "meta": "kawi punctuation alternate section marker",
+    "ipa": ""
+  },
+  {
+    "label": "𑽌",
+    "meta": "kawi punctuation circle",
+    "ipa": ""
+  },
+  {
+    "label": "𑽏",
+    "meta": "kawi punctuation closing spiral",
+    "ipa": ""
+  },
+  {
+    "label": "𑽉",
+    "meta": "kawi punctuation dot",
+    "ipa": ""
+  },
+  {
+    "label": "𑽊",
+    "meta": "kawi punctuation double dot",
+    "ipa": ""
+  },
+  {
+    "label": "𑽍",
+    "meta": "kawi punctuation filled circle",
+    "ipa": ""
+  },
+  {
+    "label": "𑽇",
+    "meta": "kawi punctuation flower",
+    "ipa": ""
+  },
+  {
+    "label": "𑽅",
+    "meta": "kawi punctuation section marker",
+    "ipa": ""
+  },
+  {
+    "label": "𑽈",
+    "meta": "kawi punctuation space filler",
+    "ipa": ""
+  },
+  {
+    "label": "𑽎",
+    "meta": "kawi punctuation spiral",
+    "ipa": ""
+  },
+  {
+    "label": "𑽋",
+    "meta": "kawi punctuation triple dot",
+    "ipa": ""
+  },
+  {
+    "label": "𑼁",
+    "meta": "kawi sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑼀",
+    "meta": "kawi sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "𑽁",
+    "meta": "kawi sign killer",
+    "ipa": ""
+  },
+  {
+    "label": "𑼂",
+    "meta": "kawi sign repha",
+    "ipa": ""
+  },
+  {
+    "label": "𑼃",
+    "meta": "kawi sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑼴",
+    "meta": "kawi vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼿",
+    "meta": "kawi vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑼵",
+    "meta": "kawi vowel sign alternate aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑼾",
+    "meta": "kawi vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑽀",
+    "meta": "kawi vowel sign eu",
+    "ipa": ""
+  },
+  {
+    "label": "𑼶",
+    "meta": "kawi vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑼷",
+    "meta": "kawi vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑼸",
+    "meta": "kawi vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑼹",
+    "meta": "kawi vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑼺",
+    "meta": "kawi vowel sign vocalic r",
+    "ipa": ""
+  }
+]
