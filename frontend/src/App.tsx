@@ -234,9 +234,17 @@ export default function App() {
     return rows;
   }, [activeItems, isKanji, language, variant]);
 
+  const [windowHeight, setWindowHeight] = useState(typeof window !== "undefined" ? window.innerHeight : 720);
+
+  useEffect(() => {
+    const handleResize = () => setWindowHeight(window.innerHeight);
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
   const barHeight = 56;
   const extraTop = isKanji ? 40 : 0;
-  const availableHeight = typeof window !== "undefined" ? window.innerHeight - barHeight - extraTop : 720;
+  const availableHeight = windowHeight - barHeight - extraTop;
   const rowsCount = groupedRows ? groupedRows.length : Math.max(1, Math.ceil(activeItems.length / 12));
   const tileHeight = `${Math.max(60, Math.floor((availableHeight / rowsCount) * (denseMode ? 1 : 0.82)))}px`;
 
