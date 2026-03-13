@@ -61,6 +61,20 @@ export default function App() {
     return def.variants.map((item: any) => ({ value: item.id, label: item.label }));
   }, [language, manifest]);
 
+  const allSearchOptions = useMemo(() => {
+    const all = { ...LANGUAGE_DEFINITIONS, ...manifest };
+    const options: { type: string, langKey: string, variantKey: string, label: string }[] = [];
+    Object.entries(all).forEach(([langKey, def]: [string, any]) => {
+      options.push({ type: 'language', langKey, variantKey: def.variants[0]?.id || 'main', label: def.label });
+      def.variants.forEach((v: any) => {
+        if (v.label !== "Characters" && v.label !== def.label) {
+          options.push({ type: 'variant', langKey, variantKey: v.id, label: v.label });
+        }
+      });
+    });
+    return options.sort((a, b) => a.label.localeCompare(b.label));
+  }, [manifest]);
+
   useEffect(() => {
     const def = LANGUAGE_DEFINITIONS[language] || manifest[language];
     if (def) {
@@ -233,6 +247,7 @@ export default function App() {
         setVariant={setVariant}
         languageOptions={languageOptions}
         variantOptions={variantOptions}
+        allSearchOptions={allSearchOptions}
         accentColor={accentColor}
         setAccentColor={setAccentColor}
         showLatin={showLatin}
