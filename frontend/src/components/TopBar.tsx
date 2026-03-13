@@ -18,6 +18,8 @@ interface TopBarProps {
   languageOptions: { value: string; label: string }[];
   variantOptions: { value: string; label: string }[];
   allSearchOptions: { type: string, langKey: string, variantKey: string, label: string }[];
+  viewMode: "grid" | "flashcards" | "quiz";
+  setViewMode: (m: "grid" | "flashcards" | "quiz") => void;
   accentColor: string;
   setAccentColor: (c: string) => void;
   showLatin: boolean;
@@ -42,6 +44,8 @@ export function TopBar({
   languageOptions,
   variantOptions,
   allSearchOptions,
+  viewMode,
+  setViewMode,
   accentColor,
   setAccentColor,
   showLatin,
@@ -177,6 +181,8 @@ export function TopBar({
         />
         <div className={`h-full transition-all duration-300 overflow-hidden bg-[#171717] sm:bg-transparent ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>
           <SettingsPanel
+            viewMode={viewMode}
+            setViewMode={setViewMode}
             accentColor={accentColor}
             setAccentColor={setAccentColor}
             showLatin={showLatin}

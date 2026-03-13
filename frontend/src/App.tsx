@@ -15,6 +15,8 @@ import {
 import { TopBar } from "./components/TopBar";
 import { GlyphTile, getKanjiChar } from "./components/GlyphTile";
 import { ConfettiLayer } from "./components/ConfettiLayer";
+import { Flashcards } from "./components/Flashcards";
+import { Quiz } from "./components/Quiz";
 
 function normalizeText(value: string) {
   return value.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -38,6 +40,7 @@ export default function App() {
   const [accentColor, setAccentColor] = useState(DEFAULT_ACCENT);
   const [completeMessage, setCompleteMessage] = useState("");
   const [confettiFire, setConfettiFire] = useState(false);
+  const [viewMode, setViewMode] = useState<"grid" | "flashcards" | "quiz">("grid");
   const completedRef = useRef<Record<string, boolean>>({});
 
   useEffect(() => {
@@ -281,6 +284,8 @@ export default function App() {
         languageOptions={languageOptions}
         variantOptions={variantOptions}
         allSearchOptions={allSearchOptions}
+        viewMode={viewMode}
+        setViewMode={setViewMode}
         accentColor={accentColor}
         setAccentColor={setAccentColor}
         showLatin={showLatin}
@@ -308,6 +313,10 @@ export default function App() {
           <div className="flex h-full items-center justify-center"><div className="flex h-14 items-center gap-3 border border-zinc-800 bg-[#181818] px-5 text-[11px] uppercase tracking-[0.25em] text-zinc-400"><Loader2 className="h-4 w-4 animate-spin" />Loading</div></div>
         ) : isKanji && kanjiError ? (
           <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{kanjiError}</CardContent></Card>
+        ) : viewMode === "flashcards" ? (
+          <Flashcards items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} />
+        ) : viewMode === "quiz" ? (
+          <Quiz items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} />
         ) : groupedRows ? (
           <div className="border-l border-t border-zinc-800">
             {groupedRows.map((row: any, rowIndex: number) => (
