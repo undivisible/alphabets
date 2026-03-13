@@ -1,0 +1,232 @@
+[
+  {
+    "label": "ܐ",
+    "meta": "syriac letter alaph",
+    "ipa": ""
+  },
+  {
+    "label": "ܒ",
+    "meta": "syriac letter beth",
+    "ipa": ""
+  },
+  {
+    "label": "ܕ",
+    "meta": "syriac letter dalath",
+    "ipa": ""
+  },
+  {
+    "label": "ܖ",
+    "meta": "syriac letter dotless dalath rish",
+    "ipa": ""
+  },
+  {
+    "label": "ܥ",
+    "meta": "syriac letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ܤ",
+    "meta": "syriac letter final semkath",
+    "ipa": ""
+  },
+  {
+    "label": "ܓ",
+    "meta": "syriac letter gamal",
+    "ipa": ""
+  },
+  {
+    "label": "ܔ",
+    "meta": "syriac letter gamal garshuni",
+    "ipa": ""
+  },
+  {
+    "label": "ܗ",
+    "meta": "syriac letter he",
+    "ipa": ""
+  },
+  {
+    "label": "ܚ",
+    "meta": "syriac letter heth",
+    "ipa": ""
+  },
+  {
+    "label": "ܟ",
+    "meta": "syriac letter kaph",
+    "ipa": ""
+  },
+  {
+    "label": "ܠ",
+    "meta": "syriac letter lamadh",
+    "ipa": ""
+  },
+  {
+    "label": "ࡦ",
+    "meta": "syriac letter malayalam bha",
+    "ipa": ""
+  },
+  {
+    "label": "ࡡ",
+    "meta": "syriac letter malayalam ja",
+    "ipa": ""
+  },
+  {
+    "label": "ࡨ",
+    "meta": "syriac letter malayalam lla",
+    "ipa": ""
+  },
+  {
+    "label": "ࡩ",
+    "meta": "syriac letter malayalam llla",
+    "ipa": ""
+  },
+  {
+    "label": "ࡠ",
+    "meta": "syriac letter malayalam nga",
+    "ipa": ""
+  },
+  {
+    "label": "ࡤ",
+    "meta": "syriac letter malayalam nna",
+    "ipa": ""
+  },
+  {
+    "label": "ࡥ",
+    "meta": "syriac letter malayalam nnna",
+    "ipa": ""
+  },
+  {
+    "label": "ࡢ",
+    "meta": "syriac letter malayalam nya",
+    "ipa": ""
+  },
+  {
+    "label": "ࡧ",
+    "meta": "syriac letter malayalam ra",
+    "ipa": ""
+  },
+  {
+    "label": "ࡪ",
+    "meta": "syriac letter malayalam ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ࡣ",
+    "meta": "syriac letter malayalam tta",
+    "ipa": ""
+  },
+  {
+    "label": "ܡ",
+    "meta": "syriac letter mim",
+    "ipa": ""
+  },
+  {
+    "label": "ܢ",
+    "meta": "syriac letter nun",
+    "ipa": ""
+  },
+  {
+    "label": "ܦ",
+    "meta": "syriac letter pe",
+    "ipa": ""
+  },
+  {
+    "label": "ܭ",
+    "meta": "syriac letter persian bheth",
+    "ipa": ""
+  },
+  {
+    "label": "ܯ",
+    "meta": "syriac letter persian dhalath",
+    "ipa": ""
+  },
+  {
+    "label": "ܮ",
+    "meta": "syriac letter persian ghamal",
+    "ipa": ""
+  },
+  {
+    "label": "ܩ",
+    "meta": "syriac letter qaph",
+    "ipa": ""
+  },
+  {
+    "label": "ܧ",
+    "meta": "syriac letter reversed pe",
+    "ipa": ""
+  },
+  {
+    "label": "ܪ",
+    "meta": "syriac letter rish",
+    "ipa": ""
+  },
+  {
+    "label": "ܨ",
+    "meta": "syriac letter sadhe",
+    "ipa": ""
+  },
+  {
+    "label": "ܣ",
+    "meta": "syriac letter semkath",
+    "ipa": ""
+  },
+  {
+    "label": "ܫ",
+    "meta": "syriac letter shin",
+    "ipa": ""
+  },
+  {
+    "label": "ݏ",
+    "meta": "syriac letter sogdian fe",
+    "ipa": ""
+  },
+  {
+    "label": "ݎ",
+    "meta": "syriac letter sogdian khaph",
+    "ipa": ""
+  },
+  {
+    "label": "ݍ",
+    "meta": "syriac letter sogdian zhain",
+    "ipa": ""
+  },
+  {
+    "label": "ܑ",
+    "meta": "syriac letter superscript alaph",
+    "ipa": ""
+  },
+  {
+    "label": "ܬ",
+    "meta": "syriac letter taw",
+    "ipa": ""
+  },
+  {
+    "label": "ܛ",
+    "meta": "syriac letter teth",
+    "ipa": ""
+  },
+  {
+    "label": "ܜ",
+    "meta": "syriac letter teth garshuni",
+    "ipa": ""
+  },
+  {
+    "label": "ܘ",
+    "meta": "syriac letter waw",
+    "ipa": ""
+  },
+  {
+    "label": "ܝ",
+    "meta": "syriac letter yudh",
+    "ipa": ""
+  },
+  {
+    "label": "ܞ",
+    "meta": "syriac letter yudh he",
+    "ipa": ""
+  },
+  {
+    "label": "ܙ",
+    "meta": "syriac letter zain",
+    "ipa": ""
+  }
+]

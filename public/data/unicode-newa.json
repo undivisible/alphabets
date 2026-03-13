@@ -1,0 +1,272 @@
+[
+  {
+    "label": "𑐀",
+    "meta": "newa letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑐁",
+    "meta": "newa letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑐋",
+    "meta": "newa letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑐍",
+    "meta": "newa letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑐧",
+    "meta": "newa letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑐨",
+    "meta": "newa letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐔",
+    "meta": "newa letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑐕",
+    "meta": "newa letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐡",
+    "meta": "newa letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑐜",
+    "meta": "newa letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑐝",
+    "meta": "newa letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐢",
+    "meta": "newa letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐊",
+    "meta": "newa letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑐐",
+    "meta": "newa letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑐑",
+    "meta": "newa letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐴",
+    "meta": "newa letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐂",
+    "meta": "newa letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑐃",
+    "meta": "newa letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑐖",
+    "meta": "newa letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑐗",
+    "meta": "newa letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐎",
+    "meta": "newa letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑐏",
+    "meta": "newa letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐮",
+    "meta": "newa letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑐯",
+    "meta": "newa letter lha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐩",
+    "meta": "newa letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑐪",
+    "meta": "newa letter mha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐣",
+    "meta": "newa letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑐒",
+    "meta": "newa letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑐓",
+    "meta": "newa letter ngha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐤",
+    "meta": "newa letter nha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐞",
+    "meta": "newa letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑐘",
+    "meta": "newa letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑐙",
+    "meta": "newa letter nyha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐌",
+    "meta": "newa letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑐥",
+    "meta": "newa letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑐦",
+    "meta": "newa letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐬",
+    "meta": "newa letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑐭",
+    "meta": "newa letter rha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐳",
+    "meta": "newa letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑐱",
+    "meta": "newa letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐲",
+    "meta": "newa letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑐟",
+    "meta": "newa letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑐠",
+    "meta": "newa letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐚",
+    "meta": "newa letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑐛",
+    "meta": "newa letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑐄",
+    "meta": "newa letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑐅",
+    "meta": "newa letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑑟",
+    "meta": "newa letter vedic anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑐈",
+    "meta": "newa letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑐉",
+    "meta": "newa letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑐆",
+    "meta": "newa letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑐇",
+    "meta": "newa letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑐰",
+    "meta": "newa letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "𑐫",
+    "meta": "newa letter ya",
+    "ipa": ""
+  }
+]

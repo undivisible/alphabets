@@ -1,0 +1,432 @@
+[
+  {
+    "label": "Ꭰ",
+    "meta": "cherokee letter a",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮣ",
+    "meta": "cherokee letter da",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮥ",
+    "meta": "cherokee letter de",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮧ",
+    "meta": "cherokee letter di",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮬ",
+    "meta": "cherokee letter dla",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮩ",
+    "meta": "cherokee letter do",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮪ",
+    "meta": "cherokee letter du",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮫ",
+    "meta": "cherokee letter dv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭱ",
+    "meta": "cherokee letter e",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭶ",
+    "meta": "cherokee letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭸ",
+    "meta": "cherokee letter ge",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭹ",
+    "meta": "cherokee letter gi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭺ",
+    "meta": "cherokee letter go",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭻ",
+    "meta": "cherokee letter gu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭼ",
+    "meta": "cherokee letter gv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭽ",
+    "meta": "cherokee letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭾ",
+    "meta": "cherokee letter he",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭿ",
+    "meta": "cherokee letter hi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮏ",
+    "meta": "cherokee letter hna",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮀ",
+    "meta": "cherokee letter ho",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮁ",
+    "meta": "cherokee letter hu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮂ",
+    "meta": "cherokee letter hv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭲ",
+    "meta": "cherokee letter i",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭷ",
+    "meta": "cherokee letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮃ",
+    "meta": "cherokee letter la",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮄ",
+    "meta": "cherokee letter le",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮅ",
+    "meta": "cherokee letter li",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮆ",
+    "meta": "cherokee letter lo",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮇ",
+    "meta": "cherokee letter lu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮈ",
+    "meta": "cherokee letter lv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮉ",
+    "meta": "cherokee letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮊ",
+    "meta": "cherokee letter me",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮋ",
+    "meta": "cherokee letter mi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮌ",
+    "meta": "cherokee letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮍ",
+    "meta": "cherokee letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "Ᏽ",
+    "meta": "cherokee letter mv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮎ",
+    "meta": "cherokee letter na",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮐ",
+    "meta": "cherokee letter nah",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮑ",
+    "meta": "cherokee letter ne",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮒ",
+    "meta": "cherokee letter ni",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮓ",
+    "meta": "cherokee letter no",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮔ",
+    "meta": "cherokee letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮕ",
+    "meta": "cherokee letter nv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭳ",
+    "meta": "cherokee letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮖ",
+    "meta": "cherokee letter qua",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮗ",
+    "meta": "cherokee letter que",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮘ",
+    "meta": "cherokee letter qui",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮙ",
+    "meta": "cherokee letter quo",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮚ",
+    "meta": "cherokee letter quu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮛ",
+    "meta": "cherokee letter quv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮝ",
+    "meta": "cherokee letter s",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮜ",
+    "meta": "cherokee letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮞ",
+    "meta": "cherokee letter se",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮟ",
+    "meta": "cherokee letter si",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮠ",
+    "meta": "cherokee letter so",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮡ",
+    "meta": "cherokee letter su",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮢ",
+    "meta": "cherokee letter sv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮤ",
+    "meta": "cherokee letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮦ",
+    "meta": "cherokee letter te",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮨ",
+    "meta": "cherokee letter ti",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮭ",
+    "meta": "cherokee letter tla",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮮ",
+    "meta": "cherokee letter tle",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮯ",
+    "meta": "cherokee letter tli",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮰ",
+    "meta": "cherokee letter tlo",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮱ",
+    "meta": "cherokee letter tlu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮲ",
+    "meta": "cherokee letter tlv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮳ",
+    "meta": "cherokee letter tsa",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮴ",
+    "meta": "cherokee letter tse",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮵ",
+    "meta": "cherokee letter tsi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮶ",
+    "meta": "cherokee letter tso",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮷ",
+    "meta": "cherokee letter tsu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮸ",
+    "meta": "cherokee letter tsv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭴ",
+    "meta": "cherokee letter u",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭵ",
+    "meta": "cherokee letter v",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮹ",
+    "meta": "cherokee letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮺ",
+    "meta": "cherokee letter we",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮻ",
+    "meta": "cherokee letter wi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮼ",
+    "meta": "cherokee letter wo",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮽ",
+    "meta": "cherokee letter wu",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮾ",
+    "meta": "cherokee letter wv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꮿ",
+    "meta": "cherokee letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "Ᏸ",
+    "meta": "cherokee letter ye",
+    "ipa": ""
+  },
+  {
+    "label": "Ᏹ",
+    "meta": "cherokee letter yi",
+    "ipa": ""
+  },
+  {
+    "label": "Ᏺ",
+    "meta": "cherokee letter yo",
+    "ipa": ""
+  },
+  {
+    "label": "Ᏻ",
+    "meta": "cherokee letter yu",
+    "ipa": ""
+  },
+  {
+    "label": "Ᏼ",
+    "meta": "cherokee letter yv",
+    "ipa": ""
+  }
+]

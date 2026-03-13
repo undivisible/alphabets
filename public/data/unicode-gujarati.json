@@ -1,0 +1,247 @@
+[
+  {
+    "label": "અ",
+    "meta": "gujarati letter a",
+    "ipa": ""
+  },
+  {
+    "label": "આ",
+    "meta": "gujarati letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ઐ",
+    "meta": "gujarati letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ઔ",
+    "meta": "gujarati letter au",
+    "ipa": ""
+  },
+  {
+    "label": "બ",
+    "meta": "gujarati letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ભ",
+    "meta": "gujarati letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "ચ",
+    "meta": "gujarati letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "છ",
+    "meta": "gujarati letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "દ",
+    "meta": "gujarati letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ડ",
+    "meta": "gujarati letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ઢ",
+    "meta": "gujarati letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ધ",
+    "meta": "gujarati letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "એ",
+    "meta": "gujarati letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ગ",
+    "meta": "gujarati letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ઘ",
+    "meta": "gujarati letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "હ",
+    "meta": "gujarati letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ઇ",
+    "meta": "gujarati letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ઈ",
+    "meta": "gujarati letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "જ",
+    "meta": "gujarati letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ઝ",
+    "meta": "gujarati letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ક",
+    "meta": "gujarati letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ખ",
+    "meta": "gujarati letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "લ",
+    "meta": "gujarati letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ળ",
+    "meta": "gujarati letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "મ",
+    "meta": "gujarati letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ન",
+    "meta": "gujarati letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ઙ",
+    "meta": "gujarati letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ણ",
+    "meta": "gujarati letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ઞ",
+    "meta": "gujarati letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ઓ",
+    "meta": "gujarati letter o",
+    "ipa": ""
+  },
+  {
+    "label": "પ",
+    "meta": "gujarati letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ફ",
+    "meta": "gujarati letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ર",
+    "meta": "gujarati letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "સ",
+    "meta": "gujarati letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "શ",
+    "meta": "gujarati letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ષ",
+    "meta": "gujarati letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ત",
+    "meta": "gujarati letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "થ",
+    "meta": "gujarati letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ટ",
+    "meta": "gujarati letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ઠ",
+    "meta": "gujarati letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ઉ",
+    "meta": "gujarati letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ઊ",
+    "meta": "gujarati letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "વ",
+    "meta": "gujarati letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ઌ",
+    "meta": "gujarati letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ૡ",
+    "meta": "gujarati letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ઋ",
+    "meta": "gujarati letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ૠ",
+    "meta": "gujarati letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ય",
+    "meta": "gujarati letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ૹ",
+    "meta": "gujarati letter zha",
+    "ipa": ""
+  }
+]

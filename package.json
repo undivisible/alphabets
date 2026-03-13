@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "generate": "bun run backend/scripts/generate-alphabets.ts",
-    "predev": "bun run generate && rm -rf dist && mkdir -p dist/data && cp public/data/*.json dist/data/",
-    "dev": "bun run predev && (bunx tailwindcss -i frontend/globals.css -o dist/main.css --watch & bun build frontend/main.tsx --outdir dist --watch & bunx serve .)",
+    "predev": "bun run generate && rm -rf dist && mkdir -p dist/data && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
+    "dev": "bun run predev && (bunx tailwindcss -i frontend/globals.css -o dist/main.css --watch & bun build frontend/main.tsx --outdir dist --watch & bunx serve dist)",
     "build": "bun run generate && rm -rf dist && mkdir -p dist/data && bun build frontend/main.tsx --outdir dist --minify && bun x tailwindcss -i frontend/globals.css -o dist/main.css --minify && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
     "test": "bun test"
   },

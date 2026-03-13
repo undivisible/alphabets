@@ -1,0 +1,252 @@
+[
+  {
+    "label": "ꢂ",
+    "meta": "saurashtra letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ꢃ",
+    "meta": "saurashtra letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ꢎ",
+    "meta": "saurashtra letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ꢑ",
+    "meta": "saurashtra letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ꢨ",
+    "meta": "saurashtra letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ꢩ",
+    "meta": "saurashtra letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢗ",
+    "meta": "saurashtra letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ꢘ",
+    "meta": "saurashtra letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢣ",
+    "meta": "saurashtra letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ꢞ",
+    "meta": "saurashtra letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ꢟ",
+    "meta": "saurashtra letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢤ",
+    "meta": "saurashtra letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢌ",
+    "meta": "saurashtra letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ꢍ",
+    "meta": "saurashtra letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ꢔ",
+    "meta": "saurashtra letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ꢕ",
+    "meta": "saurashtra letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢲ",
+    "meta": "saurashtra letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢄ",
+    "meta": "saurashtra letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ꢅ",
+    "meta": "saurashtra letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ꢙ",
+    "meta": "saurashtra letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ꢚ",
+    "meta": "saurashtra letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢒ",
+    "meta": "saurashtra letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ꢓ",
+    "meta": "saurashtra letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢭ",
+    "meta": "saurashtra letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ꢳ",
+    "meta": "saurashtra letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ꢪ",
+    "meta": "saurashtra letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ꢥ",
+    "meta": "saurashtra letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ꢖ",
+    "meta": "saurashtra letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ꢠ",
+    "meta": "saurashtra letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ꢛ",
+    "meta": "saurashtra letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ꢏ",
+    "meta": "saurashtra letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ꢐ",
+    "meta": "saurashtra letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ꢦ",
+    "meta": "saurashtra letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ꢧ",
+    "meta": "saurashtra letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢬ",
+    "meta": "saurashtra letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꢱ",
+    "meta": "saurashtra letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ꢯ",
+    "meta": "saurashtra letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢰ",
+    "meta": "saurashtra letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ꢡ",
+    "meta": "saurashtra letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ꢢ",
+    "meta": "saurashtra letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢜ",
+    "meta": "saurashtra letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ꢝ",
+    "meta": "saurashtra letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ꢆ",
+    "meta": "saurashtra letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ꢇ",
+    "meta": "saurashtra letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ꢮ",
+    "meta": "saurashtra letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ꢊ",
+    "meta": "saurashtra letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ꢋ",
+    "meta": "saurashtra letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ꢈ",
+    "meta": "saurashtra letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ꢉ",
+    "meta": "saurashtra letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ꢫ",
+    "meta": "saurashtra letter ya",
+    "ipa": ""
+  }
+]

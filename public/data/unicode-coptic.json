@@ -1,0 +1,302 @@
+[
+  {
+    "label": "Ⳉ",
+    "meta": "coptic capital letter akhmimic khei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲁ",
+    "meta": "coptic capital letter alfa",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳳ",
+    "meta": "coptic capital letter bohairic khei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳃ",
+    "meta": "coptic capital letter crossed shei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲷ",
+    "meta": "coptic capital letter cryptogrammic eie",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳮ",
+    "meta": "coptic capital letter cryptogrammic gangia",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲽ",
+    "meta": "coptic capital letter cryptogrammic ni",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳬ",
+    "meta": "coptic capital letter cryptogrammic shei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲇ",
+    "meta": "coptic capital letter dalda",
+    "ipa": ""
+  },
+  {
+    "label": "Ϯ",
+    "meta": "coptic capital letter dei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲳ",
+    "meta": "coptic capital letter dialect-p alef",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳋ",
+    "meta": "coptic capital letter dialect-p hori",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲹ",
+    "meta": "coptic capital letter dialect-p kapa",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲻ",
+    "meta": "coptic capital letter dialect-p ni",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲉ",
+    "meta": "coptic capital letter eie",
+    "ipa": ""
+  },
+  {
+    "label": "Ϥ",
+    "meta": "coptic capital letter fei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲫ",
+    "meta": "coptic capital letter fi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲅ",
+    "meta": "coptic capital letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "Ϫ",
+    "meta": "coptic capital letter gangia",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲏ",
+    "meta": "coptic capital letter hate",
+    "ipa": ""
+  },
+  {
+    "label": "Ϩ",
+    "meta": "coptic capital letter hori",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲓ",
+    "meta": "coptic capital letter iauda",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲕ",
+    "meta": "coptic capital letter kapa",
+    "ipa": ""
+  },
+  {
+    "label": "Ϧ",
+    "meta": "coptic capital letter khei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲭ",
+    "meta": "coptic capital letter khi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲝ",
+    "meta": "coptic capital letter ksi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳑ",
+    "meta": "coptic capital letter l-shaped ha",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲗ",
+    "meta": "coptic capital letter laula",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲙ",
+    "meta": "coptic capital letter mi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲛ",
+    "meta": "coptic capital letter ni",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲟ",
+    "meta": "coptic capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲵ",
+    "meta": "coptic capital letter old coptic ain",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳙ",
+    "meta": "coptic capital letter old coptic dja",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳇ",
+    "meta": "coptic capital letter old coptic esh",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳗ",
+    "meta": "coptic capital letter old coptic gangia",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳏ",
+    "meta": "coptic capital letter old coptic ha",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳕ",
+    "meta": "coptic capital letter old coptic hat",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳓ",
+    "meta": "coptic capital letter old coptic hei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳍ",
+    "meta": "coptic capital letter old coptic hori",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲿ",
+    "meta": "coptic capital letter old coptic oou",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳅ",
+    "meta": "coptic capital letter old coptic shei",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳛ",
+    "meta": "coptic capital letter old coptic shima",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳟ",
+    "meta": "coptic capital letter old nubian ngi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳡ",
+    "meta": "coptic capital letter old nubian nyi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳝ",
+    "meta": "coptic capital letter old nubian shima",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳣ",
+    "meta": "coptic capital letter old nubian wau",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲱ",
+    "meta": "coptic capital letter oou",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲡ",
+    "meta": "coptic capital letter pi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲯ",
+    "meta": "coptic capital letter psi",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲣ",
+    "meta": "coptic capital letter ro",
+    "ipa": ""
+  },
+  {
+    "label": "Ⳁ",
+    "meta": "coptic capital letter sampi",
+    "ipa": ""
+  },
+  {
+    "label": "Ϣ",
+    "meta": "coptic capital letter shei",
+    "ipa": ""
+  },
+  {
+    "label": "Ϭ",
+    "meta": "coptic capital letter shima",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲥ",
+    "meta": "coptic capital letter sima",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲋ",
+    "meta": "coptic capital letter sou",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲧ",
+    "meta": "coptic capital letter tau",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲑ",
+    "meta": "coptic capital letter thethe",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲩ",
+    "meta": "coptic capital letter ua",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲃ",
+    "meta": "coptic capital letter vida",
+    "ipa": ""
+  },
+  {
+    "label": "Ⲍ",
+    "meta": "coptic capital letter zata",
+    "ipa": ""
+  }
+]

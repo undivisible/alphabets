@@ -1,0 +1,182 @@
+[
+  {
+    "label": "א",
+    "meta": "hebrew letter alef",
+    "ipa": ""
+  },
+  {
+    "label": "ﬠ",
+    "meta": "hebrew letter alternative ayin",
+    "ipa": ""
+  },
+  {
+    "label": "ע",
+    "meta": "hebrew letter ayin",
+    "ipa": ""
+  },
+  {
+    "label": "ב",
+    "meta": "hebrew letter bet",
+    "ipa": ""
+  },
+  {
+    "label": "ד",
+    "meta": "hebrew letter dalet",
+    "ipa": ""
+  },
+  {
+    "label": "ך",
+    "meta": "hebrew letter final kaf",
+    "ipa": ""
+  },
+  {
+    "label": "ם",
+    "meta": "hebrew letter final mem",
+    "ipa": ""
+  },
+  {
+    "label": "ן",
+    "meta": "hebrew letter final nun",
+    "ipa": ""
+  },
+  {
+    "label": "ף",
+    "meta": "hebrew letter final pe",
+    "ipa": ""
+  },
+  {
+    "label": "ץ",
+    "meta": "hebrew letter final tsadi",
+    "ipa": ""
+  },
+  {
+    "label": "ג",
+    "meta": "hebrew letter gimel",
+    "ipa": ""
+  },
+  {
+    "label": "ה",
+    "meta": "hebrew letter he",
+    "ipa": ""
+  },
+  {
+    "label": "ח",
+    "meta": "hebrew letter het",
+    "ipa": ""
+  },
+  {
+    "label": "כ",
+    "meta": "hebrew letter kaf",
+    "ipa": ""
+  },
+  {
+    "label": "ל",
+    "meta": "hebrew letter lamed",
+    "ipa": ""
+  },
+  {
+    "label": "מ",
+    "meta": "hebrew letter mem",
+    "ipa": ""
+  },
+  {
+    "label": "נ",
+    "meta": "hebrew letter nun",
+    "ipa": ""
+  },
+  {
+    "label": "פ",
+    "meta": "hebrew letter pe",
+    "ipa": ""
+  },
+  {
+    "label": "ק",
+    "meta": "hebrew letter qof",
+    "ipa": ""
+  },
+  {
+    "label": "ר",
+    "meta": "hebrew letter resh",
+    "ipa": ""
+  },
+  {
+    "label": "ס",
+    "meta": "hebrew letter samekh",
+    "ipa": ""
+  },
+  {
+    "label": "ש",
+    "meta": "hebrew letter shin",
+    "ipa": ""
+  },
+  {
+    "label": "ת",
+    "meta": "hebrew letter tav",
+    "ipa": ""
+  },
+  {
+    "label": "ט",
+    "meta": "hebrew letter tet",
+    "ipa": ""
+  },
+  {
+    "label": "צ",
+    "meta": "hebrew letter tsadi",
+    "ipa": ""
+  },
+  {
+    "label": "ו",
+    "meta": "hebrew letter vav",
+    "ipa": ""
+  },
+  {
+    "label": "ﬡ",
+    "meta": "hebrew letter wide alef",
+    "ipa": ""
+  },
+  {
+    "label": "ﬢ",
+    "meta": "hebrew letter wide dalet",
+    "ipa": ""
+  },
+  {
+    "label": "ﬦ",
+    "meta": "hebrew letter wide final mem",
+    "ipa": ""
+  },
+  {
+    "label": "ﬣ",
+    "meta": "hebrew letter wide he",
+    "ipa": ""
+  },
+  {
+    "label": "ﬤ",
+    "meta": "hebrew letter wide kaf",
+    "ipa": ""
+  },
+  {
+    "label": "ﬥ",
+    "meta": "hebrew letter wide lamed",
+    "ipa": ""
+  },
+  {
+    "label": "ﬧ",
+    "meta": "hebrew letter wide resh",
+    "ipa": ""
+  },
+  {
+    "label": "ﬨ",
+    "meta": "hebrew letter wide tav",
+    "ipa": ""
+  },
+  {
+    "label": "י",
+    "meta": "hebrew letter yod",
+    "ipa": ""
+  },
+  {
+    "label": "ז",
+    "meta": "hebrew letter zayin",
+    "ipa": ""
+  }
+]

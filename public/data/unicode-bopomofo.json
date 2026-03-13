@@ -1,0 +1,372 @@
+[
+  {
+    "label": "ㆻ",
+    "meta": "bopomofo final letter g",
+    "ipa": ""
+  },
+  {
+    "label": "ㆷ",
+    "meta": "bopomofo final letter h",
+    "ipa": ""
+  },
+  {
+    "label": "ㆶ",
+    "meta": "bopomofo final letter k",
+    "ipa": ""
+  },
+  {
+    "label": "ㆴ",
+    "meta": "bopomofo final letter p",
+    "ipa": ""
+  },
+  {
+    "label": "ㆵ",
+    "meta": "bopomofo final letter t",
+    "ipa": ""
+  },
+  {
+    "label": "ㄚ",
+    "meta": "bopomofo letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ㆿ",
+    "meta": "bopomofo letter ah",
+    "ipa": ""
+  },
+  {
+    "label": "ㄞ",
+    "meta": "bopomofo letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ㆮ",
+    "meta": "bopomofo letter ainn",
+    "ipa": ""
+  },
+  {
+    "label": "ㆰ",
+    "meta": "bopomofo letter am",
+    "ipa": ""
+  },
+  {
+    "label": "ㄢ",
+    "meta": "bopomofo letter an",
+    "ipa": ""
+  },
+  {
+    "label": "ㄤ",
+    "meta": "bopomofo letter ang",
+    "ipa": ""
+  },
+  {
+    "label": "ㆩ",
+    "meta": "bopomofo letter ann",
+    "ipa": ""
+  },
+  {
+    "label": "ㄠ",
+    "meta": "bopomofo letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ㆯ",
+    "meta": "bopomofo letter aunn",
+    "ipa": ""
+  },
+  {
+    "label": "ㄅ",
+    "meta": "bopomofo letter b",
+    "ipa": ""
+  },
+  {
+    "label": "ㆠ",
+    "meta": "bopomofo letter bu",
+    "ipa": ""
+  },
+  {
+    "label": "ㄘ",
+    "meta": "bopomofo letter c",
+    "ipa": ""
+  },
+  {
+    "label": "ㄔ",
+    "meta": "bopomofo letter ch",
+    "ipa": ""
+  },
+  {
+    "label": "ㄉ",
+    "meta": "bopomofo letter d",
+    "ipa": ""
+  },
+  {
+    "label": "ㄜ",
+    "meta": "bopomofo letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ㆤ",
+    "meta": "bopomofo letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ㄝ",
+    "meta": "bopomofo letter eh",
+    "ipa": ""
+  },
+  {
+    "label": "ㄟ",
+    "meta": "bopomofo letter ei",
+    "ipa": ""
+  },
+  {
+    "label": "ㄣ",
+    "meta": "bopomofo letter en",
+    "ipa": ""
+  },
+  {
+    "label": "ㄥ",
+    "meta": "bopomofo letter eng",
+    "ipa": ""
+  },
+  {
+    "label": "ㆥ",
+    "meta": "bopomofo letter enn",
+    "ipa": ""
+  },
+  {
+    "label": "ㄦ",
+    "meta": "bopomofo letter er",
+    "ipa": ""
+  },
+  {
+    "label": "ㄈ",
+    "meta": "bopomofo letter f",
+    "ipa": ""
+  },
+  {
+    "label": "ㄍ",
+    "meta": "bopomofo letter g",
+    "ipa": ""
+  },
+  {
+    "label": "ㆸ",
+    "meta": "bopomofo letter gh",
+    "ipa": ""
+  },
+  {
+    "label": "ㄬ",
+    "meta": "bopomofo letter gn",
+    "ipa": ""
+  },
+  {
+    "label": "ㆣ",
+    "meta": "bopomofo letter gu",
+    "ipa": ""
+  },
+  {
+    "label": "ㆼ",
+    "meta": "bopomofo letter gw",
+    "ipa": ""
+  },
+  {
+    "label": "ㄏ",
+    "meta": "bopomofo letter h",
+    "ipa": ""
+  },
+  {
+    "label": "ㄧ",
+    "meta": "bopomofo letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ㄭ",
+    "meta": "bopomofo letter ih",
+    "ipa": ""
+  },
+  {
+    "label": "ㆬ",
+    "meta": "bopomofo letter im",
+    "ipa": ""
+  },
+  {
+    "label": "ㆪ",
+    "meta": "bopomofo letter inn",
+    "ipa": ""
+  },
+  {
+    "label": "ㆳ",
+    "meta": "bopomofo letter innn",
+    "ipa": ""
+  },
+  {
+    "label": "ㆨ",
+    "meta": "bopomofo letter ir",
+    "ipa": ""
+  },
+  {
+    "label": "ㄩ",
+    "meta": "bopomofo letter iu",
+    "ipa": ""
+  },
+  {
+    "label": "ㄐ",
+    "meta": "bopomofo letter j",
+    "ipa": ""
+  },
+  {
+    "label": "ㆢ",
+    "meta": "bopomofo letter ji",
+    "ipa": ""
+  },
+  {
+    "label": "ㄎ",
+    "meta": "bopomofo letter k",
+    "ipa": ""
+  },
+  {
+    "label": "ㆽ",
+    "meta": "bopomofo letter kw",
+    "ipa": ""
+  },
+  {
+    "label": "ㄌ",
+    "meta": "bopomofo letter l",
+    "ipa": ""
+  },
+  {
+    "label": "ㆹ",
+    "meta": "bopomofo letter lh",
+    "ipa": ""
+  },
+  {
+    "label": "ㄇ",
+    "meta": "bopomofo letter m",
+    "ipa": ""
+  },
+  {
+    "label": "ㄋ",
+    "meta": "bopomofo letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ㄫ",
+    "meta": "bopomofo letter ng",
+    "ipa": ""
+  },
+  {
+    "label": "ㆭ",
+    "meta": "bopomofo letter ngg",
+    "ipa": ""
+  },
+  {
+    "label": "ㄯ",
+    "meta": "bopomofo letter nn",
+    "ipa": ""
+  },
+  {
+    "label": "ㄛ",
+    "meta": "bopomofo letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ㆾ",
+    "meta": "bopomofo letter oe",
+    "ipa": ""
+  },
+  {
+    "label": "ㆱ",
+    "meta": "bopomofo letter om",
+    "ipa": ""
+  },
+  {
+    "label": "ㆲ",
+    "meta": "bopomofo letter ong",
+    "ipa": ""
+  },
+  {
+    "label": "ㆧ",
+    "meta": "bopomofo letter onn",
+    "ipa": ""
+  },
+  {
+    "label": "ㆦ",
+    "meta": "bopomofo letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ㄡ",
+    "meta": "bopomofo letter ou",
+    "ipa": ""
+  },
+  {
+    "label": "ㄆ",
+    "meta": "bopomofo letter p",
+    "ipa": ""
+  },
+  {
+    "label": "ㄑ",
+    "meta": "bopomofo letter q",
+    "ipa": ""
+  },
+  {
+    "label": "ㄖ",
+    "meta": "bopomofo letter r",
+    "ipa": ""
+  },
+  {
+    "label": "ㄙ",
+    "meta": "bopomofo letter s",
+    "ipa": ""
+  },
+  {
+    "label": "ㄕ",
+    "meta": "bopomofo letter sh",
+    "ipa": ""
+  },
+  {
+    "label": "ㄊ",
+    "meta": "bopomofo letter t",
+    "ipa": ""
+  },
+  {
+    "label": "ㄨ",
+    "meta": "bopomofo letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ㆫ",
+    "meta": "bopomofo letter unn",
+    "ipa": ""
+  },
+  {
+    "label": "ㄪ",
+    "meta": "bopomofo letter v",
+    "ipa": ""
+  },
+  {
+    "label": "ㄒ",
+    "meta": "bopomofo letter x",
+    "ipa": ""
+  },
+  {
+    "label": "ㄗ",
+    "meta": "bopomofo letter z",
+    "ipa": ""
+  },
+  {
+    "label": "ㄓ",
+    "meta": "bopomofo letter zh",
+    "ipa": ""
+  },
+  {
+    "label": "ㆡ",
+    "meta": "bopomofo letter zi",
+    "ipa": ""
+  },
+  {
+    "label": "ㆺ",
+    "meta": "bopomofo letter zy",
+    "ipa": ""
+  }
+]

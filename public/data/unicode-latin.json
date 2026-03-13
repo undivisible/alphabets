@@ -1,0 +1,602 @@
+[
+  {
+    "label": "Ａ",
+    "meta": "fullwidth latin capital letter a",
+    "ipa": ""
+  },
+  {
+    "label": "Ｂ",
+    "meta": "fullwidth latin capital letter b",
+    "ipa": ""
+  },
+  {
+    "label": "Ｃ",
+    "meta": "fullwidth latin capital letter c",
+    "ipa": ""
+  },
+  {
+    "label": "Ｄ",
+    "meta": "fullwidth latin capital letter d",
+    "ipa": ""
+  },
+  {
+    "label": "Ｅ",
+    "meta": "fullwidth latin capital letter e",
+    "ipa": ""
+  },
+  {
+    "label": "Ｆ",
+    "meta": "fullwidth latin capital letter f",
+    "ipa": ""
+  },
+  {
+    "label": "Ｇ",
+    "meta": "fullwidth latin capital letter g",
+    "ipa": ""
+  },
+  {
+    "label": "Ｈ",
+    "meta": "fullwidth latin capital letter h",
+    "ipa": ""
+  },
+  {
+    "label": "Ｉ",
+    "meta": "fullwidth latin capital letter i",
+    "ipa": ""
+  },
+  {
+    "label": "Ｊ",
+    "meta": "fullwidth latin capital letter j",
+    "ipa": ""
+  },
+  {
+    "label": "Ｋ",
+    "meta": "fullwidth latin capital letter k",
+    "ipa": ""
+  },
+  {
+    "label": "Ｌ",
+    "meta": "fullwidth latin capital letter l",
+    "ipa": ""
+  },
+  {
+    "label": "Ｍ",
+    "meta": "fullwidth latin capital letter m",
+    "ipa": ""
+  },
+  {
+    "label": "Ｎ",
+    "meta": "fullwidth latin capital letter n",
+    "ipa": ""
+  },
+  {
+    "label": "Ｏ",
+    "meta": "fullwidth latin capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ｐ",
+    "meta": "fullwidth latin capital letter p",
+    "ipa": ""
+  },
+  {
+    "label": "Ｑ",
+    "meta": "fullwidth latin capital letter q",
+    "ipa": ""
+  },
+  {
+    "label": "Ｒ",
+    "meta": "fullwidth latin capital letter r",
+    "ipa": ""
+  },
+  {
+    "label": "Ｓ",
+    "meta": "fullwidth latin capital letter s",
+    "ipa": ""
+  },
+  {
+    "label": "Ｔ",
+    "meta": "fullwidth latin capital letter t",
+    "ipa": ""
+  },
+  {
+    "label": "Ｕ",
+    "meta": "fullwidth latin capital letter u",
+    "ipa": ""
+  },
+  {
+    "label": "Ｖ",
+    "meta": "fullwidth latin capital letter v",
+    "ipa": ""
+  },
+  {
+    "label": "Ｗ",
+    "meta": "fullwidth latin capital letter w",
+    "ipa": ""
+  },
+  {
+    "label": "Ｘ",
+    "meta": "fullwidth latin capital letter x",
+    "ipa": ""
+  },
+  {
+    "label": "Ｙ",
+    "meta": "fullwidth latin capital letter y",
+    "ipa": ""
+  },
+  {
+    "label": "Ｚ",
+    "meta": "fullwidth latin capital letter z",
+    "ipa": ""
+  },
+  {
+    "label": "A",
+    "meta": "latin capital letter a",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜳ",
+    "meta": "latin capital letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "Æ",
+    "meta": "latin capital letter ae",
+    "ipa": ""
+  },
+  {
+    "label": "Ɖ",
+    "meta": "latin capital letter african d",
+    "ipa": ""
+  },
+  {
+    "label": "Ɑ",
+    "meta": "latin capital letter alpha",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟃ",
+    "meta": "latin capital letter anglicana w",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜵ",
+    "meta": "latin capital letter ao",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜷ",
+    "meta": "latin capital letter au",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜹ",
+    "meta": "latin capital letter av",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜽ",
+    "meta": "latin capital letter ay",
+    "ipa": ""
+  },
+  {
+    "label": "B",
+    "meta": "latin capital letter b",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞵ",
+    "meta": "latin capital letter beta",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝇ",
+    "meta": "latin capital letter broken l",
+    "ipa": ""
+  },
+  {
+    "label": "C",
+    "meta": "latin capital letter c",
+    "ipa": ""
+  },
+  {
+    "label": "Ꭓ",
+    "meta": "latin capital letter chi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟑ",
+    "meta": "latin capital letter closed insular g",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝯ",
+    "meta": "latin capital letter con",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜭ",
+    "meta": "latin capital letter cuatrillo",
+    "ipa": ""
+  },
+  {
+    "label": "D",
+    "meta": "latin capital letter d",
+    "ipa": ""
+  },
+  {
+    "label": "Ǳ",
+    "meta": "latin capital letter dz",
+    "ipa": ""
+  },
+  {
+    "label": "E",
+    "meta": "latin capital letter e",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜥ",
+    "meta": "latin capital letter egyptological ain",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜣ",
+    "meta": "latin capital letter egyptological alef",
+    "ipa": ""
+  },
+  {
+    "label": "Ŋ",
+    "meta": "latin capital letter eng",
+    "ipa": ""
+  },
+  {
+    "label": "Ʃ",
+    "meta": "latin capital letter esh",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝫ",
+    "meta": "latin capital letter et",
+    "ipa": ""
+  },
+  {
+    "label": "Ð",
+    "meta": "latin capital letter eth",
+    "ipa": ""
+  },
+  {
+    "label": "Ʒ",
+    "meta": "latin capital letter ezh",
+    "ipa": ""
+  },
+  {
+    "label": "Ƹ",
+    "meta": "latin capital letter ezh reversed",
+    "ipa": ""
+  },
+  {
+    "label": "F",
+    "meta": "latin capital letter f",
+    "ipa": ""
+  },
+  {
+    "label": "G",
+    "meta": "latin capital letter g",
+    "ipa": ""
+  },
+  {
+    "label": "Ɣ",
+    "meta": "latin capital letter gamma",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞻ",
+    "meta": "latin capital letter glottal a",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞽ",
+    "meta": "latin capital letter glottal i",
+    "ipa": ""
+  },
+  {
+    "label": "Ɂ",
+    "meta": "latin capital letter glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞿ",
+    "meta": "latin capital letter glottal u",
+    "ipa": ""
+  },
+  {
+    "label": "H",
+    "meta": "latin capital letter h",
+    "ipa": ""
+  },
+  {
+    "label": "Ⱶ",
+    "meta": "latin capital letter half h",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜧ",
+    "meta": "latin capital letter heng",
+    "ipa": ""
+  },
+  {
+    "label": "Ƕ",
+    "meta": "latin capital letter hwair",
+    "ipa": ""
+  },
+  {
+    "label": "I",
+    "meta": "latin capital letter i",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝺ",
+    "meta": "latin capital letter insular d",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝼ",
+    "meta": "latin capital letter insular f",
+    "ipa": ""
+  },
+  {
+    "label": "Ᵹ",
+    "meta": "latin capital letter insular g",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞃ",
+    "meta": "latin capital letter insular r",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞅ",
+    "meta": "latin capital letter insular s",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞇ",
+    "meta": "latin capital letter insular t",
+    "ipa": ""
+  },
+  {
+    "label": "Ɩ",
+    "meta": "latin capital letter iota",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝭ",
+    "meta": "latin capital letter is",
+    "ipa": ""
+  },
+  {
+    "label": "J",
+    "meta": "latin capital letter j",
+    "ipa": ""
+  },
+  {
+    "label": "K",
+    "meta": "latin capital letter k",
+    "ipa": ""
+  },
+  {
+    "label": "L",
+    "meta": "latin capital letter l",
+    "ipa": ""
+  },
+  {
+    "label": "Ǉ",
+    "meta": "latin capital letter lj",
+    "ipa": ""
+  },
+  {
+    "label": "M",
+    "meta": "latin capital letter m",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟗ",
+    "meta": "latin capital letter middle scots s",
+    "ipa": ""
+  },
+  {
+    "label": "Ỻ",
+    "meta": "latin capital letter middle-welsh ll",
+    "ipa": ""
+  },
+  {
+    "label": "Ỽ",
+    "meta": "latin capital letter middle-welsh v",
+    "ipa": ""
+  },
+  {
+    "label": "N",
+    "meta": "latin capital letter n",
+    "ipa": ""
+  },
+  {
+    "label": "Ǌ",
+    "meta": "latin capital letter nj",
+    "ipa": ""
+  },
+  {
+    "label": "O",
+    "meta": "latin capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ƣ",
+    "meta": "latin capital letter oi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟁ",
+    "meta": "latin capital letter old polish o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞷ",
+    "meta": "latin capital letter omega",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝏ",
+    "meta": "latin capital letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "Ɛ",
+    "meta": "latin capital letter open e",
+    "ipa": ""
+  },
+  {
+    "label": "Ɔ",
+    "meta": "latin capital letter open o",
+    "ipa": ""
+  },
+  {
+    "label": "Ȣ",
+    "meta": "latin capital letter ou",
+    "ipa": ""
+  },
+  {
+    "label": "P",
+    "meta": "latin capital letter p",
+    "ipa": ""
+  },
+  {
+    "label": "Q",
+    "meta": "latin capital letter q",
+    "ipa": ""
+  },
+  {
+    "label": "R",
+    "meta": "latin capital letter r",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝛ",
+    "meta": "latin capital letter r rotunda",
+    "ipa": ""
+  },
+  {
+    "label": "Ǝ",
+    "meta": "latin capital letter reversed e",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟶ",
+    "meta": "latin capital letter reversed half h",
+    "ipa": ""
+  },
+  {
+    "label": "Ɜ",
+    "meta": "latin capital letter reversed open e",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝝ",
+    "meta": "latin capital letter rum rotunda",
+    "ipa": ""
+  },
+  {
+    "label": "S",
+    "meta": "latin capital letter s",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞌ",
+    "meta": "latin capital letter saltillo",
+    "ipa": ""
+  },
+  {
+    "label": "Ə",
+    "meta": "latin capital letter schwa",
+    "ipa": ""
+  },
+  {
+    "label": "Ɡ",
+    "meta": "latin capital letter script g",
+    "ipa": ""
+  },
+  {
+    "label": "ẞ",
+    "meta": "latin capital letter sharp s",
+    "ipa": ""
+  },
+  {
+    "label": "Ꟙ",
+    "meta": "latin capital letter sigmoid s",
+    "ipa": ""
+  },
+  {
+    "label": "T",
+    "meta": "latin capital letter t",
+    "ipa": ""
+  },
+  {
+    "label": "Þ",
+    "meta": "latin capital letter thorn",
+    "ipa": ""
+  },
+  {
+    "label": "Ƽ",
+    "meta": "latin capital letter tone five",
+    "ipa": ""
+  },
+  {
+    "label": "Ƅ",
+    "meta": "latin capital letter tone six",
+    "ipa": ""
+  },
+  {
+    "label": "Ƨ",
+    "meta": "latin capital letter tone two",
+    "ipa": ""
+  },
+  {
+    "label": "Ꜫ",
+    "meta": "latin capital letter tresillo",
+    "ipa": ""
+  },
+  {
+    "label": "Ɐ",
+    "meta": "latin capital letter turned a",
+    "ipa": ""
+  },
+  {
+    "label": "Ɒ",
+    "meta": "latin capital letter turned alpha",
+    "ipa": ""
+  },
+  {
+    "label": "Ɥ",
+    "meta": "latin capital letter turned h",
+    "ipa": ""
+  },
+  {
+    "label": "Ꝿ",
+    "meta": "latin capital letter turned insular g",
+    "ipa": ""
+  },
+  {
+    "label": "Ʞ",
+    "meta": "latin capital letter turned k",
+    "ipa": ""
+  },
+  {
+    "label": "Ꞁ",
+    "meta": "latin capital letter turned l",
+    "ipa": ""
+  },
+  {
+    "label": "Ɯ",
+    "meta": "latin capital letter turned m",
+    "ipa": ""
+  }
+]

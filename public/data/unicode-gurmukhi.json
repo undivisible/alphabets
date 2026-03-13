@@ -1,0 +1,242 @@
+[
+  {
+    "label": "ਅ",
+    "meta": "gurmukhi letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ਆ",
+    "meta": "gurmukhi letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ਐ",
+    "meta": "gurmukhi letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ਔ",
+    "meta": "gurmukhi letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ਬ",
+    "meta": "gurmukhi letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ਭ",
+    "meta": "gurmukhi letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "ਚ",
+    "meta": "gurmukhi letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ਛ",
+    "meta": "gurmukhi letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ਦ",
+    "meta": "gurmukhi letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ਡ",
+    "meta": "gurmukhi letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ਢ",
+    "meta": "gurmukhi letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ਧ",
+    "meta": "gurmukhi letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ਏ",
+    "meta": "gurmukhi letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ਫ਼",
+    "meta": "gurmukhi letter fa",
+    "ipa": ""
+  },
+  {
+    "label": "ਗ",
+    "meta": "gurmukhi letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ਘ",
+    "meta": "gurmukhi letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ਗ਼",
+    "meta": "gurmukhi letter ghha",
+    "ipa": ""
+  },
+  {
+    "label": "ਹ",
+    "meta": "gurmukhi letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ਇ",
+    "meta": "gurmukhi letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ਈ",
+    "meta": "gurmukhi letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ਜ",
+    "meta": "gurmukhi letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ਝ",
+    "meta": "gurmukhi letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ਕ",
+    "meta": "gurmukhi letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ਖ",
+    "meta": "gurmukhi letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ਖ਼",
+    "meta": "gurmukhi letter khha",
+    "ipa": ""
+  },
+  {
+    "label": "ਲ",
+    "meta": "gurmukhi letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ਲ਼",
+    "meta": "gurmukhi letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ਮ",
+    "meta": "gurmukhi letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ਨ",
+    "meta": "gurmukhi letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ਙ",
+    "meta": "gurmukhi letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ਣ",
+    "meta": "gurmukhi letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ਞ",
+    "meta": "gurmukhi letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ਓ",
+    "meta": "gurmukhi letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ਪ",
+    "meta": "gurmukhi letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ਫ",
+    "meta": "gurmukhi letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ਰ",
+    "meta": "gurmukhi letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ੜ",
+    "meta": "gurmukhi letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ਸ",
+    "meta": "gurmukhi letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ਸ਼",
+    "meta": "gurmukhi letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ਤ",
+    "meta": "gurmukhi letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ਥ",
+    "meta": "gurmukhi letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ਟ",
+    "meta": "gurmukhi letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ਠ",
+    "meta": "gurmukhi letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ਉ",
+    "meta": "gurmukhi letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ਊ",
+    "meta": "gurmukhi letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ਵ",
+    "meta": "gurmukhi letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ਯ",
+    "meta": "gurmukhi letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ਜ਼",
+    "meta": "gurmukhi letter za",
+    "ipa": ""
+  }
+]

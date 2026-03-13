@@ -45,21 +45,27 @@ async function generate() {
     }
   }
 
-  // 2. Process all remaining scripts
+  // 2. Process all remaining scripts into a single 'Unicode' language group
+  const worldVariants: { id: string, label: string }[] = [];
+  
   for (const scriptName of scriptNames) {
     if (processedScripts.has(scriptName) || IGNORE_SCRIPTS.includes(scriptName)) continue;
 
     const items = await processScript(scriptName, names);
     if (items.length > 0) {
-      const langId = scriptName.toLowerCase().replace(/_/g, "-");
-      const variantId = "main";
-      fs.writeFileSync(path.join(OUTPUT_DIR, `${langId}-${variantId}.json`), JSON.stringify(items, null, 2));
+      const variantId = scriptName.toLowerCase().replace(/_/g, "-");
+      // Use 'unicode' as the language prefix
+      fs.writeFileSync(path.join(OUTPUT_DIR, `unicode-${variantId}.json`), JSON.stringify(items, null, 2));
       
-      manifest[langId] = {
-        label: scriptName.replace(/_/g, " "),
-        variants: [{ id: variantId, label: "Characters" }]
-      };
+      worldVariants.push({ id: variantId, label: scriptName.replace(/_/g, " ") });
     }
+  }
+
+  if (worldVariants.length > 0) {
+    manifest["unicode"] = {
+      label: "Other Scripts",
+      variants: worldVariants.sort((a, b) => a.label.localeCompare(b.label))
+    };
   }
 
   // Sort manifest by label alphabetically
@@ -86,13 +92,18 @@ async function processScript(scriptName: string, namesMap: any) {
     .filter((item: any) => {
       const m = item.meta;
       // Strict filter for "base" alphabet characters
-      return !m.includes("digit") && 
+      return m.includes("letter") &&
+             !m.includes("with ") &&
+             !m.includes("modifier") &&
+             !m.includes("combining") &&
+             !m.includes("digit") && 
              !m.includes("accent") && 
              !m.includes("mark") && 
              !m.includes("symbol") && 
              !m.includes("punctuation") &&
              !m.includes("sign") &&
              !m.includes("variation") &&
+             !m.includes("small") &&
              !m.includes("<");
     })
     .sort((a: any, b: any) => a.meta.localeCompare(b.meta));

@@ -1,0 +1,602 @@
+[
+  {
+    "label": "А",
+    "meta": "cyrillic capital letter a",
+    "ipa": ""
+  },
+  {
+    "label": "Ҽ",
+    "meta": "cyrillic capital letter abkhasian che",
+    "ipa": ""
+  },
+  {
+    "label": "Ӡ",
+    "meta": "cyrillic capital letter abkhasian dze",
+    "ipa": ""
+  },
+  {
+    "label": "Ҩ",
+    "meta": "cyrillic capital letter abkhasian ha",
+    "ipa": ""
+  },
+  {
+    "label": "Ԟ",
+    "meta": "cyrillic capital letter aleut ka",
+    "ipa": ""
+  },
+  {
+    "label": "Ө",
+    "meta": "cyrillic capital letter barred o",
+    "ipa": ""
+  },
+  {
+    "label": "Ҡ",
+    "meta": "cyrillic capital letter bashkir ka",
+    "ipa": ""
+  },
+  {
+    "label": "Б",
+    "meta": "cyrillic capital letter be",
+    "ipa": ""
+  },
+  {
+    "label": "Ѫ",
+    "meta": "cyrillic capital letter big yus",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙫ",
+    "meta": "cyrillic capital letter binocular o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙛ",
+    "meta": "cyrillic capital letter blended yus",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙍ",
+    "meta": "cyrillic capital letter broad omega",
+    "ipa": ""
+  },
+  {
+    "label": "І",
+    "meta": "cyrillic capital letter byelorussian-ukrainian i",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚇ",
+    "meta": "cyrillic capital letter cche",
+    "ipa": ""
+  },
+  {
+    "label": "Ч",
+    "meta": "cyrillic capital letter che",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙙ",
+    "meta": "cyrillic capital letter closed little yus",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚛ",
+    "meta": "cyrillic capital letter crossed o",
+    "ipa": ""
+  },
+  {
+    "label": "Ԭ",
+    "meta": "cyrillic capital letter dche",
+    "ipa": ""
+  },
+  {
+    "label": "Д",
+    "meta": "cyrillic capital letter de",
+    "ipa": ""
+  },
+  {
+    "label": "Ђ",
+    "meta": "cyrillic capital letter dje",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙉ",
+    "meta": "cyrillic capital letter djerv",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙭ",
+    "meta": "cyrillic capital letter double monocular o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚙ",
+    "meta": "cyrillic capital letter double o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚁ",
+    "meta": "cyrillic capital letter dwe",
+    "ipa": ""
+  },
+  {
+    "label": "Ѕ",
+    "meta": "cyrillic capital letter dze",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙃ",
+    "meta": "cyrillic capital letter dzelo",
+    "ipa": ""
+  },
+  {
+    "label": "Џ",
+    "meta": "cyrillic capital letter dzhe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚃ",
+    "meta": "cyrillic capital letter dzwe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚉ",
+    "meta": "cyrillic capital letter dzze",
+    "ipa": ""
+  },
+  {
+    "label": "Ԫ",
+    "meta": "cyrillic capital letter dzzhe",
+    "ipa": ""
+  },
+  {
+    "label": "Э",
+    "meta": "cyrillic capital letter e",
+    "ipa": ""
+  },
+  {
+    "label": "Ф",
+    "meta": "cyrillic capital letter ef",
+    "ipa": ""
+  },
+  {
+    "label": "Л",
+    "meta": "cyrillic capital letter el",
+    "ipa": ""
+  },
+  {
+    "label": "М",
+    "meta": "cyrillic capital letter em",
+    "ipa": ""
+  },
+  {
+    "label": "Н",
+    "meta": "cyrillic capital letter en",
+    "ipa": ""
+  },
+  {
+    "label": "Р",
+    "meta": "cyrillic capital letter er",
+    "ipa": ""
+  },
+  {
+    "label": "С",
+    "meta": "cyrillic capital letter es",
+    "ipa": ""
+  },
+  {
+    "label": "Ѳ",
+    "meta": "cyrillic capital letter fita",
+    "ipa": ""
+  },
+  {
+    "label": "Г",
+    "meta": "cyrillic capital letter ghe",
+    "ipa": ""
+  },
+  {
+    "label": "Ѓ",
+    "meta": "cyrillic capital letter gje",
+    "ipa": ""
+  },
+  {
+    "label": "Х",
+    "meta": "cyrillic capital letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚕ",
+    "meta": "cyrillic capital letter hwe",
+    "ipa": ""
+  },
+  {
+    "label": "И",
+    "meta": "cyrillic capital letter i",
+    "ipa": ""
+  },
+  {
+    "label": "Е",
+    "meta": "cyrillic capital letter ie",
+    "ipa": ""
+  },
+  {
+    "label": "Ё",
+    "meta": "cyrillic capital letter io",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙇ",
+    "meta": "cyrillic capital letter iota",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙗ",
+    "meta": "cyrillic capital letter iotified a",
+    "ipa": ""
+  },
+  {
+    "label": "Ѭ",
+    "meta": "cyrillic capital letter iotified big yus",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙝ",
+    "meta": "cyrillic capital letter iotified closed little yus",
+    "ipa": ""
+  },
+  {
+    "label": "Ѥ",
+    "meta": "cyrillic capital letter iotified e",
+    "ipa": ""
+  },
+  {
+    "label": "Ѩ",
+    "meta": "cyrillic capital letter iotified little yus",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙓ",
+    "meta": "cyrillic capital letter iotified yat",
+    "ipa": ""
+  },
+  {
+    "label": "Ѵ",
+    "meta": "cyrillic capital letter izhitsa",
+    "ipa": ""
+  },
+  {
+    "label": "Ј",
+    "meta": "cyrillic capital letter je",
+    "ipa": ""
+  },
+  {
+    "label": "К",
+    "meta": "cyrillic capital letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "Ӌ",
+    "meta": "cyrillic capital letter khakassian che",
+    "ipa": ""
+  },
+  {
+    "label": "Ќ",
+    "meta": "cyrillic capital letter kje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԁ",
+    "meta": "cyrillic capital letter komi de",
+    "ipa": ""
+  },
+  {
+    "label": "Ԃ",
+    "meta": "cyrillic capital letter komi dje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԇ",
+    "meta": "cyrillic capital letter komi dzje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԉ",
+    "meta": "cyrillic capital letter komi lje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԋ",
+    "meta": "cyrillic capital letter komi nje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԍ",
+    "meta": "cyrillic capital letter komi sje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԏ",
+    "meta": "cyrillic capital letter komi tje",
+    "ipa": ""
+  },
+  {
+    "label": "Ԅ",
+    "meta": "cyrillic capital letter komi zje",
+    "ipa": ""
+  },
+  {
+    "label": "Ҁ",
+    "meta": "cyrillic capital letter koppa",
+    "ipa": ""
+  },
+  {
+    "label": "Ѯ",
+    "meta": "cyrillic capital letter ksi",
+    "ipa": ""
+  },
+  {
+    "label": "Ԕ",
+    "meta": "cyrillic capital letter lha",
+    "ipa": ""
+  },
+  {
+    "label": "Ѧ",
+    "meta": "cyrillic capital letter little yus",
+    "ipa": ""
+  },
+  {
+    "label": "Љ",
+    "meta": "cyrillic capital letter lje",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙩ",
+    "meta": "cyrillic capital letter monocular o",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙋ",
+    "meta": "cyrillic capital letter monograph uk",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙏ",
+    "meta": "cyrillic capital letter neutral yer",
+    "ipa": ""
+  },
+  {
+    "label": "Њ",
+    "meta": "cyrillic capital letter nje",
+    "ipa": ""
+  },
+  {
+    "label": "О",
+    "meta": "cyrillic capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "Ѡ",
+    "meta": "cyrillic capital letter omega",
+    "ipa": ""
+  },
+  {
+    "label": "Ѿ",
+    "meta": "cyrillic capital letter ot",
+    "ipa": ""
+  },
+  {
+    "label": "П",
+    "meta": "cyrillic capital letter pe",
+    "ipa": ""
+  },
+  {
+    "label": "Ѱ",
+    "meta": "cyrillic capital letter psi",
+    "ipa": ""
+  },
+  {
+    "label": "Ԛ",
+    "meta": "cyrillic capital letter qa",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙅ",
+    "meta": "cyrillic capital letter reversed dze",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙡ",
+    "meta": "cyrillic capital letter reversed tse",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙕ",
+    "meta": "cyrillic capital letter reversed yu",
+    "ipa": ""
+  },
+  {
+    "label": "Ԑ",
+    "meta": "cyrillic capital letter reversed ze",
+    "ipa": ""
+  },
+  {
+    "label": "Ԗ",
+    "meta": "cyrillic capital letter rha",
+    "ipa": ""
+  },
+  {
+    "label": "Ѻ",
+    "meta": "cyrillic capital letter round omega",
+    "ipa": ""
+  },
+  {
+    "label": "Ә",
+    "meta": "cyrillic capital letter schwa",
+    "ipa": ""
+  },
+  {
+    "label": "Ш",
+    "meta": "cyrillic capital letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "Щ",
+    "meta": "cyrillic capital letter shcha",
+    "ipa": ""
+  },
+  {
+    "label": "Һ",
+    "meta": "cyrillic capital letter shha",
+    "ipa": ""
+  },
+  {
+    "label": "Й",
+    "meta": "cyrillic capital letter short i",
+    "ipa": ""
+  },
+  {
+    "label": "Ў",
+    "meta": "cyrillic capital letter short u",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚗ",
+    "meta": "cyrillic capital letter shwe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙣ",
+    "meta": "cyrillic capital letter soft de",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙥ",
+    "meta": "cyrillic capital letter soft el",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙧ",
+    "meta": "cyrillic capital letter soft em",
+    "ipa": ""
+  },
+  {
+    "label": "Ү",
+    "meta": "cyrillic capital letter straight u",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚓ",
+    "meta": "cyrillic capital letter tche",
+    "ipa": ""
+  },
+  {
+    "label": "Т",
+    "meta": "cyrillic capital letter te",
+    "ipa": ""
+  },
+  {
+    "label": "Ц",
+    "meta": "cyrillic capital letter tse",
+    "ipa": ""
+  },
+  {
+    "label": "Ћ",
+    "meta": "cyrillic capital letter tshe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚑ",
+    "meta": "cyrillic capital letter tsse",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚏ",
+    "meta": "cyrillic capital letter tswe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚍ",
+    "meta": "cyrillic capital letter twe",
+    "ipa": ""
+  },
+  {
+    "label": "У",
+    "meta": "cyrillic capital letter u",
+    "ipa": ""
+  },
+  {
+    "label": "Ѹ",
+    "meta": "cyrillic capital letter uk",
+    "ipa": ""
+  },
+  {
+    "label": "Є",
+    "meta": "cyrillic capital letter ukrainian ie",
+    "ipa": ""
+  },
+  {
+    "label": "В",
+    "meta": "cyrillic capital letter ve",
+    "ipa": ""
+  },
+  {
+    "label": "Ԝ",
+    "meta": "cyrillic capital letter we",
+    "ipa": ""
+  },
+  {
+    "label": "Я",
+    "meta": "cyrillic capital letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "Ԙ",
+    "meta": "cyrillic capital letter yae",
+    "ipa": ""
+  },
+  {
+    "label": "Ѣ",
+    "meta": "cyrillic capital letter yat",
+    "ipa": ""
+  },
+  {
+    "label": "Ы",
+    "meta": "cyrillic capital letter yeru",
+    "ipa": ""
+  },
+  {
+    "label": "Ї",
+    "meta": "cyrillic capital letter yi",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙟ",
+    "meta": "cyrillic capital letter yn",
+    "ipa": ""
+  },
+  {
+    "label": "Ю",
+    "meta": "cyrillic capital letter yu",
+    "ipa": ""
+  },
+  {
+    "label": "З",
+    "meta": "cyrillic capital letter ze",
+    "ipa": ""
+  },
+  {
+    "label": "Ꙁ",
+    "meta": "cyrillic capital letter zemlya",
+    "ipa": ""
+  },
+  {
+    "label": "Ж",
+    "meta": "cyrillic capital letter zhe",
+    "ipa": ""
+  },
+  {
+    "label": "Ꚅ",
+    "meta": "cyrillic capital letter zhwe",
+    "ipa": ""
+  }
+]

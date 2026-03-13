@@ -1,0 +1,602 @@
+[
+  {
+    "label": "ە",
+    "meta": "arabic letter ae",
+    "ipa": ""
+  },
+  {
+    "label": "ࢻ",
+    "meta": "arabic letter african feh",
+    "ipa": ""
+  },
+  {
+    "label": "ࢽ",
+    "meta": "arabic letter african noon",
+    "ipa": ""
+  },
+  {
+    "label": "ࢼ",
+    "meta": "arabic letter african qaf",
+    "ipa": ""
+  },
+  {
+    "label": "ع",
+    "meta": "arabic letter ain",
+    "ipa": ""
+  },
+  {
+    "label": "ﻊ",
+    "meta": "arabic letter ain final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻋ",
+    "meta": "arabic letter ain initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻉ",
+    "meta": "arabic letter ain isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻌ",
+    "meta": "arabic letter ain medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ا",
+    "meta": "arabic letter alef",
+    "ipa": ""
+  },
+  {
+    "label": "ﺎ",
+    "meta": "arabic letter alef final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺍ",
+    "meta": "arabic letter alef isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ى",
+    "meta": "arabic letter alef maksura",
+    "ipa": ""
+  },
+  {
+    "label": "ﻰ",
+    "meta": "arabic letter alef maksura final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻯ",
+    "meta": "arabic letter alef maksura isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ٱ",
+    "meta": "arabic letter alef wasla",
+    "ipa": ""
+  },
+  {
+    "label": "ﭑ",
+    "meta": "arabic letter alef wasla final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭐ",
+    "meta": "arabic letter alef wasla isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ٻ",
+    "meta": "arabic letter beeh",
+    "ipa": ""
+  },
+  {
+    "label": "ﭓ",
+    "meta": "arabic letter beeh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭔ",
+    "meta": "arabic letter beeh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭒ",
+    "meta": "arabic letter beeh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭕ",
+    "meta": "arabic letter beeh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ب",
+    "meta": "arabic letter beh",
+    "ipa": ""
+  },
+  {
+    "label": "ﺐ",
+    "meta": "arabic letter beh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺑ",
+    "meta": "arabic letter beh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺏ",
+    "meta": "arabic letter beh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺒ",
+    "meta": "arabic letter beh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ڀ",
+    "meta": "arabic letter beheh",
+    "ipa": ""
+  },
+  {
+    "label": "ﭛ",
+    "meta": "arabic letter beheh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭜ",
+    "meta": "arabic letter beheh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭚ",
+    "meta": "arabic letter beheh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭝ",
+    "meta": "arabic letter beheh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ض",
+    "meta": "arabic letter dad",
+    "ipa": ""
+  },
+  {
+    "label": "ﺾ",
+    "meta": "arabic letter dad final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺿ",
+    "meta": "arabic letter dad initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺽ",
+    "meta": "arabic letter dad isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻀ",
+    "meta": "arabic letter dad medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ڌ",
+    "meta": "arabic letter dahal",
+    "ipa": ""
+  },
+  {
+    "label": "ﮅ",
+    "meta": "arabic letter dahal final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮄ",
+    "meta": "arabic letter dahal isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "د",
+    "meta": "arabic letter dal",
+    "ipa": ""
+  },
+  {
+    "label": "ﺪ",
+    "meta": "arabic letter dal final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺩ",
+    "meta": "arabic letter dal isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ڍ",
+    "meta": "arabic letter ddahal",
+    "ipa": ""
+  },
+  {
+    "label": "ﮃ",
+    "meta": "arabic letter ddahal final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮂ",
+    "meta": "arabic letter ddahal isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ڈ",
+    "meta": "arabic letter ddal",
+    "ipa": ""
+  },
+  {
+    "label": "ﮉ",
+    "meta": "arabic letter ddal final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮈ",
+    "meta": "arabic letter ddal isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ٮ",
+    "meta": "arabic letter dotless beh",
+    "ipa": ""
+  },
+  {
+    "label": "ڡ",
+    "meta": "arabic letter dotless feh",
+    "ipa": ""
+  },
+  {
+    "label": "ٯ",
+    "meta": "arabic letter dotless qaf",
+    "ipa": ""
+  },
+  {
+    "label": "ڎ",
+    "meta": "arabic letter dul",
+    "ipa": ""
+  },
+  {
+    "label": "ﮇ",
+    "meta": "arabic letter dul final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮆ",
+    "meta": "arabic letter dul isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ڄ",
+    "meta": "arabic letter dyeh",
+    "ipa": ""
+  },
+  {
+    "label": "ﭳ",
+    "meta": "arabic letter dyeh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭴ",
+    "meta": "arabic letter dyeh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭲ",
+    "meta": "arabic letter dyeh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﭵ",
+    "meta": "arabic letter dyeh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ې",
+    "meta": "arabic letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ﯥ",
+    "meta": "arabic letter e final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﯦ",
+    "meta": "arabic letter e initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﯤ",
+    "meta": "arabic letter e isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﯧ",
+    "meta": "arabic letter e medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ی",
+    "meta": "arabic letter farsi yeh",
+    "ipa": ""
+  },
+  {
+    "label": "ﯽ",
+    "meta": "arabic letter farsi yeh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﯾ",
+    "meta": "arabic letter farsi yeh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﯼ",
+    "meta": "arabic letter farsi yeh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﯿ",
+    "meta": "arabic letter farsi yeh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ف",
+    "meta": "arabic letter feh",
+    "ipa": ""
+  },
+  {
+    "label": "ﻒ",
+    "meta": "arabic letter feh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻓ",
+    "meta": "arabic letter feh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻑ",
+    "meta": "arabic letter feh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻔ",
+    "meta": "arabic letter feh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "گ",
+    "meta": "arabic letter gaf",
+    "ipa": ""
+  },
+  {
+    "label": "ﮓ",
+    "meta": "arabic letter gaf final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮔ",
+    "meta": "arabic letter gaf initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮒ",
+    "meta": "arabic letter gaf isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮕ",
+    "meta": "arabic letter gaf medial form",
+    "ipa": ""
+  },
+  {
+    "label": "غ",
+    "meta": "arabic letter ghain",
+    "ipa": ""
+  },
+  {
+    "label": "ﻎ",
+    "meta": "arabic letter ghain final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻏ",
+    "meta": "arabic letter ghain initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻍ",
+    "meta": "arabic letter ghain isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻐ",
+    "meta": "arabic letter ghain medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ࣈ",
+    "meta": "arabic letter graf",
+    "ipa": ""
+  },
+  {
+    "label": "ڳ",
+    "meta": "arabic letter gueh",
+    "ipa": ""
+  },
+  {
+    "label": "ﮗ",
+    "meta": "arabic letter gueh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮘ",
+    "meta": "arabic letter gueh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮖ",
+    "meta": "arabic letter gueh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮙ",
+    "meta": "arabic letter gueh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ح",
+    "meta": "arabic letter hah",
+    "ipa": ""
+  },
+  {
+    "label": "ﺢ",
+    "meta": "arabic letter hah final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺣ",
+    "meta": "arabic letter hah initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺡ",
+    "meta": "arabic letter hah isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﺤ",
+    "meta": "arabic letter hah medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ء",
+    "meta": "arabic letter hamza",
+    "ipa": ""
+  },
+  {
+    "label": "ﺀ",
+    "meta": "arabic letter hamza isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ه",
+    "meta": "arabic letter heh",
+    "ipa": ""
+  },
+  {
+    "label": "ھ",
+    "meta": "arabic letter heh doachashmee",
+    "ipa": ""
+  },
+  {
+    "label": "ﮫ",
+    "meta": "arabic letter heh doachashmee final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮬ",
+    "meta": "arabic letter heh doachashmee initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮪ",
+    "meta": "arabic letter heh doachashmee isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮭ",
+    "meta": "arabic letter heh doachashmee medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻪ",
+    "meta": "arabic letter heh final form",
+    "ipa": ""
+  },
+  {
+    "label": "ہ",
+    "meta": "arabic letter heh goal",
+    "ipa": ""
+  },
+  {
+    "label": "ﮧ",
+    "meta": "arabic letter heh goal final form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮨ",
+    "meta": "arabic letter heh goal initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮦ",
+    "meta": "arabic letter heh goal isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﮩ",
+    "meta": "arabic letter heh goal medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻫ",
+    "meta": "arabic letter heh initial form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻩ",
+    "meta": "arabic letter heh isolated form",
+    "ipa": ""
+  },
+  {
+    "label": "ﻬ",
+    "meta": "arabic letter heh medial form",
+    "ipa": ""
+  },
+  {
+    "label": "ٴ",
+    "meta": "arabic letter high hamza",
+    "ipa": ""
+  },
+  {
+    "label": "ٵ",
+    "meta": "arabic letter high hamza alef",
+    "ipa": ""
+  },
+  {
+    "label": "ٶ",
+    "meta": "arabic letter high hamza waw",
+    "ipa": ""
+  },
+  {
+    "label": "ٸ",
+    "meta": "arabic letter high hamza yeh",
+    "ipa": ""
+  },
+  {
+    "label": "ج",
+    "meta": "arabic letter jeem",
+    "ipa": ""
+  },
+  {
+    "label": "ﺞ",
+    "meta": "arabic letter jeem final form",
+    "ipa": ""
+  }
+]

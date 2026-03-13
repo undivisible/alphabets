@@ -52,7 +52,8 @@ export default function App() {
     const local = Object.entries(LANGUAGE_DEFINITIONS).map(([value, info]: [string, any]) => ({ value, label: info.label }));
     const dynamic = Object.entries(manifest).map(([value, info]: [string, any]) => ({ value, label: info.label }));
     const localValues = new Set(local.map(o => o.value));
-    return [...local, ...dynamic.filter(o => !localValues.has(o.value))];
+    const combined = [...local, ...dynamic.filter(o => !localValues.has(o.value))];
+    return combined.sort((a, b) => a.label.localeCompare(b.label));
   }, [manifest]);
 
   const variantOptions = useMemo(() => {

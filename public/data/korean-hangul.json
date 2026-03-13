@@ -1,165 +1,5 @@
 [
   {
-    "label": "㉩",
-    "meta": "circled hangul chieuch",
-    "ipa": ""
-  },
-  {
-    "label": "㉷",
-    "meta": "circled hangul chieuch a",
-    "ipa": ""
-  },
-  {
-    "label": "㉨",
-    "meta": "circled hangul cieuc",
-    "ipa": ""
-  },
-  {
-    "label": "㉶",
-    "meta": "circled hangul cieuc a",
-    "ipa": ""
-  },
-  {
-    "label": "㉭",
-    "meta": "circled hangul hieuh",
-    "ipa": ""
-  },
-  {
-    "label": "㉻",
-    "meta": "circled hangul hieuh a",
-    "ipa": ""
-  },
-  {
-    "label": "㉧",
-    "meta": "circled hangul ieung",
-    "ipa": ""
-  },
-  {
-    "label": "㉵",
-    "meta": "circled hangul ieung a",
-    "ipa": ""
-  },
-  {
-    "label": "㉾",
-    "meta": "circled hangul ieung u",
-    "ipa": ""
-  },
-  {
-    "label": "㉪",
-    "meta": "circled hangul khieukh",
-    "ipa": ""
-  },
-  {
-    "label": "㉸",
-    "meta": "circled hangul khieukh a",
-    "ipa": ""
-  },
-  {
-    "label": "㉠",
-    "meta": "circled hangul kiyeok",
-    "ipa": ""
-  },
-  {
-    "label": "㉮",
-    "meta": "circled hangul kiyeok a",
-    "ipa": ""
-  },
-  {
-    "label": "㉤",
-    "meta": "circled hangul mieum",
-    "ipa": ""
-  },
-  {
-    "label": "㉲",
-    "meta": "circled hangul mieum a",
-    "ipa": ""
-  },
-  {
-    "label": "㉡",
-    "meta": "circled hangul nieun",
-    "ipa": ""
-  },
-  {
-    "label": "㉯",
-    "meta": "circled hangul nieun a",
-    "ipa": ""
-  },
-  {
-    "label": "㉬",
-    "meta": "circled hangul phieuph",
-    "ipa": ""
-  },
-  {
-    "label": "㉺",
-    "meta": "circled hangul phieuph a",
-    "ipa": ""
-  },
-  {
-    "label": "㉥",
-    "meta": "circled hangul pieup",
-    "ipa": ""
-  },
-  {
-    "label": "㉳",
-    "meta": "circled hangul pieup a",
-    "ipa": ""
-  },
-  {
-    "label": "㉣",
-    "meta": "circled hangul rieul",
-    "ipa": ""
-  },
-  {
-    "label": "㉱",
-    "meta": "circled hangul rieul a",
-    "ipa": ""
-  },
-  {
-    "label": "㉦",
-    "meta": "circled hangul sios",
-    "ipa": ""
-  },
-  {
-    "label": "㉴",
-    "meta": "circled hangul sios a",
-    "ipa": ""
-  },
-  {
-    "label": "㉫",
-    "meta": "circled hangul thieuth",
-    "ipa": ""
-  },
-  {
-    "label": "㉹",
-    "meta": "circled hangul thieuth a",
-    "ipa": ""
-  },
-  {
-    "label": "㉢",
-    "meta": "circled hangul tikeut",
-    "ipa": ""
-  },
-  {
-    "label": "㉰",
-    "meta": "circled hangul tikeut a",
-    "ipa": ""
-  },
-  {
-    "label": "㉼",
-    "meta": "circled korean character chamko",
-    "ipa": ""
-  },
-  {
-    "label": "㉽",
-    "meta": "circled korean character jueui",
-    "ipa": ""
-  },
-  {
-    "label": "ﾠ",
-    "meta": "halfwidth hangul filler",
-    "ipa": ""
-  },
-  {
     "label": "ￂ",
     "meta": "halfwidth hangul letter a",
     "ipa": ""
@@ -415,188 +255,348 @@
     "ipa": ""
   },
   {
-    "label": "ᅕ",
-    "meta": "hangul choseong ceongchieumchieuch",
+    "label": "ㅏ",
+    "meta": "hangul letter a",
     "ipa": ""
   },
   {
-    "label": "ᅐ",
-    "meta": "hangul choseong ceongchieumcieuc",
+    "label": "ㅐ",
+    "meta": "hangul letter ae",
     "ipa": ""
   },
   {
-    "label": "ᄾ",
-    "meta": "hangul choseong ceongchieumsios",
+    "label": "ㆍ",
+    "meta": "hangul letter araea",
     "ipa": ""
   },
   {
-    "label": "ᅑ",
-    "meta": "hangul choseong ceongchieumssangcieuc",
+    "label": "ㆎ",
+    "meta": "hangul letter araeae",
     "ipa": ""
   },
   {
-    "label": "ᄿ",
-    "meta": "hangul choseong ceongchieumssangsios",
+    "label": "ㅊ",
+    "meta": "hangul letter chieuch",
     "ipa": ""
   },
   {
-    "label": "ᄎ",
-    "meta": "hangul choseong chieuch",
+    "label": "ㅈ",
+    "meta": "hangul letter cieuc",
     "ipa": ""
   },
   {
-    "label": "ᅓ",
-    "meta": "hangul choseong chieuch-hieuh",
+    "label": "ㅔ",
+    "meta": "hangul letter e",
     "ipa": ""
   },
   {
-    "label": "ᅒ",
-    "meta": "hangul choseong chieuch-khieukh",
+    "label": "ㅓ",
+    "meta": "hangul letter eo",
     "ipa": ""
   },
   {
-    "label": "ᅔ",
-    "meta": "hangul choseong chitueumchieuch",
+    "label": "ㅡ",
+    "meta": "hangul letter eu",
     "ipa": ""
   },
   {
-    "label": "ᅎ",
-    "meta": "hangul choseong chitueumcieuc",
+    "label": "ㅎ",
+    "meta": "hangul letter hieuh",
     "ipa": ""
   },
   {
-    "label": "ᄼ",
-    "meta": "hangul choseong chitueumsios",
+    "label": "ㅣ",
+    "meta": "hangul letter i",
     "ipa": ""
   },
   {
-    "label": "ᅏ",
-    "meta": "hangul choseong chitueumssangcieuc",
+    "label": "ㅇ",
+    "meta": "hangul letter ieung",
     "ipa": ""
   },
   {
-    "label": "ᄽ",
-    "meta": "hangul choseong chitueumssangsios",
+    "label": "ㅱ",
+    "meta": "hangul letter kapyeounmieum",
     "ipa": ""
   },
   {
-    "label": "ᄌ",
-    "meta": "hangul choseong cieuc",
+    "label": "ㆄ",
+    "meta": "hangul letter kapyeounphieuph",
     "ipa": ""
   },
   {
-    "label": "ᅍ",
-    "meta": "hangul choseong cieuc-ieung",
+    "label": "ㅸ",
+    "meta": "hangul letter kapyeounpieup",
     "ipa": ""
   },
   {
-    "label": "ᅟ",
-    "meta": "hangul choseong filler",
+    "label": "ㅹ",
+    "meta": "hangul letter kapyeounssangpieup",
     "ipa": ""
   },
   {
-    "label": "ᄒ",
-    "meta": "hangul choseong hieuh",
+    "label": "ㅋ",
+    "meta": "hangul letter khieukh",
     "ipa": ""
   },
   {
-    "label": "ꥻ",
-    "meta": "hangul choseong hieuh-sios",
+    "label": "ㄱ",
+    "meta": "hangul letter kiyeok",
     "ipa": ""
   },
   {
-    "label": "ᄋ",
-    "meta": "hangul choseong ieung",
+    "label": "ㄳ",
+    "meta": "hangul letter kiyeok-sios",
     "ipa": ""
   },
   {
-    "label": "ᅉ",
-    "meta": "hangul choseong ieung-chieuch",
+    "label": "ㅁ",
+    "meta": "hangul letter mieum",
     "ipa": ""
   },
   {
-    "label": "ᅈ",
-    "meta": "hangul choseong ieung-cieuc",
+    "label": "ㅰ",
+    "meta": "hangul letter mieum-pansios",
     "ipa": ""
   },
   {
-    "label": "ꥷ",
-    "meta": "hangul choseong ieung-hieuh",
+    "label": "ㅮ",
+    "meta": "hangul letter mieum-pieup",
     "ipa": ""
   },
   {
-    "label": "ᅁ",
-    "meta": "hangul choseong ieung-kiyeok",
+    "label": "ㅯ",
+    "meta": "hangul letter mieum-sios",
     "ipa": ""
   },
   {
-    "label": "ᅃ",
-    "meta": "hangul choseong ieung-mieum",
+    "label": "ㄴ",
+    "meta": "hangul letter nieun",
     "ipa": ""
   },
   {
-    "label": "ᅆ",
-    "meta": "hangul choseong ieung-pansios",
+    "label": "ㄵ",
+    "meta": "hangul letter nieun-cieuc",
     "ipa": ""
   },
   {
-    "label": "ᅋ",
-    "meta": "hangul choseong ieung-phieuph",
+    "label": "ㄶ",
+    "meta": "hangul letter nieun-hieuh",
     "ipa": ""
   },
   {
-    "label": "ᅄ",
-    "meta": "hangul choseong ieung-pieup",
+    "label": "ㅨ",
+    "meta": "hangul letter nieun-pansios",
     "ipa": ""
   },
   {
-    "label": "ꥶ",
-    "meta": "hangul choseong ieung-rieul",
+    "label": "ㅧ",
+    "meta": "hangul letter nieun-sios",
     "ipa": ""
   },
   {
-    "label": "ᅅ",
-    "meta": "hangul choseong ieung-sios",
+    "label": "ㅦ",
+    "meta": "hangul letter nieun-tikeut",
     "ipa": ""
   },
   {
-    "label": "ᅊ",
-    "meta": "hangul choseong ieung-thieuth",
+    "label": "ㅗ",
+    "meta": "hangul letter o",
     "ipa": ""
   },
   {
-    "label": "ᅂ",
-    "meta": "hangul choseong ieung-tikeut",
+    "label": "ㅚ",
+    "meta": "hangul letter oe",
     "ipa": ""
   },
   {
-    "label": "ᄝ",
-    "meta": "hangul choseong kapyeounmieum",
+    "label": "ㅿ",
+    "meta": "hangul letter pansios",
     "ipa": ""
   },
   {
-    "label": "ᅗ",
-    "meta": "hangul choseong kapyeounphieuph",
+    "label": "ㅍ",
+    "meta": "hangul letter phieuph",
     "ipa": ""
   },
   {
-    "label": "ᄫ",
-    "meta": "hangul choseong kapyeounpieup",
+    "label": "ㅂ",
+    "meta": "hangul letter pieup",
     "ipa": ""
   },
   {
-    "label": "ᄛ",
-    "meta": "hangul choseong kapyeounrieul",
+    "label": "ㅶ",
+    "meta": "hangul letter pieup-cieuc",
     "ipa": ""
   },
   {
-    "label": "ᄬ",
-    "meta": "hangul choseong kapyeounssangpieup",
+    "label": "ㅲ",
+    "meta": "hangul letter pieup-kiyeok",
     "ipa": ""
   },
   {
-    "label": "ᄏ",
-    "meta": "hangul choseong khieukh",
+    "label": "ㅄ",
+    "meta": "hangul letter pieup-sios",
+    "ipa": ""
+  },
+  {
+    "label": "ㅴ",
+    "meta": "hangul letter pieup-sios-kiyeok",
+    "ipa": ""
+  },
+  {
+    "label": "ㅵ",
+    "meta": "hangul letter pieup-sios-tikeut",
+    "ipa": ""
+  },
+  {
+    "label": "ㅷ",
+    "meta": "hangul letter pieup-thieuth",
+    "ipa": ""
+  },
+  {
+    "label": "ㅳ",
+    "meta": "hangul letter pieup-tikeut",
+    "ipa": ""
+  },
+  {
+    "label": "ㄹ",
+    "meta": "hangul letter rieul",
+    "ipa": ""
+  },
+  {
+    "label": "ㅀ",
+    "meta": "hangul letter rieul-hieuh",
+    "ipa": ""
+  },
+  {
+    "label": "ㄺ",
+    "meta": "hangul letter rieul-kiyeok",
+    "ipa": ""
+  },
+  {
+    "label": "ㅩ",
+    "meta": "hangul letter rieul-kiyeok-sios",
+    "ipa": ""
+  },
+  {
+    "label": "ㄻ",
+    "meta": "hangul letter rieul-mieum",
+    "ipa": ""
+  },
+  {
+    "label": "ㅬ",
+    "meta": "hangul letter rieul-pansios",
+    "ipa": ""
+  },
+  {
+    "label": "ㄿ",
+    "meta": "hangul letter rieul-phieuph",
+    "ipa": ""
+  },
+  {
+    "label": "ㄼ",
+    "meta": "hangul letter rieul-pieup",
+    "ipa": ""
+  },
+  {
+    "label": "ㅫ",
+    "meta": "hangul letter rieul-pieup-sios",
+    "ipa": ""
+  },
+  {
+    "label": "ㄽ",
+    "meta": "hangul letter rieul-sios",
+    "ipa": ""
+  },
+  {
+    "label": "ㄾ",
+    "meta": "hangul letter rieul-thieuth",
+    "ipa": ""
+  },
+  {
+    "label": "ㅪ",
+    "meta": "hangul letter rieul-tikeut",
+    "ipa": ""
+  },
+  {
+    "label": "ㅭ",
+    "meta": "hangul letter rieul-yeorinhieuh",
+    "ipa": ""
+  },
+  {
+    "label": "ㅅ",
+    "meta": "hangul letter sios",
+    "ipa": ""
+  },
+  {
+    "label": "ㅾ",
+    "meta": "hangul letter sios-cieuc",
+    "ipa": ""
+  },
+  {
+    "label": "ㅺ",
+    "meta": "hangul letter sios-kiyeok",
+    "ipa": ""
+  },
+  {
+    "label": "ㅻ",
+    "meta": "hangul letter sios-nieun",
+    "ipa": ""
+  },
+  {
+    "label": "ㅽ",
+    "meta": "hangul letter sios-pieup",
+    "ipa": ""
+  },
+  {
+    "label": "ㅼ",
+    "meta": "hangul letter sios-tikeut",
+    "ipa": ""
+  },
+  {
+    "label": "ㅉ",
+    "meta": "hangul letter ssangcieuc",
+    "ipa": ""
+  },
+  {
+    "label": "ㆅ",
+    "meta": "hangul letter ssanghieuh",
+    "ipa": ""
+  },
+  {
+    "label": "ㆀ",
+    "meta": "hangul letter ssangieung",
+    "ipa": ""
+  },
+  {
+    "label": "ㄲ",
+    "meta": "hangul letter ssangkiyeok",
+    "ipa": ""
+  },
+  {
+    "label": "ㅥ",
+    "meta": "hangul letter ssangnieun",
+    "ipa": ""
+  },
+  {
+    "label": "ㅃ",
+    "meta": "hangul letter ssangpieup",
+    "ipa": ""
+  },
+  {
+    "label": "ㅆ",
+    "meta": "hangul letter ssangsios",
+    "ipa": ""
+  },
+  {
+    "label": "ㄸ",
+    "meta": "hangul letter ssangtikeut",
+    "ipa": ""
+  },
+  {
+    "label": "ㅌ",
+    "meta": "hangul letter thieuth",
     "ipa": ""
   }
 ]
