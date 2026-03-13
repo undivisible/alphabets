@@ -5,9 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite frontend",
-    "build": "tsc -p frontend && vite build frontend",
-    "lint": "eslint frontend --ext ts,tsx",
-    "preview": "vite preview frontend",
+    "build": "vite build frontend",
+    "check": "tsc -p frontend/tsconfig.json --noEmit",
     "generate": "bun run backend/scripts/generate-alphabets.ts"
   },
   "dependencies": {

@@ -4,7 +4,27 @@ import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover
 import { Checkbox } from "@/components/ui/checkbox";
 import { ACCENT_PRESETS } from "@/src/data/constants";
 
-export function SettingsPanel({ accentColor, setAccentColor, showLatin, setShowLatin, showIPA, setShowIPA, denseMode, setDenseMode }: any) {
+interface SettingsPanelProps {
+  accentColor: string;
+  setAccentColor: (color: string) => void;
+  showLatin: boolean;
+  setShowLatin: (show: boolean) => void;
+  showIPA: boolean;
+  setShowIPA: (show: boolean) => void;
+  denseMode: boolean;
+  setDenseMode: (dense: boolean) => void;
+}
+
+export function SettingsPanel({ 
+  accentColor, 
+  setAccentColor, 
+  showLatin, 
+  setShowLatin, 
+  showIPA, 
+  setShowIPA, 
+  denseMode, 
+  setDenseMode 
+}: SettingsPanelProps) {
   return (
     <Popover>
       <PopoverTrigger asChild>
@@ -15,7 +35,7 @@ export function SettingsPanel({ accentColor, setAccentColor, showLatin, setShowL
         <div className="border-b border-zinc-800 px-4 py-4">
           <div className="mb-3 flex items-center gap-2 text-[10px] uppercase tracking-[0.22em] text-white"><Palette className="h-4 w-4" />Accent</div>
           <div className="grid grid-cols-6 gap-2">
-            {ACCENT_PRESETS.map((color) => (
+            {ACCENT_PRESETS.map((color: string) => (
               <button
                 key={color}
                 onClick={() => setAccentColor(color)}
@@ -27,15 +47,15 @@ export function SettingsPanel({ accentColor, setAccentColor, showLatin, setShowL
         </div>
         <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer">
           <span>Latin pronunciation</span>
-          <Checkbox checked={showLatin} onCheckedChange={(v) => setShowLatin(!!v)} />
+          <Checkbox checked={showLatin} onCheckedChange={(v: boolean | string) => setShowLatin(!!v)} />
         </label>
         <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer">
           <span>IPA</span>
-          <Checkbox checked={showIPA} onCheckedChange={(v) => setShowIPA(!!v)} />
+          <Checkbox checked={showIPA} onCheckedChange={(v: boolean | string) => setShowIPA(!!v)} />
         </label>
         <label className="flex items-center justify-between px-4 py-4 text-sm text-white cursor-pointer">
           <span>Dense layout</span>
-          <Checkbox checked={denseMode} onCheckedChange={(v) => setDenseMode(!!v)} />
+          <Checkbox checked={denseMode} onCheckedChange={(v: boolean | string) => setDenseMode(!!v)} />
         </label>
       </PopoverContent>
     </Popover>

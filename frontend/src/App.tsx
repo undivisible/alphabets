@@ -3,7 +3,6 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Loader2 } from "lucide-react";
 import { 
   STORAGE_KEY, 
-  SUPABASE_ENABLED, 
   KANJI_BASE_URL, 
   KANJI_FALLBACK_URL, 
   KANJI_LEVELS, 
@@ -25,11 +24,11 @@ export default function App() {
   const [language, setLanguage] = useState("japanese");
   const [variant, setVariant] = useState("hiragana");
   const [kanjiLevel, setKanjiLevel] = useState("n5");
-  const [known, setKnown] = useState<any>({});
+  const [known, setKnown] = useState<Record<string, Record<string, boolean>>>({});
   const [query, setQuery] = useState("");
-  const [kanjiItems, setKanjiItems] = useState([]);
-  const [dynamicItems, setDynamicItems] = useState([]);
-  const [manifest, setManifest] = useState<any>({});
+  const [kanjiItems, setKanjiItems] = useState<any[]>([]);
+  const [dynamicItems, setDynamicItems] = useState<any[]>([]);
+  const [manifest, setManifest] = useState<Record<string, any>>({});
   const [zoom, setZoom] = useState(1);
   const [loading, setLoading] = useState(false);
   const [kanjiLoading, setKanjiLoading] = useState(false);
@@ -40,9 +39,8 @@ export default function App() {
   const [accentColor, setAccentColor] = useState(DEFAULT_ACCENT);
   const [completeMessage, setCompleteMessage] = useState("");
   const [confettiFire, setConfettiFire] = useState(false);
-  const completedRef = useRef<any>({});
+  const completedRef = useRef<Record<string, boolean>>({});
 
-  // Load manifest on mount
   useEffect(() => {
     fetch("./data/manifest.json")
       .then(res => res.json())
@@ -51,9 +49,8 @@ export default function App() {
   }, []);
 
   const languageOptions = useMemo(() => {
-    const local = Object.entries(LANGUAGE_DEFINITIONS).map(([value, info]: any) => ({ value, label: info.label }));
-    const dynamic = Object.entries(manifest).map(([value, info]: any) => ({ value, label: info.label }));
-    // Filter out duplicates (prefer local)
+    const local = Object.entries(LANGUAGE_DEFINITIONS).map(([value, info]: [string, any]) => ({ value, label: info.label }));
+    const dynamic = Object.entries(manifest).map(([value, info]: [string, any]) => ({ value, label: info.label }));
     const localValues = new Set(local.map(o => o.value));
     return [...local, ...dynamic.filter(o => !localValues.has(o.value))];
   }, [manifest]);
@@ -72,7 +69,6 @@ export default function App() {
     setQuery("");
   }, [language, manifest]);
 
-  // Load dynamic items
   useEffect(() => {
     if (LANGUAGE_DEFINITIONS[language]) {
       setDynamicItems([]);
@@ -94,8 +90,8 @@ export default function App() {
   const languageLookup = useMemo(() => languageOptions.map((entry: any) => ({ key: entry.value, normalized: normalizeText(entry.label) })), [languageOptions]);
   const variantLookup = useMemo(() => {
     const all = { ...LANGUAGE_DEFINITIONS, ...manifest };
-    return Object.fromEntries(Object.entries(all).map(([langKey, def]: any) => [langKey, def.variants.map((item: any) => ({ key: item.id, normalized: normalizeText(item.label) }))]));
-  }, [manifest]);
+    return Object.fromEntries(Object.entries(all).map(([langKey, def]: [string, any]) => [langKey, def.variants.map((item: any) => ({ key: item.id, normalized: normalizeText(item.label) }))]));
+  }, [manifest, LANGUAGE_DEFINITIONS]);
 
   const handleSearchSubmit = (rawValue: string) => {
     const text = normalizeText(rawValue);
@@ -179,7 +175,7 @@ export default function App() {
       completedRef.current[storageBucket] = true;
       const all = { ...LANGUAGE_DEFINITIONS, ...manifest };
       const languageLabel = all[language]?.label || language;
-      const variantLabel = all[language]?.variants.find((v: any) => v.id === variant)?.label || variant;
+      const variantLabel = all[language]?.variants?.find((v: any) => v.id === variant)?.label || variant;
       setCompleteMessage(`Completed ${languageLabel} / ${variantLabel}`);
       setConfettiFire(true);
       setTimeout(() => setConfettiFire(false), 1800);
@@ -205,7 +201,7 @@ export default function App() {
     if (orientation === "column") {
       const rows = Math.ceil(activeItems.length / columns);
       const grid = Array.from({ length: rows }, () => Array(columns).fill(null));
-      activeItems.forEach((item, index) => {
+      activeItems.forEach((item: any, index: number) => {
         const col = Math.floor(index / rows);
         const row = index % rows;
         grid[row][col] = item;

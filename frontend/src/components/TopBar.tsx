@@ -5,6 +5,31 @@ import { ZoomControl } from "./ZoomControl";
 import { SelectPanel } from "./SelectPanel";
 import { SettingsPanel } from "./SettingsPanel";
 
+interface TopBarProps {
+  progress: number;
+  knownCount: number;
+  total: number;
+  query: string;
+  setQuery: (q: string) => void;
+  onSearchSubmit: (q: string) => void;
+  language: string;
+  setLanguage: (l: string) => void;
+  variant: string;
+  setVariant: (v: string) => void;
+  languageOptions: { value: string; label: string }[];
+  variantOptions: { value: string; label: string }[];
+  zoom: number;
+  setZoom: (z: number | ((prev: number) => number)) => void;
+  accentColor: string;
+  setAccentColor: (c: string) => void;
+  showLatin: boolean;
+  setShowLatin: (s: boolean) => void;
+  showIPA: boolean;
+  setShowIPA: (s: boolean) => void;
+  denseMode: boolean;
+  setDenseMode: (d: boolean) => void;
+}
+
 export function TopBar({
   progress,
   knownCount,
@@ -28,7 +53,7 @@ export function TopBar({
   setShowIPA,
   denseMode,
   setDenseMode,
-}: any) {
+}: TopBarProps) {
   return (
     <div className="sticky top-0 z-30 bg-[#111111]/95 backdrop-blur">
       <div className="flex h-14 w-full items-center gap-0 border-b border-zinc-800">
@@ -46,8 +71,8 @@ export function TopBar({
             <Search className="mr-3 h-4 w-4 shrink-0 text-white/70" />
             <Input
               value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              onKeyDown={(e) => {
+              onChange={(e: React.ChangeEvent<HTMLInputElement>) => setQuery(e.target.value)}
+              onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
                 if (e.key === "Enter") onSearchSubmit(query);
               }}
               placeholder="filter or command"
