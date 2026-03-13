@@ -22,15 +22,16 @@ export function SelectPanel({ value, onChange, options, width = "w-64", placehol
         </button>
       </PopoverTrigger>
       <PopoverContent 
-        className="max-sm:!fixed max-sm:!top-14 max-sm:!left-0 max-sm:!w-[100vw] max-sm:!max-w-none max-sm:!transform-none z-[100] sm:w-auto border-b sm:border border-zinc-800 bg-[#151515] p-0 shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 sm:data-[state=closed]:slide-out-to-top-2 sm:data-[state=open]:slide-in-from-top-2" 
+        className="max-sm:!fixed max-sm:!inset-0 max-sm:!w-[100vw] max-sm:!h-[100dvh] max-sm:!max-w-none max-sm:!transform-none z-[100] sm:w-auto border-b sm:border border-zinc-800 bg-transparent sm:bg-[#151515] p-0 sm:shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 sm:data-[state=closed]:slide-out-to-top-2 sm:data-[state=open]:slide-in-from-top-2 flex flex-col justify-start" 
         align="start"
         sideOffset={0}
       >
-        <Command className="bg-[#151515] text-white w-full sm:w-[inherit]" style={{ width: "inherit" }}>
-          <CommandInput placeholder="Filter" className="h-12 border-b border-zinc-800 text-white placeholder:text-zinc-500 px-4" />
-          <CommandList className="max-h-[50vh] sm:max-h-[400px]">
-            <CommandEmpty className="py-6 text-center text-xs uppercase tracking-[0.18em] text-zinc-500">No results.</CommandEmpty>
-            <CommandGroup>
+        <div className="absolute inset-0 bg-black/50 sm:hidden" onClick={() => setOpen(false)} />
+        <Command className="relative z-10 bg-[#151515] text-white w-full sm:w-[inherit] max-sm:border-b max-sm:border-zinc-800 max-sm:shadow-2xl" style={{ width: "inherit" }}>
+          <CommandInput placeholder="Filter" className="h-14 sm:h-12 border-b border-zinc-800 text-white placeholder:text-zinc-500 px-4 bg-transparent outline-none ring-0" />
+          <CommandList className="max-h-[calc(100dvh-3.5rem)] sm:max-h-[400px]">
+            <CommandEmpty className="py-6 text-center text-xs uppercase tracking-[0.18em] text-zinc-500 bg-[#151515]">No results.</CommandEmpty>
+            <CommandGroup className="bg-[#151515]">
               {options.map((option: any) => (
                 <CommandItem
                   key={option.value}
@@ -39,7 +40,7 @@ export function SelectPanel({ value, onChange, options, width = "w-64", placehol
                     onChange(option.value);
                     setOpen(false);
                   }}
-                  className="group relative overflow-hidden border border-zinc-700 -mt-px first:mt-0 text-white data-[selected=true]:bg-transparent data-[selected=true]:text-white hover:border-white hover:z-10 h-12 sm:h-10"
+                  className="group relative overflow-hidden border border-zinc-700 -mt-px first:mt-0 text-white data-[selected=true]:bg-transparent data-[selected=true]:text-white hover:border-white hover:z-10 h-14 sm:h-10 bg-[#151515]"
                 >
                   <span className="absolute inset-0 origin-left scale-x-0 bg-white transition-transform duration-300 max-sm:active:scale-x-100 sm:hidden" />
                   <div className="relative z-10 flex w-full items-center justify-between px-3 py-2 transition-colors duration-300 max-sm:active:text-black">

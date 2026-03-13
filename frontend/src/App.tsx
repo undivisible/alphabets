@@ -23,9 +23,9 @@ function normalizeText(value: string) {
 }
 
 export default function App() {
-  const [language, setLanguage] = useState("japanese");
-  const [variant, setVariant] = useState("hiragana");
-  const [kanjiLevel, setKanjiLevel] = useState("n5");
+  const [language, setLanguage] = useState(() => localStorage.getItem("glyph-grid-language") || "japanese");
+  const [variant, setVariant] = useState(() => localStorage.getItem("glyph-grid-variant") || "hiragana");
+  const [kanjiLevel, setKanjiLevel] = useState(() => localStorage.getItem("glyph-grid-kanjiLevel") || "n5");
   const [known, setKnown] = useState<Record<string, Record<string, boolean>>>({});
   const [query, setQuery] = useState("");
   const [kanjiItems, setKanjiItems] = useState<any[]>([]);
@@ -34,14 +34,25 @@ export default function App() {
   const [loading, setLoading] = useState(false);
   const [kanjiLoading, setKanjiLoading] = useState(false);
   const [kanjiError, setKanjiError] = useState("");
-  const [showLatin, setShowLatin] = useState(true);
-  const [showIPA, setShowIPA] = useState(false);
-  const [denseMode, setDenseMode] = useState(true);
-  const [accentColor, setAccentColor] = useState(DEFAULT_ACCENT);
+  const [showLatin, setShowLatin] = useState(() => localStorage.getItem("glyph-grid-showLatin") !== "false");
+  const [showIPA, setShowIPA] = useState(() => localStorage.getItem("glyph-grid-showIPA") === "true");
+  const [denseMode, setDenseMode] = useState(() => localStorage.getItem("glyph-grid-denseMode") !== "false");
+  const [accentColor, setAccentColor] = useState(() => localStorage.getItem("glyph-grid-accentColor") || DEFAULT_ACCENT);
   const [completeMessage, setCompleteMessage] = useState("");
   const [confettiFire, setConfettiFire] = useState(false);
-  const [viewMode, setViewMode] = useState<"grid" | "flashcards" | "quiz">("grid");
+  const [viewMode, setViewMode] = useState<"grid" | "flashcards" | "quiz">(() => (localStorage.getItem("glyph-grid-viewMode") as any) || "grid");
   const completedRef = useRef<Record<string, boolean>>({});
+
+  useEffect(() => {
+    localStorage.setItem("glyph-grid-language", language);
+    localStorage.setItem("glyph-grid-variant", variant);
+    localStorage.setItem("glyph-grid-kanjiLevel", kanjiLevel);
+    localStorage.setItem("glyph-grid-showLatin", showLatin.toString());
+    localStorage.setItem("glyph-grid-showIPA", showIPA.toString());
+    localStorage.setItem("glyph-grid-denseMode", denseMode.toString());
+    localStorage.setItem("glyph-grid-accentColor", accentColor);
+    localStorage.setItem("glyph-grid-viewMode", viewMode);
+  }, [language, variant, kanjiLevel, showLatin, showIPA, denseMode, accentColor, viewMode]);
 
   useEffect(() => {
     fetch("./data/manifest.json")
