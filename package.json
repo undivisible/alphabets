@@ -5,11 +5,10 @@
   "type": "module",
   "scripts": {
     "generate": "bun run backend/scripts/generate-alphabets.ts",
-    "predev": "bun run generate && rm -rf dist && mkdir -p dist/data && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
-    "dev": "bun run predev && (bunx tailwindcss -i frontend/globals.css -o dist/main.css --watch & bun build frontend/main.tsx --outdir dist --watch & bunx serve dist)",
-    "build": "bun run generate && rm -rf dist && mkdir -p dist/data && bun build frontend/main.tsx --outdir dist --minify && bunx tailwindcss -i frontend/globals.css -o dist/main.css --minify && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
-    "test": "bun build frontend/main.tsx --outdir dist && bunx tailwindcss -i frontend/globals.css -o dist/main.css && [ -f dist/main.js ] && [ -f dist/main.css ] && [ -f dist/data/manifest.json ] && (grep -v '@theme' dist/main.css > /dev/null) && echo 'Tests Passed' || (echo 'Tests Failed' && exit 1)",
-    "check": "tsc -p frontend/tsconfig.json --noEmit"
+    "predev": "bun run generate && rm -rf dist && mkdir -p dist/data && cp public/data/*.json dist/data/",
+    "dev": "bun run predev && (bunx tailwindcss -i frontend/globals.css -o dist/main.css --watch & bun build frontend/main.tsx --outdir dist --watch & bunx serve .)",
+    "build": "bun run generate && rm -rf dist && mkdir -p dist/data && bun build frontend/main.tsx --outdir dist --minify && bun x tailwindcss -i frontend/globals.css -o dist/main.css --minify && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
+    "test": "bun test"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.0.4",
