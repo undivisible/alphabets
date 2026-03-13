@@ -9,10 +9,10 @@ export function SelectPanel({ value, onChange, options, width = "w-64", placehol
   return (
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
-        <button className={`group relative flex h-full items-center justify-between overflow-hidden border border-zinc-700 bg-[#171717] px-4 text-[10px] uppercase tracking-[0.22em] text-white transition-all duration-300 hover:border-white ${width}`}>
+        <button className={`group relative flex h-full items-center justify-between overflow-hidden border border-zinc-700 bg-[#171717] px-2 sm:px-4 text-[10px] uppercase tracking-[0.22em] text-white transition-all duration-300 hover:border-white ${width}`}>
           <span className={`absolute inset-0 origin-left bg-white transition-transform duration-300 ${open ? "scale-x-100" : "scale-x-0"}`} />
           <span className={`relative z-10 truncate transition-colors duration-300 ${open ? "text-black" : "text-white"}`}>{selected?.label || placeholder}</span>
-          <ChevronDown className={`relative z-10 ml-3 h-4 w-4 shrink-0 transition-colors duration-300 ${open ? "text-black" : "text-white/70"}`} />
+          <ChevronDown className={`relative z-10 ml-1 sm:ml-3 h-4 w-4 shrink-0 transition-colors duration-300 ${open ? "text-black" : "text-white/70"}`} />
         </button>
       </PopoverTrigger>
       <PopoverContent className={`border-zinc-800 bg-[#151515] p-0 ${width}`} align="end">

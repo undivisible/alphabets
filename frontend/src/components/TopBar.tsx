@@ -59,19 +59,19 @@ export function TopBar({
               style={{ width: `${progress}%`, background: accentColor }}
             />
           </div>
-          <div className="relative z-10 flex h-full w-full items-center bg-transparent px-4">
-            <div className="mr-4 shrink-0 text-left text-sm font-medium uppercase tracking-[0.26em] text-white">
+          <div className="relative z-10 flex h-full w-full items-center bg-transparent px-3 md:px-4">
+            <div className="hidden sm:block mr-4 shrink-0 text-left text-xs md:text-sm font-medium uppercase tracking-[0.26em] text-white">
               {knownCount} / {total}
             </div>
-            <Search className="mr-3 h-4 w-4 shrink-0 text-white/70" />
+            <Search className="mr-2 md:mr-3 h-4 w-4 shrink-0 text-white/70" />
             <Input
               value={query}
               onChange={(e: React.ChangeEvent<HTMLInputElement>) => setQuery(e.target.value)}
               onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
                 if (e.key === "Enter") onSearchSubmit(query);
               }}
-              placeholder="filter or command"
-              className="h-full w-full border-none bg-transparent px-0 text-left text-sm uppercase tracking-[0.2em] text-white placeholder:text-white/70 focus-visible:ring-0 focus-visible:ring-offset-0 transition-all duration-300"
+              placeholder="filter..."
+              className="h-full w-full border-none bg-transparent px-0 text-left text-xs md:text-sm uppercase tracking-[0.1em] md:tracking-[0.2em] text-white placeholder:text-white/70 focus-visible:ring-0 focus-visible:ring-offset-0 transition-all duration-300"
             />
           </div>
         </div>
@@ -79,14 +79,14 @@ export function TopBar({
           value={language}
           onChange={setLanguage}
           options={languageOptions}
-          width="w-80 md:w-96"
+          width="w-24 sm:w-40 md:w-64 lg:w-80"
           placeholder="Language"
         />
         <SelectPanel
           value={variant}
           onChange={setVariant}
           options={variantOptions}
-          width="w-80 md:w-96"
+          width="w-24 sm:w-40 md:w-64 lg:w-80"
           placeholder="Variant"
         />
         <SettingsPanel

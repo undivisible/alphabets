@@ -261,7 +261,7 @@ export default function App() {
         ) : isKanji && kanjiError ? (
           <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{kanjiError}</CardContent></Card>
         ) : groupedRows ? (
-          <div className="border-l border-t border-zinc-800">
+          <div className="border-l border-t border-zinc-800 min-w-[600px] md:min-w-0">
             {groupedRows.map((row: any, rowIndex: number) => (
               <div key={`${storageBucket}-row-${rowIndex}`} className="grid" style={{ gridTemplateColumns: `repeat(${row.length}, minmax(0, 1fr))` }}>
                 {row.map((item: any, index: number) => item ? (
@@ -273,7 +273,7 @@ export default function App() {
             ))}
           </div>
         ) : (
-          <div className="grid grid-cols-3 border-l border-t border-zinc-800 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 2xl:grid-cols-12">
+          <div className="grid grid-cols-2 border-l border-t border-zinc-800 sm:grid-cols-3 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 2xl:grid-cols-12">
             {activeItems.map((item: any, index: number) => {
               const key = isKanji ? getKanjiChar(item) : item.label;
               return <GlyphTile key={`${storageBucket}-${key}-${index}`} item={item} query={query} isKanji={isKanji} isKnown={!!known[storageBucket]?.[key]} onToggle={() => toggleKnown(key)} style={{ height: tileHeight }} showLatin={showLatin} showIPA={showIPA} />;
