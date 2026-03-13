@@ -1,0 +1,822 @@
+[
+  {
+    "label": "ऀ",
+    "meta": "devanagari sign inverted candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ँ",
+    "meta": "devanagari sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ं",
+    "meta": "devanagari sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ः",
+    "meta": "devanagari sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "ऄ",
+    "meta": "devanagari letter short a",
+    "ipa": ""
+  },
+  {
+    "label": "अ",
+    "meta": "devanagari letter a",
+    "ipa": ""
+  },
+  {
+    "label": "आ",
+    "meta": "devanagari letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "इ",
+    "meta": "devanagari letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ई",
+    "meta": "devanagari letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "उ",
+    "meta": "devanagari letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ऊ",
+    "meta": "devanagari letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ऋ",
+    "meta": "devanagari letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ऌ",
+    "meta": "devanagari letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ऍ",
+    "meta": "devanagari letter candra e",
+    "ipa": ""
+  },
+  {
+    "label": "ऎ",
+    "meta": "devanagari letter short e",
+    "ipa": ""
+  },
+  {
+    "label": "ए",
+    "meta": "devanagari letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ऐ",
+    "meta": "devanagari letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ऑ",
+    "meta": "devanagari letter candra o",
+    "ipa": ""
+  },
+  {
+    "label": "ऒ",
+    "meta": "devanagari letter short o",
+    "ipa": ""
+  },
+  {
+    "label": "ओ",
+    "meta": "devanagari letter o",
+    "ipa": ""
+  },
+  {
+    "label": "औ",
+    "meta": "devanagari letter au",
+    "ipa": ""
+  },
+  {
+    "label": "क",
+    "meta": "devanagari letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ख",
+    "meta": "devanagari letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ग",
+    "meta": "devanagari letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "घ",
+    "meta": "devanagari letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ङ",
+    "meta": "devanagari letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "च",
+    "meta": "devanagari letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "छ",
+    "meta": "devanagari letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ज",
+    "meta": "devanagari letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "झ",
+    "meta": "devanagari letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ञ",
+    "meta": "devanagari letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ट",
+    "meta": "devanagari letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ठ",
+    "meta": "devanagari letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ड",
+    "meta": "devanagari letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ढ",
+    "meta": "devanagari letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ण",
+    "meta": "devanagari letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "त",
+    "meta": "devanagari letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "थ",
+    "meta": "devanagari letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "द",
+    "meta": "devanagari letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ध",
+    "meta": "devanagari letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "न",
+    "meta": "devanagari letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ऩ",
+    "meta": "devanagari letter nnna",
+    "ipa": ""
+  },
+  {
+    "label": "प",
+    "meta": "devanagari letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "फ",
+    "meta": "devanagari letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ब",
+    "meta": "devanagari letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "भ",
+    "meta": "devanagari letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "म",
+    "meta": "devanagari letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "य",
+    "meta": "devanagari letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "र",
+    "meta": "devanagari letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ऱ",
+    "meta": "devanagari letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ल",
+    "meta": "devanagari letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ळ",
+    "meta": "devanagari letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ऴ",
+    "meta": "devanagari letter llla",
+    "ipa": ""
+  },
+  {
+    "label": "व",
+    "meta": "devanagari letter va",
+    "ipa": ""
+  },
+  {
+    "label": "श",
+    "meta": "devanagari letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ष",
+    "meta": "devanagari letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "स",
+    "meta": "devanagari letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ह",
+    "meta": "devanagari letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ऺ",
+    "meta": "devanagari vowel sign oe",
+    "ipa": ""
+  },
+  {
+    "label": "ऻ",
+    "meta": "devanagari vowel sign ooe",
+    "ipa": ""
+  },
+  {
+    "label": "़",
+    "meta": "devanagari sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "ऽ",
+    "meta": "devanagari sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "ा",
+    "meta": "devanagari vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ि",
+    "meta": "devanagari vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ी",
+    "meta": "devanagari vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ु",
+    "meta": "devanagari vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ू",
+    "meta": "devanagari vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ृ",
+    "meta": "devanagari vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ॄ",
+    "meta": "devanagari vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ॅ",
+    "meta": "devanagari vowel sign candra e",
+    "ipa": ""
+  },
+  {
+    "label": "ॆ",
+    "meta": "devanagari vowel sign short e",
+    "ipa": ""
+  },
+  {
+    "label": "े",
+    "meta": "devanagari vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ै",
+    "meta": "devanagari vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ॉ",
+    "meta": "devanagari vowel sign candra o",
+    "ipa": ""
+  },
+  {
+    "label": "ॊ",
+    "meta": "devanagari vowel sign short o",
+    "ipa": ""
+  },
+  {
+    "label": "ो",
+    "meta": "devanagari vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ौ",
+    "meta": "devanagari vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "्",
+    "meta": "devanagari sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "ॎ",
+    "meta": "devanagari vowel sign prishthamatra e",
+    "ipa": ""
+  },
+  {
+    "label": "ॏ",
+    "meta": "devanagari vowel sign aw",
+    "ipa": ""
+  },
+  {
+    "label": "ॐ",
+    "meta": "devanagari om",
+    "ipa": ""
+  },
+  {
+    "label": "ॕ",
+    "meta": "devanagari vowel sign candra long e",
+    "ipa": ""
+  },
+  {
+    "label": "ॖ",
+    "meta": "devanagari vowel sign ue",
+    "ipa": ""
+  },
+  {
+    "label": "ॗ",
+    "meta": "devanagari vowel sign uue",
+    "ipa": ""
+  },
+  {
+    "label": "क़",
+    "meta": "devanagari letter qa",
+    "ipa": ""
+  },
+  {
+    "label": "ख़",
+    "meta": "devanagari letter khha",
+    "ipa": ""
+  },
+  {
+    "label": "ग़",
+    "meta": "devanagari letter ghha",
+    "ipa": ""
+  },
+  {
+    "label": "ज़",
+    "meta": "devanagari letter za",
+    "ipa": ""
+  },
+  {
+    "label": "ड़",
+    "meta": "devanagari letter dddha",
+    "ipa": ""
+  },
+  {
+    "label": "ढ़",
+    "meta": "devanagari letter rha",
+    "ipa": ""
+  },
+  {
+    "label": "फ़",
+    "meta": "devanagari letter fa",
+    "ipa": ""
+  },
+  {
+    "label": "य़",
+    "meta": "devanagari letter yya",
+    "ipa": ""
+  },
+  {
+    "label": "ॠ",
+    "meta": "devanagari letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ॡ",
+    "meta": "devanagari letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ॢ",
+    "meta": "devanagari vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ॣ",
+    "meta": "devanagari vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "०",
+    "meta": "devanagari digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "१",
+    "meta": "devanagari digit one",
+    "ipa": ""
+  },
+  {
+    "label": "२",
+    "meta": "devanagari digit two",
+    "ipa": ""
+  },
+  {
+    "label": "३",
+    "meta": "devanagari digit three",
+    "ipa": ""
+  },
+  {
+    "label": "४",
+    "meta": "devanagari digit four",
+    "ipa": ""
+  },
+  {
+    "label": "५",
+    "meta": "devanagari digit five",
+    "ipa": ""
+  },
+  {
+    "label": "६",
+    "meta": "devanagari digit six",
+    "ipa": ""
+  },
+  {
+    "label": "७",
+    "meta": "devanagari digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "८",
+    "meta": "devanagari digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "९",
+    "meta": "devanagari digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "॰",
+    "meta": "devanagari abbreviation sign",
+    "ipa": ""
+  },
+  {
+    "label": "ॱ",
+    "meta": "devanagari sign high spacing dot",
+    "ipa": ""
+  },
+  {
+    "label": "ॲ",
+    "meta": "devanagari letter candra a",
+    "ipa": ""
+  },
+  {
+    "label": "ॳ",
+    "meta": "devanagari letter oe",
+    "ipa": ""
+  },
+  {
+    "label": "ॴ",
+    "meta": "devanagari letter ooe",
+    "ipa": ""
+  },
+  {
+    "label": "ॵ",
+    "meta": "devanagari letter aw",
+    "ipa": ""
+  },
+  {
+    "label": "ॶ",
+    "meta": "devanagari letter ue",
+    "ipa": ""
+  },
+  {
+    "label": "ॷ",
+    "meta": "devanagari letter uue",
+    "ipa": ""
+  },
+  {
+    "label": "ॸ",
+    "meta": "devanagari letter marwari dda",
+    "ipa": ""
+  },
+  {
+    "label": "ॹ",
+    "meta": "devanagari letter zha",
+    "ipa": ""
+  },
+  {
+    "label": "ॺ",
+    "meta": "devanagari letter heavy ya",
+    "ipa": ""
+  },
+  {
+    "label": "ॻ",
+    "meta": "devanagari letter gga",
+    "ipa": ""
+  },
+  {
+    "label": "ॼ",
+    "meta": "devanagari letter jja",
+    "ipa": ""
+  },
+  {
+    "label": "ॽ",
+    "meta": "devanagari letter glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "ॾ",
+    "meta": "devanagari letter ddda",
+    "ipa": ""
+  },
+  {
+    "label": "ॿ",
+    "meta": "devanagari letter bba",
+    "ipa": ""
+  },
+  {
+    "label": "꣠",
+    "meta": "combining devanagari digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "꣡",
+    "meta": "combining devanagari digit one",
+    "ipa": ""
+  },
+  {
+    "label": "꣢",
+    "meta": "combining devanagari digit two",
+    "ipa": ""
+  },
+  {
+    "label": "꣣",
+    "meta": "combining devanagari digit three",
+    "ipa": ""
+  },
+  {
+    "label": "꣤",
+    "meta": "combining devanagari digit four",
+    "ipa": ""
+  },
+  {
+    "label": "꣥",
+    "meta": "combining devanagari digit five",
+    "ipa": ""
+  },
+  {
+    "label": "꣦",
+    "meta": "combining devanagari digit six",
+    "ipa": ""
+  },
+  {
+    "label": "꣧",
+    "meta": "combining devanagari digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "꣨",
+    "meta": "combining devanagari digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "꣩",
+    "meta": "combining devanagari digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "꣪",
+    "meta": "combining devanagari letter a",
+    "ipa": ""
+  },
+  {
+    "label": "꣫",
+    "meta": "combining devanagari letter u",
+    "ipa": ""
+  },
+  {
+    "label": "꣬",
+    "meta": "combining devanagari letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "꣭",
+    "meta": "combining devanagari letter na",
+    "ipa": ""
+  },
+  {
+    "label": "꣮",
+    "meta": "combining devanagari letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "꣯",
+    "meta": "combining devanagari letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "꣰",
+    "meta": "combining devanagari letter vi",
+    "ipa": ""
+  },
+  {
+    "label": "꣱",
+    "meta": "combining devanagari sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "ꣲ",
+    "meta": "devanagari sign spacing candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ꣳ",
+    "meta": "devanagari sign candrabindu virama",
+    "ipa": ""
+  },
+  {
+    "label": "ꣴ",
+    "meta": "devanagari sign double candrabindu virama",
+    "ipa": ""
+  },
+  {
+    "label": "ꣵ",
+    "meta": "devanagari sign candrabindu two",
+    "ipa": ""
+  },
+  {
+    "label": "ꣶ",
+    "meta": "devanagari sign candrabindu three",
+    "ipa": ""
+  },
+  {
+    "label": "ꣷ",
+    "meta": "devanagari sign candrabindu avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "꣸",
+    "meta": "devanagari sign pushpika",
+    "ipa": ""
+  },
+  {
+    "label": "꣹",
+    "meta": "devanagari gap filler",
+    "ipa": ""
+  },
+  {
+    "label": "꣺",
+    "meta": "devanagari caret",
+    "ipa": ""
+  },
+  {
+    "label": "ꣻ",
+    "meta": "devanagari headstroke",
+    "ipa": ""
+  },
+  {
+    "label": "꣼",
+    "meta": "devanagari sign siddham",
+    "ipa": ""
+  },
+  {
+    "label": "ꣽ",
+    "meta": "devanagari jain om",
+    "ipa": ""
+  },
+  {
+    "label": "ꣾ",
+    "meta": "devanagari letter ay",
+    "ipa": ""
+  },
+  {
+    "label": "ꣿ",
+    "meta": "devanagari vowel sign ay",
+    "ipa": ""
+  },
+  {
+    "label": "𑬀",
+    "meta": "devanagari head mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑬁",
+    "meta": "devanagari head mark with headstroke",
+    "ipa": ""
+  },
+  {
+    "label": "𑬂",
+    "meta": "devanagari sign bhale",
+    "ipa": ""
+  },
+  {
+    "label": "𑬃",
+    "meta": "devanagari sign bhale with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𑬄",
+    "meta": "devanagari sign extended bhale",
+    "ipa": ""
+  },
+  {
+    "label": "𑬅",
+    "meta": "devanagari sign extended bhale with hook",
+    "ipa": ""
+  },
+  {
+    "label": "𑬆",
+    "meta": "devanagari sign western five-like bhale",
+    "ipa": ""
+  },
+  {
+    "label": "𑬇",
+    "meta": "devanagari sign western nine-like bhale",
+    "ipa": ""
+  },
+  {
+    "label": "𑬈",
+    "meta": "devanagari sign reversed nine-like bhale",
+    "ipa": ""
+  },
+  {
+    "label": "𑬉",
+    "meta": "devanagari sign mindu",
+    "ipa": ""
+  }
+]

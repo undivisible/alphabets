@@ -1,0 +1,312 @@
+[
+  {
+    "label": "߀",
+    "meta": "nko digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "߁",
+    "meta": "nko digit one",
+    "ipa": ""
+  },
+  {
+    "label": "߂",
+    "meta": "nko digit two",
+    "ipa": ""
+  },
+  {
+    "label": "߃",
+    "meta": "nko digit three",
+    "ipa": ""
+  },
+  {
+    "label": "߄",
+    "meta": "nko digit four",
+    "ipa": ""
+  },
+  {
+    "label": "߅",
+    "meta": "nko digit five",
+    "ipa": ""
+  },
+  {
+    "label": "߆",
+    "meta": "nko digit six",
+    "ipa": ""
+  },
+  {
+    "label": "߇",
+    "meta": "nko digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "߈",
+    "meta": "nko digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "߉",
+    "meta": "nko digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "ߊ",
+    "meta": "nko letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ߋ",
+    "meta": "nko letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ߌ",
+    "meta": "nko letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ߍ",
+    "meta": "nko letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ߎ",
+    "meta": "nko letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ߏ",
+    "meta": "nko letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ߐ",
+    "meta": "nko letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ߑ",
+    "meta": "nko letter dagbasinna",
+    "ipa": ""
+  },
+  {
+    "label": "ߒ",
+    "meta": "nko letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ߓ",
+    "meta": "nko letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ߔ",
+    "meta": "nko letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ߕ",
+    "meta": "nko letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ߖ",
+    "meta": "nko letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ߗ",
+    "meta": "nko letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ߘ",
+    "meta": "nko letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ߙ",
+    "meta": "nko letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ߚ",
+    "meta": "nko letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ߛ",
+    "meta": "nko letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ߜ",
+    "meta": "nko letter gba",
+    "ipa": ""
+  },
+  {
+    "label": "ߝ",
+    "meta": "nko letter fa",
+    "ipa": ""
+  },
+  {
+    "label": "ߞ",
+    "meta": "nko letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ߟ",
+    "meta": "nko letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ߠ",
+    "meta": "nko letter na woloso",
+    "ipa": ""
+  },
+  {
+    "label": "ߡ",
+    "meta": "nko letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ߢ",
+    "meta": "nko letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ߣ",
+    "meta": "nko letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ߤ",
+    "meta": "nko letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ߥ",
+    "meta": "nko letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ߦ",
+    "meta": "nko letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ߧ",
+    "meta": "nko letter nya woloso",
+    "ipa": ""
+  },
+  {
+    "label": "ߨ",
+    "meta": "nko letter jona ja",
+    "ipa": ""
+  },
+  {
+    "label": "ߩ",
+    "meta": "nko letter jona cha",
+    "ipa": ""
+  },
+  {
+    "label": "ߪ",
+    "meta": "nko letter jona ra",
+    "ipa": ""
+  },
+  {
+    "label": "߫",
+    "meta": "nko combining short high tone",
+    "ipa": ""
+  },
+  {
+    "label": "߬",
+    "meta": "nko combining short low tone",
+    "ipa": ""
+  },
+  {
+    "label": "߭",
+    "meta": "nko combining short rising tone",
+    "ipa": ""
+  },
+  {
+    "label": "߮",
+    "meta": "nko combining long descending tone",
+    "ipa": ""
+  },
+  {
+    "label": "߯",
+    "meta": "nko combining long high tone",
+    "ipa": ""
+  },
+  {
+    "label": "߰",
+    "meta": "nko combining long low tone",
+    "ipa": ""
+  },
+  {
+    "label": "߱",
+    "meta": "nko combining long rising tone",
+    "ipa": ""
+  },
+  {
+    "label": "߲",
+    "meta": "nko combining nasalization mark",
+    "ipa": ""
+  },
+  {
+    "label": "߳",
+    "meta": "nko combining double dot above",
+    "ipa": ""
+  },
+  {
+    "label": "ߴ",
+    "meta": "nko high tone apostrophe",
+    "ipa": ""
+  },
+  {
+    "label": "ߵ",
+    "meta": "nko low tone apostrophe",
+    "ipa": ""
+  },
+  {
+    "label": "߶",
+    "meta": "nko symbol oo dennen",
+    "ipa": ""
+  },
+  {
+    "label": "߷",
+    "meta": "nko symbol gbakurunen",
+    "ipa": ""
+  },
+  {
+    "label": "߸",
+    "meta": "nko comma",
+    "ipa": ""
+  },
+  {
+    "label": "߹",
+    "meta": "nko exclamation mark",
+    "ipa": ""
+  },
+  {
+    "label": "ߺ",
+    "meta": "nko lajanyalan",
+    "ipa": ""
+  },
+  {
+    "label": "߽",
+    "meta": "nko dantayalan",
+    "ipa": ""
+  },
+  {
+    "label": "߾",
+    "meta": "nko dorome sign",
+    "ipa": ""
+  },
+  {
+    "label": "߿",
+    "meta": "nko taman sign",
+    "ipa": ""
+  }
+]

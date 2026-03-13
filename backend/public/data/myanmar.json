@@ -1,0 +1,1117 @@
+[
+  {
+    "label": "က",
+    "meta": "myanmar letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ခ",
+    "meta": "myanmar letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ဂ",
+    "meta": "myanmar letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ဃ",
+    "meta": "myanmar letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "င",
+    "meta": "myanmar letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "စ",
+    "meta": "myanmar letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ဆ",
+    "meta": "myanmar letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ဇ",
+    "meta": "myanmar letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ဈ",
+    "meta": "myanmar letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ဉ",
+    "meta": "myanmar letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ည",
+    "meta": "myanmar letter nnya",
+    "ipa": ""
+  },
+  {
+    "label": "ဋ",
+    "meta": "myanmar letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ဌ",
+    "meta": "myanmar letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ဍ",
+    "meta": "myanmar letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ဎ",
+    "meta": "myanmar letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ဏ",
+    "meta": "myanmar letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "တ",
+    "meta": "myanmar letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ထ",
+    "meta": "myanmar letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ဒ",
+    "meta": "myanmar letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ဓ",
+    "meta": "myanmar letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "န",
+    "meta": "myanmar letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ပ",
+    "meta": "myanmar letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ဖ",
+    "meta": "myanmar letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ဗ",
+    "meta": "myanmar letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ဘ",
+    "meta": "myanmar letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "မ",
+    "meta": "myanmar letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ယ",
+    "meta": "myanmar letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ရ",
+    "meta": "myanmar letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "လ",
+    "meta": "myanmar letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ဝ",
+    "meta": "myanmar letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "သ",
+    "meta": "myanmar letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ဟ",
+    "meta": "myanmar letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ဠ",
+    "meta": "myanmar letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "အ",
+    "meta": "myanmar letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ဢ",
+    "meta": "myanmar letter shan a",
+    "ipa": ""
+  },
+  {
+    "label": "ဣ",
+    "meta": "myanmar letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ဤ",
+    "meta": "myanmar letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ဥ",
+    "meta": "myanmar letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ဦ",
+    "meta": "myanmar letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ဧ",
+    "meta": "myanmar letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ဨ",
+    "meta": "myanmar letter mon e",
+    "ipa": ""
+  },
+  {
+    "label": "ဩ",
+    "meta": "myanmar letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ဪ",
+    "meta": "myanmar letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ါ",
+    "meta": "myanmar vowel sign tall aa",
+    "ipa": ""
+  },
+  {
+    "label": "ာ",
+    "meta": "myanmar vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ိ",
+    "meta": "myanmar vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ီ",
+    "meta": "myanmar vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ု",
+    "meta": "myanmar vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ူ",
+    "meta": "myanmar vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ေ",
+    "meta": "myanmar vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ဲ",
+    "meta": "myanmar vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ဳ",
+    "meta": "myanmar vowel sign mon ii",
+    "ipa": ""
+  },
+  {
+    "label": "ဴ",
+    "meta": "myanmar vowel sign mon o",
+    "ipa": ""
+  },
+  {
+    "label": "ဵ",
+    "meta": "myanmar vowel sign e above",
+    "ipa": ""
+  },
+  {
+    "label": "ံ",
+    "meta": "myanmar sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "့",
+    "meta": "myanmar sign dot below",
+    "ipa": ""
+  },
+  {
+    "label": "း",
+    "meta": "myanmar sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "္",
+    "meta": "myanmar sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "်",
+    "meta": "myanmar sign asat",
+    "ipa": ""
+  },
+  {
+    "label": "ျ",
+    "meta": "myanmar consonant sign medial ya",
+    "ipa": ""
+  },
+  {
+    "label": "ြ",
+    "meta": "myanmar consonant sign medial ra",
+    "ipa": ""
+  },
+  {
+    "label": "ွ",
+    "meta": "myanmar consonant sign medial wa",
+    "ipa": ""
+  },
+  {
+    "label": "ှ",
+    "meta": "myanmar consonant sign medial ha",
+    "ipa": ""
+  },
+  {
+    "label": "ဿ",
+    "meta": "myanmar letter great sa",
+    "ipa": ""
+  },
+  {
+    "label": "၀",
+    "meta": "myanmar digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "၁",
+    "meta": "myanmar digit one",
+    "ipa": ""
+  },
+  {
+    "label": "၂",
+    "meta": "myanmar digit two",
+    "ipa": ""
+  },
+  {
+    "label": "၃",
+    "meta": "myanmar digit three",
+    "ipa": ""
+  },
+  {
+    "label": "၄",
+    "meta": "myanmar digit four",
+    "ipa": ""
+  },
+  {
+    "label": "၅",
+    "meta": "myanmar digit five",
+    "ipa": ""
+  },
+  {
+    "label": "၆",
+    "meta": "myanmar digit six",
+    "ipa": ""
+  },
+  {
+    "label": "၇",
+    "meta": "myanmar digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "၈",
+    "meta": "myanmar digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "၉",
+    "meta": "myanmar digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "၊",
+    "meta": "myanmar sign little section",
+    "ipa": ""
+  },
+  {
+    "label": "။",
+    "meta": "myanmar sign section",
+    "ipa": ""
+  },
+  {
+    "label": "၌",
+    "meta": "myanmar symbol locative",
+    "ipa": ""
+  },
+  {
+    "label": "၍",
+    "meta": "myanmar symbol completed",
+    "ipa": ""
+  },
+  {
+    "label": "၎",
+    "meta": "myanmar symbol aforementioned",
+    "ipa": ""
+  },
+  {
+    "label": "၏",
+    "meta": "myanmar symbol genitive",
+    "ipa": ""
+  },
+  {
+    "label": "ၐ",
+    "meta": "myanmar letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ၑ",
+    "meta": "myanmar letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ၒ",
+    "meta": "myanmar letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ၓ",
+    "meta": "myanmar letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ၔ",
+    "meta": "myanmar letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ၕ",
+    "meta": "myanmar letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ၖ",
+    "meta": "myanmar vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ၗ",
+    "meta": "myanmar vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ၘ",
+    "meta": "myanmar vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ၙ",
+    "meta": "myanmar vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ၚ",
+    "meta": "myanmar letter mon nga",
+    "ipa": ""
+  },
+  {
+    "label": "ၛ",
+    "meta": "myanmar letter mon jha",
+    "ipa": ""
+  },
+  {
+    "label": "ၜ",
+    "meta": "myanmar letter mon bba",
+    "ipa": ""
+  },
+  {
+    "label": "ၝ",
+    "meta": "myanmar letter mon bbe",
+    "ipa": ""
+  },
+  {
+    "label": "ၞ",
+    "meta": "myanmar consonant sign mon medial na",
+    "ipa": ""
+  },
+  {
+    "label": "ၟ",
+    "meta": "myanmar consonant sign mon medial ma",
+    "ipa": ""
+  },
+  {
+    "label": "ၠ",
+    "meta": "myanmar consonant sign mon medial la",
+    "ipa": ""
+  },
+  {
+    "label": "ၡ",
+    "meta": "myanmar letter sgaw karen sha",
+    "ipa": ""
+  },
+  {
+    "label": "ၢ",
+    "meta": "myanmar vowel sign sgaw karen eu",
+    "ipa": ""
+  },
+  {
+    "label": "ၣ",
+    "meta": "myanmar tone mark sgaw karen hathi",
+    "ipa": ""
+  },
+  {
+    "label": "ၤ",
+    "meta": "myanmar tone mark sgaw karen ke pho",
+    "ipa": ""
+  },
+  {
+    "label": "ၥ",
+    "meta": "myanmar letter western pwo karen tha",
+    "ipa": ""
+  },
+  {
+    "label": "ၦ",
+    "meta": "myanmar letter western pwo karen pwa",
+    "ipa": ""
+  },
+  {
+    "label": "ၧ",
+    "meta": "myanmar vowel sign western pwo karen eu",
+    "ipa": ""
+  },
+  {
+    "label": "ၨ",
+    "meta": "myanmar vowel sign western pwo karen ue",
+    "ipa": ""
+  },
+  {
+    "label": "ၩ",
+    "meta": "myanmar sign western pwo karen tone-1",
+    "ipa": ""
+  },
+  {
+    "label": "ၪ",
+    "meta": "myanmar sign western pwo karen tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "ၫ",
+    "meta": "myanmar sign western pwo karen tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "ၬ",
+    "meta": "myanmar sign western pwo karen tone-4",
+    "ipa": ""
+  },
+  {
+    "label": "ၭ",
+    "meta": "myanmar sign western pwo karen tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "ၮ",
+    "meta": "myanmar letter eastern pwo karen nna",
+    "ipa": ""
+  },
+  {
+    "label": "ၯ",
+    "meta": "myanmar letter eastern pwo karen ywa",
+    "ipa": ""
+  },
+  {
+    "label": "ၰ",
+    "meta": "myanmar letter eastern pwo karen ghwa",
+    "ipa": ""
+  },
+  {
+    "label": "ၱ",
+    "meta": "myanmar vowel sign geba karen i",
+    "ipa": ""
+  },
+  {
+    "label": "ၲ",
+    "meta": "myanmar vowel sign kayah oe",
+    "ipa": ""
+  },
+  {
+    "label": "ၳ",
+    "meta": "myanmar vowel sign kayah u",
+    "ipa": ""
+  },
+  {
+    "label": "ၴ",
+    "meta": "myanmar vowel sign kayah ee",
+    "ipa": ""
+  },
+  {
+    "label": "ၵ",
+    "meta": "myanmar letter shan ka",
+    "ipa": ""
+  },
+  {
+    "label": "ၶ",
+    "meta": "myanmar letter shan kha",
+    "ipa": ""
+  },
+  {
+    "label": "ၷ",
+    "meta": "myanmar letter shan ga",
+    "ipa": ""
+  },
+  {
+    "label": "ၸ",
+    "meta": "myanmar letter shan ca",
+    "ipa": ""
+  },
+  {
+    "label": "ၹ",
+    "meta": "myanmar letter shan za",
+    "ipa": ""
+  },
+  {
+    "label": "ၺ",
+    "meta": "myanmar letter shan nya",
+    "ipa": ""
+  },
+  {
+    "label": "ၻ",
+    "meta": "myanmar letter shan da",
+    "ipa": ""
+  },
+  {
+    "label": "ၼ",
+    "meta": "myanmar letter shan na",
+    "ipa": ""
+  },
+  {
+    "label": "ၽ",
+    "meta": "myanmar letter shan pha",
+    "ipa": ""
+  },
+  {
+    "label": "ၾ",
+    "meta": "myanmar letter shan fa",
+    "ipa": ""
+  },
+  {
+    "label": "ၿ",
+    "meta": "myanmar letter shan ba",
+    "ipa": ""
+  },
+  {
+    "label": "ႀ",
+    "meta": "myanmar letter shan tha",
+    "ipa": ""
+  },
+  {
+    "label": "ႁ",
+    "meta": "myanmar letter shan ha",
+    "ipa": ""
+  },
+  {
+    "label": "ႂ",
+    "meta": "myanmar consonant sign shan medial wa",
+    "ipa": ""
+  },
+  {
+    "label": "ႃ",
+    "meta": "myanmar vowel sign shan aa",
+    "ipa": ""
+  },
+  {
+    "label": "ႄ",
+    "meta": "myanmar vowel sign shan e",
+    "ipa": ""
+  },
+  {
+    "label": "ႅ",
+    "meta": "myanmar vowel sign shan e above",
+    "ipa": ""
+  },
+  {
+    "label": "ႆ",
+    "meta": "myanmar vowel sign shan final y",
+    "ipa": ""
+  },
+  {
+    "label": "ႇ",
+    "meta": "myanmar sign shan tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "ႈ",
+    "meta": "myanmar sign shan tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "ႉ",
+    "meta": "myanmar sign shan tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "ႊ",
+    "meta": "myanmar sign shan tone-6",
+    "ipa": ""
+  },
+  {
+    "label": "ႋ",
+    "meta": "myanmar sign shan council tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "ႌ",
+    "meta": "myanmar sign shan council tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "ႍ",
+    "meta": "myanmar sign shan council emphatic tone",
+    "ipa": ""
+  },
+  {
+    "label": "ႎ",
+    "meta": "myanmar letter rumai palaung fa",
+    "ipa": ""
+  },
+  {
+    "label": "ႏ",
+    "meta": "myanmar sign rumai palaung tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "႐",
+    "meta": "myanmar shan digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "႑",
+    "meta": "myanmar shan digit one",
+    "ipa": ""
+  },
+  {
+    "label": "႒",
+    "meta": "myanmar shan digit two",
+    "ipa": ""
+  },
+  {
+    "label": "႓",
+    "meta": "myanmar shan digit three",
+    "ipa": ""
+  },
+  {
+    "label": "႔",
+    "meta": "myanmar shan digit four",
+    "ipa": ""
+  },
+  {
+    "label": "႕",
+    "meta": "myanmar shan digit five",
+    "ipa": ""
+  },
+  {
+    "label": "႖",
+    "meta": "myanmar shan digit six",
+    "ipa": ""
+  },
+  {
+    "label": "႗",
+    "meta": "myanmar shan digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "႘",
+    "meta": "myanmar shan digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "႙",
+    "meta": "myanmar shan digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "ႚ",
+    "meta": "myanmar sign khamti tone-1",
+    "ipa": ""
+  },
+  {
+    "label": "ႛ",
+    "meta": "myanmar sign khamti tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "ႜ",
+    "meta": "myanmar vowel sign aiton a",
+    "ipa": ""
+  },
+  {
+    "label": "ႝ",
+    "meta": "myanmar vowel sign aiton ai",
+    "ipa": ""
+  },
+  {
+    "label": "႞",
+    "meta": "myanmar symbol shan one",
+    "ipa": ""
+  },
+  {
+    "label": "႟",
+    "meta": "myanmar symbol shan exclamation",
+    "ipa": ""
+  },
+  {
+    "label": "ꧠ",
+    "meta": "myanmar letter shan gha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧡ",
+    "meta": "myanmar letter shan cha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧢ",
+    "meta": "myanmar letter shan jha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧣ",
+    "meta": "myanmar letter shan nna",
+    "ipa": ""
+  },
+  {
+    "label": "ꧤ",
+    "meta": "myanmar letter shan bha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧥ",
+    "meta": "myanmar sign shan saw",
+    "ipa": ""
+  },
+  {
+    "label": "ꧦ",
+    "meta": "myanmar modifier letter shan reduplication",
+    "ipa": ""
+  },
+  {
+    "label": "ꧧ",
+    "meta": "myanmar letter tai laing nya",
+    "ipa": ""
+  },
+  {
+    "label": "ꧨ",
+    "meta": "myanmar letter tai laing fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꧩ",
+    "meta": "myanmar letter tai laing ga",
+    "ipa": ""
+  },
+  {
+    "label": "ꧪ",
+    "meta": "myanmar letter tai laing gha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧫ",
+    "meta": "myanmar letter tai laing ja",
+    "ipa": ""
+  },
+  {
+    "label": "ꧬ",
+    "meta": "myanmar letter tai laing jha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧭ",
+    "meta": "myanmar letter tai laing dda",
+    "ipa": ""
+  },
+  {
+    "label": "ꧮ",
+    "meta": "myanmar letter tai laing ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧯ",
+    "meta": "myanmar letter tai laing nna",
+    "ipa": ""
+  },
+  {
+    "label": "꧰",
+    "meta": "myanmar tai laing digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "꧱",
+    "meta": "myanmar tai laing digit one",
+    "ipa": ""
+  },
+  {
+    "label": "꧲",
+    "meta": "myanmar tai laing digit two",
+    "ipa": ""
+  },
+  {
+    "label": "꧳",
+    "meta": "myanmar tai laing digit three",
+    "ipa": ""
+  },
+  {
+    "label": "꧴",
+    "meta": "myanmar tai laing digit four",
+    "ipa": ""
+  },
+  {
+    "label": "꧵",
+    "meta": "myanmar tai laing digit five",
+    "ipa": ""
+  },
+  {
+    "label": "꧶",
+    "meta": "myanmar tai laing digit six",
+    "ipa": ""
+  },
+  {
+    "label": "꧷",
+    "meta": "myanmar tai laing digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "꧸",
+    "meta": "myanmar tai laing digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "꧹",
+    "meta": "myanmar tai laing digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "ꧺ",
+    "meta": "myanmar letter tai laing lla",
+    "ipa": ""
+  },
+  {
+    "label": "ꧻ",
+    "meta": "myanmar letter tai laing da",
+    "ipa": ""
+  },
+  {
+    "label": "ꧼ",
+    "meta": "myanmar letter tai laing dha",
+    "ipa": ""
+  },
+  {
+    "label": "ꧽ",
+    "meta": "myanmar letter tai laing ba",
+    "ipa": ""
+  },
+  {
+    "label": "ꧾ",
+    "meta": "myanmar letter tai laing bha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩠ",
+    "meta": "myanmar letter khamti ga",
+    "ipa": ""
+  },
+  {
+    "label": "ꩡ",
+    "meta": "myanmar letter khamti ca",
+    "ipa": ""
+  },
+  {
+    "label": "ꩢ",
+    "meta": "myanmar letter khamti cha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩣ",
+    "meta": "myanmar letter khamti ja",
+    "ipa": ""
+  },
+  {
+    "label": "ꩤ",
+    "meta": "myanmar letter khamti jha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩥ",
+    "meta": "myanmar letter khamti nya",
+    "ipa": ""
+  },
+  {
+    "label": "ꩦ",
+    "meta": "myanmar letter khamti tta",
+    "ipa": ""
+  },
+  {
+    "label": "ꩧ",
+    "meta": "myanmar letter khamti ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩨ",
+    "meta": "myanmar letter khamti dda",
+    "ipa": ""
+  },
+  {
+    "label": "ꩩ",
+    "meta": "myanmar letter khamti ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩪ",
+    "meta": "myanmar letter khamti dha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩫ",
+    "meta": "myanmar letter khamti na",
+    "ipa": ""
+  },
+  {
+    "label": "ꩬ",
+    "meta": "myanmar letter khamti sa",
+    "ipa": ""
+  },
+  {
+    "label": "ꩭ",
+    "meta": "myanmar letter khamti ha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩮ",
+    "meta": "myanmar letter khamti hha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩯ",
+    "meta": "myanmar letter khamti fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꩰ",
+    "meta": "myanmar modifier letter khamti reduplication",
+    "ipa": ""
+  },
+  {
+    "label": "ꩱ",
+    "meta": "myanmar letter khamti xa",
+    "ipa": ""
+  },
+  {
+    "label": "ꩲ",
+    "meta": "myanmar letter khamti za",
+    "ipa": ""
+  },
+  {
+    "label": "ꩳ",
+    "meta": "myanmar letter khamti ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꩴ",
+    "meta": "myanmar logogram khamti oay",
+    "ipa": ""
+  },
+  {
+    "label": "ꩵ",
+    "meta": "myanmar logogram khamti qn",
+    "ipa": ""
+  },
+  {
+    "label": "ꩶ",
+    "meta": "myanmar logogram khamti hm",
+    "ipa": ""
+  },
+  {
+    "label": "꩷",
+    "meta": "myanmar symbol aiton exclamation",
+    "ipa": ""
+  },
+  {
+    "label": "꩸",
+    "meta": "myanmar symbol aiton one",
+    "ipa": ""
+  },
+  {
+    "label": "꩹",
+    "meta": "myanmar symbol aiton two",
+    "ipa": ""
+  },
+  {
+    "label": "ꩺ",
+    "meta": "myanmar letter aiton ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꩻ",
+    "meta": "myanmar sign pao karen tone",
+    "ipa": ""
+  },
+  {
+    "label": "ꩼ",
+    "meta": "myanmar sign tai laing tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "ꩽ",
+    "meta": "myanmar sign tai laing tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "ꩾ",
+    "meta": "myanmar letter shwe palaung cha",
+    "ipa": ""
+  },
+  {
+    "label": "ꩿ",
+    "meta": "myanmar letter shwe palaung sha",
+    "ipa": ""
+  }
+]

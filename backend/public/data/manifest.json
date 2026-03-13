@@ -1,0 +1,1451 @@
+{
+  "gujarati": {
+    "label": "Gujarati",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "oriya": {
+    "label": "Oriya",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "sundanese": {
+    "label": "Sundanese",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "ahom": {
+    "label": "Ahom",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "cherokee": {
+    "label": "Cherokee",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "soyombo": {
+    "label": "Soyombo",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "ethiopic": {
+    "label": "Ethiopic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "dogra": {
+    "label": "Dogra",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tangsa": {
+    "label": "Tangsa",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "grantha": {
+    "label": "Grantha",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "balinese": {
+    "label": "Balinese",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "hatran": {
+    "label": "Hatran",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "mandaic": {
+    "label": "Mandaic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "khudawadi": {
+    "label": "Khudawadi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "malayalam": {
+    "label": "Malayalam",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "deseret": {
+    "label": "Deseret",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "ugaritic": {
+    "label": "Ugaritic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "runic": {
+    "label": "Runic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "warang-citi": {
+    "label": "Warang Citi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "anatolian-hieroglyphs": {
+    "label": "Anatolian Hieroglyphs",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "hanunoo": {
+    "label": "Hanunoo",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "kharoshthi": {
+    "label": "Kharoshthi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "egyptian-hieroglyphs": {
+    "label": "Egyptian Hieroglyphs",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "katakana": {
+    "label": "Katakana",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "yezidi": {
+    "label": "Yezidi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "syriac": {
+    "label": "Syriac",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "meroitic-cursive": {
+    "label": "Meroitic Cursive",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "mende-kikakui": {
+    "label": "Mende Kikakui",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "vithkuqi": {
+    "label": "Vithkuqi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-north-arabian": {
+    "label": "Old North Arabian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "thai": {
+    "label": "Thai",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "chakma": {
+    "label": "Chakma",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-turkic": {
+    "label": "Old Turkic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tai-tham": {
+    "label": "Tai Tham",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "phoenician": {
+    "label": "Phoenician",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "coptic": {
+    "label": "Coptic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "marchen": {
+    "label": "Marchen",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "lycian": {
+    "label": "Lycian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "nko": {
+    "label": "Nko",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "elbasan": {
+    "label": "Elbasan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "bhaiksuki": {
+    "label": "Bhaiksuki",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "latin": {
+    "label": "Latin",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "sinhala": {
+    "label": "Sinhala",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "toto": {
+    "label": "Toto",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "dives-akuru": {
+    "label": "Dives Akuru",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "braille": {
+    "label": "Braille",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "myanmar": {
+    "label": "Myanmar",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "pahawh-hmong": {
+    "label": "Pahawh Hmong",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "pau-cin-hau": {
+    "label": "Pau Cin Hau",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tai-le": {
+    "label": "Tai Le",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "rejang": {
+    "label": "Rejang",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "signwriting": {
+    "label": "SignWriting",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "syloti-nagri": {
+    "label": "Syloti Nagri",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "vai": {
+    "label": "Vai",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "gurmukhi": {
+    "label": "Gurmukhi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "telugu": {
+    "label": "Telugu",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-hungarian": {
+    "label": "Old Hungarian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-permic": {
+    "label": "Old Permic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "hanifi-rohingya": {
+    "label": "Hanifi Rohingya",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "javanese": {
+    "label": "Javanese",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "elymaic": {
+    "label": "Elymaic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tibetan": {
+    "label": "Tibetan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "saurashtra": {
+    "label": "Saurashtra",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "bopomofo": {
+    "label": "Bopomofo",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "linear-a": {
+    "label": "Linear A",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "nushu": {
+    "label": "Nushu",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "cuneiform": {
+    "label": "Cuneiform",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "kaithi": {
+    "label": "Kaithi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "makasar": {
+    "label": "Makasar",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tirhuta": {
+    "label": "Tirhuta",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "phags-pa": {
+    "label": "Phags Pa",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "multani": {
+    "label": "Multani",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "georgian": {
+    "label": "Georgian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "hiragana": {
+    "label": "Hiragana",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "gunjala-gondi": {
+    "label": "Gunjala Gondi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "ol-chiki": {
+    "label": "Ol Chiki",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "meetei-mayek": {
+    "label": "Meetei Mayek",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "devanagari": {
+    "label": "Devanagari",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "buhid": {
+    "label": "Buhid",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tangut": {
+    "label": "Tangut",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "yi": {
+    "label": "Yi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "thaana": {
+    "label": "Thaana",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "osage": {
+    "label": "Osage",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tagalog": {
+    "label": "Tagalog",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "greek": {
+    "label": "Greek",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "newa": {
+    "label": "Newa",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "bamum": {
+    "label": "Bamum",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-sogdian": {
+    "label": "Old Sogdian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-south-arabian": {
+    "label": "Old South Arabian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "lydian": {
+    "label": "Lydian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "nabataean": {
+    "label": "Nabataean",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "khitan-small-script": {
+    "label": "Khitan Small Script",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "hebrew": {
+    "label": "Hebrew",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tifinagh": {
+    "label": "Tifinagh",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "cham": {
+    "label": "Cham",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "khmer": {
+    "label": "Khmer",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "new-tai-lue": {
+    "label": "New Tai Lue",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "miao": {
+    "label": "Miao",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "cypro-minoan": {
+    "label": "Cypro Minoan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "modi": {
+    "label": "Modi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "caucasian-albanian": {
+    "label": "Caucasian Albanian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "zanabazar-square": {
+    "label": "Zanabazar Square",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "medefaidrin": {
+    "label": "Medefaidrin",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "masaram-gondi": {
+    "label": "Masaram Gondi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "kannada": {
+    "label": "Kannada",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "palmyrene": {
+    "label": "Palmyrene",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "avestan": {
+    "label": "Avestan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "hangul": {
+    "label": "Hangul",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "armenian": {
+    "label": "Armenian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "siddham": {
+    "label": "Siddham",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "psalter-pahlavi": {
+    "label": "Psalter Pahlavi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "chorasmian": {
+    "label": "Chorasmian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "meroitic-hieroglyphs": {
+    "label": "Meroitic Hieroglyphs",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "sharada": {
+    "label": "Sharada",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "shavian": {
+    "label": "Shavian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "mongolian": {
+    "label": "Mongolian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "kawi": {
+    "label": "Kawi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-uyghur": {
+    "label": "Old Uyghur",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "sogdian": {
+    "label": "Sogdian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "lisu": {
+    "label": "Lisu",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tai-viet": {
+    "label": "Tai Viet",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "adlam": {
+    "label": "Adlam",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tamil": {
+    "label": "Tamil",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "inscriptional-parthian": {
+    "label": "Inscriptional Parthian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "batak": {
+    "label": "Batak",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "sora-sompeng": {
+    "label": "Sora Sompeng",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "inscriptional-pahlavi": {
+    "label": "Inscriptional Pahlavi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "manichaean": {
+    "label": "Manichaean",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "ogham": {
+    "label": "Ogham",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "nyiakeng-puachue-hmong": {
+    "label": "Nyiakeng Puachue Hmong",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "arabic": {
+    "label": "Arabic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "lao": {
+    "label": "Lao",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "mro": {
+    "label": "Mro",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "wancho": {
+    "label": "Wancho",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "imperial-aramaic": {
+    "label": "Imperial Aramaic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "nandinagari": {
+    "label": "Nandinagari",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "brahmi": {
+    "label": "Brahmi",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "cyrillic": {
+    "label": "Cyrillic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "han": {
+    "label": "Han",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "limbu": {
+    "label": "Limbu",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "khojki": {
+    "label": "Khojki",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "samaritan": {
+    "label": "Samaritan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "duployan": {
+    "label": "Duployan",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-persian": {
+    "label": "Old Persian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "linear-b": {
+    "label": "Linear B",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "old-italic": {
+    "label": "Old Italic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "tagbanwa": {
+    "label": "Tagbanwa",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "bengali": {
+    "label": "Bengali",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "glagolitic": {
+    "label": "Glagolitic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "buginese": {
+    "label": "Buginese",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "takri": {
+    "label": "Takri",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "gothic": {
+    "label": "Gothic",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "bassa-vah": {
+    "label": "Bassa Vah",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "cypriot": {
+    "label": "Cypriot",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "osmanya": {
+    "label": "Osmanya",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "kayah-li": {
+    "label": "Kayah Li",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "canadian-aboriginal": {
+    "label": "Canadian Aboriginal",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "carian": {
+    "label": "Carian",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "nag-mundari": {
+    "label": "Nag Mundari",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "mahajani": {
+    "label": "Mahajani",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  },
+  "lepcha": {
+    "label": "Lepcha",
+    "variants": [
+      {
+        "id": "main",
+        "label": "Characters"
+      }
+    ]
+  }
+}

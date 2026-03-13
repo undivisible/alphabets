@@ -1,0 +1,6102 @@
+[
+  {
+    "label": "ꀀ",
+    "meta": "yi syllable it",
+    "ipa": ""
+  },
+  {
+    "label": "ꀁ",
+    "meta": "yi syllable ix",
+    "ipa": ""
+  },
+  {
+    "label": "ꀂ",
+    "meta": "yi syllable i",
+    "ipa": ""
+  },
+  {
+    "label": "ꀃ",
+    "meta": "yi syllable ip",
+    "ipa": ""
+  },
+  {
+    "label": "ꀄ",
+    "meta": "yi syllable iet",
+    "ipa": ""
+  },
+  {
+    "label": "ꀅ",
+    "meta": "yi syllable iex",
+    "ipa": ""
+  },
+  {
+    "label": "ꀆ",
+    "meta": "yi syllable ie",
+    "ipa": ""
+  },
+  {
+    "label": "ꀇ",
+    "meta": "yi syllable iep",
+    "ipa": ""
+  },
+  {
+    "label": "ꀈ",
+    "meta": "yi syllable at",
+    "ipa": ""
+  },
+  {
+    "label": "ꀉ",
+    "meta": "yi syllable ax",
+    "ipa": ""
+  },
+  {
+    "label": "ꀊ",
+    "meta": "yi syllable a",
+    "ipa": ""
+  },
+  {
+    "label": "ꀋ",
+    "meta": "yi syllable ap",
+    "ipa": ""
+  },
+  {
+    "label": "ꀌ",
+    "meta": "yi syllable uox",
+    "ipa": ""
+  },
+  {
+    "label": "ꀍ",
+    "meta": "yi syllable uo",
+    "ipa": ""
+  },
+  {
+    "label": "ꀎ",
+    "meta": "yi syllable uop",
+    "ipa": ""
+  },
+  {
+    "label": "ꀏ",
+    "meta": "yi syllable ot",
+    "ipa": ""
+  },
+  {
+    "label": "ꀐ",
+    "meta": "yi syllable ox",
+    "ipa": ""
+  },
+  {
+    "label": "ꀑ",
+    "meta": "yi syllable o",
+    "ipa": ""
+  },
+  {
+    "label": "ꀒ",
+    "meta": "yi syllable op",
+    "ipa": ""
+  },
+  {
+    "label": "ꀓ",
+    "meta": "yi syllable ex",
+    "ipa": ""
+  },
+  {
+    "label": "ꀔ",
+    "meta": "yi syllable e",
+    "ipa": ""
+  },
+  {
+    "label": "ꀕ",
+    "meta": "yi syllable wu",
+    "ipa": ""
+  },
+  {
+    "label": "ꀖ",
+    "meta": "yi syllable bit",
+    "ipa": ""
+  },
+  {
+    "label": "ꀗ",
+    "meta": "yi syllable bix",
+    "ipa": ""
+  },
+  {
+    "label": "ꀘ",
+    "meta": "yi syllable bi",
+    "ipa": ""
+  },
+  {
+    "label": "ꀙ",
+    "meta": "yi syllable bip",
+    "ipa": ""
+  },
+  {
+    "label": "ꀚ",
+    "meta": "yi syllable biet",
+    "ipa": ""
+  },
+  {
+    "label": "ꀛ",
+    "meta": "yi syllable biex",
+    "ipa": ""
+  },
+  {
+    "label": "ꀜ",
+    "meta": "yi syllable bie",
+    "ipa": ""
+  },
+  {
+    "label": "ꀝ",
+    "meta": "yi syllable biep",
+    "ipa": ""
+  },
+  {
+    "label": "ꀞ",
+    "meta": "yi syllable bat",
+    "ipa": ""
+  },
+  {
+    "label": "ꀟ",
+    "meta": "yi syllable bax",
+    "ipa": ""
+  },
+  {
+    "label": "ꀠ",
+    "meta": "yi syllable ba",
+    "ipa": ""
+  },
+  {
+    "label": "ꀡ",
+    "meta": "yi syllable bap",
+    "ipa": ""
+  },
+  {
+    "label": "ꀢ",
+    "meta": "yi syllable buox",
+    "ipa": ""
+  },
+  {
+    "label": "ꀣ",
+    "meta": "yi syllable buo",
+    "ipa": ""
+  },
+  {
+    "label": "ꀤ",
+    "meta": "yi syllable buop",
+    "ipa": ""
+  },
+  {
+    "label": "ꀥ",
+    "meta": "yi syllable bot",
+    "ipa": ""
+  },
+  {
+    "label": "ꀦ",
+    "meta": "yi syllable box",
+    "ipa": ""
+  },
+  {
+    "label": "ꀧ",
+    "meta": "yi syllable bo",
+    "ipa": ""
+  },
+  {
+    "label": "ꀨ",
+    "meta": "yi syllable bop",
+    "ipa": ""
+  },
+  {
+    "label": "ꀩ",
+    "meta": "yi syllable bex",
+    "ipa": ""
+  },
+  {
+    "label": "ꀪ",
+    "meta": "yi syllable be",
+    "ipa": ""
+  },
+  {
+    "label": "ꀫ",
+    "meta": "yi syllable bep",
+    "ipa": ""
+  },
+  {
+    "label": "ꀬ",
+    "meta": "yi syllable but",
+    "ipa": ""
+  },
+  {
+    "label": "ꀭ",
+    "meta": "yi syllable bux",
+    "ipa": ""
+  },
+  {
+    "label": "ꀮ",
+    "meta": "yi syllable bu",
+    "ipa": ""
+  },
+  {
+    "label": "ꀯ",
+    "meta": "yi syllable bup",
+    "ipa": ""
+  },
+  {
+    "label": "ꀰ",
+    "meta": "yi syllable burx",
+    "ipa": ""
+  },
+  {
+    "label": "ꀱ",
+    "meta": "yi syllable bur",
+    "ipa": ""
+  },
+  {
+    "label": "ꀲ",
+    "meta": "yi syllable byt",
+    "ipa": ""
+  },
+  {
+    "label": "ꀳ",
+    "meta": "yi syllable byx",
+    "ipa": ""
+  },
+  {
+    "label": "ꀴ",
+    "meta": "yi syllable by",
+    "ipa": ""
+  },
+  {
+    "label": "ꀵ",
+    "meta": "yi syllable byp",
+    "ipa": ""
+  },
+  {
+    "label": "ꀶ",
+    "meta": "yi syllable byrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꀷ",
+    "meta": "yi syllable byr",
+    "ipa": ""
+  },
+  {
+    "label": "ꀸ",
+    "meta": "yi syllable pit",
+    "ipa": ""
+  },
+  {
+    "label": "ꀹ",
+    "meta": "yi syllable pix",
+    "ipa": ""
+  },
+  {
+    "label": "ꀺ",
+    "meta": "yi syllable pi",
+    "ipa": ""
+  },
+  {
+    "label": "ꀻ",
+    "meta": "yi syllable pip",
+    "ipa": ""
+  },
+  {
+    "label": "ꀼ",
+    "meta": "yi syllable piex",
+    "ipa": ""
+  },
+  {
+    "label": "ꀽ",
+    "meta": "yi syllable pie",
+    "ipa": ""
+  },
+  {
+    "label": "ꀾ",
+    "meta": "yi syllable piep",
+    "ipa": ""
+  },
+  {
+    "label": "ꀿ",
+    "meta": "yi syllable pat",
+    "ipa": ""
+  },
+  {
+    "label": "ꁀ",
+    "meta": "yi syllable pax",
+    "ipa": ""
+  },
+  {
+    "label": "ꁁ",
+    "meta": "yi syllable pa",
+    "ipa": ""
+  },
+  {
+    "label": "ꁂ",
+    "meta": "yi syllable pap",
+    "ipa": ""
+  },
+  {
+    "label": "ꁃ",
+    "meta": "yi syllable puox",
+    "ipa": ""
+  },
+  {
+    "label": "ꁄ",
+    "meta": "yi syllable puo",
+    "ipa": ""
+  },
+  {
+    "label": "ꁅ",
+    "meta": "yi syllable puop",
+    "ipa": ""
+  },
+  {
+    "label": "ꁆ",
+    "meta": "yi syllable pot",
+    "ipa": ""
+  },
+  {
+    "label": "ꁇ",
+    "meta": "yi syllable pox",
+    "ipa": ""
+  },
+  {
+    "label": "ꁈ",
+    "meta": "yi syllable po",
+    "ipa": ""
+  },
+  {
+    "label": "ꁉ",
+    "meta": "yi syllable pop",
+    "ipa": ""
+  },
+  {
+    "label": "ꁊ",
+    "meta": "yi syllable put",
+    "ipa": ""
+  },
+  {
+    "label": "ꁋ",
+    "meta": "yi syllable pux",
+    "ipa": ""
+  },
+  {
+    "label": "ꁌ",
+    "meta": "yi syllable pu",
+    "ipa": ""
+  },
+  {
+    "label": "ꁍ",
+    "meta": "yi syllable pup",
+    "ipa": ""
+  },
+  {
+    "label": "ꁎ",
+    "meta": "yi syllable purx",
+    "ipa": ""
+  },
+  {
+    "label": "ꁏ",
+    "meta": "yi syllable pur",
+    "ipa": ""
+  },
+  {
+    "label": "ꁐ",
+    "meta": "yi syllable pyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꁑ",
+    "meta": "yi syllable pyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꁒ",
+    "meta": "yi syllable py",
+    "ipa": ""
+  },
+  {
+    "label": "ꁓ",
+    "meta": "yi syllable pyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꁔ",
+    "meta": "yi syllable pyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꁕ",
+    "meta": "yi syllable pyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꁖ",
+    "meta": "yi syllable bbit",
+    "ipa": ""
+  },
+  {
+    "label": "ꁗ",
+    "meta": "yi syllable bbix",
+    "ipa": ""
+  },
+  {
+    "label": "ꁘ",
+    "meta": "yi syllable bbi",
+    "ipa": ""
+  },
+  {
+    "label": "ꁙ",
+    "meta": "yi syllable bbip",
+    "ipa": ""
+  },
+  {
+    "label": "ꁚ",
+    "meta": "yi syllable bbiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꁛ",
+    "meta": "yi syllable bbiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꁜ",
+    "meta": "yi syllable bbie",
+    "ipa": ""
+  },
+  {
+    "label": "ꁝ",
+    "meta": "yi syllable bbiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꁞ",
+    "meta": "yi syllable bbat",
+    "ipa": ""
+  },
+  {
+    "label": "ꁟ",
+    "meta": "yi syllable bbax",
+    "ipa": ""
+  },
+  {
+    "label": "ꁠ",
+    "meta": "yi syllable bba",
+    "ipa": ""
+  },
+  {
+    "label": "ꁡ",
+    "meta": "yi syllable bbap",
+    "ipa": ""
+  },
+  {
+    "label": "ꁢ",
+    "meta": "yi syllable bbuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꁣ",
+    "meta": "yi syllable bbuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꁤ",
+    "meta": "yi syllable bbuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꁥ",
+    "meta": "yi syllable bbot",
+    "ipa": ""
+  },
+  {
+    "label": "ꁦ",
+    "meta": "yi syllable bbox",
+    "ipa": ""
+  },
+  {
+    "label": "ꁧ",
+    "meta": "yi syllable bbo",
+    "ipa": ""
+  },
+  {
+    "label": "ꁨ",
+    "meta": "yi syllable bbop",
+    "ipa": ""
+  },
+  {
+    "label": "ꁩ",
+    "meta": "yi syllable bbex",
+    "ipa": ""
+  },
+  {
+    "label": "ꁪ",
+    "meta": "yi syllable bbe",
+    "ipa": ""
+  },
+  {
+    "label": "ꁫ",
+    "meta": "yi syllable bbep",
+    "ipa": ""
+  },
+  {
+    "label": "ꁬ",
+    "meta": "yi syllable bbut",
+    "ipa": ""
+  },
+  {
+    "label": "ꁭ",
+    "meta": "yi syllable bbux",
+    "ipa": ""
+  },
+  {
+    "label": "ꁮ",
+    "meta": "yi syllable bbu",
+    "ipa": ""
+  },
+  {
+    "label": "ꁯ",
+    "meta": "yi syllable bbup",
+    "ipa": ""
+  },
+  {
+    "label": "ꁰ",
+    "meta": "yi syllable bburx",
+    "ipa": ""
+  },
+  {
+    "label": "ꁱ",
+    "meta": "yi syllable bbur",
+    "ipa": ""
+  },
+  {
+    "label": "ꁲ",
+    "meta": "yi syllable bbyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꁳ",
+    "meta": "yi syllable bbyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꁴ",
+    "meta": "yi syllable bby",
+    "ipa": ""
+  },
+  {
+    "label": "ꁵ",
+    "meta": "yi syllable bbyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꁶ",
+    "meta": "yi syllable nbit",
+    "ipa": ""
+  },
+  {
+    "label": "ꁷ",
+    "meta": "yi syllable nbix",
+    "ipa": ""
+  },
+  {
+    "label": "ꁸ",
+    "meta": "yi syllable nbi",
+    "ipa": ""
+  },
+  {
+    "label": "ꁹ",
+    "meta": "yi syllable nbip",
+    "ipa": ""
+  },
+  {
+    "label": "ꁺ",
+    "meta": "yi syllable nbiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꁻ",
+    "meta": "yi syllable nbie",
+    "ipa": ""
+  },
+  {
+    "label": "ꁼ",
+    "meta": "yi syllable nbiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꁽ",
+    "meta": "yi syllable nbat",
+    "ipa": ""
+  },
+  {
+    "label": "ꁾ",
+    "meta": "yi syllable nbax",
+    "ipa": ""
+  },
+  {
+    "label": "ꁿ",
+    "meta": "yi syllable nba",
+    "ipa": ""
+  },
+  {
+    "label": "ꂀ",
+    "meta": "yi syllable nbap",
+    "ipa": ""
+  },
+  {
+    "label": "ꂁ",
+    "meta": "yi syllable nbot",
+    "ipa": ""
+  },
+  {
+    "label": "ꂂ",
+    "meta": "yi syllable nbox",
+    "ipa": ""
+  },
+  {
+    "label": "ꂃ",
+    "meta": "yi syllable nbo",
+    "ipa": ""
+  },
+  {
+    "label": "ꂄ",
+    "meta": "yi syllable nbop",
+    "ipa": ""
+  },
+  {
+    "label": "ꂅ",
+    "meta": "yi syllable nbut",
+    "ipa": ""
+  },
+  {
+    "label": "ꂆ",
+    "meta": "yi syllable nbux",
+    "ipa": ""
+  },
+  {
+    "label": "ꂇ",
+    "meta": "yi syllable nbu",
+    "ipa": ""
+  },
+  {
+    "label": "ꂈ",
+    "meta": "yi syllable nbup",
+    "ipa": ""
+  },
+  {
+    "label": "ꂉ",
+    "meta": "yi syllable nburx",
+    "ipa": ""
+  },
+  {
+    "label": "ꂊ",
+    "meta": "yi syllable nbur",
+    "ipa": ""
+  },
+  {
+    "label": "ꂋ",
+    "meta": "yi syllable nbyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꂌ",
+    "meta": "yi syllable nbyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꂍ",
+    "meta": "yi syllable nby",
+    "ipa": ""
+  },
+  {
+    "label": "ꂎ",
+    "meta": "yi syllable nbyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꂏ",
+    "meta": "yi syllable nbyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꂐ",
+    "meta": "yi syllable nbyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꂑ",
+    "meta": "yi syllable hmit",
+    "ipa": ""
+  },
+  {
+    "label": "ꂒ",
+    "meta": "yi syllable hmix",
+    "ipa": ""
+  },
+  {
+    "label": "ꂓ",
+    "meta": "yi syllable hmi",
+    "ipa": ""
+  },
+  {
+    "label": "ꂔ",
+    "meta": "yi syllable hmip",
+    "ipa": ""
+  },
+  {
+    "label": "ꂕ",
+    "meta": "yi syllable hmiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꂖ",
+    "meta": "yi syllable hmie",
+    "ipa": ""
+  },
+  {
+    "label": "ꂗ",
+    "meta": "yi syllable hmiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꂘ",
+    "meta": "yi syllable hmat",
+    "ipa": ""
+  },
+  {
+    "label": "ꂙ",
+    "meta": "yi syllable hmax",
+    "ipa": ""
+  },
+  {
+    "label": "ꂚ",
+    "meta": "yi syllable hma",
+    "ipa": ""
+  },
+  {
+    "label": "ꂛ",
+    "meta": "yi syllable hmap",
+    "ipa": ""
+  },
+  {
+    "label": "ꂜ",
+    "meta": "yi syllable hmuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꂝ",
+    "meta": "yi syllable hmuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꂞ",
+    "meta": "yi syllable hmuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꂟ",
+    "meta": "yi syllable hmot",
+    "ipa": ""
+  },
+  {
+    "label": "ꂠ",
+    "meta": "yi syllable hmox",
+    "ipa": ""
+  },
+  {
+    "label": "ꂡ",
+    "meta": "yi syllable hmo",
+    "ipa": ""
+  },
+  {
+    "label": "ꂢ",
+    "meta": "yi syllable hmop",
+    "ipa": ""
+  },
+  {
+    "label": "ꂣ",
+    "meta": "yi syllable hmut",
+    "ipa": ""
+  },
+  {
+    "label": "ꂤ",
+    "meta": "yi syllable hmux",
+    "ipa": ""
+  },
+  {
+    "label": "ꂥ",
+    "meta": "yi syllable hmu",
+    "ipa": ""
+  },
+  {
+    "label": "ꂦ",
+    "meta": "yi syllable hmup",
+    "ipa": ""
+  },
+  {
+    "label": "ꂧ",
+    "meta": "yi syllable hmurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꂨ",
+    "meta": "yi syllable hmur",
+    "ipa": ""
+  },
+  {
+    "label": "ꂩ",
+    "meta": "yi syllable hmyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꂪ",
+    "meta": "yi syllable hmy",
+    "ipa": ""
+  },
+  {
+    "label": "ꂫ",
+    "meta": "yi syllable hmyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꂬ",
+    "meta": "yi syllable hmyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꂭ",
+    "meta": "yi syllable hmyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꂮ",
+    "meta": "yi syllable mit",
+    "ipa": ""
+  },
+  {
+    "label": "ꂯ",
+    "meta": "yi syllable mix",
+    "ipa": ""
+  },
+  {
+    "label": "ꂰ",
+    "meta": "yi syllable mi",
+    "ipa": ""
+  },
+  {
+    "label": "ꂱ",
+    "meta": "yi syllable mip",
+    "ipa": ""
+  },
+  {
+    "label": "ꂲ",
+    "meta": "yi syllable miex",
+    "ipa": ""
+  },
+  {
+    "label": "ꂳ",
+    "meta": "yi syllable mie",
+    "ipa": ""
+  },
+  {
+    "label": "ꂴ",
+    "meta": "yi syllable miep",
+    "ipa": ""
+  },
+  {
+    "label": "ꂵ",
+    "meta": "yi syllable mat",
+    "ipa": ""
+  },
+  {
+    "label": "ꂶ",
+    "meta": "yi syllable max",
+    "ipa": ""
+  },
+  {
+    "label": "ꂷ",
+    "meta": "yi syllable ma",
+    "ipa": ""
+  },
+  {
+    "label": "ꂸ",
+    "meta": "yi syllable map",
+    "ipa": ""
+  },
+  {
+    "label": "ꂹ",
+    "meta": "yi syllable muot",
+    "ipa": ""
+  },
+  {
+    "label": "ꂺ",
+    "meta": "yi syllable muox",
+    "ipa": ""
+  },
+  {
+    "label": "ꂻ",
+    "meta": "yi syllable muo",
+    "ipa": ""
+  },
+  {
+    "label": "ꂼ",
+    "meta": "yi syllable muop",
+    "ipa": ""
+  },
+  {
+    "label": "ꂽ",
+    "meta": "yi syllable mot",
+    "ipa": ""
+  },
+  {
+    "label": "ꂾ",
+    "meta": "yi syllable mox",
+    "ipa": ""
+  },
+  {
+    "label": "ꂿ",
+    "meta": "yi syllable mo",
+    "ipa": ""
+  },
+  {
+    "label": "ꃀ",
+    "meta": "yi syllable mop",
+    "ipa": ""
+  },
+  {
+    "label": "ꃁ",
+    "meta": "yi syllable mex",
+    "ipa": ""
+  },
+  {
+    "label": "ꃂ",
+    "meta": "yi syllable me",
+    "ipa": ""
+  },
+  {
+    "label": "ꃃ",
+    "meta": "yi syllable mut",
+    "ipa": ""
+  },
+  {
+    "label": "ꃄ",
+    "meta": "yi syllable mux",
+    "ipa": ""
+  },
+  {
+    "label": "ꃅ",
+    "meta": "yi syllable mu",
+    "ipa": ""
+  },
+  {
+    "label": "ꃆ",
+    "meta": "yi syllable mup",
+    "ipa": ""
+  },
+  {
+    "label": "ꃇ",
+    "meta": "yi syllable murx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃈ",
+    "meta": "yi syllable mur",
+    "ipa": ""
+  },
+  {
+    "label": "ꃉ",
+    "meta": "yi syllable myt",
+    "ipa": ""
+  },
+  {
+    "label": "ꃊ",
+    "meta": "yi syllable myx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃋ",
+    "meta": "yi syllable my",
+    "ipa": ""
+  },
+  {
+    "label": "ꃌ",
+    "meta": "yi syllable myp",
+    "ipa": ""
+  },
+  {
+    "label": "ꃍ",
+    "meta": "yi syllable fit",
+    "ipa": ""
+  },
+  {
+    "label": "ꃎ",
+    "meta": "yi syllable fix",
+    "ipa": ""
+  },
+  {
+    "label": "ꃏ",
+    "meta": "yi syllable fi",
+    "ipa": ""
+  },
+  {
+    "label": "ꃐ",
+    "meta": "yi syllable fip",
+    "ipa": ""
+  },
+  {
+    "label": "ꃑ",
+    "meta": "yi syllable fat",
+    "ipa": ""
+  },
+  {
+    "label": "ꃒ",
+    "meta": "yi syllable fax",
+    "ipa": ""
+  },
+  {
+    "label": "ꃓ",
+    "meta": "yi syllable fa",
+    "ipa": ""
+  },
+  {
+    "label": "ꃔ",
+    "meta": "yi syllable fap",
+    "ipa": ""
+  },
+  {
+    "label": "ꃕ",
+    "meta": "yi syllable fox",
+    "ipa": ""
+  },
+  {
+    "label": "ꃖ",
+    "meta": "yi syllable fo",
+    "ipa": ""
+  },
+  {
+    "label": "ꃗ",
+    "meta": "yi syllable fop",
+    "ipa": ""
+  },
+  {
+    "label": "ꃘ",
+    "meta": "yi syllable fut",
+    "ipa": ""
+  },
+  {
+    "label": "ꃙ",
+    "meta": "yi syllable fux",
+    "ipa": ""
+  },
+  {
+    "label": "ꃚ",
+    "meta": "yi syllable fu",
+    "ipa": ""
+  },
+  {
+    "label": "ꃛ",
+    "meta": "yi syllable fup",
+    "ipa": ""
+  },
+  {
+    "label": "ꃜ",
+    "meta": "yi syllable furx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃝ",
+    "meta": "yi syllable fur",
+    "ipa": ""
+  },
+  {
+    "label": "ꃞ",
+    "meta": "yi syllable fyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꃟ",
+    "meta": "yi syllable fyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃠ",
+    "meta": "yi syllable fy",
+    "ipa": ""
+  },
+  {
+    "label": "ꃡ",
+    "meta": "yi syllable fyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꃢ",
+    "meta": "yi syllable vit",
+    "ipa": ""
+  },
+  {
+    "label": "ꃣ",
+    "meta": "yi syllable vix",
+    "ipa": ""
+  },
+  {
+    "label": "ꃤ",
+    "meta": "yi syllable vi",
+    "ipa": ""
+  },
+  {
+    "label": "ꃥ",
+    "meta": "yi syllable vip",
+    "ipa": ""
+  },
+  {
+    "label": "ꃦ",
+    "meta": "yi syllable viet",
+    "ipa": ""
+  },
+  {
+    "label": "ꃧ",
+    "meta": "yi syllable viex",
+    "ipa": ""
+  },
+  {
+    "label": "ꃨ",
+    "meta": "yi syllable vie",
+    "ipa": ""
+  },
+  {
+    "label": "ꃩ",
+    "meta": "yi syllable viep",
+    "ipa": ""
+  },
+  {
+    "label": "ꃪ",
+    "meta": "yi syllable vat",
+    "ipa": ""
+  },
+  {
+    "label": "ꃫ",
+    "meta": "yi syllable vax",
+    "ipa": ""
+  },
+  {
+    "label": "ꃬ",
+    "meta": "yi syllable va",
+    "ipa": ""
+  },
+  {
+    "label": "ꃭ",
+    "meta": "yi syllable vap",
+    "ipa": ""
+  },
+  {
+    "label": "ꃮ",
+    "meta": "yi syllable vot",
+    "ipa": ""
+  },
+  {
+    "label": "ꃯ",
+    "meta": "yi syllable vox",
+    "ipa": ""
+  },
+  {
+    "label": "ꃰ",
+    "meta": "yi syllable vo",
+    "ipa": ""
+  },
+  {
+    "label": "ꃱ",
+    "meta": "yi syllable vop",
+    "ipa": ""
+  },
+  {
+    "label": "ꃲ",
+    "meta": "yi syllable vex",
+    "ipa": ""
+  },
+  {
+    "label": "ꃳ",
+    "meta": "yi syllable vep",
+    "ipa": ""
+  },
+  {
+    "label": "ꃴ",
+    "meta": "yi syllable vut",
+    "ipa": ""
+  },
+  {
+    "label": "ꃵ",
+    "meta": "yi syllable vux",
+    "ipa": ""
+  },
+  {
+    "label": "ꃶ",
+    "meta": "yi syllable vu",
+    "ipa": ""
+  },
+  {
+    "label": "ꃷ",
+    "meta": "yi syllable vup",
+    "ipa": ""
+  },
+  {
+    "label": "ꃸ",
+    "meta": "yi syllable vurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃹ",
+    "meta": "yi syllable vur",
+    "ipa": ""
+  },
+  {
+    "label": "ꃺ",
+    "meta": "yi syllable vyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꃻ",
+    "meta": "yi syllable vyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃼ",
+    "meta": "yi syllable vy",
+    "ipa": ""
+  },
+  {
+    "label": "ꃽ",
+    "meta": "yi syllable vyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꃾ",
+    "meta": "yi syllable vyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꃿ",
+    "meta": "yi syllable vyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꄀ",
+    "meta": "yi syllable dit",
+    "ipa": ""
+  },
+  {
+    "label": "ꄁ",
+    "meta": "yi syllable dix",
+    "ipa": ""
+  },
+  {
+    "label": "ꄂ",
+    "meta": "yi syllable di",
+    "ipa": ""
+  },
+  {
+    "label": "ꄃ",
+    "meta": "yi syllable dip",
+    "ipa": ""
+  },
+  {
+    "label": "ꄄ",
+    "meta": "yi syllable diex",
+    "ipa": ""
+  },
+  {
+    "label": "ꄅ",
+    "meta": "yi syllable die",
+    "ipa": ""
+  },
+  {
+    "label": "ꄆ",
+    "meta": "yi syllable diep",
+    "ipa": ""
+  },
+  {
+    "label": "ꄇ",
+    "meta": "yi syllable dat",
+    "ipa": ""
+  },
+  {
+    "label": "ꄈ",
+    "meta": "yi syllable dax",
+    "ipa": ""
+  },
+  {
+    "label": "ꄉ",
+    "meta": "yi syllable da",
+    "ipa": ""
+  },
+  {
+    "label": "ꄊ",
+    "meta": "yi syllable dap",
+    "ipa": ""
+  },
+  {
+    "label": "ꄋ",
+    "meta": "yi syllable duox",
+    "ipa": ""
+  },
+  {
+    "label": "ꄌ",
+    "meta": "yi syllable duo",
+    "ipa": ""
+  },
+  {
+    "label": "ꄍ",
+    "meta": "yi syllable dot",
+    "ipa": ""
+  },
+  {
+    "label": "ꄎ",
+    "meta": "yi syllable dox",
+    "ipa": ""
+  },
+  {
+    "label": "ꄏ",
+    "meta": "yi syllable do",
+    "ipa": ""
+  },
+  {
+    "label": "ꄐ",
+    "meta": "yi syllable dop",
+    "ipa": ""
+  },
+  {
+    "label": "ꄑ",
+    "meta": "yi syllable dex",
+    "ipa": ""
+  },
+  {
+    "label": "ꄒ",
+    "meta": "yi syllable de",
+    "ipa": ""
+  },
+  {
+    "label": "ꄓ",
+    "meta": "yi syllable dep",
+    "ipa": ""
+  },
+  {
+    "label": "ꄔ",
+    "meta": "yi syllable dut",
+    "ipa": ""
+  },
+  {
+    "label": "ꄕ",
+    "meta": "yi syllable dux",
+    "ipa": ""
+  },
+  {
+    "label": "ꄖ",
+    "meta": "yi syllable du",
+    "ipa": ""
+  },
+  {
+    "label": "ꄗ",
+    "meta": "yi syllable dup",
+    "ipa": ""
+  },
+  {
+    "label": "ꄘ",
+    "meta": "yi syllable durx",
+    "ipa": ""
+  },
+  {
+    "label": "ꄙ",
+    "meta": "yi syllable dur",
+    "ipa": ""
+  },
+  {
+    "label": "ꄚ",
+    "meta": "yi syllable tit",
+    "ipa": ""
+  },
+  {
+    "label": "ꄛ",
+    "meta": "yi syllable tix",
+    "ipa": ""
+  },
+  {
+    "label": "ꄜ",
+    "meta": "yi syllable ti",
+    "ipa": ""
+  },
+  {
+    "label": "ꄝ",
+    "meta": "yi syllable tip",
+    "ipa": ""
+  },
+  {
+    "label": "ꄞ",
+    "meta": "yi syllable tiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꄟ",
+    "meta": "yi syllable tie",
+    "ipa": ""
+  },
+  {
+    "label": "ꄠ",
+    "meta": "yi syllable tiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꄡ",
+    "meta": "yi syllable tat",
+    "ipa": ""
+  },
+  {
+    "label": "ꄢ",
+    "meta": "yi syllable tax",
+    "ipa": ""
+  },
+  {
+    "label": "ꄣ",
+    "meta": "yi syllable ta",
+    "ipa": ""
+  },
+  {
+    "label": "ꄤ",
+    "meta": "yi syllable tap",
+    "ipa": ""
+  },
+  {
+    "label": "ꄥ",
+    "meta": "yi syllable tuot",
+    "ipa": ""
+  },
+  {
+    "label": "ꄦ",
+    "meta": "yi syllable tuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꄧ",
+    "meta": "yi syllable tuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꄨ",
+    "meta": "yi syllable tuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꄩ",
+    "meta": "yi syllable tot",
+    "ipa": ""
+  },
+  {
+    "label": "ꄪ",
+    "meta": "yi syllable tox",
+    "ipa": ""
+  },
+  {
+    "label": "ꄫ",
+    "meta": "yi syllable to",
+    "ipa": ""
+  },
+  {
+    "label": "ꄬ",
+    "meta": "yi syllable top",
+    "ipa": ""
+  },
+  {
+    "label": "ꄭ",
+    "meta": "yi syllable tex",
+    "ipa": ""
+  },
+  {
+    "label": "ꄮ",
+    "meta": "yi syllable te",
+    "ipa": ""
+  },
+  {
+    "label": "ꄯ",
+    "meta": "yi syllable tep",
+    "ipa": ""
+  },
+  {
+    "label": "ꄰ",
+    "meta": "yi syllable tut",
+    "ipa": ""
+  },
+  {
+    "label": "ꄱ",
+    "meta": "yi syllable tux",
+    "ipa": ""
+  },
+  {
+    "label": "ꄲ",
+    "meta": "yi syllable tu",
+    "ipa": ""
+  },
+  {
+    "label": "ꄳ",
+    "meta": "yi syllable tup",
+    "ipa": ""
+  },
+  {
+    "label": "ꄴ",
+    "meta": "yi syllable turx",
+    "ipa": ""
+  },
+  {
+    "label": "ꄵ",
+    "meta": "yi syllable tur",
+    "ipa": ""
+  },
+  {
+    "label": "ꄶ",
+    "meta": "yi syllable ddit",
+    "ipa": ""
+  },
+  {
+    "label": "ꄷ",
+    "meta": "yi syllable ddix",
+    "ipa": ""
+  },
+  {
+    "label": "ꄸ",
+    "meta": "yi syllable ddi",
+    "ipa": ""
+  },
+  {
+    "label": "ꄹ",
+    "meta": "yi syllable ddip",
+    "ipa": ""
+  },
+  {
+    "label": "ꄺ",
+    "meta": "yi syllable ddiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꄻ",
+    "meta": "yi syllable ddie",
+    "ipa": ""
+  },
+  {
+    "label": "ꄼ",
+    "meta": "yi syllable ddiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꄽ",
+    "meta": "yi syllable ddat",
+    "ipa": ""
+  },
+  {
+    "label": "ꄾ",
+    "meta": "yi syllable ddax",
+    "ipa": ""
+  },
+  {
+    "label": "ꄿ",
+    "meta": "yi syllable dda",
+    "ipa": ""
+  },
+  {
+    "label": "ꅀ",
+    "meta": "yi syllable ddap",
+    "ipa": ""
+  },
+  {
+    "label": "ꅁ",
+    "meta": "yi syllable dduox",
+    "ipa": ""
+  },
+  {
+    "label": "ꅂ",
+    "meta": "yi syllable dduo",
+    "ipa": ""
+  },
+  {
+    "label": "ꅃ",
+    "meta": "yi syllable dduop",
+    "ipa": ""
+  },
+  {
+    "label": "ꅄ",
+    "meta": "yi syllable ddot",
+    "ipa": ""
+  },
+  {
+    "label": "ꅅ",
+    "meta": "yi syllable ddox",
+    "ipa": ""
+  },
+  {
+    "label": "ꅆ",
+    "meta": "yi syllable ddo",
+    "ipa": ""
+  },
+  {
+    "label": "ꅇ",
+    "meta": "yi syllable ddop",
+    "ipa": ""
+  },
+  {
+    "label": "ꅈ",
+    "meta": "yi syllable ddex",
+    "ipa": ""
+  },
+  {
+    "label": "ꅉ",
+    "meta": "yi syllable dde",
+    "ipa": ""
+  },
+  {
+    "label": "ꅊ",
+    "meta": "yi syllable ddep",
+    "ipa": ""
+  },
+  {
+    "label": "ꅋ",
+    "meta": "yi syllable ddut",
+    "ipa": ""
+  },
+  {
+    "label": "ꅌ",
+    "meta": "yi syllable ddux",
+    "ipa": ""
+  },
+  {
+    "label": "ꅍ",
+    "meta": "yi syllable ddu",
+    "ipa": ""
+  },
+  {
+    "label": "ꅎ",
+    "meta": "yi syllable ddup",
+    "ipa": ""
+  },
+  {
+    "label": "ꅏ",
+    "meta": "yi syllable ddurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꅐ",
+    "meta": "yi syllable ddur",
+    "ipa": ""
+  },
+  {
+    "label": "ꅑ",
+    "meta": "yi syllable ndit",
+    "ipa": ""
+  },
+  {
+    "label": "ꅒ",
+    "meta": "yi syllable ndix",
+    "ipa": ""
+  },
+  {
+    "label": "ꅓ",
+    "meta": "yi syllable ndi",
+    "ipa": ""
+  },
+  {
+    "label": "ꅔ",
+    "meta": "yi syllable ndip",
+    "ipa": ""
+  },
+  {
+    "label": "ꅕ",
+    "meta": "yi syllable ndiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꅖ",
+    "meta": "yi syllable ndie",
+    "ipa": ""
+  },
+  {
+    "label": "ꅗ",
+    "meta": "yi syllable ndat",
+    "ipa": ""
+  },
+  {
+    "label": "ꅘ",
+    "meta": "yi syllable ndax",
+    "ipa": ""
+  },
+  {
+    "label": "ꅙ",
+    "meta": "yi syllable nda",
+    "ipa": ""
+  },
+  {
+    "label": "ꅚ",
+    "meta": "yi syllable ndap",
+    "ipa": ""
+  },
+  {
+    "label": "ꅛ",
+    "meta": "yi syllable ndot",
+    "ipa": ""
+  },
+  {
+    "label": "ꅜ",
+    "meta": "yi syllable ndox",
+    "ipa": ""
+  },
+  {
+    "label": "ꅝ",
+    "meta": "yi syllable ndo",
+    "ipa": ""
+  },
+  {
+    "label": "ꅞ",
+    "meta": "yi syllable ndop",
+    "ipa": ""
+  },
+  {
+    "label": "ꅟ",
+    "meta": "yi syllable ndex",
+    "ipa": ""
+  },
+  {
+    "label": "ꅠ",
+    "meta": "yi syllable nde",
+    "ipa": ""
+  },
+  {
+    "label": "ꅡ",
+    "meta": "yi syllable ndep",
+    "ipa": ""
+  },
+  {
+    "label": "ꅢ",
+    "meta": "yi syllable ndut",
+    "ipa": ""
+  },
+  {
+    "label": "ꅣ",
+    "meta": "yi syllable ndux",
+    "ipa": ""
+  },
+  {
+    "label": "ꅤ",
+    "meta": "yi syllable ndu",
+    "ipa": ""
+  },
+  {
+    "label": "ꅥ",
+    "meta": "yi syllable ndup",
+    "ipa": ""
+  },
+  {
+    "label": "ꅦ",
+    "meta": "yi syllable ndurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꅧ",
+    "meta": "yi syllable ndur",
+    "ipa": ""
+  },
+  {
+    "label": "ꅨ",
+    "meta": "yi syllable hnit",
+    "ipa": ""
+  },
+  {
+    "label": "ꅩ",
+    "meta": "yi syllable hnix",
+    "ipa": ""
+  },
+  {
+    "label": "ꅪ",
+    "meta": "yi syllable hni",
+    "ipa": ""
+  },
+  {
+    "label": "ꅫ",
+    "meta": "yi syllable hnip",
+    "ipa": ""
+  },
+  {
+    "label": "ꅬ",
+    "meta": "yi syllable hniet",
+    "ipa": ""
+  },
+  {
+    "label": "ꅭ",
+    "meta": "yi syllable hniex",
+    "ipa": ""
+  },
+  {
+    "label": "ꅮ",
+    "meta": "yi syllable hnie",
+    "ipa": ""
+  },
+  {
+    "label": "ꅯ",
+    "meta": "yi syllable hniep",
+    "ipa": ""
+  },
+  {
+    "label": "ꅰ",
+    "meta": "yi syllable hnat",
+    "ipa": ""
+  },
+  {
+    "label": "ꅱ",
+    "meta": "yi syllable hnax",
+    "ipa": ""
+  },
+  {
+    "label": "ꅲ",
+    "meta": "yi syllable hna",
+    "ipa": ""
+  },
+  {
+    "label": "ꅳ",
+    "meta": "yi syllable hnap",
+    "ipa": ""
+  },
+  {
+    "label": "ꅴ",
+    "meta": "yi syllable hnuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꅵ",
+    "meta": "yi syllable hnuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꅶ",
+    "meta": "yi syllable hnot",
+    "ipa": ""
+  },
+  {
+    "label": "ꅷ",
+    "meta": "yi syllable hnox",
+    "ipa": ""
+  },
+  {
+    "label": "ꅸ",
+    "meta": "yi syllable hnop",
+    "ipa": ""
+  },
+  {
+    "label": "ꅹ",
+    "meta": "yi syllable hnex",
+    "ipa": ""
+  },
+  {
+    "label": "ꅺ",
+    "meta": "yi syllable hne",
+    "ipa": ""
+  },
+  {
+    "label": "ꅻ",
+    "meta": "yi syllable hnep",
+    "ipa": ""
+  },
+  {
+    "label": "ꅼ",
+    "meta": "yi syllable hnut",
+    "ipa": ""
+  },
+  {
+    "label": "ꅽ",
+    "meta": "yi syllable nit",
+    "ipa": ""
+  },
+  {
+    "label": "ꅾ",
+    "meta": "yi syllable nix",
+    "ipa": ""
+  },
+  {
+    "label": "ꅿ",
+    "meta": "yi syllable ni",
+    "ipa": ""
+  },
+  {
+    "label": "ꆀ",
+    "meta": "yi syllable nip",
+    "ipa": ""
+  },
+  {
+    "label": "ꆁ",
+    "meta": "yi syllable niex",
+    "ipa": ""
+  },
+  {
+    "label": "ꆂ",
+    "meta": "yi syllable nie",
+    "ipa": ""
+  },
+  {
+    "label": "ꆃ",
+    "meta": "yi syllable niep",
+    "ipa": ""
+  },
+  {
+    "label": "ꆄ",
+    "meta": "yi syllable nax",
+    "ipa": ""
+  },
+  {
+    "label": "ꆅ",
+    "meta": "yi syllable na",
+    "ipa": ""
+  },
+  {
+    "label": "ꆆ",
+    "meta": "yi syllable nap",
+    "ipa": ""
+  },
+  {
+    "label": "ꆇ",
+    "meta": "yi syllable nuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꆈ",
+    "meta": "yi syllable nuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꆉ",
+    "meta": "yi syllable nuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꆊ",
+    "meta": "yi syllable not",
+    "ipa": ""
+  },
+  {
+    "label": "ꆋ",
+    "meta": "yi syllable nox",
+    "ipa": ""
+  },
+  {
+    "label": "ꆌ",
+    "meta": "yi syllable no",
+    "ipa": ""
+  },
+  {
+    "label": "ꆍ",
+    "meta": "yi syllable nop",
+    "ipa": ""
+  },
+  {
+    "label": "ꆎ",
+    "meta": "yi syllable nex",
+    "ipa": ""
+  },
+  {
+    "label": "ꆏ",
+    "meta": "yi syllable ne",
+    "ipa": ""
+  },
+  {
+    "label": "ꆐ",
+    "meta": "yi syllable nep",
+    "ipa": ""
+  },
+  {
+    "label": "ꆑ",
+    "meta": "yi syllable nut",
+    "ipa": ""
+  },
+  {
+    "label": "ꆒ",
+    "meta": "yi syllable nux",
+    "ipa": ""
+  },
+  {
+    "label": "ꆓ",
+    "meta": "yi syllable nu",
+    "ipa": ""
+  },
+  {
+    "label": "ꆔ",
+    "meta": "yi syllable nup",
+    "ipa": ""
+  },
+  {
+    "label": "ꆕ",
+    "meta": "yi syllable nurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꆖ",
+    "meta": "yi syllable nur",
+    "ipa": ""
+  },
+  {
+    "label": "ꆗ",
+    "meta": "yi syllable hlit",
+    "ipa": ""
+  },
+  {
+    "label": "ꆘ",
+    "meta": "yi syllable hlix",
+    "ipa": ""
+  },
+  {
+    "label": "ꆙ",
+    "meta": "yi syllable hli",
+    "ipa": ""
+  },
+  {
+    "label": "ꆚ",
+    "meta": "yi syllable hlip",
+    "ipa": ""
+  },
+  {
+    "label": "ꆛ",
+    "meta": "yi syllable hliex",
+    "ipa": ""
+  },
+  {
+    "label": "ꆜ",
+    "meta": "yi syllable hlie",
+    "ipa": ""
+  },
+  {
+    "label": "ꆝ",
+    "meta": "yi syllable hliep",
+    "ipa": ""
+  },
+  {
+    "label": "ꆞ",
+    "meta": "yi syllable hlat",
+    "ipa": ""
+  },
+  {
+    "label": "ꆟ",
+    "meta": "yi syllable hlax",
+    "ipa": ""
+  },
+  {
+    "label": "ꆠ",
+    "meta": "yi syllable hla",
+    "ipa": ""
+  },
+  {
+    "label": "ꆡ",
+    "meta": "yi syllable hlap",
+    "ipa": ""
+  },
+  {
+    "label": "ꆢ",
+    "meta": "yi syllable hluox",
+    "ipa": ""
+  },
+  {
+    "label": "ꆣ",
+    "meta": "yi syllable hluo",
+    "ipa": ""
+  },
+  {
+    "label": "ꆤ",
+    "meta": "yi syllable hluop",
+    "ipa": ""
+  },
+  {
+    "label": "ꆥ",
+    "meta": "yi syllable hlox",
+    "ipa": ""
+  },
+  {
+    "label": "ꆦ",
+    "meta": "yi syllable hlo",
+    "ipa": ""
+  },
+  {
+    "label": "ꆧ",
+    "meta": "yi syllable hlop",
+    "ipa": ""
+  },
+  {
+    "label": "ꆨ",
+    "meta": "yi syllable hlex",
+    "ipa": ""
+  },
+  {
+    "label": "ꆩ",
+    "meta": "yi syllable hle",
+    "ipa": ""
+  },
+  {
+    "label": "ꆪ",
+    "meta": "yi syllable hlep",
+    "ipa": ""
+  },
+  {
+    "label": "ꆫ",
+    "meta": "yi syllable hlut",
+    "ipa": ""
+  },
+  {
+    "label": "ꆬ",
+    "meta": "yi syllable hlux",
+    "ipa": ""
+  },
+  {
+    "label": "ꆭ",
+    "meta": "yi syllable hlu",
+    "ipa": ""
+  },
+  {
+    "label": "ꆮ",
+    "meta": "yi syllable hlup",
+    "ipa": ""
+  },
+  {
+    "label": "ꆯ",
+    "meta": "yi syllable hlurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꆰ",
+    "meta": "yi syllable hlur",
+    "ipa": ""
+  },
+  {
+    "label": "ꆱ",
+    "meta": "yi syllable hlyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꆲ",
+    "meta": "yi syllable hlyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꆳ",
+    "meta": "yi syllable hly",
+    "ipa": ""
+  },
+  {
+    "label": "ꆴ",
+    "meta": "yi syllable hlyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꆵ",
+    "meta": "yi syllable hlyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꆶ",
+    "meta": "yi syllable hlyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꆷ",
+    "meta": "yi syllable lit",
+    "ipa": ""
+  },
+  {
+    "label": "ꆸ",
+    "meta": "yi syllable lix",
+    "ipa": ""
+  },
+  {
+    "label": "ꆹ",
+    "meta": "yi syllable li",
+    "ipa": ""
+  },
+  {
+    "label": "ꆺ",
+    "meta": "yi syllable lip",
+    "ipa": ""
+  },
+  {
+    "label": "ꆻ",
+    "meta": "yi syllable liet",
+    "ipa": ""
+  },
+  {
+    "label": "ꆼ",
+    "meta": "yi syllable liex",
+    "ipa": ""
+  },
+  {
+    "label": "ꆽ",
+    "meta": "yi syllable lie",
+    "ipa": ""
+  },
+  {
+    "label": "ꆾ",
+    "meta": "yi syllable liep",
+    "ipa": ""
+  },
+  {
+    "label": "ꆿ",
+    "meta": "yi syllable lat",
+    "ipa": ""
+  },
+  {
+    "label": "ꇀ",
+    "meta": "yi syllable lax",
+    "ipa": ""
+  },
+  {
+    "label": "ꇁ",
+    "meta": "yi syllable la",
+    "ipa": ""
+  },
+  {
+    "label": "ꇂ",
+    "meta": "yi syllable lap",
+    "ipa": ""
+  },
+  {
+    "label": "ꇃ",
+    "meta": "yi syllable luot",
+    "ipa": ""
+  },
+  {
+    "label": "ꇄ",
+    "meta": "yi syllable luox",
+    "ipa": ""
+  },
+  {
+    "label": "ꇅ",
+    "meta": "yi syllable luo",
+    "ipa": ""
+  },
+  {
+    "label": "ꇆ",
+    "meta": "yi syllable luop",
+    "ipa": ""
+  },
+  {
+    "label": "ꇇ",
+    "meta": "yi syllable lot",
+    "ipa": ""
+  },
+  {
+    "label": "ꇈ",
+    "meta": "yi syllable lox",
+    "ipa": ""
+  },
+  {
+    "label": "ꇉ",
+    "meta": "yi syllable lo",
+    "ipa": ""
+  },
+  {
+    "label": "ꇊ",
+    "meta": "yi syllable lop",
+    "ipa": ""
+  },
+  {
+    "label": "ꇋ",
+    "meta": "yi syllable lex",
+    "ipa": ""
+  },
+  {
+    "label": "ꇌ",
+    "meta": "yi syllable le",
+    "ipa": ""
+  },
+  {
+    "label": "ꇍ",
+    "meta": "yi syllable lep",
+    "ipa": ""
+  },
+  {
+    "label": "ꇎ",
+    "meta": "yi syllable lut",
+    "ipa": ""
+  },
+  {
+    "label": "ꇏ",
+    "meta": "yi syllable lux",
+    "ipa": ""
+  },
+  {
+    "label": "ꇐ",
+    "meta": "yi syllable lu",
+    "ipa": ""
+  },
+  {
+    "label": "ꇑ",
+    "meta": "yi syllable lup",
+    "ipa": ""
+  },
+  {
+    "label": "ꇒ",
+    "meta": "yi syllable lurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꇓ",
+    "meta": "yi syllable lur",
+    "ipa": ""
+  },
+  {
+    "label": "ꇔ",
+    "meta": "yi syllable lyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꇕ",
+    "meta": "yi syllable lyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꇖ",
+    "meta": "yi syllable ly",
+    "ipa": ""
+  },
+  {
+    "label": "ꇗ",
+    "meta": "yi syllable lyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꇘ",
+    "meta": "yi syllable lyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꇙ",
+    "meta": "yi syllable lyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꇚ",
+    "meta": "yi syllable git",
+    "ipa": ""
+  },
+  {
+    "label": "ꇛ",
+    "meta": "yi syllable gix",
+    "ipa": ""
+  },
+  {
+    "label": "ꇜ",
+    "meta": "yi syllable gi",
+    "ipa": ""
+  },
+  {
+    "label": "ꇝ",
+    "meta": "yi syllable gip",
+    "ipa": ""
+  },
+  {
+    "label": "ꇞ",
+    "meta": "yi syllable giet",
+    "ipa": ""
+  },
+  {
+    "label": "ꇟ",
+    "meta": "yi syllable giex",
+    "ipa": ""
+  },
+  {
+    "label": "ꇠ",
+    "meta": "yi syllable gie",
+    "ipa": ""
+  },
+  {
+    "label": "ꇡ",
+    "meta": "yi syllable giep",
+    "ipa": ""
+  },
+  {
+    "label": "ꇢ",
+    "meta": "yi syllable gat",
+    "ipa": ""
+  },
+  {
+    "label": "ꇣ",
+    "meta": "yi syllable gax",
+    "ipa": ""
+  },
+  {
+    "label": "ꇤ",
+    "meta": "yi syllable ga",
+    "ipa": ""
+  },
+  {
+    "label": "ꇥ",
+    "meta": "yi syllable gap",
+    "ipa": ""
+  },
+  {
+    "label": "ꇦ",
+    "meta": "yi syllable guot",
+    "ipa": ""
+  },
+  {
+    "label": "ꇧ",
+    "meta": "yi syllable guox",
+    "ipa": ""
+  },
+  {
+    "label": "ꇨ",
+    "meta": "yi syllable guo",
+    "ipa": ""
+  },
+  {
+    "label": "ꇩ",
+    "meta": "yi syllable guop",
+    "ipa": ""
+  },
+  {
+    "label": "ꇪ",
+    "meta": "yi syllable got",
+    "ipa": ""
+  },
+  {
+    "label": "ꇫ",
+    "meta": "yi syllable gox",
+    "ipa": ""
+  },
+  {
+    "label": "ꇬ",
+    "meta": "yi syllable go",
+    "ipa": ""
+  },
+  {
+    "label": "ꇭ",
+    "meta": "yi syllable gop",
+    "ipa": ""
+  },
+  {
+    "label": "ꇮ",
+    "meta": "yi syllable get",
+    "ipa": ""
+  },
+  {
+    "label": "ꇯ",
+    "meta": "yi syllable gex",
+    "ipa": ""
+  },
+  {
+    "label": "ꇰ",
+    "meta": "yi syllable ge",
+    "ipa": ""
+  },
+  {
+    "label": "ꇱ",
+    "meta": "yi syllable gep",
+    "ipa": ""
+  },
+  {
+    "label": "ꇲ",
+    "meta": "yi syllable gut",
+    "ipa": ""
+  },
+  {
+    "label": "ꇳ",
+    "meta": "yi syllable gux",
+    "ipa": ""
+  },
+  {
+    "label": "ꇴ",
+    "meta": "yi syllable gu",
+    "ipa": ""
+  },
+  {
+    "label": "ꇵ",
+    "meta": "yi syllable gup",
+    "ipa": ""
+  },
+  {
+    "label": "ꇶ",
+    "meta": "yi syllable gurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꇷ",
+    "meta": "yi syllable gur",
+    "ipa": ""
+  },
+  {
+    "label": "ꇸ",
+    "meta": "yi syllable kit",
+    "ipa": ""
+  },
+  {
+    "label": "ꇹ",
+    "meta": "yi syllable kix",
+    "ipa": ""
+  },
+  {
+    "label": "ꇺ",
+    "meta": "yi syllable ki",
+    "ipa": ""
+  },
+  {
+    "label": "ꇻ",
+    "meta": "yi syllable kip",
+    "ipa": ""
+  },
+  {
+    "label": "ꇼ",
+    "meta": "yi syllable kiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꇽ",
+    "meta": "yi syllable kie",
+    "ipa": ""
+  },
+  {
+    "label": "ꇾ",
+    "meta": "yi syllable kiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꇿ",
+    "meta": "yi syllable kat",
+    "ipa": ""
+  },
+  {
+    "label": "ꈀ",
+    "meta": "yi syllable kax",
+    "ipa": ""
+  },
+  {
+    "label": "ꈁ",
+    "meta": "yi syllable ka",
+    "ipa": ""
+  },
+  {
+    "label": "ꈂ",
+    "meta": "yi syllable kap",
+    "ipa": ""
+  },
+  {
+    "label": "ꈃ",
+    "meta": "yi syllable kuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꈄ",
+    "meta": "yi syllable kuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꈅ",
+    "meta": "yi syllable kuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꈆ",
+    "meta": "yi syllable kot",
+    "ipa": ""
+  },
+  {
+    "label": "ꈇ",
+    "meta": "yi syllable kox",
+    "ipa": ""
+  },
+  {
+    "label": "ꈈ",
+    "meta": "yi syllable ko",
+    "ipa": ""
+  },
+  {
+    "label": "ꈉ",
+    "meta": "yi syllable kop",
+    "ipa": ""
+  },
+  {
+    "label": "ꈊ",
+    "meta": "yi syllable ket",
+    "ipa": ""
+  },
+  {
+    "label": "ꈋ",
+    "meta": "yi syllable kex",
+    "ipa": ""
+  },
+  {
+    "label": "ꈌ",
+    "meta": "yi syllable ke",
+    "ipa": ""
+  },
+  {
+    "label": "ꈍ",
+    "meta": "yi syllable kep",
+    "ipa": ""
+  },
+  {
+    "label": "ꈎ",
+    "meta": "yi syllable kut",
+    "ipa": ""
+  },
+  {
+    "label": "ꈏ",
+    "meta": "yi syllable kux",
+    "ipa": ""
+  },
+  {
+    "label": "ꈐ",
+    "meta": "yi syllable ku",
+    "ipa": ""
+  },
+  {
+    "label": "ꈑ",
+    "meta": "yi syllable kup",
+    "ipa": ""
+  },
+  {
+    "label": "ꈒ",
+    "meta": "yi syllable kurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꈓ",
+    "meta": "yi syllable kur",
+    "ipa": ""
+  },
+  {
+    "label": "ꈔ",
+    "meta": "yi syllable ggit",
+    "ipa": ""
+  },
+  {
+    "label": "ꈕ",
+    "meta": "yi syllable ggix",
+    "ipa": ""
+  },
+  {
+    "label": "ꈖ",
+    "meta": "yi syllable ggi",
+    "ipa": ""
+  },
+  {
+    "label": "ꈗ",
+    "meta": "yi syllable ggiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꈘ",
+    "meta": "yi syllable ggie",
+    "ipa": ""
+  },
+  {
+    "label": "ꈙ",
+    "meta": "yi syllable ggiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꈚ",
+    "meta": "yi syllable ggat",
+    "ipa": ""
+  },
+  {
+    "label": "ꈛ",
+    "meta": "yi syllable ggax",
+    "ipa": ""
+  },
+  {
+    "label": "ꈜ",
+    "meta": "yi syllable gga",
+    "ipa": ""
+  },
+  {
+    "label": "ꈝ",
+    "meta": "yi syllable ggap",
+    "ipa": ""
+  },
+  {
+    "label": "ꈞ",
+    "meta": "yi syllable gguot",
+    "ipa": ""
+  },
+  {
+    "label": "ꈟ",
+    "meta": "yi syllable gguox",
+    "ipa": ""
+  },
+  {
+    "label": "ꈠ",
+    "meta": "yi syllable gguo",
+    "ipa": ""
+  },
+  {
+    "label": "ꈡ",
+    "meta": "yi syllable gguop",
+    "ipa": ""
+  },
+  {
+    "label": "ꈢ",
+    "meta": "yi syllable ggot",
+    "ipa": ""
+  },
+  {
+    "label": "ꈣ",
+    "meta": "yi syllable ggox",
+    "ipa": ""
+  },
+  {
+    "label": "ꈤ",
+    "meta": "yi syllable ggo",
+    "ipa": ""
+  },
+  {
+    "label": "ꈥ",
+    "meta": "yi syllable ggop",
+    "ipa": ""
+  },
+  {
+    "label": "ꈦ",
+    "meta": "yi syllable gget",
+    "ipa": ""
+  },
+  {
+    "label": "ꈧ",
+    "meta": "yi syllable ggex",
+    "ipa": ""
+  },
+  {
+    "label": "ꈨ",
+    "meta": "yi syllable gge",
+    "ipa": ""
+  },
+  {
+    "label": "ꈩ",
+    "meta": "yi syllable ggep",
+    "ipa": ""
+  },
+  {
+    "label": "ꈪ",
+    "meta": "yi syllable ggut",
+    "ipa": ""
+  },
+  {
+    "label": "ꈫ",
+    "meta": "yi syllable ggux",
+    "ipa": ""
+  },
+  {
+    "label": "ꈬ",
+    "meta": "yi syllable ggu",
+    "ipa": ""
+  },
+  {
+    "label": "ꈭ",
+    "meta": "yi syllable ggup",
+    "ipa": ""
+  },
+  {
+    "label": "ꈮ",
+    "meta": "yi syllable ggurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꈯ",
+    "meta": "yi syllable ggur",
+    "ipa": ""
+  },
+  {
+    "label": "ꈰ",
+    "meta": "yi syllable mgiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꈱ",
+    "meta": "yi syllable mgie",
+    "ipa": ""
+  },
+  {
+    "label": "ꈲ",
+    "meta": "yi syllable mgat",
+    "ipa": ""
+  },
+  {
+    "label": "ꈳ",
+    "meta": "yi syllable mgax",
+    "ipa": ""
+  },
+  {
+    "label": "ꈴ",
+    "meta": "yi syllable mga",
+    "ipa": ""
+  },
+  {
+    "label": "ꈵ",
+    "meta": "yi syllable mgap",
+    "ipa": ""
+  },
+  {
+    "label": "ꈶ",
+    "meta": "yi syllable mguox",
+    "ipa": ""
+  },
+  {
+    "label": "ꈷ",
+    "meta": "yi syllable mguo",
+    "ipa": ""
+  },
+  {
+    "label": "ꈸ",
+    "meta": "yi syllable mguop",
+    "ipa": ""
+  },
+  {
+    "label": "ꈹ",
+    "meta": "yi syllable mgot",
+    "ipa": ""
+  },
+  {
+    "label": "ꈺ",
+    "meta": "yi syllable mgox",
+    "ipa": ""
+  },
+  {
+    "label": "ꈻ",
+    "meta": "yi syllable mgo",
+    "ipa": ""
+  },
+  {
+    "label": "ꈼ",
+    "meta": "yi syllable mgop",
+    "ipa": ""
+  },
+  {
+    "label": "ꈽ",
+    "meta": "yi syllable mgex",
+    "ipa": ""
+  },
+  {
+    "label": "ꈾ",
+    "meta": "yi syllable mge",
+    "ipa": ""
+  },
+  {
+    "label": "ꈿ",
+    "meta": "yi syllable mgep",
+    "ipa": ""
+  },
+  {
+    "label": "ꉀ",
+    "meta": "yi syllable mgut",
+    "ipa": ""
+  },
+  {
+    "label": "ꉁ",
+    "meta": "yi syllable mgux",
+    "ipa": ""
+  },
+  {
+    "label": "ꉂ",
+    "meta": "yi syllable mgu",
+    "ipa": ""
+  },
+  {
+    "label": "ꉃ",
+    "meta": "yi syllable mgup",
+    "ipa": ""
+  },
+  {
+    "label": "ꉄ",
+    "meta": "yi syllable mgurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꉅ",
+    "meta": "yi syllable mgur",
+    "ipa": ""
+  },
+  {
+    "label": "ꉆ",
+    "meta": "yi syllable hxit",
+    "ipa": ""
+  },
+  {
+    "label": "ꉇ",
+    "meta": "yi syllable hxix",
+    "ipa": ""
+  },
+  {
+    "label": "ꉈ",
+    "meta": "yi syllable hxi",
+    "ipa": ""
+  },
+  {
+    "label": "ꉉ",
+    "meta": "yi syllable hxip",
+    "ipa": ""
+  },
+  {
+    "label": "ꉊ",
+    "meta": "yi syllable hxiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꉋ",
+    "meta": "yi syllable hxiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꉌ",
+    "meta": "yi syllable hxie",
+    "ipa": ""
+  },
+  {
+    "label": "ꉍ",
+    "meta": "yi syllable hxiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꉎ",
+    "meta": "yi syllable hxat",
+    "ipa": ""
+  },
+  {
+    "label": "ꉏ",
+    "meta": "yi syllable hxax",
+    "ipa": ""
+  },
+  {
+    "label": "ꉐ",
+    "meta": "yi syllable hxa",
+    "ipa": ""
+  },
+  {
+    "label": "ꉑ",
+    "meta": "yi syllable hxap",
+    "ipa": ""
+  },
+  {
+    "label": "ꉒ",
+    "meta": "yi syllable hxuot",
+    "ipa": ""
+  },
+  {
+    "label": "ꉓ",
+    "meta": "yi syllable hxuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꉔ",
+    "meta": "yi syllable hxuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꉕ",
+    "meta": "yi syllable hxuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꉖ",
+    "meta": "yi syllable hxot",
+    "ipa": ""
+  },
+  {
+    "label": "ꉗ",
+    "meta": "yi syllable hxox",
+    "ipa": ""
+  },
+  {
+    "label": "ꉘ",
+    "meta": "yi syllable hxo",
+    "ipa": ""
+  },
+  {
+    "label": "ꉙ",
+    "meta": "yi syllable hxop",
+    "ipa": ""
+  },
+  {
+    "label": "ꉚ",
+    "meta": "yi syllable hxex",
+    "ipa": ""
+  },
+  {
+    "label": "ꉛ",
+    "meta": "yi syllable hxe",
+    "ipa": ""
+  },
+  {
+    "label": "ꉜ",
+    "meta": "yi syllable hxep",
+    "ipa": ""
+  },
+  {
+    "label": "ꉝ",
+    "meta": "yi syllable ngiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꉞ",
+    "meta": "yi syllable ngie",
+    "ipa": ""
+  },
+  {
+    "label": "ꉟ",
+    "meta": "yi syllable ngiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꉠ",
+    "meta": "yi syllable ngat",
+    "ipa": ""
+  },
+  {
+    "label": "ꉡ",
+    "meta": "yi syllable ngax",
+    "ipa": ""
+  },
+  {
+    "label": "ꉢ",
+    "meta": "yi syllable nga",
+    "ipa": ""
+  },
+  {
+    "label": "ꉣ",
+    "meta": "yi syllable ngap",
+    "ipa": ""
+  },
+  {
+    "label": "ꉤ",
+    "meta": "yi syllable nguot",
+    "ipa": ""
+  },
+  {
+    "label": "ꉥ",
+    "meta": "yi syllable nguox",
+    "ipa": ""
+  },
+  {
+    "label": "ꉦ",
+    "meta": "yi syllable nguo",
+    "ipa": ""
+  },
+  {
+    "label": "ꉧ",
+    "meta": "yi syllable ngot",
+    "ipa": ""
+  },
+  {
+    "label": "ꉨ",
+    "meta": "yi syllable ngox",
+    "ipa": ""
+  },
+  {
+    "label": "ꉩ",
+    "meta": "yi syllable ngo",
+    "ipa": ""
+  },
+  {
+    "label": "ꉪ",
+    "meta": "yi syllable ngop",
+    "ipa": ""
+  },
+  {
+    "label": "ꉫ",
+    "meta": "yi syllable ngex",
+    "ipa": ""
+  },
+  {
+    "label": "ꉬ",
+    "meta": "yi syllable nge",
+    "ipa": ""
+  },
+  {
+    "label": "ꉭ",
+    "meta": "yi syllable ngep",
+    "ipa": ""
+  },
+  {
+    "label": "ꉮ",
+    "meta": "yi syllable hit",
+    "ipa": ""
+  },
+  {
+    "label": "ꉯ",
+    "meta": "yi syllable hiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꉰ",
+    "meta": "yi syllable hie",
+    "ipa": ""
+  },
+  {
+    "label": "ꉱ",
+    "meta": "yi syllable hat",
+    "ipa": ""
+  },
+  {
+    "label": "ꉲ",
+    "meta": "yi syllable hax",
+    "ipa": ""
+  },
+  {
+    "label": "ꉳ",
+    "meta": "yi syllable ha",
+    "ipa": ""
+  },
+  {
+    "label": "ꉴ",
+    "meta": "yi syllable hap",
+    "ipa": ""
+  },
+  {
+    "label": "ꉵ",
+    "meta": "yi syllable huot",
+    "ipa": ""
+  },
+  {
+    "label": "ꉶ",
+    "meta": "yi syllable huox",
+    "ipa": ""
+  },
+  {
+    "label": "ꉷ",
+    "meta": "yi syllable huo",
+    "ipa": ""
+  },
+  {
+    "label": "ꉸ",
+    "meta": "yi syllable huop",
+    "ipa": ""
+  },
+  {
+    "label": "ꉹ",
+    "meta": "yi syllable hot",
+    "ipa": ""
+  },
+  {
+    "label": "ꉺ",
+    "meta": "yi syllable hox",
+    "ipa": ""
+  },
+  {
+    "label": "ꉻ",
+    "meta": "yi syllable ho",
+    "ipa": ""
+  },
+  {
+    "label": "ꉼ",
+    "meta": "yi syllable hop",
+    "ipa": ""
+  },
+  {
+    "label": "ꉽ",
+    "meta": "yi syllable hex",
+    "ipa": ""
+  },
+  {
+    "label": "ꉾ",
+    "meta": "yi syllable he",
+    "ipa": ""
+  },
+  {
+    "label": "ꉿ",
+    "meta": "yi syllable hep",
+    "ipa": ""
+  },
+  {
+    "label": "ꊀ",
+    "meta": "yi syllable wat",
+    "ipa": ""
+  },
+  {
+    "label": "ꊁ",
+    "meta": "yi syllable wax",
+    "ipa": ""
+  },
+  {
+    "label": "ꊂ",
+    "meta": "yi syllable wa",
+    "ipa": ""
+  },
+  {
+    "label": "ꊃ",
+    "meta": "yi syllable wap",
+    "ipa": ""
+  },
+  {
+    "label": "ꊄ",
+    "meta": "yi syllable wuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꊅ",
+    "meta": "yi syllable wuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꊆ",
+    "meta": "yi syllable wuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꊇ",
+    "meta": "yi syllable wox",
+    "ipa": ""
+  },
+  {
+    "label": "ꊈ",
+    "meta": "yi syllable wo",
+    "ipa": ""
+  },
+  {
+    "label": "ꊉ",
+    "meta": "yi syllable wop",
+    "ipa": ""
+  },
+  {
+    "label": "ꊊ",
+    "meta": "yi syllable wex",
+    "ipa": ""
+  },
+  {
+    "label": "ꊋ",
+    "meta": "yi syllable we",
+    "ipa": ""
+  },
+  {
+    "label": "ꊌ",
+    "meta": "yi syllable wep",
+    "ipa": ""
+  },
+  {
+    "label": "ꊍ",
+    "meta": "yi syllable zit",
+    "ipa": ""
+  },
+  {
+    "label": "ꊎ",
+    "meta": "yi syllable zix",
+    "ipa": ""
+  },
+  {
+    "label": "ꊏ",
+    "meta": "yi syllable zi",
+    "ipa": ""
+  },
+  {
+    "label": "ꊐ",
+    "meta": "yi syllable zip",
+    "ipa": ""
+  },
+  {
+    "label": "ꊑ",
+    "meta": "yi syllable ziex",
+    "ipa": ""
+  },
+  {
+    "label": "ꊒ",
+    "meta": "yi syllable zie",
+    "ipa": ""
+  },
+  {
+    "label": "ꊓ",
+    "meta": "yi syllable ziep",
+    "ipa": ""
+  },
+  {
+    "label": "ꊔ",
+    "meta": "yi syllable zat",
+    "ipa": ""
+  },
+  {
+    "label": "ꊕ",
+    "meta": "yi syllable zax",
+    "ipa": ""
+  },
+  {
+    "label": "ꊖ",
+    "meta": "yi syllable za",
+    "ipa": ""
+  },
+  {
+    "label": "ꊗ",
+    "meta": "yi syllable zap",
+    "ipa": ""
+  },
+  {
+    "label": "ꊘ",
+    "meta": "yi syllable zuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꊙ",
+    "meta": "yi syllable zuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꊚ",
+    "meta": "yi syllable zuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꊛ",
+    "meta": "yi syllable zot",
+    "ipa": ""
+  },
+  {
+    "label": "ꊜ",
+    "meta": "yi syllable zox",
+    "ipa": ""
+  },
+  {
+    "label": "ꊝ",
+    "meta": "yi syllable zo",
+    "ipa": ""
+  },
+  {
+    "label": "ꊞ",
+    "meta": "yi syllable zop",
+    "ipa": ""
+  },
+  {
+    "label": "ꊟ",
+    "meta": "yi syllable zex",
+    "ipa": ""
+  },
+  {
+    "label": "ꊠ",
+    "meta": "yi syllable ze",
+    "ipa": ""
+  },
+  {
+    "label": "ꊡ",
+    "meta": "yi syllable zep",
+    "ipa": ""
+  },
+  {
+    "label": "ꊢ",
+    "meta": "yi syllable zut",
+    "ipa": ""
+  },
+  {
+    "label": "ꊣ",
+    "meta": "yi syllable zux",
+    "ipa": ""
+  },
+  {
+    "label": "ꊤ",
+    "meta": "yi syllable zu",
+    "ipa": ""
+  },
+  {
+    "label": "ꊥ",
+    "meta": "yi syllable zup",
+    "ipa": ""
+  },
+  {
+    "label": "ꊦ",
+    "meta": "yi syllable zurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꊧ",
+    "meta": "yi syllable zur",
+    "ipa": ""
+  },
+  {
+    "label": "ꊨ",
+    "meta": "yi syllable zyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꊩ",
+    "meta": "yi syllable zyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꊪ",
+    "meta": "yi syllable zy",
+    "ipa": ""
+  },
+  {
+    "label": "ꊫ",
+    "meta": "yi syllable zyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꊬ",
+    "meta": "yi syllable zyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꊭ",
+    "meta": "yi syllable zyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꊮ",
+    "meta": "yi syllable cit",
+    "ipa": ""
+  },
+  {
+    "label": "ꊯ",
+    "meta": "yi syllable cix",
+    "ipa": ""
+  },
+  {
+    "label": "ꊰ",
+    "meta": "yi syllable ci",
+    "ipa": ""
+  },
+  {
+    "label": "ꊱ",
+    "meta": "yi syllable cip",
+    "ipa": ""
+  },
+  {
+    "label": "ꊲ",
+    "meta": "yi syllable ciet",
+    "ipa": ""
+  },
+  {
+    "label": "ꊳ",
+    "meta": "yi syllable ciex",
+    "ipa": ""
+  },
+  {
+    "label": "ꊴ",
+    "meta": "yi syllable cie",
+    "ipa": ""
+  },
+  {
+    "label": "ꊵ",
+    "meta": "yi syllable ciep",
+    "ipa": ""
+  },
+  {
+    "label": "ꊶ",
+    "meta": "yi syllable cat",
+    "ipa": ""
+  },
+  {
+    "label": "ꊷ",
+    "meta": "yi syllable cax",
+    "ipa": ""
+  },
+  {
+    "label": "ꊸ",
+    "meta": "yi syllable ca",
+    "ipa": ""
+  },
+  {
+    "label": "ꊹ",
+    "meta": "yi syllable cap",
+    "ipa": ""
+  },
+  {
+    "label": "ꊺ",
+    "meta": "yi syllable cuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꊻ",
+    "meta": "yi syllable cuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꊼ",
+    "meta": "yi syllable cuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꊽ",
+    "meta": "yi syllable cot",
+    "ipa": ""
+  },
+  {
+    "label": "ꊾ",
+    "meta": "yi syllable cox",
+    "ipa": ""
+  },
+  {
+    "label": "ꊿ",
+    "meta": "yi syllable co",
+    "ipa": ""
+  },
+  {
+    "label": "ꋀ",
+    "meta": "yi syllable cop",
+    "ipa": ""
+  },
+  {
+    "label": "ꋁ",
+    "meta": "yi syllable cex",
+    "ipa": ""
+  },
+  {
+    "label": "ꋂ",
+    "meta": "yi syllable ce",
+    "ipa": ""
+  },
+  {
+    "label": "ꋃ",
+    "meta": "yi syllable cep",
+    "ipa": ""
+  },
+  {
+    "label": "ꋄ",
+    "meta": "yi syllable cut",
+    "ipa": ""
+  },
+  {
+    "label": "ꋅ",
+    "meta": "yi syllable cux",
+    "ipa": ""
+  },
+  {
+    "label": "ꋆ",
+    "meta": "yi syllable cu",
+    "ipa": ""
+  },
+  {
+    "label": "ꋇ",
+    "meta": "yi syllable cup",
+    "ipa": ""
+  },
+  {
+    "label": "ꋈ",
+    "meta": "yi syllable curx",
+    "ipa": ""
+  },
+  {
+    "label": "ꋉ",
+    "meta": "yi syllable cur",
+    "ipa": ""
+  },
+  {
+    "label": "ꋊ",
+    "meta": "yi syllable cyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꋋ",
+    "meta": "yi syllable cyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꋌ",
+    "meta": "yi syllable cy",
+    "ipa": ""
+  },
+  {
+    "label": "ꋍ",
+    "meta": "yi syllable cyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꋎ",
+    "meta": "yi syllable cyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꋏ",
+    "meta": "yi syllable cyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꋐ",
+    "meta": "yi syllable zzit",
+    "ipa": ""
+  },
+  {
+    "label": "ꋑ",
+    "meta": "yi syllable zzix",
+    "ipa": ""
+  },
+  {
+    "label": "ꋒ",
+    "meta": "yi syllable zzi",
+    "ipa": ""
+  },
+  {
+    "label": "ꋓ",
+    "meta": "yi syllable zzip",
+    "ipa": ""
+  },
+  {
+    "label": "ꋔ",
+    "meta": "yi syllable zziet",
+    "ipa": ""
+  },
+  {
+    "label": "ꋕ",
+    "meta": "yi syllable zziex",
+    "ipa": ""
+  },
+  {
+    "label": "ꋖ",
+    "meta": "yi syllable zzie",
+    "ipa": ""
+  },
+  {
+    "label": "ꋗ",
+    "meta": "yi syllable zziep",
+    "ipa": ""
+  },
+  {
+    "label": "ꋘ",
+    "meta": "yi syllable zzat",
+    "ipa": ""
+  },
+  {
+    "label": "ꋙ",
+    "meta": "yi syllable zzax",
+    "ipa": ""
+  },
+  {
+    "label": "ꋚ",
+    "meta": "yi syllable zza",
+    "ipa": ""
+  },
+  {
+    "label": "ꋛ",
+    "meta": "yi syllable zzap",
+    "ipa": ""
+  },
+  {
+    "label": "ꋜ",
+    "meta": "yi syllable zzox",
+    "ipa": ""
+  },
+  {
+    "label": "ꋝ",
+    "meta": "yi syllable zzo",
+    "ipa": ""
+  },
+  {
+    "label": "ꋞ",
+    "meta": "yi syllable zzop",
+    "ipa": ""
+  },
+  {
+    "label": "ꋟ",
+    "meta": "yi syllable zzex",
+    "ipa": ""
+  },
+  {
+    "label": "ꋠ",
+    "meta": "yi syllable zze",
+    "ipa": ""
+  },
+  {
+    "label": "ꋡ",
+    "meta": "yi syllable zzep",
+    "ipa": ""
+  },
+  {
+    "label": "ꋢ",
+    "meta": "yi syllable zzux",
+    "ipa": ""
+  },
+  {
+    "label": "ꋣ",
+    "meta": "yi syllable zzu",
+    "ipa": ""
+  },
+  {
+    "label": "ꋤ",
+    "meta": "yi syllable zzup",
+    "ipa": ""
+  },
+  {
+    "label": "ꋥ",
+    "meta": "yi syllable zzurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꋦ",
+    "meta": "yi syllable zzur",
+    "ipa": ""
+  },
+  {
+    "label": "ꋧ",
+    "meta": "yi syllable zzyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꋨ",
+    "meta": "yi syllable zzyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꋩ",
+    "meta": "yi syllable zzy",
+    "ipa": ""
+  },
+  {
+    "label": "ꋪ",
+    "meta": "yi syllable zzyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꋫ",
+    "meta": "yi syllable zzyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꋬ",
+    "meta": "yi syllable zzyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꋭ",
+    "meta": "yi syllable nzit",
+    "ipa": ""
+  },
+  {
+    "label": "ꋮ",
+    "meta": "yi syllable nzix",
+    "ipa": ""
+  },
+  {
+    "label": "ꋯ",
+    "meta": "yi syllable nzi",
+    "ipa": ""
+  },
+  {
+    "label": "ꋰ",
+    "meta": "yi syllable nzip",
+    "ipa": ""
+  },
+  {
+    "label": "ꋱ",
+    "meta": "yi syllable nziex",
+    "ipa": ""
+  },
+  {
+    "label": "ꋲ",
+    "meta": "yi syllable nzie",
+    "ipa": ""
+  },
+  {
+    "label": "ꋳ",
+    "meta": "yi syllable nziep",
+    "ipa": ""
+  },
+  {
+    "label": "ꋴ",
+    "meta": "yi syllable nzat",
+    "ipa": ""
+  },
+  {
+    "label": "ꋵ",
+    "meta": "yi syllable nzax",
+    "ipa": ""
+  },
+  {
+    "label": "ꋶ",
+    "meta": "yi syllable nza",
+    "ipa": ""
+  },
+  {
+    "label": "ꋷ",
+    "meta": "yi syllable nzap",
+    "ipa": ""
+  },
+  {
+    "label": "ꋸ",
+    "meta": "yi syllable nzuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꋹ",
+    "meta": "yi syllable nzuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꋺ",
+    "meta": "yi syllable nzox",
+    "ipa": ""
+  },
+  {
+    "label": "ꋻ",
+    "meta": "yi syllable nzop",
+    "ipa": ""
+  },
+  {
+    "label": "ꋼ",
+    "meta": "yi syllable nzex",
+    "ipa": ""
+  },
+  {
+    "label": "ꋽ",
+    "meta": "yi syllable nze",
+    "ipa": ""
+  },
+  {
+    "label": "ꋾ",
+    "meta": "yi syllable nzux",
+    "ipa": ""
+  },
+  {
+    "label": "ꋿ",
+    "meta": "yi syllable nzu",
+    "ipa": ""
+  },
+  {
+    "label": "ꌀ",
+    "meta": "yi syllable nzup",
+    "ipa": ""
+  },
+  {
+    "label": "ꌁ",
+    "meta": "yi syllable nzurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꌂ",
+    "meta": "yi syllable nzur",
+    "ipa": ""
+  },
+  {
+    "label": "ꌃ",
+    "meta": "yi syllable nzyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꌄ",
+    "meta": "yi syllable nzyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꌅ",
+    "meta": "yi syllable nzy",
+    "ipa": ""
+  },
+  {
+    "label": "ꌆ",
+    "meta": "yi syllable nzyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꌇ",
+    "meta": "yi syllable nzyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꌈ",
+    "meta": "yi syllable nzyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꌉ",
+    "meta": "yi syllable sit",
+    "ipa": ""
+  },
+  {
+    "label": "ꌊ",
+    "meta": "yi syllable six",
+    "ipa": ""
+  },
+  {
+    "label": "ꌋ",
+    "meta": "yi syllable si",
+    "ipa": ""
+  },
+  {
+    "label": "ꌌ",
+    "meta": "yi syllable sip",
+    "ipa": ""
+  },
+  {
+    "label": "ꌍ",
+    "meta": "yi syllable siex",
+    "ipa": ""
+  },
+  {
+    "label": "ꌎ",
+    "meta": "yi syllable sie",
+    "ipa": ""
+  },
+  {
+    "label": "ꌏ",
+    "meta": "yi syllable siep",
+    "ipa": ""
+  },
+  {
+    "label": "ꌐ",
+    "meta": "yi syllable sat",
+    "ipa": ""
+  },
+  {
+    "label": "ꌑ",
+    "meta": "yi syllable sax",
+    "ipa": ""
+  },
+  {
+    "label": "ꌒ",
+    "meta": "yi syllable sa",
+    "ipa": ""
+  },
+  {
+    "label": "ꌓ",
+    "meta": "yi syllable sap",
+    "ipa": ""
+  },
+  {
+    "label": "ꌔ",
+    "meta": "yi syllable suox",
+    "ipa": ""
+  },
+  {
+    "label": "ꌕ",
+    "meta": "yi syllable suo",
+    "ipa": ""
+  },
+  {
+    "label": "ꌖ",
+    "meta": "yi syllable suop",
+    "ipa": ""
+  },
+  {
+    "label": "ꌗ",
+    "meta": "yi syllable sot",
+    "ipa": ""
+  },
+  {
+    "label": "ꌘ",
+    "meta": "yi syllable sox",
+    "ipa": ""
+  },
+  {
+    "label": "ꌙ",
+    "meta": "yi syllable so",
+    "ipa": ""
+  },
+  {
+    "label": "ꌚ",
+    "meta": "yi syllable sop",
+    "ipa": ""
+  },
+  {
+    "label": "ꌛ",
+    "meta": "yi syllable sex",
+    "ipa": ""
+  },
+  {
+    "label": "ꌜ",
+    "meta": "yi syllable se",
+    "ipa": ""
+  },
+  {
+    "label": "ꌝ",
+    "meta": "yi syllable sep",
+    "ipa": ""
+  },
+  {
+    "label": "ꌞ",
+    "meta": "yi syllable sut",
+    "ipa": ""
+  },
+  {
+    "label": "ꌟ",
+    "meta": "yi syllable sux",
+    "ipa": ""
+  },
+  {
+    "label": "ꌠ",
+    "meta": "yi syllable su",
+    "ipa": ""
+  },
+  {
+    "label": "ꌡ",
+    "meta": "yi syllable sup",
+    "ipa": ""
+  },
+  {
+    "label": "ꌢ",
+    "meta": "yi syllable surx",
+    "ipa": ""
+  },
+  {
+    "label": "ꌣ",
+    "meta": "yi syllable sur",
+    "ipa": ""
+  },
+  {
+    "label": "ꌤ",
+    "meta": "yi syllable syt",
+    "ipa": ""
+  },
+  {
+    "label": "ꌥ",
+    "meta": "yi syllable syx",
+    "ipa": ""
+  },
+  {
+    "label": "ꌦ",
+    "meta": "yi syllable sy",
+    "ipa": ""
+  },
+  {
+    "label": "ꌧ",
+    "meta": "yi syllable syp",
+    "ipa": ""
+  },
+  {
+    "label": "ꌨ",
+    "meta": "yi syllable syrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꌩ",
+    "meta": "yi syllable syr",
+    "ipa": ""
+  },
+  {
+    "label": "ꌪ",
+    "meta": "yi syllable ssit",
+    "ipa": ""
+  },
+  {
+    "label": "ꌫ",
+    "meta": "yi syllable ssix",
+    "ipa": ""
+  },
+  {
+    "label": "ꌬ",
+    "meta": "yi syllable ssi",
+    "ipa": ""
+  },
+  {
+    "label": "ꌭ",
+    "meta": "yi syllable ssip",
+    "ipa": ""
+  },
+  {
+    "label": "ꌮ",
+    "meta": "yi syllable ssiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꌯ",
+    "meta": "yi syllable ssie",
+    "ipa": ""
+  },
+  {
+    "label": "ꌰ",
+    "meta": "yi syllable ssiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꌱ",
+    "meta": "yi syllable ssat",
+    "ipa": ""
+  },
+  {
+    "label": "ꌲ",
+    "meta": "yi syllable ssax",
+    "ipa": ""
+  },
+  {
+    "label": "ꌳ",
+    "meta": "yi syllable ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ꌴ",
+    "meta": "yi syllable ssap",
+    "ipa": ""
+  },
+  {
+    "label": "ꌵ",
+    "meta": "yi syllable ssot",
+    "ipa": ""
+  },
+  {
+    "label": "ꌶ",
+    "meta": "yi syllable ssox",
+    "ipa": ""
+  },
+  {
+    "label": "ꌷ",
+    "meta": "yi syllable sso",
+    "ipa": ""
+  },
+  {
+    "label": "ꌸ",
+    "meta": "yi syllable ssop",
+    "ipa": ""
+  },
+  {
+    "label": "ꌹ",
+    "meta": "yi syllable ssex",
+    "ipa": ""
+  },
+  {
+    "label": "ꌺ",
+    "meta": "yi syllable sse",
+    "ipa": ""
+  },
+  {
+    "label": "ꌻ",
+    "meta": "yi syllable ssep",
+    "ipa": ""
+  },
+  {
+    "label": "ꌼ",
+    "meta": "yi syllable ssut",
+    "ipa": ""
+  },
+  {
+    "label": "ꌽ",
+    "meta": "yi syllable ssux",
+    "ipa": ""
+  },
+  {
+    "label": "ꌾ",
+    "meta": "yi syllable ssu",
+    "ipa": ""
+  },
+  {
+    "label": "ꌿ",
+    "meta": "yi syllable ssup",
+    "ipa": ""
+  },
+  {
+    "label": "ꍀ",
+    "meta": "yi syllable ssyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꍁ",
+    "meta": "yi syllable ssyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍂ",
+    "meta": "yi syllable ssy",
+    "ipa": ""
+  },
+  {
+    "label": "ꍃ",
+    "meta": "yi syllable ssyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꍄ",
+    "meta": "yi syllable ssyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍅ",
+    "meta": "yi syllable ssyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꍆ",
+    "meta": "yi syllable zhat",
+    "ipa": ""
+  },
+  {
+    "label": "ꍇ",
+    "meta": "yi syllable zhax",
+    "ipa": ""
+  },
+  {
+    "label": "ꍈ",
+    "meta": "yi syllable zha",
+    "ipa": ""
+  },
+  {
+    "label": "ꍉ",
+    "meta": "yi syllable zhap",
+    "ipa": ""
+  },
+  {
+    "label": "ꍊ",
+    "meta": "yi syllable zhuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꍋ",
+    "meta": "yi syllable zhuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꍌ",
+    "meta": "yi syllable zhuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꍍ",
+    "meta": "yi syllable zhot",
+    "ipa": ""
+  },
+  {
+    "label": "ꍎ",
+    "meta": "yi syllable zhox",
+    "ipa": ""
+  },
+  {
+    "label": "ꍏ",
+    "meta": "yi syllable zho",
+    "ipa": ""
+  },
+  {
+    "label": "ꍐ",
+    "meta": "yi syllable zhop",
+    "ipa": ""
+  },
+  {
+    "label": "ꍑ",
+    "meta": "yi syllable zhet",
+    "ipa": ""
+  },
+  {
+    "label": "ꍒ",
+    "meta": "yi syllable zhex",
+    "ipa": ""
+  },
+  {
+    "label": "ꍓ",
+    "meta": "yi syllable zhe",
+    "ipa": ""
+  },
+  {
+    "label": "ꍔ",
+    "meta": "yi syllable zhep",
+    "ipa": ""
+  },
+  {
+    "label": "ꍕ",
+    "meta": "yi syllable zhut",
+    "ipa": ""
+  },
+  {
+    "label": "ꍖ",
+    "meta": "yi syllable zhux",
+    "ipa": ""
+  },
+  {
+    "label": "ꍗ",
+    "meta": "yi syllable zhu",
+    "ipa": ""
+  },
+  {
+    "label": "ꍘ",
+    "meta": "yi syllable zhup",
+    "ipa": ""
+  },
+  {
+    "label": "ꍙ",
+    "meta": "yi syllable zhurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍚ",
+    "meta": "yi syllable zhur",
+    "ipa": ""
+  },
+  {
+    "label": "ꍛ",
+    "meta": "yi syllable zhyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꍜ",
+    "meta": "yi syllable zhyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍝ",
+    "meta": "yi syllable zhy",
+    "ipa": ""
+  },
+  {
+    "label": "ꍞ",
+    "meta": "yi syllable zhyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꍟ",
+    "meta": "yi syllable zhyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍠ",
+    "meta": "yi syllable zhyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꍡ",
+    "meta": "yi syllable chat",
+    "ipa": ""
+  },
+  {
+    "label": "ꍢ",
+    "meta": "yi syllable chax",
+    "ipa": ""
+  },
+  {
+    "label": "ꍣ",
+    "meta": "yi syllable cha",
+    "ipa": ""
+  },
+  {
+    "label": "ꍤ",
+    "meta": "yi syllable chap",
+    "ipa": ""
+  },
+  {
+    "label": "ꍥ",
+    "meta": "yi syllable chuot",
+    "ipa": ""
+  },
+  {
+    "label": "ꍦ",
+    "meta": "yi syllable chuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꍧ",
+    "meta": "yi syllable chuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꍨ",
+    "meta": "yi syllable chuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꍩ",
+    "meta": "yi syllable chot",
+    "ipa": ""
+  },
+  {
+    "label": "ꍪ",
+    "meta": "yi syllable chox",
+    "ipa": ""
+  },
+  {
+    "label": "ꍫ",
+    "meta": "yi syllable cho",
+    "ipa": ""
+  },
+  {
+    "label": "ꍬ",
+    "meta": "yi syllable chop",
+    "ipa": ""
+  },
+  {
+    "label": "ꍭ",
+    "meta": "yi syllable chet",
+    "ipa": ""
+  },
+  {
+    "label": "ꍮ",
+    "meta": "yi syllable chex",
+    "ipa": ""
+  },
+  {
+    "label": "ꍯ",
+    "meta": "yi syllable che",
+    "ipa": ""
+  },
+  {
+    "label": "ꍰ",
+    "meta": "yi syllable chep",
+    "ipa": ""
+  },
+  {
+    "label": "ꍱ",
+    "meta": "yi syllable chux",
+    "ipa": ""
+  },
+  {
+    "label": "ꍲ",
+    "meta": "yi syllable chu",
+    "ipa": ""
+  },
+  {
+    "label": "ꍳ",
+    "meta": "yi syllable chup",
+    "ipa": ""
+  },
+  {
+    "label": "ꍴ",
+    "meta": "yi syllable churx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍵ",
+    "meta": "yi syllable chur",
+    "ipa": ""
+  },
+  {
+    "label": "ꍶ",
+    "meta": "yi syllable chyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꍷ",
+    "meta": "yi syllable chyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍸ",
+    "meta": "yi syllable chy",
+    "ipa": ""
+  },
+  {
+    "label": "ꍹ",
+    "meta": "yi syllable chyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꍺ",
+    "meta": "yi syllable chyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꍻ",
+    "meta": "yi syllable chyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꍼ",
+    "meta": "yi syllable rrax",
+    "ipa": ""
+  },
+  {
+    "label": "ꍽ",
+    "meta": "yi syllable rra",
+    "ipa": ""
+  },
+  {
+    "label": "ꍾ",
+    "meta": "yi syllable rruox",
+    "ipa": ""
+  },
+  {
+    "label": "ꍿ",
+    "meta": "yi syllable rruo",
+    "ipa": ""
+  },
+  {
+    "label": "ꎀ",
+    "meta": "yi syllable rrot",
+    "ipa": ""
+  },
+  {
+    "label": "ꎁ",
+    "meta": "yi syllable rrox",
+    "ipa": ""
+  },
+  {
+    "label": "ꎂ",
+    "meta": "yi syllable rro",
+    "ipa": ""
+  },
+  {
+    "label": "ꎃ",
+    "meta": "yi syllable rrop",
+    "ipa": ""
+  },
+  {
+    "label": "ꎄ",
+    "meta": "yi syllable rret",
+    "ipa": ""
+  },
+  {
+    "label": "ꎅ",
+    "meta": "yi syllable rrex",
+    "ipa": ""
+  },
+  {
+    "label": "ꎆ",
+    "meta": "yi syllable rre",
+    "ipa": ""
+  },
+  {
+    "label": "ꎇ",
+    "meta": "yi syllable rrep",
+    "ipa": ""
+  },
+  {
+    "label": "ꎈ",
+    "meta": "yi syllable rrut",
+    "ipa": ""
+  },
+  {
+    "label": "ꎉ",
+    "meta": "yi syllable rrux",
+    "ipa": ""
+  },
+  {
+    "label": "ꎊ",
+    "meta": "yi syllable rru",
+    "ipa": ""
+  },
+  {
+    "label": "ꎋ",
+    "meta": "yi syllable rrup",
+    "ipa": ""
+  },
+  {
+    "label": "ꎌ",
+    "meta": "yi syllable rrurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎍ",
+    "meta": "yi syllable rrur",
+    "ipa": ""
+  },
+  {
+    "label": "ꎎ",
+    "meta": "yi syllable rryt",
+    "ipa": ""
+  },
+  {
+    "label": "ꎏ",
+    "meta": "yi syllable rryx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎐ",
+    "meta": "yi syllable rry",
+    "ipa": ""
+  },
+  {
+    "label": "ꎑ",
+    "meta": "yi syllable rryp",
+    "ipa": ""
+  },
+  {
+    "label": "ꎒ",
+    "meta": "yi syllable rryrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎓ",
+    "meta": "yi syllable rryr",
+    "ipa": ""
+  },
+  {
+    "label": "ꎔ",
+    "meta": "yi syllable nrat",
+    "ipa": ""
+  },
+  {
+    "label": "ꎕ",
+    "meta": "yi syllable nrax",
+    "ipa": ""
+  },
+  {
+    "label": "ꎖ",
+    "meta": "yi syllable nra",
+    "ipa": ""
+  },
+  {
+    "label": "ꎗ",
+    "meta": "yi syllable nrap",
+    "ipa": ""
+  },
+  {
+    "label": "ꎘ",
+    "meta": "yi syllable nrox",
+    "ipa": ""
+  },
+  {
+    "label": "ꎙ",
+    "meta": "yi syllable nro",
+    "ipa": ""
+  },
+  {
+    "label": "ꎚ",
+    "meta": "yi syllable nrop",
+    "ipa": ""
+  },
+  {
+    "label": "ꎛ",
+    "meta": "yi syllable nret",
+    "ipa": ""
+  },
+  {
+    "label": "ꎜ",
+    "meta": "yi syllable nrex",
+    "ipa": ""
+  },
+  {
+    "label": "ꎝ",
+    "meta": "yi syllable nre",
+    "ipa": ""
+  },
+  {
+    "label": "ꎞ",
+    "meta": "yi syllable nrep",
+    "ipa": ""
+  },
+  {
+    "label": "ꎟ",
+    "meta": "yi syllable nrut",
+    "ipa": ""
+  },
+  {
+    "label": "ꎠ",
+    "meta": "yi syllable nrux",
+    "ipa": ""
+  },
+  {
+    "label": "ꎡ",
+    "meta": "yi syllable nru",
+    "ipa": ""
+  },
+  {
+    "label": "ꎢ",
+    "meta": "yi syllable nrup",
+    "ipa": ""
+  },
+  {
+    "label": "ꎣ",
+    "meta": "yi syllable nrurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎤ",
+    "meta": "yi syllable nrur",
+    "ipa": ""
+  },
+  {
+    "label": "ꎥ",
+    "meta": "yi syllable nryt",
+    "ipa": ""
+  },
+  {
+    "label": "ꎦ",
+    "meta": "yi syllable nryx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎧ",
+    "meta": "yi syllable nry",
+    "ipa": ""
+  },
+  {
+    "label": "ꎨ",
+    "meta": "yi syllable nryp",
+    "ipa": ""
+  },
+  {
+    "label": "ꎩ",
+    "meta": "yi syllable nryrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎪ",
+    "meta": "yi syllable nryr",
+    "ipa": ""
+  },
+  {
+    "label": "ꎫ",
+    "meta": "yi syllable shat",
+    "ipa": ""
+  },
+  {
+    "label": "ꎬ",
+    "meta": "yi syllable shax",
+    "ipa": ""
+  },
+  {
+    "label": "ꎭ",
+    "meta": "yi syllable sha",
+    "ipa": ""
+  },
+  {
+    "label": "ꎮ",
+    "meta": "yi syllable shap",
+    "ipa": ""
+  },
+  {
+    "label": "ꎯ",
+    "meta": "yi syllable shuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꎰ",
+    "meta": "yi syllable shuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꎱ",
+    "meta": "yi syllable shuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꎲ",
+    "meta": "yi syllable shot",
+    "ipa": ""
+  },
+  {
+    "label": "ꎳ",
+    "meta": "yi syllable shox",
+    "ipa": ""
+  },
+  {
+    "label": "ꎴ",
+    "meta": "yi syllable sho",
+    "ipa": ""
+  },
+  {
+    "label": "ꎵ",
+    "meta": "yi syllable shop",
+    "ipa": ""
+  },
+  {
+    "label": "ꎶ",
+    "meta": "yi syllable shet",
+    "ipa": ""
+  },
+  {
+    "label": "ꎷ",
+    "meta": "yi syllable shex",
+    "ipa": ""
+  },
+  {
+    "label": "ꎸ",
+    "meta": "yi syllable she",
+    "ipa": ""
+  },
+  {
+    "label": "ꎹ",
+    "meta": "yi syllable shep",
+    "ipa": ""
+  },
+  {
+    "label": "ꎺ",
+    "meta": "yi syllable shut",
+    "ipa": ""
+  },
+  {
+    "label": "ꎻ",
+    "meta": "yi syllable shux",
+    "ipa": ""
+  },
+  {
+    "label": "ꎼ",
+    "meta": "yi syllable shu",
+    "ipa": ""
+  },
+  {
+    "label": "ꎽ",
+    "meta": "yi syllable shup",
+    "ipa": ""
+  },
+  {
+    "label": "ꎾ",
+    "meta": "yi syllable shurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꎿ",
+    "meta": "yi syllable shur",
+    "ipa": ""
+  },
+  {
+    "label": "ꏀ",
+    "meta": "yi syllable shyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꏁ",
+    "meta": "yi syllable shyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏂ",
+    "meta": "yi syllable shy",
+    "ipa": ""
+  },
+  {
+    "label": "ꏃ",
+    "meta": "yi syllable shyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꏄ",
+    "meta": "yi syllable shyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏅ",
+    "meta": "yi syllable shyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꏆ",
+    "meta": "yi syllable rat",
+    "ipa": ""
+  },
+  {
+    "label": "ꏇ",
+    "meta": "yi syllable rax",
+    "ipa": ""
+  },
+  {
+    "label": "ꏈ",
+    "meta": "yi syllable ra",
+    "ipa": ""
+  },
+  {
+    "label": "ꏉ",
+    "meta": "yi syllable rap",
+    "ipa": ""
+  },
+  {
+    "label": "ꏊ",
+    "meta": "yi syllable ruox",
+    "ipa": ""
+  },
+  {
+    "label": "ꏋ",
+    "meta": "yi syllable ruo",
+    "ipa": ""
+  },
+  {
+    "label": "ꏌ",
+    "meta": "yi syllable ruop",
+    "ipa": ""
+  },
+  {
+    "label": "ꏍ",
+    "meta": "yi syllable rot",
+    "ipa": ""
+  },
+  {
+    "label": "ꏎ",
+    "meta": "yi syllable rox",
+    "ipa": ""
+  },
+  {
+    "label": "ꏏ",
+    "meta": "yi syllable ro",
+    "ipa": ""
+  },
+  {
+    "label": "ꏐ",
+    "meta": "yi syllable rop",
+    "ipa": ""
+  },
+  {
+    "label": "ꏑ",
+    "meta": "yi syllable rex",
+    "ipa": ""
+  },
+  {
+    "label": "ꏒ",
+    "meta": "yi syllable re",
+    "ipa": ""
+  },
+  {
+    "label": "ꏓ",
+    "meta": "yi syllable rep",
+    "ipa": ""
+  },
+  {
+    "label": "ꏔ",
+    "meta": "yi syllable rut",
+    "ipa": ""
+  },
+  {
+    "label": "ꏕ",
+    "meta": "yi syllable rux",
+    "ipa": ""
+  },
+  {
+    "label": "ꏖ",
+    "meta": "yi syllable ru",
+    "ipa": ""
+  },
+  {
+    "label": "ꏗ",
+    "meta": "yi syllable rup",
+    "ipa": ""
+  },
+  {
+    "label": "ꏘ",
+    "meta": "yi syllable rurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏙ",
+    "meta": "yi syllable rur",
+    "ipa": ""
+  },
+  {
+    "label": "ꏚ",
+    "meta": "yi syllable ryt",
+    "ipa": ""
+  },
+  {
+    "label": "ꏛ",
+    "meta": "yi syllable ryx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏜ",
+    "meta": "yi syllable ry",
+    "ipa": ""
+  },
+  {
+    "label": "ꏝ",
+    "meta": "yi syllable ryp",
+    "ipa": ""
+  },
+  {
+    "label": "ꏞ",
+    "meta": "yi syllable ryrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏟ",
+    "meta": "yi syllable ryr",
+    "ipa": ""
+  },
+  {
+    "label": "ꏠ",
+    "meta": "yi syllable jit",
+    "ipa": ""
+  },
+  {
+    "label": "ꏡ",
+    "meta": "yi syllable jix",
+    "ipa": ""
+  },
+  {
+    "label": "ꏢ",
+    "meta": "yi syllable ji",
+    "ipa": ""
+  },
+  {
+    "label": "ꏣ",
+    "meta": "yi syllable jip",
+    "ipa": ""
+  },
+  {
+    "label": "ꏤ",
+    "meta": "yi syllable jiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꏥ",
+    "meta": "yi syllable jiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꏦ",
+    "meta": "yi syllable jie",
+    "ipa": ""
+  },
+  {
+    "label": "ꏧ",
+    "meta": "yi syllable jiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꏨ",
+    "meta": "yi syllable juot",
+    "ipa": ""
+  },
+  {
+    "label": "ꏩ",
+    "meta": "yi syllable juox",
+    "ipa": ""
+  },
+  {
+    "label": "ꏪ",
+    "meta": "yi syllable juo",
+    "ipa": ""
+  },
+  {
+    "label": "ꏫ",
+    "meta": "yi syllable juop",
+    "ipa": ""
+  },
+  {
+    "label": "ꏬ",
+    "meta": "yi syllable jot",
+    "ipa": ""
+  },
+  {
+    "label": "ꏭ",
+    "meta": "yi syllable jox",
+    "ipa": ""
+  },
+  {
+    "label": "ꏮ",
+    "meta": "yi syllable jo",
+    "ipa": ""
+  },
+  {
+    "label": "ꏯ",
+    "meta": "yi syllable jop",
+    "ipa": ""
+  },
+  {
+    "label": "ꏰ",
+    "meta": "yi syllable jut",
+    "ipa": ""
+  },
+  {
+    "label": "ꏱ",
+    "meta": "yi syllable jux",
+    "ipa": ""
+  },
+  {
+    "label": "ꏲ",
+    "meta": "yi syllable ju",
+    "ipa": ""
+  },
+  {
+    "label": "ꏳ",
+    "meta": "yi syllable jup",
+    "ipa": ""
+  },
+  {
+    "label": "ꏴ",
+    "meta": "yi syllable jurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏵ",
+    "meta": "yi syllable jur",
+    "ipa": ""
+  },
+  {
+    "label": "ꏶ",
+    "meta": "yi syllable jyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꏷ",
+    "meta": "yi syllable jyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏸ",
+    "meta": "yi syllable jy",
+    "ipa": ""
+  },
+  {
+    "label": "ꏹ",
+    "meta": "yi syllable jyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꏺ",
+    "meta": "yi syllable jyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꏻ",
+    "meta": "yi syllable jyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꏼ",
+    "meta": "yi syllable qit",
+    "ipa": ""
+  },
+  {
+    "label": "ꏽ",
+    "meta": "yi syllable qix",
+    "ipa": ""
+  },
+  {
+    "label": "ꏾ",
+    "meta": "yi syllable qi",
+    "ipa": ""
+  },
+  {
+    "label": "ꏿ",
+    "meta": "yi syllable qip",
+    "ipa": ""
+  },
+  {
+    "label": "ꐀ",
+    "meta": "yi syllable qiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꐁ",
+    "meta": "yi syllable qiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꐂ",
+    "meta": "yi syllable qie",
+    "ipa": ""
+  },
+  {
+    "label": "ꐃ",
+    "meta": "yi syllable qiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꐄ",
+    "meta": "yi syllable quot",
+    "ipa": ""
+  },
+  {
+    "label": "ꐅ",
+    "meta": "yi syllable quox",
+    "ipa": ""
+  },
+  {
+    "label": "ꐆ",
+    "meta": "yi syllable quo",
+    "ipa": ""
+  },
+  {
+    "label": "ꐇ",
+    "meta": "yi syllable quop",
+    "ipa": ""
+  },
+  {
+    "label": "ꐈ",
+    "meta": "yi syllable qot",
+    "ipa": ""
+  },
+  {
+    "label": "ꐉ",
+    "meta": "yi syllable qox",
+    "ipa": ""
+  },
+  {
+    "label": "ꐊ",
+    "meta": "yi syllable qo",
+    "ipa": ""
+  },
+  {
+    "label": "ꐋ",
+    "meta": "yi syllable qop",
+    "ipa": ""
+  },
+  {
+    "label": "ꐌ",
+    "meta": "yi syllable qut",
+    "ipa": ""
+  },
+  {
+    "label": "ꐍ",
+    "meta": "yi syllable qux",
+    "ipa": ""
+  },
+  {
+    "label": "ꐎ",
+    "meta": "yi syllable qu",
+    "ipa": ""
+  },
+  {
+    "label": "ꐏ",
+    "meta": "yi syllable qup",
+    "ipa": ""
+  },
+  {
+    "label": "ꐐ",
+    "meta": "yi syllable qurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꐑ",
+    "meta": "yi syllable qur",
+    "ipa": ""
+  },
+  {
+    "label": "ꐒ",
+    "meta": "yi syllable qyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꐓ",
+    "meta": "yi syllable qyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꐔ",
+    "meta": "yi syllable qy",
+    "ipa": ""
+  },
+  {
+    "label": "ꐕ",
+    "meta": "yi syllable qyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꐖ",
+    "meta": "yi syllable qyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꐗ",
+    "meta": "yi syllable qyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꐘ",
+    "meta": "yi syllable jjit",
+    "ipa": ""
+  },
+  {
+    "label": "ꐙ",
+    "meta": "yi syllable jjix",
+    "ipa": ""
+  },
+  {
+    "label": "ꐚ",
+    "meta": "yi syllable jji",
+    "ipa": ""
+  },
+  {
+    "label": "ꐛ",
+    "meta": "yi syllable jjip",
+    "ipa": ""
+  },
+  {
+    "label": "ꐜ",
+    "meta": "yi syllable jjiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꐝ",
+    "meta": "yi syllable jjiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꐞ",
+    "meta": "yi syllable jjie",
+    "ipa": ""
+  },
+  {
+    "label": "ꐟ",
+    "meta": "yi syllable jjiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꐠ",
+    "meta": "yi syllable jjuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꐡ",
+    "meta": "yi syllable jjuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꐢ",
+    "meta": "yi syllable jjuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꐣ",
+    "meta": "yi syllable jjot",
+    "ipa": ""
+  },
+  {
+    "label": "ꐤ",
+    "meta": "yi syllable jjox",
+    "ipa": ""
+  },
+  {
+    "label": "ꐥ",
+    "meta": "yi syllable jjo",
+    "ipa": ""
+  },
+  {
+    "label": "ꐦ",
+    "meta": "yi syllable jjop",
+    "ipa": ""
+  },
+  {
+    "label": "ꐧ",
+    "meta": "yi syllable jjut",
+    "ipa": ""
+  },
+  {
+    "label": "ꐨ",
+    "meta": "yi syllable jjux",
+    "ipa": ""
+  },
+  {
+    "label": "ꐩ",
+    "meta": "yi syllable jju",
+    "ipa": ""
+  },
+  {
+    "label": "ꐪ",
+    "meta": "yi syllable jjup",
+    "ipa": ""
+  },
+  {
+    "label": "ꐫ",
+    "meta": "yi syllable jjurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꐬ",
+    "meta": "yi syllable jjur",
+    "ipa": ""
+  },
+  {
+    "label": "ꐭ",
+    "meta": "yi syllable jjyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꐮ",
+    "meta": "yi syllable jjyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꐯ",
+    "meta": "yi syllable jjy",
+    "ipa": ""
+  },
+  {
+    "label": "ꐰ",
+    "meta": "yi syllable jjyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꐱ",
+    "meta": "yi syllable njit",
+    "ipa": ""
+  },
+  {
+    "label": "ꐲ",
+    "meta": "yi syllable njix",
+    "ipa": ""
+  },
+  {
+    "label": "ꐳ",
+    "meta": "yi syllable nji",
+    "ipa": ""
+  },
+  {
+    "label": "ꐴ",
+    "meta": "yi syllable njip",
+    "ipa": ""
+  },
+  {
+    "label": "ꐵ",
+    "meta": "yi syllable njiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꐶ",
+    "meta": "yi syllable njiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꐷ",
+    "meta": "yi syllable njie",
+    "ipa": ""
+  },
+  {
+    "label": "ꐸ",
+    "meta": "yi syllable njiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꐹ",
+    "meta": "yi syllable njuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꐺ",
+    "meta": "yi syllable njuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꐻ",
+    "meta": "yi syllable njot",
+    "ipa": ""
+  },
+  {
+    "label": "ꐼ",
+    "meta": "yi syllable njox",
+    "ipa": ""
+  },
+  {
+    "label": "ꐽ",
+    "meta": "yi syllable njo",
+    "ipa": ""
+  },
+  {
+    "label": "ꐾ",
+    "meta": "yi syllable njop",
+    "ipa": ""
+  },
+  {
+    "label": "ꐿ",
+    "meta": "yi syllable njux",
+    "ipa": ""
+  },
+  {
+    "label": "ꑀ",
+    "meta": "yi syllable nju",
+    "ipa": ""
+  },
+  {
+    "label": "ꑁ",
+    "meta": "yi syllable njup",
+    "ipa": ""
+  },
+  {
+    "label": "ꑂ",
+    "meta": "yi syllable njurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꑃ",
+    "meta": "yi syllable njur",
+    "ipa": ""
+  },
+  {
+    "label": "ꑄ",
+    "meta": "yi syllable njyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꑅ",
+    "meta": "yi syllable njyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꑆ",
+    "meta": "yi syllable njy",
+    "ipa": ""
+  },
+  {
+    "label": "ꑇ",
+    "meta": "yi syllable njyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꑈ",
+    "meta": "yi syllable njyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꑉ",
+    "meta": "yi syllable njyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꑊ",
+    "meta": "yi syllable nyit",
+    "ipa": ""
+  },
+  {
+    "label": "ꑋ",
+    "meta": "yi syllable nyix",
+    "ipa": ""
+  },
+  {
+    "label": "ꑌ",
+    "meta": "yi syllable nyi",
+    "ipa": ""
+  },
+  {
+    "label": "ꑍ",
+    "meta": "yi syllable nyip",
+    "ipa": ""
+  },
+  {
+    "label": "ꑎ",
+    "meta": "yi syllable nyiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꑏ",
+    "meta": "yi syllable nyiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꑐ",
+    "meta": "yi syllable nyie",
+    "ipa": ""
+  },
+  {
+    "label": "ꑑ",
+    "meta": "yi syllable nyiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꑒ",
+    "meta": "yi syllable nyuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꑓ",
+    "meta": "yi syllable nyuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꑔ",
+    "meta": "yi syllable nyuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꑕ",
+    "meta": "yi syllable nyot",
+    "ipa": ""
+  },
+  {
+    "label": "ꑖ",
+    "meta": "yi syllable nyox",
+    "ipa": ""
+  },
+  {
+    "label": "ꑗ",
+    "meta": "yi syllable nyo",
+    "ipa": ""
+  },
+  {
+    "label": "ꑘ",
+    "meta": "yi syllable nyop",
+    "ipa": ""
+  },
+  {
+    "label": "ꑙ",
+    "meta": "yi syllable nyut",
+    "ipa": ""
+  },
+  {
+    "label": "ꑚ",
+    "meta": "yi syllable nyux",
+    "ipa": ""
+  },
+  {
+    "label": "ꑛ",
+    "meta": "yi syllable nyu",
+    "ipa": ""
+  },
+  {
+    "label": "ꑜ",
+    "meta": "yi syllable nyup",
+    "ipa": ""
+  },
+  {
+    "label": "ꑝ",
+    "meta": "yi syllable xit",
+    "ipa": ""
+  },
+  {
+    "label": "ꑞ",
+    "meta": "yi syllable xix",
+    "ipa": ""
+  },
+  {
+    "label": "ꑟ",
+    "meta": "yi syllable xi",
+    "ipa": ""
+  },
+  {
+    "label": "ꑠ",
+    "meta": "yi syllable xip",
+    "ipa": ""
+  },
+  {
+    "label": "ꑡ",
+    "meta": "yi syllable xiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꑢ",
+    "meta": "yi syllable xiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꑣ",
+    "meta": "yi syllable xie",
+    "ipa": ""
+  },
+  {
+    "label": "ꑤ",
+    "meta": "yi syllable xiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꑥ",
+    "meta": "yi syllable xuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꑦ",
+    "meta": "yi syllable xuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꑧ",
+    "meta": "yi syllable xot",
+    "ipa": ""
+  },
+  {
+    "label": "ꑨ",
+    "meta": "yi syllable xox",
+    "ipa": ""
+  },
+  {
+    "label": "ꑩ",
+    "meta": "yi syllable xo",
+    "ipa": ""
+  },
+  {
+    "label": "ꑪ",
+    "meta": "yi syllable xop",
+    "ipa": ""
+  },
+  {
+    "label": "ꑫ",
+    "meta": "yi syllable xyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꑬ",
+    "meta": "yi syllable xyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꑭ",
+    "meta": "yi syllable xy",
+    "ipa": ""
+  },
+  {
+    "label": "ꑮ",
+    "meta": "yi syllable xyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꑯ",
+    "meta": "yi syllable xyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꑰ",
+    "meta": "yi syllable xyr",
+    "ipa": ""
+  },
+  {
+    "label": "ꑱ",
+    "meta": "yi syllable yit",
+    "ipa": ""
+  },
+  {
+    "label": "ꑲ",
+    "meta": "yi syllable yix",
+    "ipa": ""
+  },
+  {
+    "label": "ꑳ",
+    "meta": "yi syllable yi",
+    "ipa": ""
+  },
+  {
+    "label": "ꑴ",
+    "meta": "yi syllable yip",
+    "ipa": ""
+  },
+  {
+    "label": "ꑵ",
+    "meta": "yi syllable yiet",
+    "ipa": ""
+  },
+  {
+    "label": "ꑶ",
+    "meta": "yi syllable yiex",
+    "ipa": ""
+  },
+  {
+    "label": "ꑷ",
+    "meta": "yi syllable yie",
+    "ipa": ""
+  },
+  {
+    "label": "ꑸ",
+    "meta": "yi syllable yiep",
+    "ipa": ""
+  },
+  {
+    "label": "ꑹ",
+    "meta": "yi syllable yuot",
+    "ipa": ""
+  },
+  {
+    "label": "ꑺ",
+    "meta": "yi syllable yuox",
+    "ipa": ""
+  },
+  {
+    "label": "ꑻ",
+    "meta": "yi syllable yuo",
+    "ipa": ""
+  },
+  {
+    "label": "ꑼ",
+    "meta": "yi syllable yuop",
+    "ipa": ""
+  },
+  {
+    "label": "ꑽ",
+    "meta": "yi syllable yot",
+    "ipa": ""
+  },
+  {
+    "label": "ꑾ",
+    "meta": "yi syllable yox",
+    "ipa": ""
+  },
+  {
+    "label": "ꑿ",
+    "meta": "yi syllable yo",
+    "ipa": ""
+  },
+  {
+    "label": "ꒀ",
+    "meta": "yi syllable yop",
+    "ipa": ""
+  },
+  {
+    "label": "ꒁ",
+    "meta": "yi syllable yut",
+    "ipa": ""
+  },
+  {
+    "label": "ꒂ",
+    "meta": "yi syllable yux",
+    "ipa": ""
+  },
+  {
+    "label": "ꒃ",
+    "meta": "yi syllable yu",
+    "ipa": ""
+  },
+  {
+    "label": "ꒄ",
+    "meta": "yi syllable yup",
+    "ipa": ""
+  },
+  {
+    "label": "ꒅ",
+    "meta": "yi syllable yurx",
+    "ipa": ""
+  },
+  {
+    "label": "ꒆ",
+    "meta": "yi syllable yur",
+    "ipa": ""
+  },
+  {
+    "label": "ꒇ",
+    "meta": "yi syllable yyt",
+    "ipa": ""
+  },
+  {
+    "label": "ꒈ",
+    "meta": "yi syllable yyx",
+    "ipa": ""
+  },
+  {
+    "label": "ꒉ",
+    "meta": "yi syllable yy",
+    "ipa": ""
+  },
+  {
+    "label": "ꒊ",
+    "meta": "yi syllable yyp",
+    "ipa": ""
+  },
+  {
+    "label": "ꒋ",
+    "meta": "yi syllable yyrx",
+    "ipa": ""
+  },
+  {
+    "label": "ꒌ",
+    "meta": "yi syllable yyr",
+    "ipa": ""
+  },
+  {
+    "label": "꒐",
+    "meta": "yi radical qot",
+    "ipa": ""
+  },
+  {
+    "label": "꒑",
+    "meta": "yi radical li",
+    "ipa": ""
+  },
+  {
+    "label": "꒒",
+    "meta": "yi radical kit",
+    "ipa": ""
+  },
+  {
+    "label": "꒓",
+    "meta": "yi radical nyip",
+    "ipa": ""
+  },
+  {
+    "label": "꒔",
+    "meta": "yi radical cyp",
+    "ipa": ""
+  },
+  {
+    "label": "꒕",
+    "meta": "yi radical ssi",
+    "ipa": ""
+  },
+  {
+    "label": "꒖",
+    "meta": "yi radical ggop",
+    "ipa": ""
+  },
+  {
+    "label": "꒗",
+    "meta": "yi radical gep",
+    "ipa": ""
+  },
+  {
+    "label": "꒘",
+    "meta": "yi radical mi",
+    "ipa": ""
+  },
+  {
+    "label": "꒙",
+    "meta": "yi radical hxit",
+    "ipa": ""
+  },
+  {
+    "label": "꒚",
+    "meta": "yi radical lyr",
+    "ipa": ""
+  },
+  {
+    "label": "꒛",
+    "meta": "yi radical bbut",
+    "ipa": ""
+  },
+  {
+    "label": "꒜",
+    "meta": "yi radical mop",
+    "ipa": ""
+  },
+  {
+    "label": "꒝",
+    "meta": "yi radical yo",
+    "ipa": ""
+  },
+  {
+    "label": "꒞",
+    "meta": "yi radical put",
+    "ipa": ""
+  },
+  {
+    "label": "꒟",
+    "meta": "yi radical hxuo",
+    "ipa": ""
+  },
+  {
+    "label": "꒠",
+    "meta": "yi radical tat",
+    "ipa": ""
+  },
+  {
+    "label": "꒡",
+    "meta": "yi radical ga",
+    "ipa": ""
+  },
+  {
+    "label": "꒢",
+    "meta": "yi radical zup",
+    "ipa": ""
+  },
+  {
+    "label": "꒣",
+    "meta": "yi radical cyt",
+    "ipa": ""
+  },
+  {
+    "label": "꒤",
+    "meta": "yi radical ddur",
+    "ipa": ""
+  },
+  {
+    "label": "꒥",
+    "meta": "yi radical bur",
+    "ipa": ""
+  },
+  {
+    "label": "꒦",
+    "meta": "yi radical gguo",
+    "ipa": ""
+  },
+  {
+    "label": "꒧",
+    "meta": "yi radical nyop",
+    "ipa": ""
+  },
+  {
+    "label": "꒨",
+    "meta": "yi radical tu",
+    "ipa": ""
+  },
+  {
+    "label": "꒩",
+    "meta": "yi radical op",
+    "ipa": ""
+  },
+  {
+    "label": "꒪",
+    "meta": "yi radical jjut",
+    "ipa": ""
+  },
+  {
+    "label": "꒫",
+    "meta": "yi radical zot",
+    "ipa": ""
+  },
+  {
+    "label": "꒬",
+    "meta": "yi radical pyt",
+    "ipa": ""
+  },
+  {
+    "label": "꒭",
+    "meta": "yi radical hmo",
+    "ipa": ""
+  },
+  {
+    "label": "꒮",
+    "meta": "yi radical yit",
+    "ipa": ""
+  },
+  {
+    "label": "꒯",
+    "meta": "yi radical vur",
+    "ipa": ""
+  },
+  {
+    "label": "꒰",
+    "meta": "yi radical shy",
+    "ipa": ""
+  },
+  {
+    "label": "꒱",
+    "meta": "yi radical vep",
+    "ipa": ""
+  },
+  {
+    "label": "꒲",
+    "meta": "yi radical za",
+    "ipa": ""
+  },
+  {
+    "label": "꒳",
+    "meta": "yi radical jo",
+    "ipa": ""
+  },
+  {
+    "label": "꒴",
+    "meta": "yi radical nzup",
+    "ipa": ""
+  },
+  {
+    "label": "꒵",
+    "meta": "yi radical jjy",
+    "ipa": ""
+  },
+  {
+    "label": "꒶",
+    "meta": "yi radical got",
+    "ipa": ""
+  },
+  {
+    "label": "꒷",
+    "meta": "yi radical jjie",
+    "ipa": ""
+  },
+  {
+    "label": "꒸",
+    "meta": "yi radical wo",
+    "ipa": ""
+  },
+  {
+    "label": "꒹",
+    "meta": "yi radical du",
+    "ipa": ""
+  },
+  {
+    "label": "꒺",
+    "meta": "yi radical shur",
+    "ipa": ""
+  },
+  {
+    "label": "꒻",
+    "meta": "yi radical lie",
+    "ipa": ""
+  },
+  {
+    "label": "꒼",
+    "meta": "yi radical cy",
+    "ipa": ""
+  },
+  {
+    "label": "꒽",
+    "meta": "yi radical cuop",
+    "ipa": ""
+  },
+  {
+    "label": "꒾",
+    "meta": "yi radical cip",
+    "ipa": ""
+  },
+  {
+    "label": "꒿",
+    "meta": "yi radical hxop",
+    "ipa": ""
+  },
+  {
+    "label": "꓀",
+    "meta": "yi radical shat",
+    "ipa": ""
+  },
+  {
+    "label": "꓁",
+    "meta": "yi radical zur",
+    "ipa": ""
+  },
+  {
+    "label": "꓂",
+    "meta": "yi radical shop",
+    "ipa": ""
+  },
+  {
+    "label": "꓃",
+    "meta": "yi radical che",
+    "ipa": ""
+  },
+  {
+    "label": "꓄",
+    "meta": "yi radical zziet",
+    "ipa": ""
+  },
+  {
+    "label": "꓅",
+    "meta": "yi radical nbie",
+    "ipa": ""
+  },
+  {
+    "label": "꓆",
+    "meta": "yi radical ke",
+    "ipa": ""
+  }
+]

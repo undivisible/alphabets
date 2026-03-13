@@ -1,0 +1,482 @@
+[
+  {
+    "label": "ঀ",
+    "meta": "bengali anji",
+    "ipa": ""
+  },
+  {
+    "label": "ঁ",
+    "meta": "bengali sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ং",
+    "meta": "bengali sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ঃ",
+    "meta": "bengali sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "অ",
+    "meta": "bengali letter a",
+    "ipa": ""
+  },
+  {
+    "label": "আ",
+    "meta": "bengali letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ই",
+    "meta": "bengali letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ঈ",
+    "meta": "bengali letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "উ",
+    "meta": "bengali letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ঊ",
+    "meta": "bengali letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ঋ",
+    "meta": "bengali letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ঌ",
+    "meta": "bengali letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "এ",
+    "meta": "bengali letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ঐ",
+    "meta": "bengali letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ও",
+    "meta": "bengali letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ঔ",
+    "meta": "bengali letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ক",
+    "meta": "bengali letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "খ",
+    "meta": "bengali letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "গ",
+    "meta": "bengali letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ঘ",
+    "meta": "bengali letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ঙ",
+    "meta": "bengali letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "চ",
+    "meta": "bengali letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ছ",
+    "meta": "bengali letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "জ",
+    "meta": "bengali letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ঝ",
+    "meta": "bengali letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ঞ",
+    "meta": "bengali letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ট",
+    "meta": "bengali letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ঠ",
+    "meta": "bengali letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ড",
+    "meta": "bengali letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ঢ",
+    "meta": "bengali letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ণ",
+    "meta": "bengali letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ত",
+    "meta": "bengali letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "থ",
+    "meta": "bengali letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "দ",
+    "meta": "bengali letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ধ",
+    "meta": "bengali letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ন",
+    "meta": "bengali letter na",
+    "ipa": ""
+  },
+  {
+    "label": "প",
+    "meta": "bengali letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ফ",
+    "meta": "bengali letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ব",
+    "meta": "bengali letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ভ",
+    "meta": "bengali letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "ম",
+    "meta": "bengali letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "য",
+    "meta": "bengali letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "র",
+    "meta": "bengali letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ল",
+    "meta": "bengali letter la",
+    "ipa": ""
+  },
+  {
+    "label": "শ",
+    "meta": "bengali letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ষ",
+    "meta": "bengali letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "স",
+    "meta": "bengali letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "হ",
+    "meta": "bengali letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "়",
+    "meta": "bengali sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "ঽ",
+    "meta": "bengali sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "া",
+    "meta": "bengali vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ি",
+    "meta": "bengali vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ী",
+    "meta": "bengali vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ু",
+    "meta": "bengali vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ূ",
+    "meta": "bengali vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ৃ",
+    "meta": "bengali vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ৄ",
+    "meta": "bengali vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ে",
+    "meta": "bengali vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ৈ",
+    "meta": "bengali vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ো",
+    "meta": "bengali vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ৌ",
+    "meta": "bengali vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "্",
+    "meta": "bengali sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "ৎ",
+    "meta": "bengali letter khanda ta",
+    "ipa": ""
+  },
+  {
+    "label": "ৗ",
+    "meta": "bengali au length mark",
+    "ipa": ""
+  },
+  {
+    "label": "ড়",
+    "meta": "bengali letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ঢ়",
+    "meta": "bengali letter rha",
+    "ipa": ""
+  },
+  {
+    "label": "য়",
+    "meta": "bengali letter yya",
+    "ipa": ""
+  },
+  {
+    "label": "ৠ",
+    "meta": "bengali letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ৡ",
+    "meta": "bengali letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ৢ",
+    "meta": "bengali vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ৣ",
+    "meta": "bengali vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "০",
+    "meta": "bengali digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "১",
+    "meta": "bengali digit one",
+    "ipa": ""
+  },
+  {
+    "label": "২",
+    "meta": "bengali digit two",
+    "ipa": ""
+  },
+  {
+    "label": "৩",
+    "meta": "bengali digit three",
+    "ipa": ""
+  },
+  {
+    "label": "৪",
+    "meta": "bengali digit four",
+    "ipa": ""
+  },
+  {
+    "label": "৫",
+    "meta": "bengali digit five",
+    "ipa": ""
+  },
+  {
+    "label": "৬",
+    "meta": "bengali digit six",
+    "ipa": ""
+  },
+  {
+    "label": "৭",
+    "meta": "bengali digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "৮",
+    "meta": "bengali digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "৯",
+    "meta": "bengali digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "ৰ",
+    "meta": "bengali letter ra with middle diagonal",
+    "ipa": ""
+  },
+  {
+    "label": "ৱ",
+    "meta": "bengali letter ra with lower diagonal",
+    "ipa": ""
+  },
+  {
+    "label": "৲",
+    "meta": "bengali rupee mark",
+    "ipa": ""
+  },
+  {
+    "label": "৳",
+    "meta": "bengali rupee sign",
+    "ipa": ""
+  },
+  {
+    "label": "৴",
+    "meta": "bengali currency numerator one",
+    "ipa": ""
+  },
+  {
+    "label": "৵",
+    "meta": "bengali currency numerator two",
+    "ipa": ""
+  },
+  {
+    "label": "৶",
+    "meta": "bengali currency numerator three",
+    "ipa": ""
+  },
+  {
+    "label": "৷",
+    "meta": "bengali currency numerator four",
+    "ipa": ""
+  },
+  {
+    "label": "৸",
+    "meta": "bengali currency numerator one less than the denominator",
+    "ipa": ""
+  },
+  {
+    "label": "৹",
+    "meta": "bengali currency denominator sixteen",
+    "ipa": ""
+  },
+  {
+    "label": "৺",
+    "meta": "bengali isshar",
+    "ipa": ""
+  },
+  {
+    "label": "৻",
+    "meta": "bengali ganda mark",
+    "ipa": ""
+  },
+  {
+    "label": "ৼ",
+    "meta": "bengali letter vedic anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "৽",
+    "meta": "bengali abbreviation sign",
+    "ipa": ""
+  },
+  {
+    "label": "৾",
+    "meta": "bengali sandhi mark",
+    "ipa": ""
+  }
+]

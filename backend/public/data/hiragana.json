@@ -1,0 +1,1907 @@
+[
+  {
+    "label": "ぁ",
+    "meta": "hiragana letter small a",
+    "ipa": ""
+  },
+  {
+    "label": "あ",
+    "meta": "hiragana letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ぃ",
+    "meta": "hiragana letter small i",
+    "ipa": ""
+  },
+  {
+    "label": "い",
+    "meta": "hiragana letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ぅ",
+    "meta": "hiragana letter small u",
+    "ipa": ""
+  },
+  {
+    "label": "う",
+    "meta": "hiragana letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ぇ",
+    "meta": "hiragana letter small e",
+    "ipa": ""
+  },
+  {
+    "label": "え",
+    "meta": "hiragana letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ぉ",
+    "meta": "hiragana letter small o",
+    "ipa": ""
+  },
+  {
+    "label": "お",
+    "meta": "hiragana letter o",
+    "ipa": ""
+  },
+  {
+    "label": "か",
+    "meta": "hiragana letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "が",
+    "meta": "hiragana letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "き",
+    "meta": "hiragana letter ki",
+    "ipa": ""
+  },
+  {
+    "label": "ぎ",
+    "meta": "hiragana letter gi",
+    "ipa": ""
+  },
+  {
+    "label": "く",
+    "meta": "hiragana letter ku",
+    "ipa": ""
+  },
+  {
+    "label": "ぐ",
+    "meta": "hiragana letter gu",
+    "ipa": ""
+  },
+  {
+    "label": "け",
+    "meta": "hiragana letter ke",
+    "ipa": ""
+  },
+  {
+    "label": "げ",
+    "meta": "hiragana letter ge",
+    "ipa": ""
+  },
+  {
+    "label": "こ",
+    "meta": "hiragana letter ko",
+    "ipa": ""
+  },
+  {
+    "label": "ご",
+    "meta": "hiragana letter go",
+    "ipa": ""
+  },
+  {
+    "label": "さ",
+    "meta": "hiragana letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ざ",
+    "meta": "hiragana letter za",
+    "ipa": ""
+  },
+  {
+    "label": "し",
+    "meta": "hiragana letter si",
+    "ipa": ""
+  },
+  {
+    "label": "じ",
+    "meta": "hiragana letter zi",
+    "ipa": ""
+  },
+  {
+    "label": "す",
+    "meta": "hiragana letter su",
+    "ipa": ""
+  },
+  {
+    "label": "ず",
+    "meta": "hiragana letter zu",
+    "ipa": ""
+  },
+  {
+    "label": "せ",
+    "meta": "hiragana letter se",
+    "ipa": ""
+  },
+  {
+    "label": "ぜ",
+    "meta": "hiragana letter ze",
+    "ipa": ""
+  },
+  {
+    "label": "そ",
+    "meta": "hiragana letter so",
+    "ipa": ""
+  },
+  {
+    "label": "ぞ",
+    "meta": "hiragana letter zo",
+    "ipa": ""
+  },
+  {
+    "label": "た",
+    "meta": "hiragana letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "だ",
+    "meta": "hiragana letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ち",
+    "meta": "hiragana letter ti",
+    "ipa": ""
+  },
+  {
+    "label": "ぢ",
+    "meta": "hiragana letter di",
+    "ipa": ""
+  },
+  {
+    "label": "っ",
+    "meta": "hiragana letter small tu",
+    "ipa": ""
+  },
+  {
+    "label": "つ",
+    "meta": "hiragana letter tu",
+    "ipa": ""
+  },
+  {
+    "label": "づ",
+    "meta": "hiragana letter du",
+    "ipa": ""
+  },
+  {
+    "label": "て",
+    "meta": "hiragana letter te",
+    "ipa": ""
+  },
+  {
+    "label": "で",
+    "meta": "hiragana letter de",
+    "ipa": ""
+  },
+  {
+    "label": "と",
+    "meta": "hiragana letter to",
+    "ipa": ""
+  },
+  {
+    "label": "ど",
+    "meta": "hiragana letter do",
+    "ipa": ""
+  },
+  {
+    "label": "な",
+    "meta": "hiragana letter na",
+    "ipa": ""
+  },
+  {
+    "label": "に",
+    "meta": "hiragana letter ni",
+    "ipa": ""
+  },
+  {
+    "label": "ぬ",
+    "meta": "hiragana letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "ね",
+    "meta": "hiragana letter ne",
+    "ipa": ""
+  },
+  {
+    "label": "の",
+    "meta": "hiragana letter no",
+    "ipa": ""
+  },
+  {
+    "label": "は",
+    "meta": "hiragana letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ば",
+    "meta": "hiragana letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ぱ",
+    "meta": "hiragana letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ひ",
+    "meta": "hiragana letter hi",
+    "ipa": ""
+  },
+  {
+    "label": "び",
+    "meta": "hiragana letter bi",
+    "ipa": ""
+  },
+  {
+    "label": "ぴ",
+    "meta": "hiragana letter pi",
+    "ipa": ""
+  },
+  {
+    "label": "ふ",
+    "meta": "hiragana letter hu",
+    "ipa": ""
+  },
+  {
+    "label": "ぶ",
+    "meta": "hiragana letter bu",
+    "ipa": ""
+  },
+  {
+    "label": "ぷ",
+    "meta": "hiragana letter pu",
+    "ipa": ""
+  },
+  {
+    "label": "へ",
+    "meta": "hiragana letter he",
+    "ipa": ""
+  },
+  {
+    "label": "べ",
+    "meta": "hiragana letter be",
+    "ipa": ""
+  },
+  {
+    "label": "ぺ",
+    "meta": "hiragana letter pe",
+    "ipa": ""
+  },
+  {
+    "label": "ほ",
+    "meta": "hiragana letter ho",
+    "ipa": ""
+  },
+  {
+    "label": "ぼ",
+    "meta": "hiragana letter bo",
+    "ipa": ""
+  },
+  {
+    "label": "ぽ",
+    "meta": "hiragana letter po",
+    "ipa": ""
+  },
+  {
+    "label": "ま",
+    "meta": "hiragana letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "み",
+    "meta": "hiragana letter mi",
+    "ipa": ""
+  },
+  {
+    "label": "む",
+    "meta": "hiragana letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "め",
+    "meta": "hiragana letter me",
+    "ipa": ""
+  },
+  {
+    "label": "も",
+    "meta": "hiragana letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "ゃ",
+    "meta": "hiragana letter small ya",
+    "ipa": ""
+  },
+  {
+    "label": "や",
+    "meta": "hiragana letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ゅ",
+    "meta": "hiragana letter small yu",
+    "ipa": ""
+  },
+  {
+    "label": "ゆ",
+    "meta": "hiragana letter yu",
+    "ipa": ""
+  },
+  {
+    "label": "ょ",
+    "meta": "hiragana letter small yo",
+    "ipa": ""
+  },
+  {
+    "label": "よ",
+    "meta": "hiragana letter yo",
+    "ipa": ""
+  },
+  {
+    "label": "ら",
+    "meta": "hiragana letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "り",
+    "meta": "hiragana letter ri",
+    "ipa": ""
+  },
+  {
+    "label": "る",
+    "meta": "hiragana letter ru",
+    "ipa": ""
+  },
+  {
+    "label": "れ",
+    "meta": "hiragana letter re",
+    "ipa": ""
+  },
+  {
+    "label": "ろ",
+    "meta": "hiragana letter ro",
+    "ipa": ""
+  },
+  {
+    "label": "ゎ",
+    "meta": "hiragana letter small wa",
+    "ipa": ""
+  },
+  {
+    "label": "わ",
+    "meta": "hiragana letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ゐ",
+    "meta": "hiragana letter wi",
+    "ipa": ""
+  },
+  {
+    "label": "ゑ",
+    "meta": "hiragana letter we",
+    "ipa": ""
+  },
+  {
+    "label": "を",
+    "meta": "hiragana letter wo",
+    "ipa": ""
+  },
+  {
+    "label": "ん",
+    "meta": "hiragana letter n",
+    "ipa": ""
+  },
+  {
+    "label": "ゔ",
+    "meta": "hiragana letter vu",
+    "ipa": ""
+  },
+  {
+    "label": "ゕ",
+    "meta": "hiragana letter small ka",
+    "ipa": ""
+  },
+  {
+    "label": "ゖ",
+    "meta": "hiragana letter small ke",
+    "ipa": ""
+  },
+  {
+    "label": "ゝ",
+    "meta": "hiragana iteration mark",
+    "ipa": ""
+  },
+  {
+    "label": "ゞ",
+    "meta": "hiragana voiced iteration mark",
+    "ipa": ""
+  },
+  {
+    "label": "ゟ",
+    "meta": "hiragana digraph yori",
+    "ipa": ""
+  },
+  {
+    "label": "𛀁",
+    "meta": "hiragana letter archaic ye",
+    "ipa": ""
+  },
+  {
+    "label": "𛀂",
+    "meta": "hentaigana letter a-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀃",
+    "meta": "hentaigana letter a-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀄",
+    "meta": "hentaigana letter a-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀅",
+    "meta": "hentaigana letter a-wo",
+    "ipa": ""
+  },
+  {
+    "label": "𛀆",
+    "meta": "hentaigana letter i-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀇",
+    "meta": "hentaigana letter i-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀈",
+    "meta": "hentaigana letter i-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀉",
+    "meta": "hentaigana letter i-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀊",
+    "meta": "hentaigana letter u-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀋",
+    "meta": "hentaigana letter u-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀌",
+    "meta": "hentaigana letter u-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀍",
+    "meta": "hentaigana letter u-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀎",
+    "meta": "hentaigana letter u-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛀏",
+    "meta": "hentaigana letter e-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀐",
+    "meta": "hentaigana letter e-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀑",
+    "meta": "hentaigana letter e-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀒",
+    "meta": "hentaigana letter e-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛀓",
+    "meta": "hentaigana letter e-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛀔",
+    "meta": "hentaigana letter o-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀕",
+    "meta": "hentaigana letter o-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀖",
+    "meta": "hentaigana letter o-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀗",
+    "meta": "hentaigana letter ka-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀘",
+    "meta": "hentaigana letter ka-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀙",
+    "meta": "hentaigana letter ka-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀚",
+    "meta": "hentaigana letter ka-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀛",
+    "meta": "hentaigana letter ka-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛀜",
+    "meta": "hentaigana letter ka-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛀝",
+    "meta": "hentaigana letter ka-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛀞",
+    "meta": "hentaigana letter ka-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛀟",
+    "meta": "hentaigana letter ka-9",
+    "ipa": ""
+  },
+  {
+    "label": "𛀠",
+    "meta": "hentaigana letter ka-10",
+    "ipa": ""
+  },
+  {
+    "label": "𛀡",
+    "meta": "hentaigana letter ka-11",
+    "ipa": ""
+  },
+  {
+    "label": "𛀢",
+    "meta": "hentaigana letter ka-ke",
+    "ipa": ""
+  },
+  {
+    "label": "𛀣",
+    "meta": "hentaigana letter ki-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀤",
+    "meta": "hentaigana letter ki-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀥",
+    "meta": "hentaigana letter ki-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀦",
+    "meta": "hentaigana letter ki-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀧",
+    "meta": "hentaigana letter ki-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛀨",
+    "meta": "hentaigana letter ki-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛀩",
+    "meta": "hentaigana letter ki-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛀪",
+    "meta": "hentaigana letter ki-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛀫",
+    "meta": "hentaigana letter ku-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀬",
+    "meta": "hentaigana letter ku-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀭",
+    "meta": "hentaigana letter ku-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀮",
+    "meta": "hentaigana letter ku-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀯",
+    "meta": "hentaigana letter ku-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛀰",
+    "meta": "hentaigana letter ku-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛀱",
+    "meta": "hentaigana letter ku-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛀲",
+    "meta": "hentaigana letter ke-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀳",
+    "meta": "hentaigana letter ke-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀴",
+    "meta": "hentaigana letter ke-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀵",
+    "meta": "hentaigana letter ke-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛀶",
+    "meta": "hentaigana letter ke-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛀷",
+    "meta": "hentaigana letter ke-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛀸",
+    "meta": "hentaigana letter ko-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀹",
+    "meta": "hentaigana letter ko-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀺",
+    "meta": "hentaigana letter ko-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀻",
+    "meta": "hentaigana letter ko-ki",
+    "ipa": ""
+  },
+  {
+    "label": "𛀼",
+    "meta": "hentaigana letter sa-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛀽",
+    "meta": "hentaigana letter sa-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛀾",
+    "meta": "hentaigana letter sa-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛀿",
+    "meta": "hentaigana letter sa-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁀",
+    "meta": "hentaigana letter sa-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁁",
+    "meta": "hentaigana letter sa-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁂",
+    "meta": "hentaigana letter sa-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛁃",
+    "meta": "hentaigana letter sa-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛁄",
+    "meta": "hentaigana letter si-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁅",
+    "meta": "hentaigana letter si-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁆",
+    "meta": "hentaigana letter si-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁇",
+    "meta": "hentaigana letter si-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁈",
+    "meta": "hentaigana letter si-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁉",
+    "meta": "hentaigana letter si-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁊",
+    "meta": "hentaigana letter su-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁋",
+    "meta": "hentaigana letter su-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁌",
+    "meta": "hentaigana letter su-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁍",
+    "meta": "hentaigana letter su-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁎",
+    "meta": "hentaigana letter su-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁏",
+    "meta": "hentaigana letter su-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁐",
+    "meta": "hentaigana letter su-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛁑",
+    "meta": "hentaigana letter su-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛁒",
+    "meta": "hentaigana letter se-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁓",
+    "meta": "hentaigana letter se-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁔",
+    "meta": "hentaigana letter se-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁕",
+    "meta": "hentaigana letter se-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁖",
+    "meta": "hentaigana letter se-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁗",
+    "meta": "hentaigana letter so-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁘",
+    "meta": "hentaigana letter so-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁙",
+    "meta": "hentaigana letter so-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁚",
+    "meta": "hentaigana letter so-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁛",
+    "meta": "hentaigana letter so-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁜",
+    "meta": "hentaigana letter so-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁝",
+    "meta": "hentaigana letter so-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛁞",
+    "meta": "hentaigana letter ta-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁟",
+    "meta": "hentaigana letter ta-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁠",
+    "meta": "hentaigana letter ta-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁡",
+    "meta": "hentaigana letter ta-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁢",
+    "meta": "hentaigana letter ti-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁣",
+    "meta": "hentaigana letter ti-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁤",
+    "meta": "hentaigana letter ti-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁥",
+    "meta": "hentaigana letter ti-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁦",
+    "meta": "hentaigana letter ti-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁧",
+    "meta": "hentaigana letter ti-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁨",
+    "meta": "hentaigana letter ti-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛁩",
+    "meta": "hentaigana letter tu-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁪",
+    "meta": "hentaigana letter tu-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁫",
+    "meta": "hentaigana letter tu-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁬",
+    "meta": "hentaigana letter tu-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁭",
+    "meta": "hentaigana letter tu-to",
+    "ipa": ""
+  },
+  {
+    "label": "𛁮",
+    "meta": "hentaigana letter te-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁯",
+    "meta": "hentaigana letter te-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁰",
+    "meta": "hentaigana letter te-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁱",
+    "meta": "hentaigana letter te-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁲",
+    "meta": "hentaigana letter te-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁳",
+    "meta": "hentaigana letter te-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁴",
+    "meta": "hentaigana letter te-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛁵",
+    "meta": "hentaigana letter te-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛁶",
+    "meta": "hentaigana letter te-9",
+    "ipa": ""
+  },
+  {
+    "label": "𛁷",
+    "meta": "hentaigana letter to-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁸",
+    "meta": "hentaigana letter to-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛁹",
+    "meta": "hentaigana letter to-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛁺",
+    "meta": "hentaigana letter to-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛁻",
+    "meta": "hentaigana letter to-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛁼",
+    "meta": "hentaigana letter to-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛁽",
+    "meta": "hentaigana letter to-ra",
+    "ipa": ""
+  },
+  {
+    "label": "𛁾",
+    "meta": "hentaigana letter na-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛁿",
+    "meta": "hentaigana letter na-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂀",
+    "meta": "hentaigana letter na-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂁",
+    "meta": "hentaigana letter na-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂂",
+    "meta": "hentaigana letter na-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂃",
+    "meta": "hentaigana letter na-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛂄",
+    "meta": "hentaigana letter na-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛂅",
+    "meta": "hentaigana letter na-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛂆",
+    "meta": "hentaigana letter na-9",
+    "ipa": ""
+  },
+  {
+    "label": "𛂇",
+    "meta": "hentaigana letter ni-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂈",
+    "meta": "hentaigana letter ni-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂉",
+    "meta": "hentaigana letter ni-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂊",
+    "meta": "hentaigana letter ni-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂋",
+    "meta": "hentaigana letter ni-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂌",
+    "meta": "hentaigana letter ni-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛂍",
+    "meta": "hentaigana letter ni-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛂎",
+    "meta": "hentaigana letter ni-te",
+    "ipa": ""
+  },
+  {
+    "label": "𛂏",
+    "meta": "hentaigana letter nu-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂐",
+    "meta": "hentaigana letter nu-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂑",
+    "meta": "hentaigana letter nu-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂒",
+    "meta": "hentaigana letter ne-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂓",
+    "meta": "hentaigana letter ne-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂔",
+    "meta": "hentaigana letter ne-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂕",
+    "meta": "hentaigana letter ne-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂖",
+    "meta": "hentaigana letter ne-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂗",
+    "meta": "hentaigana letter ne-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛂘",
+    "meta": "hentaigana letter ne-ko",
+    "ipa": ""
+  },
+  {
+    "label": "𛂙",
+    "meta": "hentaigana letter no-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂚",
+    "meta": "hentaigana letter no-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂛",
+    "meta": "hentaigana letter no-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂜",
+    "meta": "hentaigana letter no-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂝",
+    "meta": "hentaigana letter no-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂞",
+    "meta": "hentaigana letter ha-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂟",
+    "meta": "hentaigana letter ha-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂠",
+    "meta": "hentaigana letter ha-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂡",
+    "meta": "hentaigana letter ha-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂢",
+    "meta": "hentaigana letter ha-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂣",
+    "meta": "hentaigana letter ha-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛂤",
+    "meta": "hentaigana letter ha-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛂥",
+    "meta": "hentaigana letter ha-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛂦",
+    "meta": "hentaigana letter ha-9",
+    "ipa": ""
+  },
+  {
+    "label": "𛂧",
+    "meta": "hentaigana letter ha-10",
+    "ipa": ""
+  },
+  {
+    "label": "𛂨",
+    "meta": "hentaigana letter ha-11",
+    "ipa": ""
+  },
+  {
+    "label": "𛂩",
+    "meta": "hentaigana letter hi-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂪",
+    "meta": "hentaigana letter hi-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂫",
+    "meta": "hentaigana letter hi-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂬",
+    "meta": "hentaigana letter hi-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂭",
+    "meta": "hentaigana letter hi-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂮",
+    "meta": "hentaigana letter hi-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛂯",
+    "meta": "hentaigana letter hi-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛂰",
+    "meta": "hentaigana letter hu-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂱",
+    "meta": "hentaigana letter hu-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂲",
+    "meta": "hentaigana letter hu-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂳",
+    "meta": "hentaigana letter he-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂴",
+    "meta": "hentaigana letter he-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂵",
+    "meta": "hentaigana letter he-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂶",
+    "meta": "hentaigana letter he-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂷",
+    "meta": "hentaigana letter he-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂸",
+    "meta": "hentaigana letter he-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛂹",
+    "meta": "hentaigana letter he-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛂺",
+    "meta": "hentaigana letter ho-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛂻",
+    "meta": "hentaigana letter ho-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛂼",
+    "meta": "hentaigana letter ho-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛂽",
+    "meta": "hentaigana letter ho-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛂾",
+    "meta": "hentaigana letter ho-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛂿",
+    "meta": "hentaigana letter ho-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃀",
+    "meta": "hentaigana letter ho-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛃁",
+    "meta": "hentaigana letter ho-8",
+    "ipa": ""
+  },
+  {
+    "label": "𛃂",
+    "meta": "hentaigana letter ma-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃃",
+    "meta": "hentaigana letter ma-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃄",
+    "meta": "hentaigana letter ma-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃅",
+    "meta": "hentaigana letter ma-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃆",
+    "meta": "hentaigana letter ma-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃇",
+    "meta": "hentaigana letter ma-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃈",
+    "meta": "hentaigana letter ma-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛃉",
+    "meta": "hentaigana letter mi-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃊",
+    "meta": "hentaigana letter mi-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃋",
+    "meta": "hentaigana letter mi-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃌",
+    "meta": "hentaigana letter mi-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃍",
+    "meta": "hentaigana letter mi-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃎",
+    "meta": "hentaigana letter mi-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃏",
+    "meta": "hentaigana letter mi-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛃐",
+    "meta": "hentaigana letter mu-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃑",
+    "meta": "hentaigana letter mu-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃒",
+    "meta": "hentaigana letter mu-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃓",
+    "meta": "hentaigana letter mu-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃔",
+    "meta": "hentaigana letter me-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃕",
+    "meta": "hentaigana letter me-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃖",
+    "meta": "hentaigana letter me-ma",
+    "ipa": ""
+  },
+  {
+    "label": "𛃗",
+    "meta": "hentaigana letter mo-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃘",
+    "meta": "hentaigana letter mo-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃙",
+    "meta": "hentaigana letter mo-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃚",
+    "meta": "hentaigana letter mo-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃛",
+    "meta": "hentaigana letter mo-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃜",
+    "meta": "hentaigana letter mo-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃝",
+    "meta": "hentaigana letter ya-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃞",
+    "meta": "hentaigana letter ya-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃟",
+    "meta": "hentaigana letter ya-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃠",
+    "meta": "hentaigana letter ya-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃡",
+    "meta": "hentaigana letter ya-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃢",
+    "meta": "hentaigana letter ya-yo",
+    "ipa": ""
+  },
+  {
+    "label": "𛃣",
+    "meta": "hentaigana letter yu-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃤",
+    "meta": "hentaigana letter yu-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃥",
+    "meta": "hentaigana letter yu-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃦",
+    "meta": "hentaigana letter yu-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃧",
+    "meta": "hentaigana letter yo-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃨",
+    "meta": "hentaigana letter yo-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃩",
+    "meta": "hentaigana letter yo-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃪",
+    "meta": "hentaigana letter yo-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃫",
+    "meta": "hentaigana letter yo-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃬",
+    "meta": "hentaigana letter yo-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃭",
+    "meta": "hentaigana letter ra-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃮",
+    "meta": "hentaigana letter ra-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃯",
+    "meta": "hentaigana letter ra-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃰",
+    "meta": "hentaigana letter ra-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃱",
+    "meta": "hentaigana letter ri-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃲",
+    "meta": "hentaigana letter ri-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃳",
+    "meta": "hentaigana letter ri-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃴",
+    "meta": "hentaigana letter ri-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃵",
+    "meta": "hentaigana letter ri-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃶",
+    "meta": "hentaigana letter ri-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃷",
+    "meta": "hentaigana letter ri-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛃸",
+    "meta": "hentaigana letter ru-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃹",
+    "meta": "hentaigana letter ru-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛃺",
+    "meta": "hentaigana letter ru-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛃻",
+    "meta": "hentaigana letter ru-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛃼",
+    "meta": "hentaigana letter ru-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛃽",
+    "meta": "hentaigana letter ru-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛃾",
+    "meta": "hentaigana letter re-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛃿",
+    "meta": "hentaigana letter re-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄀",
+    "meta": "hentaigana letter re-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛄁",
+    "meta": "hentaigana letter re-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛄂",
+    "meta": "hentaigana letter ro-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛄃",
+    "meta": "hentaigana letter ro-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄄",
+    "meta": "hentaigana letter ro-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛄅",
+    "meta": "hentaigana letter ro-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛄆",
+    "meta": "hentaigana letter ro-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛄇",
+    "meta": "hentaigana letter ro-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛄈",
+    "meta": "hentaigana letter wa-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛄉",
+    "meta": "hentaigana letter wa-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄊",
+    "meta": "hentaigana letter wa-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛄋",
+    "meta": "hentaigana letter wa-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛄌",
+    "meta": "hentaigana letter wa-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛄍",
+    "meta": "hentaigana letter wi-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛄎",
+    "meta": "hentaigana letter wi-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄏",
+    "meta": "hentaigana letter wi-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛄐",
+    "meta": "hentaigana letter wi-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛄑",
+    "meta": "hentaigana letter wi-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛄒",
+    "meta": "hentaigana letter we-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛄓",
+    "meta": "hentaigana letter we-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄔",
+    "meta": "hentaigana letter we-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛄕",
+    "meta": "hentaigana letter we-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛄖",
+    "meta": "hentaigana letter wo-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛄗",
+    "meta": "hentaigana letter wo-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄘",
+    "meta": "hentaigana letter wo-3",
+    "ipa": ""
+  },
+  {
+    "label": "𛄙",
+    "meta": "hentaigana letter wo-4",
+    "ipa": ""
+  },
+  {
+    "label": "𛄚",
+    "meta": "hentaigana letter wo-5",
+    "ipa": ""
+  },
+  {
+    "label": "𛄛",
+    "meta": "hentaigana letter wo-6",
+    "ipa": ""
+  },
+  {
+    "label": "𛄜",
+    "meta": "hentaigana letter wo-7",
+    "ipa": ""
+  },
+  {
+    "label": "𛄝",
+    "meta": "hentaigana letter n-mu-mo-1",
+    "ipa": ""
+  },
+  {
+    "label": "𛄞",
+    "meta": "hentaigana letter n-mu-mo-2",
+    "ipa": ""
+  },
+  {
+    "label": "𛄟",
+    "meta": "hiragana letter archaic wu",
+    "ipa": ""
+  },
+  {
+    "label": "𛄲",
+    "meta": "hiragana letter small ko",
+    "ipa": ""
+  },
+  {
+    "label": "𛅐",
+    "meta": "hiragana letter small wi",
+    "ipa": ""
+  },
+  {
+    "label": "𛅑",
+    "meta": "hiragana letter small we",
+    "ipa": ""
+  },
+  {
+    "label": "𛅒",
+    "meta": "hiragana letter small wo",
+    "ipa": ""
+  },
+  {
+    "label": "🈀",
+    "meta": "square hiragana hoka",
+    "ipa": ""
+  }
+]

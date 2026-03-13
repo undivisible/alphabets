@@ -1,0 +1,637 @@
+[
+  {
+    "label": "ᨠ",
+    "meta": "tai tham letter high ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᨡ",
+    "meta": "tai tham letter high kha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨢ",
+    "meta": "tai tham letter high kxa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨣ",
+    "meta": "tai tham letter low ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᨤ",
+    "meta": "tai tham letter low kxa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨥ",
+    "meta": "tai tham letter low kha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨦ",
+    "meta": "tai tham letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᨧ",
+    "meta": "tai tham letter high ca",
+    "ipa": ""
+  },
+  {
+    "label": "ᨨ",
+    "meta": "tai tham letter high cha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨩ",
+    "meta": "tai tham letter low ca",
+    "ipa": ""
+  },
+  {
+    "label": "ᨪ",
+    "meta": "tai tham letter low sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨫ",
+    "meta": "tai tham letter low cha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨬ",
+    "meta": "tai tham letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ᨭ",
+    "meta": "tai tham letter rata",
+    "ipa": ""
+  },
+  {
+    "label": "ᨮ",
+    "meta": "tai tham letter high ratha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨯ",
+    "meta": "tai tham letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ᨰ",
+    "meta": "tai tham letter low ratha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨱ",
+    "meta": "tai tham letter rana",
+    "ipa": ""
+  },
+  {
+    "label": "ᨲ",
+    "meta": "tai tham letter high ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᨳ",
+    "meta": "tai tham letter high tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨴ",
+    "meta": "tai tham letter low ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᨵ",
+    "meta": "tai tham letter low tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨶ",
+    "meta": "tai tham letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ᨷ",
+    "meta": "tai tham letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᨸ",
+    "meta": "tai tham letter high pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨹ",
+    "meta": "tai tham letter high pha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨺ",
+    "meta": "tai tham letter high fa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨻ",
+    "meta": "tai tham letter low pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨼ",
+    "meta": "tai tham letter low fa",
+    "ipa": ""
+  },
+  {
+    "label": "ᨽ",
+    "meta": "tai tham letter low pha",
+    "ipa": ""
+  },
+  {
+    "label": "ᨾ",
+    "meta": "tai tham letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᨿ",
+    "meta": "tai tham letter low ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᩀ",
+    "meta": "tai tham letter high ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᩁ",
+    "meta": "tai tham letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᩂ",
+    "meta": "tai tham letter rue",
+    "ipa": ""
+  },
+  {
+    "label": "ᩃ",
+    "meta": "tai tham letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ᩄ",
+    "meta": "tai tham letter lue",
+    "ipa": ""
+  },
+  {
+    "label": "ᩅ",
+    "meta": "tai tham letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩆ",
+    "meta": "tai tham letter high sha",
+    "ipa": ""
+  },
+  {
+    "label": "ᩇ",
+    "meta": "tai tham letter high ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩈ",
+    "meta": "tai tham letter high sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩉ",
+    "meta": "tai tham letter high ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᩊ",
+    "meta": "tai tham letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ᩋ",
+    "meta": "tai tham letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ᩌ",
+    "meta": "tai tham letter low ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᩍ",
+    "meta": "tai tham letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ᩎ",
+    "meta": "tai tham letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ᩏ",
+    "meta": "tai tham letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ᩐ",
+    "meta": "tai tham letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ᩑ",
+    "meta": "tai tham letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ᩒ",
+    "meta": "tai tham letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ᩓ",
+    "meta": "tai tham letter lae",
+    "ipa": ""
+  },
+  {
+    "label": "ᩔ",
+    "meta": "tai tham letter great sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩕ",
+    "meta": "tai tham consonant sign medial ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᩖ",
+    "meta": "tai tham consonant sign medial la",
+    "ipa": ""
+  },
+  {
+    "label": "ᩗ",
+    "meta": "tai tham consonant sign la tang lai",
+    "ipa": ""
+  },
+  {
+    "label": "ᩘ",
+    "meta": "tai tham sign mai kang lai",
+    "ipa": ""
+  },
+  {
+    "label": "ᩙ",
+    "meta": "tai tham consonant sign final nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᩚ",
+    "meta": "tai tham consonant sign low pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩛ",
+    "meta": "tai tham consonant sign high ratha or low pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩜ",
+    "meta": "tai tham consonant sign ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᩝ",
+    "meta": "tai tham consonant sign ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᩞ",
+    "meta": "tai tham consonant sign sa",
+    "ipa": ""
+  },
+  {
+    "label": "᩠",
+    "meta": "tai tham sign sakot",
+    "ipa": ""
+  },
+  {
+    "label": "ᩡ",
+    "meta": "tai tham vowel sign a",
+    "ipa": ""
+  },
+  {
+    "label": "ᩢ",
+    "meta": "tai tham vowel sign mai sat",
+    "ipa": ""
+  },
+  {
+    "label": "ᩣ",
+    "meta": "tai tham vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩤ",
+    "meta": "tai tham vowel sign tall aa",
+    "ipa": ""
+  },
+  {
+    "label": "ᩥ",
+    "meta": "tai tham vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ᩦ",
+    "meta": "tai tham vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ᩧ",
+    "meta": "tai tham vowel sign ue",
+    "ipa": ""
+  },
+  {
+    "label": "ᩨ",
+    "meta": "tai tham vowel sign uue",
+    "ipa": ""
+  },
+  {
+    "label": "ᩩ",
+    "meta": "tai tham vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ᩪ",
+    "meta": "tai tham vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ᩫ",
+    "meta": "tai tham vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ᩬ",
+    "meta": "tai tham vowel sign oa below",
+    "ipa": ""
+  },
+  {
+    "label": "ᩭ",
+    "meta": "tai tham vowel sign oy",
+    "ipa": ""
+  },
+  {
+    "label": "ᩮ",
+    "meta": "tai tham vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ᩯ",
+    "meta": "tai tham vowel sign ae",
+    "ipa": ""
+  },
+  {
+    "label": "ᩰ",
+    "meta": "tai tham vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ᩱ",
+    "meta": "tai tham vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ᩲ",
+    "meta": "tai tham vowel sign tham ai",
+    "ipa": ""
+  },
+  {
+    "label": "ᩳ",
+    "meta": "tai tham vowel sign oa above",
+    "ipa": ""
+  },
+  {
+    "label": "ᩴ",
+    "meta": "tai tham sign mai kang",
+    "ipa": ""
+  },
+  {
+    "label": "᩵",
+    "meta": "tai tham sign tone-1",
+    "ipa": ""
+  },
+  {
+    "label": "᩶",
+    "meta": "tai tham sign tone-2",
+    "ipa": ""
+  },
+  {
+    "label": "᩷",
+    "meta": "tai tham sign khuen tone-3",
+    "ipa": ""
+  },
+  {
+    "label": "᩸",
+    "meta": "tai tham sign khuen tone-4",
+    "ipa": ""
+  },
+  {
+    "label": "᩹",
+    "meta": "tai tham sign khuen tone-5",
+    "ipa": ""
+  },
+  {
+    "label": "᩺",
+    "meta": "tai tham sign ra haam",
+    "ipa": ""
+  },
+  {
+    "label": "᩻",
+    "meta": "tai tham sign mai sam",
+    "ipa": ""
+  },
+  {
+    "label": "᩼",
+    "meta": "tai tham sign khuen-lue karan",
+    "ipa": ""
+  },
+  {
+    "label": "᩿",
+    "meta": "tai tham combining cryptogrammic dot",
+    "ipa": ""
+  },
+  {
+    "label": "᪀",
+    "meta": "tai tham hora digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "᪁",
+    "meta": "tai tham hora digit one",
+    "ipa": ""
+  },
+  {
+    "label": "᪂",
+    "meta": "tai tham hora digit two",
+    "ipa": ""
+  },
+  {
+    "label": "᪃",
+    "meta": "tai tham hora digit three",
+    "ipa": ""
+  },
+  {
+    "label": "᪄",
+    "meta": "tai tham hora digit four",
+    "ipa": ""
+  },
+  {
+    "label": "᪅",
+    "meta": "tai tham hora digit five",
+    "ipa": ""
+  },
+  {
+    "label": "᪆",
+    "meta": "tai tham hora digit six",
+    "ipa": ""
+  },
+  {
+    "label": "᪇",
+    "meta": "tai tham hora digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "᪈",
+    "meta": "tai tham hora digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "᪉",
+    "meta": "tai tham hora digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "᪐",
+    "meta": "tai tham tham digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "᪑",
+    "meta": "tai tham tham digit one",
+    "ipa": ""
+  },
+  {
+    "label": "᪒",
+    "meta": "tai tham tham digit two",
+    "ipa": ""
+  },
+  {
+    "label": "᪓",
+    "meta": "tai tham tham digit three",
+    "ipa": ""
+  },
+  {
+    "label": "᪔",
+    "meta": "tai tham tham digit four",
+    "ipa": ""
+  },
+  {
+    "label": "᪕",
+    "meta": "tai tham tham digit five",
+    "ipa": ""
+  },
+  {
+    "label": "᪖",
+    "meta": "tai tham tham digit six",
+    "ipa": ""
+  },
+  {
+    "label": "᪗",
+    "meta": "tai tham tham digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "᪘",
+    "meta": "tai tham tham digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "᪙",
+    "meta": "tai tham tham digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "᪠",
+    "meta": "tai tham sign wiang",
+    "ipa": ""
+  },
+  {
+    "label": "᪡",
+    "meta": "tai tham sign wiangwaak",
+    "ipa": ""
+  },
+  {
+    "label": "᪢",
+    "meta": "tai tham sign sawan",
+    "ipa": ""
+  },
+  {
+    "label": "᪣",
+    "meta": "tai tham sign keow",
+    "ipa": ""
+  },
+  {
+    "label": "᪤",
+    "meta": "tai tham sign hoy",
+    "ipa": ""
+  },
+  {
+    "label": "᪥",
+    "meta": "tai tham sign dokmai",
+    "ipa": ""
+  },
+  {
+    "label": "᪦",
+    "meta": "tai tham sign reversed rotated rana",
+    "ipa": ""
+  },
+  {
+    "label": "ᪧ",
+    "meta": "tai tham sign mai yamok",
+    "ipa": ""
+  },
+  {
+    "label": "᪨",
+    "meta": "tai tham sign kaan",
+    "ipa": ""
+  },
+  {
+    "label": "᪩",
+    "meta": "tai tham sign kaankuu",
+    "ipa": ""
+  },
+  {
+    "label": "᪪",
+    "meta": "tai tham sign satkaan",
+    "ipa": ""
+  },
+  {
+    "label": "᪫",
+    "meta": "tai tham sign satkaankuu",
+    "ipa": ""
+  },
+  {
+    "label": "᪬",
+    "meta": "tai tham sign hang",
+    "ipa": ""
+  },
+  {
+    "label": "᪭",
+    "meta": "tai tham sign caang",
+    "ipa": ""
+  }
+]

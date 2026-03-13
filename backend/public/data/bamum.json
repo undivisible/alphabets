@@ -1,0 +1,3287 @@
+[
+  {
+    "label": "ꚠ",
+    "meta": "bamum letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ꚡ",
+    "meta": "bamum letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ꚢ",
+    "meta": "bamum letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ꚣ",
+    "meta": "bamum letter ku",
+    "ipa": ""
+  },
+  {
+    "label": "ꚤ",
+    "meta": "bamum letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ꚥ",
+    "meta": "bamum letter ree",
+    "ipa": ""
+  },
+  {
+    "label": "ꚦ",
+    "meta": "bamum letter tae",
+    "ipa": ""
+  },
+  {
+    "label": "ꚧ",
+    "meta": "bamum letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ꚨ",
+    "meta": "bamum letter nyi",
+    "ipa": ""
+  },
+  {
+    "label": "ꚩ",
+    "meta": "bamum letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ꚪ",
+    "meta": "bamum letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ꚫ",
+    "meta": "bamum letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ꚬ",
+    "meta": "bamum letter rii",
+    "ipa": ""
+  },
+  {
+    "label": "ꚭ",
+    "meta": "bamum letter riee",
+    "ipa": ""
+  },
+  {
+    "label": "ꚮ",
+    "meta": "bamum letter leeee",
+    "ipa": ""
+  },
+  {
+    "label": "ꚯ",
+    "meta": "bamum letter meeee",
+    "ipa": ""
+  },
+  {
+    "label": "ꚰ",
+    "meta": "bamum letter taa",
+    "ipa": ""
+  },
+  {
+    "label": "ꚱ",
+    "meta": "bamum letter ndaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꚲ",
+    "meta": "bamum letter njaem",
+    "ipa": ""
+  },
+  {
+    "label": "ꚳ",
+    "meta": "bamum letter m",
+    "ipa": ""
+  },
+  {
+    "label": "ꚴ",
+    "meta": "bamum letter suu",
+    "ipa": ""
+  },
+  {
+    "label": "ꚵ",
+    "meta": "bamum letter mu",
+    "ipa": ""
+  },
+  {
+    "label": "ꚶ",
+    "meta": "bamum letter shii",
+    "ipa": ""
+  },
+  {
+    "label": "ꚷ",
+    "meta": "bamum letter si",
+    "ipa": ""
+  },
+  {
+    "label": "ꚸ",
+    "meta": "bamum letter sheux",
+    "ipa": ""
+  },
+  {
+    "label": "ꚹ",
+    "meta": "bamum letter seux",
+    "ipa": ""
+  },
+  {
+    "label": "ꚺ",
+    "meta": "bamum letter kyee",
+    "ipa": ""
+  },
+  {
+    "label": "ꚻ",
+    "meta": "bamum letter ket",
+    "ipa": ""
+  },
+  {
+    "label": "ꚼ",
+    "meta": "bamum letter nuae",
+    "ipa": ""
+  },
+  {
+    "label": "ꚽ",
+    "meta": "bamum letter nu",
+    "ipa": ""
+  },
+  {
+    "label": "ꚾ",
+    "meta": "bamum letter njuae",
+    "ipa": ""
+  },
+  {
+    "label": "ꚿ",
+    "meta": "bamum letter yoq",
+    "ipa": ""
+  },
+  {
+    "label": "ꛀ",
+    "meta": "bamum letter shu",
+    "ipa": ""
+  },
+  {
+    "label": "ꛁ",
+    "meta": "bamum letter yuq",
+    "ipa": ""
+  },
+  {
+    "label": "ꛂ",
+    "meta": "bamum letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ꛃ",
+    "meta": "bamum letter nsha",
+    "ipa": ""
+  },
+  {
+    "label": "ꛄ",
+    "meta": "bamum letter keux",
+    "ipa": ""
+  },
+  {
+    "label": "ꛅ",
+    "meta": "bamum letter peux",
+    "ipa": ""
+  },
+  {
+    "label": "ꛆ",
+    "meta": "bamum letter njee",
+    "ipa": ""
+  },
+  {
+    "label": "ꛇ",
+    "meta": "bamum letter ntee",
+    "ipa": ""
+  },
+  {
+    "label": "ꛈ",
+    "meta": "bamum letter pue",
+    "ipa": ""
+  },
+  {
+    "label": "ꛉ",
+    "meta": "bamum letter wue",
+    "ipa": ""
+  },
+  {
+    "label": "ꛊ",
+    "meta": "bamum letter pee",
+    "ipa": ""
+  },
+  {
+    "label": "ꛋ",
+    "meta": "bamum letter fee",
+    "ipa": ""
+  },
+  {
+    "label": "ꛌ",
+    "meta": "bamum letter ru",
+    "ipa": ""
+  },
+  {
+    "label": "ꛍ",
+    "meta": "bamum letter lu",
+    "ipa": ""
+  },
+  {
+    "label": "ꛎ",
+    "meta": "bamum letter mi",
+    "ipa": ""
+  },
+  {
+    "label": "ꛏ",
+    "meta": "bamum letter ni",
+    "ipa": ""
+  },
+  {
+    "label": "ꛐ",
+    "meta": "bamum letter reux",
+    "ipa": ""
+  },
+  {
+    "label": "ꛑ",
+    "meta": "bamum letter rae",
+    "ipa": ""
+  },
+  {
+    "label": "ꛒ",
+    "meta": "bamum letter ken",
+    "ipa": ""
+  },
+  {
+    "label": "ꛓ",
+    "meta": "bamum letter ngkwaen",
+    "ipa": ""
+  },
+  {
+    "label": "ꛔ",
+    "meta": "bamum letter ngga",
+    "ipa": ""
+  },
+  {
+    "label": "ꛕ",
+    "meta": "bamum letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ꛖ",
+    "meta": "bamum letter sho",
+    "ipa": ""
+  },
+  {
+    "label": "ꛗ",
+    "meta": "bamum letter puae",
+    "ipa": ""
+  },
+  {
+    "label": "ꛘ",
+    "meta": "bamum letter fu",
+    "ipa": ""
+  },
+  {
+    "label": "ꛙ",
+    "meta": "bamum letter fom",
+    "ipa": ""
+  },
+  {
+    "label": "ꛚ",
+    "meta": "bamum letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ꛛ",
+    "meta": "bamum letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ꛜ",
+    "meta": "bamum letter li",
+    "ipa": ""
+  },
+  {
+    "label": "ꛝ",
+    "meta": "bamum letter pi",
+    "ipa": ""
+  },
+  {
+    "label": "ꛞ",
+    "meta": "bamum letter loq",
+    "ipa": ""
+  },
+  {
+    "label": "ꛟ",
+    "meta": "bamum letter ko",
+    "ipa": ""
+  },
+  {
+    "label": "ꛠ",
+    "meta": "bamum letter mben",
+    "ipa": ""
+  },
+  {
+    "label": "ꛡ",
+    "meta": "bamum letter ren",
+    "ipa": ""
+  },
+  {
+    "label": "ꛢ",
+    "meta": "bamum letter men",
+    "ipa": ""
+  },
+  {
+    "label": "ꛣ",
+    "meta": "bamum letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ꛤ",
+    "meta": "bamum letter ti",
+    "ipa": ""
+  },
+  {
+    "label": "ꛥ",
+    "meta": "bamum letter ki",
+    "ipa": ""
+  },
+  {
+    "label": "ꛦ",
+    "meta": "bamum letter mo",
+    "ipa": ""
+  },
+  {
+    "label": "ꛧ",
+    "meta": "bamum letter mbaa",
+    "ipa": ""
+  },
+  {
+    "label": "ꛨ",
+    "meta": "bamum letter tet",
+    "ipa": ""
+  },
+  {
+    "label": "ꛩ",
+    "meta": "bamum letter kpa",
+    "ipa": ""
+  },
+  {
+    "label": "ꛪ",
+    "meta": "bamum letter ten",
+    "ipa": ""
+  },
+  {
+    "label": "ꛫ",
+    "meta": "bamum letter ntuu",
+    "ipa": ""
+  },
+  {
+    "label": "ꛬ",
+    "meta": "bamum letter samba",
+    "ipa": ""
+  },
+  {
+    "label": "ꛭ",
+    "meta": "bamum letter faamae",
+    "ipa": ""
+  },
+  {
+    "label": "ꛮ",
+    "meta": "bamum letter kovuu",
+    "ipa": ""
+  },
+  {
+    "label": "ꛯ",
+    "meta": "bamum letter koghom",
+    "ipa": ""
+  },
+  {
+    "label": "꛰",
+    "meta": "bamum combining mark koqndon",
+    "ipa": ""
+  },
+  {
+    "label": "꛱",
+    "meta": "bamum combining mark tukwentis",
+    "ipa": ""
+  },
+  {
+    "label": "꛲",
+    "meta": "bamum njaemli",
+    "ipa": ""
+  },
+  {
+    "label": "꛳",
+    "meta": "bamum full stop",
+    "ipa": ""
+  },
+  {
+    "label": "꛴",
+    "meta": "bamum colon",
+    "ipa": ""
+  },
+  {
+    "label": "꛵",
+    "meta": "bamum comma",
+    "ipa": ""
+  },
+  {
+    "label": "꛶",
+    "meta": "bamum semicolon",
+    "ipa": ""
+  },
+  {
+    "label": "꛷",
+    "meta": "bamum question mark",
+    "ipa": ""
+  },
+  {
+    "label": "𖠀",
+    "meta": "bamum letter phase-a ngkue mfon",
+    "ipa": ""
+  },
+  {
+    "label": "𖠁",
+    "meta": "bamum letter phase-a gbiee fon",
+    "ipa": ""
+  },
+  {
+    "label": "𖠂",
+    "meta": "bamum letter phase-a pon mfon pipaemgbiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖠃",
+    "meta": "bamum letter phase-a pon mfon pipaemba",
+    "ipa": ""
+  },
+  {
+    "label": "𖠄",
+    "meta": "bamum letter phase-a naa mfon",
+    "ipa": ""
+  },
+  {
+    "label": "𖠅",
+    "meta": "bamum letter phase-a shuenshuet",
+    "ipa": ""
+  },
+  {
+    "label": "𖠆",
+    "meta": "bamum letter phase-a tita mfon",
+    "ipa": ""
+  },
+  {
+    "label": "𖠇",
+    "meta": "bamum letter phase-a nza mfon",
+    "ipa": ""
+  },
+  {
+    "label": "𖠈",
+    "meta": "bamum letter phase-a shinda pa nji",
+    "ipa": ""
+  },
+  {
+    "label": "𖠉",
+    "meta": "bamum letter phase-a pon pa nji pipaemgbiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖠊",
+    "meta": "bamum letter phase-a pon pa nji pipaemba",
+    "ipa": ""
+  },
+  {
+    "label": "𖠋",
+    "meta": "bamum letter phase-a maembgbiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖠌",
+    "meta": "bamum letter phase-a tu maemba",
+    "ipa": ""
+  },
+  {
+    "label": "𖠍",
+    "meta": "bamum letter phase-a ngangu",
+    "ipa": ""
+  },
+  {
+    "label": "𖠎",
+    "meta": "bamum letter phase-a maemveux",
+    "ipa": ""
+  },
+  {
+    "label": "𖠏",
+    "meta": "bamum letter phase-a mansuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠐",
+    "meta": "bamum letter phase-a mveuaengam",
+    "ipa": ""
+  },
+  {
+    "label": "𖠑",
+    "meta": "bamum letter phase-a seunyam",
+    "ipa": ""
+  },
+  {
+    "label": "𖠒",
+    "meta": "bamum letter phase-a ntoqpen",
+    "ipa": ""
+  },
+  {
+    "label": "𖠓",
+    "meta": "bamum letter phase-a keukeutnda",
+    "ipa": ""
+  },
+  {
+    "label": "𖠔",
+    "meta": "bamum letter phase-a nkindi",
+    "ipa": ""
+  },
+  {
+    "label": "𖠕",
+    "meta": "bamum letter phase-a suu",
+    "ipa": ""
+  },
+  {
+    "label": "𖠖",
+    "meta": "bamum letter phase-a ngkuenzeum",
+    "ipa": ""
+  },
+  {
+    "label": "𖠗",
+    "meta": "bamum letter phase-a lapaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖠘",
+    "meta": "bamum letter phase-a let kut",
+    "ipa": ""
+  },
+  {
+    "label": "𖠙",
+    "meta": "bamum letter phase-a ntap mfaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠚",
+    "meta": "bamum letter phase-a maekeup",
+    "ipa": ""
+  },
+  {
+    "label": "𖠛",
+    "meta": "bamum letter phase-a pashae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠜",
+    "meta": "bamum letter phase-a gheuaerae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠝",
+    "meta": "bamum letter phase-a pamshae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠞",
+    "meta": "bamum letter phase-a mon nggeuaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖠟",
+    "meta": "bamum letter phase-a nzun meut",
+    "ipa": ""
+  },
+  {
+    "label": "𖠠",
+    "meta": "bamum letter phase-a u yuq nae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠡",
+    "meta": "bamum letter phase-a gheuaegheuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠢",
+    "meta": "bamum letter phase-a ntap ntaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠣",
+    "meta": "bamum letter phase-a sisa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠤",
+    "meta": "bamum letter phase-a mgbasa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠥",
+    "meta": "bamum letter phase-a meunjomndeuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖠦",
+    "meta": "bamum letter phase-a moompuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖠧",
+    "meta": "bamum letter phase-a kafa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠨",
+    "meta": "bamum letter phase-a pa leeraewa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠩",
+    "meta": "bamum letter phase-a nda leeraewa",
+    "ipa": ""
+  },
+  {
+    "label": "𖠪",
+    "meta": "bamum letter phase-a pet",
+    "ipa": ""
+  },
+  {
+    "label": "𖠫",
+    "meta": "bamum letter phase-a maemkpen",
+    "ipa": ""
+  },
+  {
+    "label": "𖠬",
+    "meta": "bamum letter phase-a nika",
+    "ipa": ""
+  },
+  {
+    "label": "𖠭",
+    "meta": "bamum letter phase-a pup",
+    "ipa": ""
+  },
+  {
+    "label": "𖠮",
+    "meta": "bamum letter phase-a tuaep",
+    "ipa": ""
+  },
+  {
+    "label": "𖠯",
+    "meta": "bamum letter phase-a luaep",
+    "ipa": ""
+  },
+  {
+    "label": "𖠰",
+    "meta": "bamum letter phase-a sonjam",
+    "ipa": ""
+  },
+  {
+    "label": "𖠱",
+    "meta": "bamum letter phase-a teuteuwen",
+    "ipa": ""
+  },
+  {
+    "label": "𖠲",
+    "meta": "bamum letter phase-a maenyi",
+    "ipa": ""
+  },
+  {
+    "label": "𖠳",
+    "meta": "bamum letter phase-a ket",
+    "ipa": ""
+  },
+  {
+    "label": "𖠴",
+    "meta": "bamum letter phase-a ndaanggeuaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖠵",
+    "meta": "bamum letter phase-a kuoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖠶",
+    "meta": "bamum letter phase-a moomeut",
+    "ipa": ""
+  },
+  {
+    "label": "𖠷",
+    "meta": "bamum letter phase-a shum",
+    "ipa": ""
+  },
+  {
+    "label": "𖠸",
+    "meta": "bamum letter phase-a lommae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠹",
+    "meta": "bamum letter phase-a firi",
+    "ipa": ""
+  },
+  {
+    "label": "𖠺",
+    "meta": "bamum letter phase-a rom",
+    "ipa": ""
+  },
+  {
+    "label": "𖠻",
+    "meta": "bamum letter phase-a kpoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖠼",
+    "meta": "bamum letter phase-a soq",
+    "ipa": ""
+  },
+  {
+    "label": "𖠽",
+    "meta": "bamum letter phase-a map pieet",
+    "ipa": ""
+  },
+  {
+    "label": "𖠾",
+    "meta": "bamum letter phase-a shirae",
+    "ipa": ""
+  },
+  {
+    "label": "𖠿",
+    "meta": "bamum letter phase-a ntap",
+    "ipa": ""
+  },
+  {
+    "label": "𖡀",
+    "meta": "bamum letter phase-a shoq nshut yum",
+    "ipa": ""
+  },
+  {
+    "label": "𖡁",
+    "meta": "bamum letter phase-a nyit mongkeuaeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡂",
+    "meta": "bamum letter phase-a paarae",
+    "ipa": ""
+  },
+  {
+    "label": "𖡃",
+    "meta": "bamum letter phase-a nkaarae",
+    "ipa": ""
+  },
+  {
+    "label": "𖡄",
+    "meta": "bamum letter phase-a unknown",
+    "ipa": ""
+  },
+  {
+    "label": "𖡅",
+    "meta": "bamum letter phase-a nggen",
+    "ipa": ""
+  },
+  {
+    "label": "𖡆",
+    "meta": "bamum letter phase-a maesi",
+    "ipa": ""
+  },
+  {
+    "label": "𖡇",
+    "meta": "bamum letter phase-a njam",
+    "ipa": ""
+  },
+  {
+    "label": "𖡈",
+    "meta": "bamum letter phase-a mbanyi",
+    "ipa": ""
+  },
+  {
+    "label": "𖡉",
+    "meta": "bamum letter phase-a nyet",
+    "ipa": ""
+  },
+  {
+    "label": "𖡊",
+    "meta": "bamum letter phase-a teuaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖡋",
+    "meta": "bamum letter phase-a sot",
+    "ipa": ""
+  },
+  {
+    "label": "𖡌",
+    "meta": "bamum letter phase-a paam",
+    "ipa": ""
+  },
+  {
+    "label": "𖡍",
+    "meta": "bamum letter phase-a nshiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖡎",
+    "meta": "bamum letter phase-a maem",
+    "ipa": ""
+  },
+  {
+    "label": "𖡏",
+    "meta": "bamum letter phase-a nyi",
+    "ipa": ""
+  },
+  {
+    "label": "𖡐",
+    "meta": "bamum letter phase-a kaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡑",
+    "meta": "bamum letter phase-a nsha",
+    "ipa": ""
+  },
+  {
+    "label": "𖡒",
+    "meta": "bamum letter phase-a vee",
+    "ipa": ""
+  },
+  {
+    "label": "𖡓",
+    "meta": "bamum letter phase-a lu",
+    "ipa": ""
+  },
+  {
+    "label": "𖡔",
+    "meta": "bamum letter phase-a nen",
+    "ipa": ""
+  },
+  {
+    "label": "𖡕",
+    "meta": "bamum letter phase-a naq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡖",
+    "meta": "bamum letter phase-a mbaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡗",
+    "meta": "bamum letter phase-b nshuet",
+    "ipa": ""
+  },
+  {
+    "label": "𖡘",
+    "meta": "bamum letter phase-b tu maemgbiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖡙",
+    "meta": "bamum letter phase-b siee",
+    "ipa": ""
+  },
+  {
+    "label": "𖡚",
+    "meta": "bamum letter phase-b set tu",
+    "ipa": ""
+  },
+  {
+    "label": "𖡛",
+    "meta": "bamum letter phase-b lom nteum",
+    "ipa": ""
+  },
+  {
+    "label": "𖡜",
+    "meta": "bamum letter phase-b mba maelee",
+    "ipa": ""
+  },
+  {
+    "label": "𖡝",
+    "meta": "bamum letter phase-b kieem",
+    "ipa": ""
+  },
+  {
+    "label": "𖡞",
+    "meta": "bamum letter phase-b yeurae",
+    "ipa": ""
+  },
+  {
+    "label": "𖡟",
+    "meta": "bamum letter phase-b mbaarae",
+    "ipa": ""
+  },
+  {
+    "label": "𖡠",
+    "meta": "bamum letter phase-b kam",
+    "ipa": ""
+  },
+  {
+    "label": "𖡡",
+    "meta": "bamum letter phase-b peeshi",
+    "ipa": ""
+  },
+  {
+    "label": "𖡢",
+    "meta": "bamum letter phase-b yafu leeraewa",
+    "ipa": ""
+  },
+  {
+    "label": "𖡣",
+    "meta": "bamum letter phase-b lam nshut nyam",
+    "ipa": ""
+  },
+  {
+    "label": "𖡤",
+    "meta": "bamum letter phase-b ntiee sheuoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡥",
+    "meta": "bamum letter phase-b ndu njaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖡦",
+    "meta": "bamum letter phase-b gheugheuaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖡧",
+    "meta": "bamum letter phase-b pit",
+    "ipa": ""
+  },
+  {
+    "label": "𖡨",
+    "meta": "bamum letter phase-b tu nsiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖡩",
+    "meta": "bamum letter phase-b shet njaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡪",
+    "meta": "bamum letter phase-b sheuaeqtu",
+    "ipa": ""
+  },
+  {
+    "label": "𖡫",
+    "meta": "bamum letter phase-b mfon teuaeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡬",
+    "meta": "bamum letter phase-b mbit mbaaket",
+    "ipa": ""
+  },
+  {
+    "label": "𖡭",
+    "meta": "bamum letter phase-b nyi nteum",
+    "ipa": ""
+  },
+  {
+    "label": "𖡮",
+    "meta": "bamum letter phase-b keupuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡯",
+    "meta": "bamum letter phase-b gheughen",
+    "ipa": ""
+  },
+  {
+    "label": "𖡰",
+    "meta": "bamum letter phase-b keuyeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖡱",
+    "meta": "bamum letter phase-b laanae",
+    "ipa": ""
+  },
+  {
+    "label": "𖡲",
+    "meta": "bamum letter phase-b parum",
+    "ipa": ""
+  },
+  {
+    "label": "𖡳",
+    "meta": "bamum letter phase-b veum",
+    "ipa": ""
+  },
+  {
+    "label": "𖡴",
+    "meta": "bamum letter phase-b ngkindi mvop",
+    "ipa": ""
+  },
+  {
+    "label": "𖡵",
+    "meta": "bamum letter phase-b nggeu mbu",
+    "ipa": ""
+  },
+  {
+    "label": "𖡶",
+    "meta": "bamum letter phase-b wuaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖡷",
+    "meta": "bamum letter phase-b sakeuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖡸",
+    "meta": "bamum letter phase-b taam",
+    "ipa": ""
+  },
+  {
+    "label": "𖡹",
+    "meta": "bamum letter phase-b meuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡺",
+    "meta": "bamum letter phase-b ngguoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡻",
+    "meta": "bamum letter phase-b ngguoq large",
+    "ipa": ""
+  },
+  {
+    "label": "𖡼",
+    "meta": "bamum letter phase-b mfiyaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖡽",
+    "meta": "bamum letter phase-b sue",
+    "ipa": ""
+  },
+  {
+    "label": "𖡾",
+    "meta": "bamum letter phase-b mbeuri",
+    "ipa": ""
+  },
+  {
+    "label": "𖡿",
+    "meta": "bamum letter phase-b montieen",
+    "ipa": ""
+  },
+  {
+    "label": "𖢀",
+    "meta": "bamum letter phase-b nyaemae",
+    "ipa": ""
+  },
+  {
+    "label": "𖢁",
+    "meta": "bamum letter phase-b pungaam",
+    "ipa": ""
+  },
+  {
+    "label": "𖢂",
+    "meta": "bamum letter phase-b meut nggeet",
+    "ipa": ""
+  },
+  {
+    "label": "𖢃",
+    "meta": "bamum letter phase-b feux",
+    "ipa": ""
+  },
+  {
+    "label": "𖢄",
+    "meta": "bamum letter phase-b mbuoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢅",
+    "meta": "bamum letter phase-b fee",
+    "ipa": ""
+  },
+  {
+    "label": "𖢆",
+    "meta": "bamum letter phase-b keuaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖢇",
+    "meta": "bamum letter phase-b ma njeuaena",
+    "ipa": ""
+  },
+  {
+    "label": "𖢈",
+    "meta": "bamum letter phase-b ma njuqa",
+    "ipa": ""
+  },
+  {
+    "label": "𖢉",
+    "meta": "bamum letter phase-b let",
+    "ipa": ""
+  },
+  {
+    "label": "𖢊",
+    "meta": "bamum letter phase-b nggaam",
+    "ipa": ""
+  },
+  {
+    "label": "𖢋",
+    "meta": "bamum letter phase-b nsen",
+    "ipa": ""
+  },
+  {
+    "label": "𖢌",
+    "meta": "bamum letter phase-b ma",
+    "ipa": ""
+  },
+  {
+    "label": "𖢍",
+    "meta": "bamum letter phase-b kiq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢎",
+    "meta": "bamum letter phase-b ngom",
+    "ipa": ""
+  },
+  {
+    "label": "𖢏",
+    "meta": "bamum letter phase-c ngkue maemba",
+    "ipa": ""
+  },
+  {
+    "label": "𖢐",
+    "meta": "bamum letter phase-c nza",
+    "ipa": ""
+  },
+  {
+    "label": "𖢑",
+    "meta": "bamum letter phase-c yum",
+    "ipa": ""
+  },
+  {
+    "label": "𖢒",
+    "meta": "bamum letter phase-c wangkuoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢓",
+    "meta": "bamum letter phase-c nggen",
+    "ipa": ""
+  },
+  {
+    "label": "𖢔",
+    "meta": "bamum letter phase-c ndeuaeree",
+    "ipa": ""
+  },
+  {
+    "label": "𖢕",
+    "meta": "bamum letter phase-c ngkaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢖",
+    "meta": "bamum letter phase-c gharae",
+    "ipa": ""
+  },
+  {
+    "label": "𖢗",
+    "meta": "bamum letter phase-c mbeekeet",
+    "ipa": ""
+  },
+  {
+    "label": "𖢘",
+    "meta": "bamum letter phase-c gbayi",
+    "ipa": ""
+  },
+  {
+    "label": "𖢙",
+    "meta": "bamum letter phase-c nyir mkparaq meun",
+    "ipa": ""
+  },
+  {
+    "label": "𖢚",
+    "meta": "bamum letter phase-c ntu mbit",
+    "ipa": ""
+  },
+  {
+    "label": "𖢛",
+    "meta": "bamum letter phase-c mbeum",
+    "ipa": ""
+  },
+  {
+    "label": "𖢜",
+    "meta": "bamum letter phase-c pirieen",
+    "ipa": ""
+  },
+  {
+    "label": "𖢝",
+    "meta": "bamum letter phase-c ndombu",
+    "ipa": ""
+  },
+  {
+    "label": "𖢞",
+    "meta": "bamum letter phase-c mbaa cabbage-tree",
+    "ipa": ""
+  },
+  {
+    "label": "𖢟",
+    "meta": "bamum letter phase-c keusheuaep",
+    "ipa": ""
+  },
+  {
+    "label": "𖢠",
+    "meta": "bamum letter phase-c ghap",
+    "ipa": ""
+  },
+  {
+    "label": "𖢡",
+    "meta": "bamum letter phase-c keukaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢢",
+    "meta": "bamum letter phase-c yu muomae",
+    "ipa": ""
+  },
+  {
+    "label": "𖢣",
+    "meta": "bamum letter phase-c nzeum",
+    "ipa": ""
+  },
+  {
+    "label": "𖢤",
+    "meta": "bamum letter phase-c mbue",
+    "ipa": ""
+  },
+  {
+    "label": "𖢥",
+    "meta": "bamum letter phase-c nseuaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖢦",
+    "meta": "bamum letter phase-c mbit",
+    "ipa": ""
+  },
+  {
+    "label": "𖢧",
+    "meta": "bamum letter phase-c yeuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢨",
+    "meta": "bamum letter phase-c kparaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢩",
+    "meta": "bamum letter phase-c kaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖢪",
+    "meta": "bamum letter phase-c seux",
+    "ipa": ""
+  },
+  {
+    "label": "𖢫",
+    "meta": "bamum letter phase-c ndida",
+    "ipa": ""
+  },
+  {
+    "label": "𖢬",
+    "meta": "bamum letter phase-c taashae",
+    "ipa": ""
+  },
+  {
+    "label": "𖢭",
+    "meta": "bamum letter phase-c njueq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢮",
+    "meta": "bamum letter phase-c tita yue",
+    "ipa": ""
+  },
+  {
+    "label": "𖢯",
+    "meta": "bamum letter phase-c suaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖢰",
+    "meta": "bamum letter phase-c ngguaen nyam",
+    "ipa": ""
+  },
+  {
+    "label": "𖢱",
+    "meta": "bamum letter phase-c veux",
+    "ipa": ""
+  },
+  {
+    "label": "𖢲",
+    "meta": "bamum letter phase-c nansanaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢳",
+    "meta": "bamum letter phase-c ma keuaeri",
+    "ipa": ""
+  },
+  {
+    "label": "𖢴",
+    "meta": "bamum letter phase-c ntaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖢵",
+    "meta": "bamum letter phase-c ngguon",
+    "ipa": ""
+  },
+  {
+    "label": "𖢶",
+    "meta": "bamum letter phase-c lap",
+    "ipa": ""
+  },
+  {
+    "label": "𖢷",
+    "meta": "bamum letter phase-c mbirieen",
+    "ipa": ""
+  },
+  {
+    "label": "𖢸",
+    "meta": "bamum letter phase-c mgbasaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖢹",
+    "meta": "bamum letter phase-c nteungba",
+    "ipa": ""
+  },
+  {
+    "label": "𖢺",
+    "meta": "bamum letter phase-c teuteux",
+    "ipa": ""
+  },
+  {
+    "label": "𖢻",
+    "meta": "bamum letter phase-c nggum",
+    "ipa": ""
+  },
+  {
+    "label": "𖢼",
+    "meta": "bamum letter phase-c fue",
+    "ipa": ""
+  },
+  {
+    "label": "𖢽",
+    "meta": "bamum letter phase-c ndeut",
+    "ipa": ""
+  },
+  {
+    "label": "𖢾",
+    "meta": "bamum letter phase-c nsa",
+    "ipa": ""
+  },
+  {
+    "label": "𖢿",
+    "meta": "bamum letter phase-c nshaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣀",
+    "meta": "bamum letter phase-c bung",
+    "ipa": ""
+  },
+  {
+    "label": "𖣁",
+    "meta": "bamum letter phase-c veuaepen",
+    "ipa": ""
+  },
+  {
+    "label": "𖣂",
+    "meta": "bamum letter phase-c mberae",
+    "ipa": ""
+  },
+  {
+    "label": "𖣃",
+    "meta": "bamum letter phase-c ru",
+    "ipa": ""
+  },
+  {
+    "label": "𖣄",
+    "meta": "bamum letter phase-c njaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖣅",
+    "meta": "bamum letter phase-c lam",
+    "ipa": ""
+  },
+  {
+    "label": "𖣆",
+    "meta": "bamum letter phase-c tituaep",
+    "ipa": ""
+  },
+  {
+    "label": "𖣇",
+    "meta": "bamum letter phase-c nsuot ngom",
+    "ipa": ""
+  },
+  {
+    "label": "𖣈",
+    "meta": "bamum letter phase-c njeeee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣉",
+    "meta": "bamum letter phase-c ket",
+    "ipa": ""
+  },
+  {
+    "label": "𖣊",
+    "meta": "bamum letter phase-c nggu",
+    "ipa": ""
+  },
+  {
+    "label": "𖣋",
+    "meta": "bamum letter phase-c maesi",
+    "ipa": ""
+  },
+  {
+    "label": "𖣌",
+    "meta": "bamum letter phase-c mbuaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖣍",
+    "meta": "bamum letter phase-c lu",
+    "ipa": ""
+  },
+  {
+    "label": "𖣎",
+    "meta": "bamum letter phase-c kut",
+    "ipa": ""
+  },
+  {
+    "label": "𖣏",
+    "meta": "bamum letter phase-c njam",
+    "ipa": ""
+  },
+  {
+    "label": "𖣐",
+    "meta": "bamum letter phase-c ngom",
+    "ipa": ""
+  },
+  {
+    "label": "𖣑",
+    "meta": "bamum letter phase-c wup",
+    "ipa": ""
+  },
+  {
+    "label": "𖣒",
+    "meta": "bamum letter phase-c nggueet",
+    "ipa": ""
+  },
+  {
+    "label": "𖣓",
+    "meta": "bamum letter phase-c nsom",
+    "ipa": ""
+  },
+  {
+    "label": "𖣔",
+    "meta": "bamum letter phase-c nten",
+    "ipa": ""
+  },
+  {
+    "label": "𖣕",
+    "meta": "bamum letter phase-c kuop nkaarae",
+    "ipa": ""
+  },
+  {
+    "label": "𖣖",
+    "meta": "bamum letter phase-c nsun",
+    "ipa": ""
+  },
+  {
+    "label": "𖣗",
+    "meta": "bamum letter phase-c ndam",
+    "ipa": ""
+  },
+  {
+    "label": "𖣘",
+    "meta": "bamum letter phase-c ma nsiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣙",
+    "meta": "bamum letter phase-c yaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖣚",
+    "meta": "bamum letter phase-c ndap",
+    "ipa": ""
+  },
+  {
+    "label": "𖣛",
+    "meta": "bamum letter phase-c shueq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣜",
+    "meta": "bamum letter phase-c setfon",
+    "ipa": ""
+  },
+  {
+    "label": "𖣝",
+    "meta": "bamum letter phase-c mbi",
+    "ipa": ""
+  },
+  {
+    "label": "𖣞",
+    "meta": "bamum letter phase-c maemba",
+    "ipa": ""
+  },
+  {
+    "label": "𖣟",
+    "meta": "bamum letter phase-c mbanyi",
+    "ipa": ""
+  },
+  {
+    "label": "𖣠",
+    "meta": "bamum letter phase-c keuseux",
+    "ipa": ""
+  },
+  {
+    "label": "𖣡",
+    "meta": "bamum letter phase-c mbeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖣢",
+    "meta": "bamum letter phase-c keum",
+    "ipa": ""
+  },
+  {
+    "label": "𖣣",
+    "meta": "bamum letter phase-c mbaa picket",
+    "ipa": ""
+  },
+  {
+    "label": "𖣤",
+    "meta": "bamum letter phase-c yuwoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣥",
+    "meta": "bamum letter phase-c njeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖣦",
+    "meta": "bamum letter phase-c miee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣧",
+    "meta": "bamum letter phase-c muae",
+    "ipa": ""
+  },
+  {
+    "label": "𖣨",
+    "meta": "bamum letter phase-c shiq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣩",
+    "meta": "bamum letter phase-c ken law",
+    "ipa": ""
+  },
+  {
+    "label": "𖣪",
+    "meta": "bamum letter phase-c ken fatigue",
+    "ipa": ""
+  },
+  {
+    "label": "𖣫",
+    "meta": "bamum letter phase-c ngaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣬",
+    "meta": "bamum letter phase-c naq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣭",
+    "meta": "bamum letter phase-c liq",
+    "ipa": ""
+  },
+  {
+    "label": "𖣮",
+    "meta": "bamum letter phase-c pin",
+    "ipa": ""
+  },
+  {
+    "label": "𖣯",
+    "meta": "bamum letter phase-c pen",
+    "ipa": ""
+  },
+  {
+    "label": "𖣰",
+    "meta": "bamum letter phase-c tet",
+    "ipa": ""
+  },
+  {
+    "label": "𖣱",
+    "meta": "bamum letter phase-d mbuo",
+    "ipa": ""
+  },
+  {
+    "label": "𖣲",
+    "meta": "bamum letter phase-d wap",
+    "ipa": ""
+  },
+  {
+    "label": "𖣳",
+    "meta": "bamum letter phase-d nji",
+    "ipa": ""
+  },
+  {
+    "label": "𖣴",
+    "meta": "bamum letter phase-d mfon",
+    "ipa": ""
+  },
+  {
+    "label": "𖣵",
+    "meta": "bamum letter phase-d njiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣶",
+    "meta": "bamum letter phase-d liee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣷",
+    "meta": "bamum letter phase-d njeut",
+    "ipa": ""
+  },
+  {
+    "label": "𖣸",
+    "meta": "bamum letter phase-d nshee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣹",
+    "meta": "bamum letter phase-d nggaamae",
+    "ipa": ""
+  },
+  {
+    "label": "𖣺",
+    "meta": "bamum letter phase-d nyam",
+    "ipa": ""
+  },
+  {
+    "label": "𖣻",
+    "meta": "bamum letter phase-d wuaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖣼",
+    "meta": "bamum letter phase-d ngkun",
+    "ipa": ""
+  },
+  {
+    "label": "𖣽",
+    "meta": "bamum letter phase-d shee",
+    "ipa": ""
+  },
+  {
+    "label": "𖣾",
+    "meta": "bamum letter phase-d ngkap",
+    "ipa": ""
+  },
+  {
+    "label": "𖣿",
+    "meta": "bamum letter phase-d keuaetmeun",
+    "ipa": ""
+  },
+  {
+    "label": "𖤀",
+    "meta": "bamum letter phase-d teut",
+    "ipa": ""
+  },
+  {
+    "label": "𖤁",
+    "meta": "bamum letter phase-d sheuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖤂",
+    "meta": "bamum letter phase-d njap",
+    "ipa": ""
+  },
+  {
+    "label": "𖤃",
+    "meta": "bamum letter phase-d sue",
+    "ipa": ""
+  },
+  {
+    "label": "𖤄",
+    "meta": "bamum letter phase-d ket",
+    "ipa": ""
+  },
+  {
+    "label": "𖤅",
+    "meta": "bamum letter phase-d yaemmae",
+    "ipa": ""
+  },
+  {
+    "label": "𖤆",
+    "meta": "bamum letter phase-d kuom",
+    "ipa": ""
+  },
+  {
+    "label": "𖤇",
+    "meta": "bamum letter phase-d sap",
+    "ipa": ""
+  },
+  {
+    "label": "𖤈",
+    "meta": "bamum letter phase-d mfeut",
+    "ipa": ""
+  },
+  {
+    "label": "𖤉",
+    "meta": "bamum letter phase-d ndeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖤊",
+    "meta": "bamum letter phase-d maleeri",
+    "ipa": ""
+  },
+  {
+    "label": "𖤋",
+    "meta": "bamum letter phase-d meut",
+    "ipa": ""
+  },
+  {
+    "label": "𖤌",
+    "meta": "bamum letter phase-d seuaeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖤍",
+    "meta": "bamum letter phase-d yen",
+    "ipa": ""
+  },
+  {
+    "label": "𖤎",
+    "meta": "bamum letter phase-d njeuaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖤏",
+    "meta": "bamum letter phase-d keuot mbuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖤐",
+    "meta": "bamum letter phase-d ngkeuri",
+    "ipa": ""
+  },
+  {
+    "label": "𖤑",
+    "meta": "bamum letter phase-d tu",
+    "ipa": ""
+  },
+  {
+    "label": "𖤒",
+    "meta": "bamum letter phase-d ghaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖤓",
+    "meta": "bamum letter phase-d ngkyee",
+    "ipa": ""
+  },
+  {
+    "label": "𖤔",
+    "meta": "bamum letter phase-d feufeuaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖤕",
+    "meta": "bamum letter phase-d ndee",
+    "ipa": ""
+  },
+  {
+    "label": "𖤖",
+    "meta": "bamum letter phase-d mgbofum",
+    "ipa": ""
+  },
+  {
+    "label": "𖤗",
+    "meta": "bamum letter phase-d leuaep",
+    "ipa": ""
+  },
+  {
+    "label": "𖤘",
+    "meta": "bamum letter phase-d ndon",
+    "ipa": ""
+  },
+  {
+    "label": "𖤙",
+    "meta": "bamum letter phase-d moni",
+    "ipa": ""
+  },
+  {
+    "label": "𖤚",
+    "meta": "bamum letter phase-d mgbeun",
+    "ipa": ""
+  },
+  {
+    "label": "𖤛",
+    "meta": "bamum letter phase-d puut",
+    "ipa": ""
+  },
+  {
+    "label": "𖤜",
+    "meta": "bamum letter phase-d mgbiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖤝",
+    "meta": "bamum letter phase-d mfo",
+    "ipa": ""
+  },
+  {
+    "label": "𖤞",
+    "meta": "bamum letter phase-d lum",
+    "ipa": ""
+  },
+  {
+    "label": "𖤟",
+    "meta": "bamum letter phase-d nsieep",
+    "ipa": ""
+  },
+  {
+    "label": "𖤠",
+    "meta": "bamum letter phase-d mbaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖤡",
+    "meta": "bamum letter phase-d kwaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖤢",
+    "meta": "bamum letter phase-d nyet",
+    "ipa": ""
+  },
+  {
+    "label": "𖤣",
+    "meta": "bamum letter phase-d teuaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖤤",
+    "meta": "bamum letter phase-d sot",
+    "ipa": ""
+  },
+  {
+    "label": "𖤥",
+    "meta": "bamum letter phase-d yuwoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖤦",
+    "meta": "bamum letter phase-d keum",
+    "ipa": ""
+  },
+  {
+    "label": "𖤧",
+    "meta": "bamum letter phase-d raem",
+    "ipa": ""
+  },
+  {
+    "label": "𖤨",
+    "meta": "bamum letter phase-d teeee",
+    "ipa": ""
+  },
+  {
+    "label": "𖤩",
+    "meta": "bamum letter phase-d ngkeuaeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖤪",
+    "meta": "bamum letter phase-d mfeuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖤫",
+    "meta": "bamum letter phase-d nsieet",
+    "ipa": ""
+  },
+  {
+    "label": "𖤬",
+    "meta": "bamum letter phase-d keup",
+    "ipa": ""
+  },
+  {
+    "label": "𖤭",
+    "meta": "bamum letter phase-d pip",
+    "ipa": ""
+  },
+  {
+    "label": "𖤮",
+    "meta": "bamum letter phase-d peutae",
+    "ipa": ""
+  },
+  {
+    "label": "𖤯",
+    "meta": "bamum letter phase-d nyue",
+    "ipa": ""
+  },
+  {
+    "label": "𖤰",
+    "meta": "bamum letter phase-d let",
+    "ipa": ""
+  },
+  {
+    "label": "𖤱",
+    "meta": "bamum letter phase-d nggaam",
+    "ipa": ""
+  },
+  {
+    "label": "𖤲",
+    "meta": "bamum letter phase-d mfiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖤳",
+    "meta": "bamum letter phase-d nggwaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖤴",
+    "meta": "bamum letter phase-d yuom",
+    "ipa": ""
+  },
+  {
+    "label": "𖤵",
+    "meta": "bamum letter phase-d pap",
+    "ipa": ""
+  },
+  {
+    "label": "𖤶",
+    "meta": "bamum letter phase-d yuop",
+    "ipa": ""
+  },
+  {
+    "label": "𖤷",
+    "meta": "bamum letter phase-d ndam",
+    "ipa": ""
+  },
+  {
+    "label": "𖤸",
+    "meta": "bamum letter phase-d nteum",
+    "ipa": ""
+  },
+  {
+    "label": "𖤹",
+    "meta": "bamum letter phase-d suae",
+    "ipa": ""
+  },
+  {
+    "label": "𖤺",
+    "meta": "bamum letter phase-d kun",
+    "ipa": ""
+  },
+  {
+    "label": "𖤻",
+    "meta": "bamum letter phase-d nggeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖤼",
+    "meta": "bamum letter phase-d ngkiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖤽",
+    "meta": "bamum letter phase-d tuot",
+    "ipa": ""
+  },
+  {
+    "label": "𖤾",
+    "meta": "bamum letter phase-d meun",
+    "ipa": ""
+  },
+  {
+    "label": "𖤿",
+    "meta": "bamum letter phase-d kuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥀",
+    "meta": "bamum letter phase-d nsum",
+    "ipa": ""
+  },
+  {
+    "label": "𖥁",
+    "meta": "bamum letter phase-d teun",
+    "ipa": ""
+  },
+  {
+    "label": "𖥂",
+    "meta": "bamum letter phase-d maenjet",
+    "ipa": ""
+  },
+  {
+    "label": "𖥃",
+    "meta": "bamum letter phase-d nggap",
+    "ipa": ""
+  },
+  {
+    "label": "𖥄",
+    "meta": "bamum letter phase-d leum",
+    "ipa": ""
+  },
+  {
+    "label": "𖥅",
+    "meta": "bamum letter phase-d ngguom",
+    "ipa": ""
+  },
+  {
+    "label": "𖥆",
+    "meta": "bamum letter phase-d nshut",
+    "ipa": ""
+  },
+  {
+    "label": "𖥇",
+    "meta": "bamum letter phase-d njueq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥈",
+    "meta": "bamum letter phase-d gheuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖥉",
+    "meta": "bamum letter phase-d ku",
+    "ipa": ""
+  },
+  {
+    "label": "𖥊",
+    "meta": "bamum letter phase-d ren old",
+    "ipa": ""
+  },
+  {
+    "label": "𖥋",
+    "meta": "bamum letter phase-d tae",
+    "ipa": ""
+  },
+  {
+    "label": "𖥌",
+    "meta": "bamum letter phase-d toq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥍",
+    "meta": "bamum letter phase-d nyi",
+    "ipa": ""
+  },
+  {
+    "label": "𖥎",
+    "meta": "bamum letter phase-d rii",
+    "ipa": ""
+  },
+  {
+    "label": "𖥏",
+    "meta": "bamum letter phase-d leeee",
+    "ipa": ""
+  },
+  {
+    "label": "𖥐",
+    "meta": "bamum letter phase-d meeee",
+    "ipa": ""
+  },
+  {
+    "label": "𖥑",
+    "meta": "bamum letter phase-d m",
+    "ipa": ""
+  },
+  {
+    "label": "𖥒",
+    "meta": "bamum letter phase-d suu",
+    "ipa": ""
+  },
+  {
+    "label": "𖥓",
+    "meta": "bamum letter phase-d mu",
+    "ipa": ""
+  },
+  {
+    "label": "𖥔",
+    "meta": "bamum letter phase-d shii",
+    "ipa": ""
+  },
+  {
+    "label": "𖥕",
+    "meta": "bamum letter phase-d sheux",
+    "ipa": ""
+  },
+  {
+    "label": "𖥖",
+    "meta": "bamum letter phase-d kyee",
+    "ipa": ""
+  },
+  {
+    "label": "𖥗",
+    "meta": "bamum letter phase-d nu",
+    "ipa": ""
+  },
+  {
+    "label": "𖥘",
+    "meta": "bamum letter phase-d shu",
+    "ipa": ""
+  },
+  {
+    "label": "𖥙",
+    "meta": "bamum letter phase-d ntee",
+    "ipa": ""
+  },
+  {
+    "label": "𖥚",
+    "meta": "bamum letter phase-d pee",
+    "ipa": ""
+  },
+  {
+    "label": "𖥛",
+    "meta": "bamum letter phase-d ni",
+    "ipa": ""
+  },
+  {
+    "label": "𖥜",
+    "meta": "bamum letter phase-d shoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥝",
+    "meta": "bamum letter phase-d puq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥞",
+    "meta": "bamum letter phase-d mvop",
+    "ipa": ""
+  },
+  {
+    "label": "𖥟",
+    "meta": "bamum letter phase-d loq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥠",
+    "meta": "bamum letter phase-d ren much",
+    "ipa": ""
+  },
+  {
+    "label": "𖥡",
+    "meta": "bamum letter phase-d ti",
+    "ipa": ""
+  },
+  {
+    "label": "𖥢",
+    "meta": "bamum letter phase-d ntuu",
+    "ipa": ""
+  },
+  {
+    "label": "𖥣",
+    "meta": "bamum letter phase-d mbaa seven",
+    "ipa": ""
+  },
+  {
+    "label": "𖥤",
+    "meta": "bamum letter phase-d saq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥥",
+    "meta": "bamum letter phase-d faa",
+    "ipa": ""
+  },
+  {
+    "label": "𖥦",
+    "meta": "bamum letter phase-e ndap",
+    "ipa": ""
+  },
+  {
+    "label": "𖥧",
+    "meta": "bamum letter phase-e toon",
+    "ipa": ""
+  },
+  {
+    "label": "𖥨",
+    "meta": "bamum letter phase-e mbeum",
+    "ipa": ""
+  },
+  {
+    "label": "𖥩",
+    "meta": "bamum letter phase-e lap",
+    "ipa": ""
+  },
+  {
+    "label": "𖥪",
+    "meta": "bamum letter phase-e vom",
+    "ipa": ""
+  },
+  {
+    "label": "𖥫",
+    "meta": "bamum letter phase-e loon",
+    "ipa": ""
+  },
+  {
+    "label": "𖥬",
+    "meta": "bamum letter phase-e paa",
+    "ipa": ""
+  },
+  {
+    "label": "𖥭",
+    "meta": "bamum letter phase-e som",
+    "ipa": ""
+  },
+  {
+    "label": "𖥮",
+    "meta": "bamum letter phase-e raq",
+    "ipa": ""
+  },
+  {
+    "label": "𖥯",
+    "meta": "bamum letter phase-e nshuop",
+    "ipa": ""
+  },
+  {
+    "label": "𖥰",
+    "meta": "bamum letter phase-e ndun",
+    "ipa": ""
+  },
+  {
+    "label": "𖥱",
+    "meta": "bamum letter phase-e puae",
+    "ipa": ""
+  },
+  {
+    "label": "𖥲",
+    "meta": "bamum letter phase-e tam",
+    "ipa": ""
+  },
+  {
+    "label": "𖥳",
+    "meta": "bamum letter phase-e ngka",
+    "ipa": ""
+  },
+  {
+    "label": "𖥴",
+    "meta": "bamum letter phase-e kpeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖥵",
+    "meta": "bamum letter phase-e wuo",
+    "ipa": ""
+  },
+  {
+    "label": "𖥶",
+    "meta": "bamum letter phase-e see",
+    "ipa": ""
+  },
+  {
+    "label": "𖥷",
+    "meta": "bamum letter phase-e nggeuaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖥸",
+    "meta": "bamum letter phase-e paam",
+    "ipa": ""
+  },
+  {
+    "label": "𖥹",
+    "meta": "bamum letter phase-e too",
+    "ipa": ""
+  },
+  {
+    "label": "𖥺",
+    "meta": "bamum letter phase-e kuop",
+    "ipa": ""
+  },
+  {
+    "label": "𖥻",
+    "meta": "bamum letter phase-e lom",
+    "ipa": ""
+  },
+  {
+    "label": "𖥼",
+    "meta": "bamum letter phase-e nshiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖥽",
+    "meta": "bamum letter phase-e ngop",
+    "ipa": ""
+  },
+  {
+    "label": "𖥾",
+    "meta": "bamum letter phase-e maem",
+    "ipa": ""
+  },
+  {
+    "label": "𖥿",
+    "meta": "bamum letter phase-e ngkeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖦀",
+    "meta": "bamum letter phase-e ngoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦁",
+    "meta": "bamum letter phase-e nshue",
+    "ipa": ""
+  },
+  {
+    "label": "𖦂",
+    "meta": "bamum letter phase-e rimgba",
+    "ipa": ""
+  },
+  {
+    "label": "𖦃",
+    "meta": "bamum letter phase-e njeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖦄",
+    "meta": "bamum letter phase-e peem",
+    "ipa": ""
+  },
+  {
+    "label": "𖦅",
+    "meta": "bamum letter phase-e saa",
+    "ipa": ""
+  },
+  {
+    "label": "𖦆",
+    "meta": "bamum letter phase-e nggurae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦇",
+    "meta": "bamum letter phase-e mgba",
+    "ipa": ""
+  },
+  {
+    "label": "𖦈",
+    "meta": "bamum letter phase-e gheux",
+    "ipa": ""
+  },
+  {
+    "label": "𖦉",
+    "meta": "bamum letter phase-e ngkeuaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖦊",
+    "meta": "bamum letter phase-e njaemli",
+    "ipa": ""
+  },
+  {
+    "label": "𖦋",
+    "meta": "bamum letter phase-e map",
+    "ipa": ""
+  },
+  {
+    "label": "𖦌",
+    "meta": "bamum letter phase-e loot",
+    "ipa": ""
+  },
+  {
+    "label": "𖦍",
+    "meta": "bamum letter phase-e nggeeee",
+    "ipa": ""
+  },
+  {
+    "label": "𖦎",
+    "meta": "bamum letter phase-e ndiq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦏",
+    "meta": "bamum letter phase-e taen nteum",
+    "ipa": ""
+  },
+  {
+    "label": "𖦐",
+    "meta": "bamum letter phase-e set",
+    "ipa": ""
+  },
+  {
+    "label": "𖦑",
+    "meta": "bamum letter phase-e pum",
+    "ipa": ""
+  },
+  {
+    "label": "𖦒",
+    "meta": "bamum letter phase-e ndaa softness",
+    "ipa": ""
+  },
+  {
+    "label": "𖦓",
+    "meta": "bamum letter phase-e ngguaeshae nyam",
+    "ipa": ""
+  },
+  {
+    "label": "𖦔",
+    "meta": "bamum letter phase-e yiee",
+    "ipa": ""
+  },
+  {
+    "label": "𖦕",
+    "meta": "bamum letter phase-e gheun",
+    "ipa": ""
+  },
+  {
+    "label": "𖦖",
+    "meta": "bamum letter phase-e tuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦗",
+    "meta": "bamum letter phase-e yeuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦘",
+    "meta": "bamum letter phase-e po",
+    "ipa": ""
+  },
+  {
+    "label": "𖦙",
+    "meta": "bamum letter phase-e tumae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦚",
+    "meta": "bamum letter phase-e keuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦛",
+    "meta": "bamum letter phase-e suaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖦜",
+    "meta": "bamum letter phase-e teuaeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦝",
+    "meta": "bamum letter phase-e veuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦞",
+    "meta": "bamum letter phase-e weux",
+    "ipa": ""
+  },
+  {
+    "label": "𖦟",
+    "meta": "bamum letter phase-e laam",
+    "ipa": ""
+  },
+  {
+    "label": "𖦠",
+    "meta": "bamum letter phase-e pu",
+    "ipa": ""
+  },
+  {
+    "label": "𖦡",
+    "meta": "bamum letter phase-e taaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦢",
+    "meta": "bamum letter phase-e ghaamae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦣",
+    "meta": "bamum letter phase-e ngeureut",
+    "ipa": ""
+  },
+  {
+    "label": "𖦤",
+    "meta": "bamum letter phase-e sheuaeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦥",
+    "meta": "bamum letter phase-e mgben",
+    "ipa": ""
+  },
+  {
+    "label": "𖦦",
+    "meta": "bamum letter phase-e mbee",
+    "ipa": ""
+  },
+  {
+    "label": "𖦧",
+    "meta": "bamum letter phase-e nzaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦨",
+    "meta": "bamum letter phase-e nkom",
+    "ipa": ""
+  },
+  {
+    "label": "𖦩",
+    "meta": "bamum letter phase-e gbet",
+    "ipa": ""
+  },
+  {
+    "label": "𖦪",
+    "meta": "bamum letter phase-e tum",
+    "ipa": ""
+  },
+  {
+    "label": "𖦫",
+    "meta": "bamum letter phase-e kuet",
+    "ipa": ""
+  },
+  {
+    "label": "𖦬",
+    "meta": "bamum letter phase-e yap",
+    "ipa": ""
+  },
+  {
+    "label": "𖦭",
+    "meta": "bamum letter phase-e nyi cleaver",
+    "ipa": ""
+  },
+  {
+    "label": "𖦮",
+    "meta": "bamum letter phase-e yit",
+    "ipa": ""
+  },
+  {
+    "label": "𖦯",
+    "meta": "bamum letter phase-e mfeuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦰",
+    "meta": "bamum letter phase-e ndiaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦱",
+    "meta": "bamum letter phase-e pieeq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦲",
+    "meta": "bamum letter phase-e yueq",
+    "ipa": ""
+  },
+  {
+    "label": "𖦳",
+    "meta": "bamum letter phase-e leuaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖦴",
+    "meta": "bamum letter phase-e fue",
+    "ipa": ""
+  },
+  {
+    "label": "𖦵",
+    "meta": "bamum letter phase-e gbeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖦶",
+    "meta": "bamum letter phase-e ngkup",
+    "ipa": ""
+  },
+  {
+    "label": "𖦷",
+    "meta": "bamum letter phase-e ket",
+    "ipa": ""
+  },
+  {
+    "label": "𖦸",
+    "meta": "bamum letter phase-e mae",
+    "ipa": ""
+  },
+  {
+    "label": "𖦹",
+    "meta": "bamum letter phase-e ngkaami",
+    "ipa": ""
+  },
+  {
+    "label": "𖦺",
+    "meta": "bamum letter phase-e ghet",
+    "ipa": ""
+  },
+  {
+    "label": "𖦻",
+    "meta": "bamum letter phase-e fa",
+    "ipa": ""
+  },
+  {
+    "label": "𖦼",
+    "meta": "bamum letter phase-e ntum",
+    "ipa": ""
+  },
+  {
+    "label": "𖦽",
+    "meta": "bamum letter phase-e peut",
+    "ipa": ""
+  },
+  {
+    "label": "𖦾",
+    "meta": "bamum letter phase-e yeum",
+    "ipa": ""
+  },
+  {
+    "label": "𖦿",
+    "meta": "bamum letter phase-e nggeuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖧀",
+    "meta": "bamum letter phase-e nyi between",
+    "ipa": ""
+  },
+  {
+    "label": "𖧁",
+    "meta": "bamum letter phase-e nzuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧂",
+    "meta": "bamum letter phase-e poon",
+    "ipa": ""
+  },
+  {
+    "label": "𖧃",
+    "meta": "bamum letter phase-e miee",
+    "ipa": ""
+  },
+  {
+    "label": "𖧄",
+    "meta": "bamum letter phase-e fuet",
+    "ipa": ""
+  },
+  {
+    "label": "𖧅",
+    "meta": "bamum letter phase-e nae",
+    "ipa": ""
+  },
+  {
+    "label": "𖧆",
+    "meta": "bamum letter phase-e muae",
+    "ipa": ""
+  },
+  {
+    "label": "𖧇",
+    "meta": "bamum letter phase-e gheuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖧈",
+    "meta": "bamum letter phase-e fu i",
+    "ipa": ""
+  },
+  {
+    "label": "𖧉",
+    "meta": "bamum letter phase-e mvi",
+    "ipa": ""
+  },
+  {
+    "label": "𖧊",
+    "meta": "bamum letter phase-e puaq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧋",
+    "meta": "bamum letter phase-e ngkum",
+    "ipa": ""
+  },
+  {
+    "label": "𖧌",
+    "meta": "bamum letter phase-e kut",
+    "ipa": ""
+  },
+  {
+    "label": "𖧍",
+    "meta": "bamum letter phase-e piet",
+    "ipa": ""
+  },
+  {
+    "label": "𖧎",
+    "meta": "bamum letter phase-e ntap",
+    "ipa": ""
+  },
+  {
+    "label": "𖧏",
+    "meta": "bamum letter phase-e yeuaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖧐",
+    "meta": "bamum letter phase-e nggup",
+    "ipa": ""
+  },
+  {
+    "label": "𖧑",
+    "meta": "bamum letter phase-e pa people",
+    "ipa": ""
+  },
+  {
+    "label": "𖧒",
+    "meta": "bamum letter phase-e fu call",
+    "ipa": ""
+  },
+  {
+    "label": "𖧓",
+    "meta": "bamum letter phase-e fom",
+    "ipa": ""
+  },
+  {
+    "label": "𖧔",
+    "meta": "bamum letter phase-e njee",
+    "ipa": ""
+  },
+  {
+    "label": "𖧕",
+    "meta": "bamum letter phase-e a",
+    "ipa": ""
+  },
+  {
+    "label": "𖧖",
+    "meta": "bamum letter phase-e toq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧗",
+    "meta": "bamum letter phase-e o",
+    "ipa": ""
+  },
+  {
+    "label": "𖧘",
+    "meta": "bamum letter phase-e i",
+    "ipa": ""
+  },
+  {
+    "label": "𖧙",
+    "meta": "bamum letter phase-e laq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧚",
+    "meta": "bamum letter phase-e pa plural",
+    "ipa": ""
+  },
+  {
+    "label": "𖧛",
+    "meta": "bamum letter phase-e taa",
+    "ipa": ""
+  },
+  {
+    "label": "𖧜",
+    "meta": "bamum letter phase-e taq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧝",
+    "meta": "bamum letter phase-e ndaa my house",
+    "ipa": ""
+  },
+  {
+    "label": "𖧞",
+    "meta": "bamum letter phase-e shiq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧟",
+    "meta": "bamum letter phase-e yeux",
+    "ipa": ""
+  },
+  {
+    "label": "𖧠",
+    "meta": "bamum letter phase-e nguae",
+    "ipa": ""
+  },
+  {
+    "label": "𖧡",
+    "meta": "bamum letter phase-e yuaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖧢",
+    "meta": "bamum letter phase-e yoq swimming",
+    "ipa": ""
+  },
+  {
+    "label": "𖧣",
+    "meta": "bamum letter phase-e yoq cover",
+    "ipa": ""
+  },
+  {
+    "label": "𖧤",
+    "meta": "bamum letter phase-e yuq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧥",
+    "meta": "bamum letter phase-e yun",
+    "ipa": ""
+  },
+  {
+    "label": "𖧦",
+    "meta": "bamum letter phase-e keux",
+    "ipa": ""
+  },
+  {
+    "label": "𖧧",
+    "meta": "bamum letter phase-e peux",
+    "ipa": ""
+  },
+  {
+    "label": "𖧨",
+    "meta": "bamum letter phase-e njee epoch",
+    "ipa": ""
+  },
+  {
+    "label": "𖧩",
+    "meta": "bamum letter phase-e pue",
+    "ipa": ""
+  },
+  {
+    "label": "𖧪",
+    "meta": "bamum letter phase-e wue",
+    "ipa": ""
+  },
+  {
+    "label": "𖧫",
+    "meta": "bamum letter phase-e fee",
+    "ipa": ""
+  },
+  {
+    "label": "𖧬",
+    "meta": "bamum letter phase-e vee",
+    "ipa": ""
+  },
+  {
+    "label": "𖧭",
+    "meta": "bamum letter phase-e lu",
+    "ipa": ""
+  },
+  {
+    "label": "𖧮",
+    "meta": "bamum letter phase-e mi",
+    "ipa": ""
+  },
+  {
+    "label": "𖧯",
+    "meta": "bamum letter phase-e reux",
+    "ipa": ""
+  },
+  {
+    "label": "𖧰",
+    "meta": "bamum letter phase-e rae",
+    "ipa": ""
+  },
+  {
+    "label": "𖧱",
+    "meta": "bamum letter phase-e nguaet",
+    "ipa": ""
+  },
+  {
+    "label": "𖧲",
+    "meta": "bamum letter phase-e nga",
+    "ipa": ""
+  },
+  {
+    "label": "𖧳",
+    "meta": "bamum letter phase-e sho",
+    "ipa": ""
+  },
+  {
+    "label": "𖧴",
+    "meta": "bamum letter phase-e shoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧵",
+    "meta": "bamum letter phase-e fu remedy",
+    "ipa": ""
+  },
+  {
+    "label": "𖧶",
+    "meta": "bamum letter phase-e na",
+    "ipa": ""
+  },
+  {
+    "label": "𖧷",
+    "meta": "bamum letter phase-e pi",
+    "ipa": ""
+  },
+  {
+    "label": "𖧸",
+    "meta": "bamum letter phase-e loq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧹",
+    "meta": "bamum letter phase-e ko",
+    "ipa": ""
+  },
+  {
+    "label": "𖧺",
+    "meta": "bamum letter phase-e men",
+    "ipa": ""
+  },
+  {
+    "label": "𖧻",
+    "meta": "bamum letter phase-e ma",
+    "ipa": ""
+  },
+  {
+    "label": "𖧼",
+    "meta": "bamum letter phase-e maq",
+    "ipa": ""
+  },
+  {
+    "label": "𖧽",
+    "meta": "bamum letter phase-e teu",
+    "ipa": ""
+  },
+  {
+    "label": "𖧾",
+    "meta": "bamum letter phase-e ki",
+    "ipa": ""
+  },
+  {
+    "label": "𖧿",
+    "meta": "bamum letter phase-e mon",
+    "ipa": ""
+  },
+  {
+    "label": "𖨀",
+    "meta": "bamum letter phase-e ten",
+    "ipa": ""
+  },
+  {
+    "label": "𖨁",
+    "meta": "bamum letter phase-e faq",
+    "ipa": ""
+  },
+  {
+    "label": "𖨂",
+    "meta": "bamum letter phase-e ghom",
+    "ipa": ""
+  },
+  {
+    "label": "𖨃",
+    "meta": "bamum letter phase-f ka",
+    "ipa": ""
+  },
+  {
+    "label": "𖨄",
+    "meta": "bamum letter phase-f u",
+    "ipa": ""
+  },
+  {
+    "label": "𖨅",
+    "meta": "bamum letter phase-f ku",
+    "ipa": ""
+  },
+  {
+    "label": "𖨆",
+    "meta": "bamum letter phase-f ee",
+    "ipa": ""
+  },
+  {
+    "label": "𖨇",
+    "meta": "bamum letter phase-f ree",
+    "ipa": ""
+  },
+  {
+    "label": "𖨈",
+    "meta": "bamum letter phase-f tae",
+    "ipa": ""
+  },
+  {
+    "label": "𖨉",
+    "meta": "bamum letter phase-f nyi",
+    "ipa": ""
+  },
+  {
+    "label": "𖨊",
+    "meta": "bamum letter phase-f la",
+    "ipa": ""
+  },
+  {
+    "label": "𖨋",
+    "meta": "bamum letter phase-f rii",
+    "ipa": ""
+  },
+  {
+    "label": "𖨌",
+    "meta": "bamum letter phase-f riee",
+    "ipa": ""
+  },
+  {
+    "label": "𖨍",
+    "meta": "bamum letter phase-f meeee",
+    "ipa": ""
+  },
+  {
+    "label": "𖨎",
+    "meta": "bamum letter phase-f taa",
+    "ipa": ""
+  },
+  {
+    "label": "𖨏",
+    "meta": "bamum letter phase-f ndaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖨐",
+    "meta": "bamum letter phase-f njaem",
+    "ipa": ""
+  },
+  {
+    "label": "𖨑",
+    "meta": "bamum letter phase-f m",
+    "ipa": ""
+  },
+  {
+    "label": "𖨒",
+    "meta": "bamum letter phase-f suu",
+    "ipa": ""
+  },
+  {
+    "label": "𖨓",
+    "meta": "bamum letter phase-f shii",
+    "ipa": ""
+  },
+  {
+    "label": "𖨔",
+    "meta": "bamum letter phase-f si",
+    "ipa": ""
+  },
+  {
+    "label": "𖨕",
+    "meta": "bamum letter phase-f seux",
+    "ipa": ""
+  },
+  {
+    "label": "𖨖",
+    "meta": "bamum letter phase-f kyee",
+    "ipa": ""
+  },
+  {
+    "label": "𖨗",
+    "meta": "bamum letter phase-f ket",
+    "ipa": ""
+  },
+  {
+    "label": "𖨘",
+    "meta": "bamum letter phase-f nuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖨙",
+    "meta": "bamum letter phase-f nu",
+    "ipa": ""
+  },
+  {
+    "label": "𖨚",
+    "meta": "bamum letter phase-f njuae",
+    "ipa": ""
+  },
+  {
+    "label": "𖨛",
+    "meta": "bamum letter phase-f yoq",
+    "ipa": ""
+  },
+  {
+    "label": "𖨜",
+    "meta": "bamum letter phase-f shu",
+    "ipa": ""
+  },
+  {
+    "label": "𖨝",
+    "meta": "bamum letter phase-f ya",
+    "ipa": ""
+  },
+  {
+    "label": "𖨞",
+    "meta": "bamum letter phase-f nsha",
+    "ipa": ""
+  },
+  {
+    "label": "𖨟",
+    "meta": "bamum letter phase-f peux",
+    "ipa": ""
+  },
+  {
+    "label": "𖨠",
+    "meta": "bamum letter phase-f ntee",
+    "ipa": ""
+  },
+  {
+    "label": "𖨡",
+    "meta": "bamum letter phase-f wue",
+    "ipa": ""
+  },
+  {
+    "label": "𖨢",
+    "meta": "bamum letter phase-f pee",
+    "ipa": ""
+  },
+  {
+    "label": "𖨣",
+    "meta": "bamum letter phase-f ru",
+    "ipa": ""
+  },
+  {
+    "label": "𖨤",
+    "meta": "bamum letter phase-f ni",
+    "ipa": ""
+  },
+  {
+    "label": "𖨥",
+    "meta": "bamum letter phase-f reux",
+    "ipa": ""
+  },
+  {
+    "label": "𖨦",
+    "meta": "bamum letter phase-f ken",
+    "ipa": ""
+  },
+  {
+    "label": "𖨧",
+    "meta": "bamum letter phase-f ngkwaen",
+    "ipa": ""
+  },
+  {
+    "label": "𖨨",
+    "meta": "bamum letter phase-f ngga",
+    "ipa": ""
+  },
+  {
+    "label": "𖨩",
+    "meta": "bamum letter phase-f sho",
+    "ipa": ""
+  },
+  {
+    "label": "𖨪",
+    "meta": "bamum letter phase-f puae",
+    "ipa": ""
+  },
+  {
+    "label": "𖨫",
+    "meta": "bamum letter phase-f fom",
+    "ipa": ""
+  },
+  {
+    "label": "𖨬",
+    "meta": "bamum letter phase-f wa",
+    "ipa": ""
+  },
+  {
+    "label": "𖨭",
+    "meta": "bamum letter phase-f li",
+    "ipa": ""
+  },
+  {
+    "label": "𖨮",
+    "meta": "bamum letter phase-f loq",
+    "ipa": ""
+  },
+  {
+    "label": "𖨯",
+    "meta": "bamum letter phase-f ko",
+    "ipa": ""
+  },
+  {
+    "label": "𖨰",
+    "meta": "bamum letter phase-f mben",
+    "ipa": ""
+  },
+  {
+    "label": "𖨱",
+    "meta": "bamum letter phase-f ren",
+    "ipa": ""
+  },
+  {
+    "label": "𖨲",
+    "meta": "bamum letter phase-f ma",
+    "ipa": ""
+  },
+  {
+    "label": "𖨳",
+    "meta": "bamum letter phase-f mo",
+    "ipa": ""
+  },
+  {
+    "label": "𖨴",
+    "meta": "bamum letter phase-f mbaa",
+    "ipa": ""
+  },
+  {
+    "label": "𖨵",
+    "meta": "bamum letter phase-f tet",
+    "ipa": ""
+  },
+  {
+    "label": "𖨶",
+    "meta": "bamum letter phase-f kpa",
+    "ipa": ""
+  },
+  {
+    "label": "𖨷",
+    "meta": "bamum letter phase-f samba",
+    "ipa": ""
+  },
+  {
+    "label": "𖨸",
+    "meta": "bamum letter phase-f vueq",
+    "ipa": ""
+  }
+]

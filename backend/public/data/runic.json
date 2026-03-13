@@ -1,0 +1,432 @@
+[
+  {
+    "label": "ᚠ",
+    "meta": "runic letter fehu feoh fe f",
+    "ipa": ""
+  },
+  {
+    "label": "ᚡ",
+    "meta": "runic letter v",
+    "ipa": ""
+  },
+  {
+    "label": "ᚢ",
+    "meta": "runic letter uruz ur u",
+    "ipa": ""
+  },
+  {
+    "label": "ᚣ",
+    "meta": "runic letter yr",
+    "ipa": ""
+  },
+  {
+    "label": "ᚤ",
+    "meta": "runic letter y",
+    "ipa": ""
+  },
+  {
+    "label": "ᚥ",
+    "meta": "runic letter w",
+    "ipa": ""
+  },
+  {
+    "label": "ᚦ",
+    "meta": "runic letter thurisaz thurs thorn",
+    "ipa": ""
+  },
+  {
+    "label": "ᚧ",
+    "meta": "runic letter eth",
+    "ipa": ""
+  },
+  {
+    "label": "ᚨ",
+    "meta": "runic letter ansuz a",
+    "ipa": ""
+  },
+  {
+    "label": "ᚩ",
+    "meta": "runic letter os o",
+    "ipa": ""
+  },
+  {
+    "label": "ᚪ",
+    "meta": "runic letter ac a",
+    "ipa": ""
+  },
+  {
+    "label": "ᚫ",
+    "meta": "runic letter aesc",
+    "ipa": ""
+  },
+  {
+    "label": "ᚬ",
+    "meta": "runic letter long-branch-oss o",
+    "ipa": ""
+  },
+  {
+    "label": "ᚭ",
+    "meta": "runic letter short-twig-oss o",
+    "ipa": ""
+  },
+  {
+    "label": "ᚮ",
+    "meta": "runic letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ᚯ",
+    "meta": "runic letter oe",
+    "ipa": ""
+  },
+  {
+    "label": "ᚰ",
+    "meta": "runic letter on",
+    "ipa": ""
+  },
+  {
+    "label": "ᚱ",
+    "meta": "runic letter raido rad reid r",
+    "ipa": ""
+  },
+  {
+    "label": "ᚲ",
+    "meta": "runic letter kauna",
+    "ipa": ""
+  },
+  {
+    "label": "ᚳ",
+    "meta": "runic letter cen",
+    "ipa": ""
+  },
+  {
+    "label": "ᚴ",
+    "meta": "runic letter kaun k",
+    "ipa": ""
+  },
+  {
+    "label": "ᚵ",
+    "meta": "runic letter g",
+    "ipa": ""
+  },
+  {
+    "label": "ᚶ",
+    "meta": "runic letter eng",
+    "ipa": ""
+  },
+  {
+    "label": "ᚷ",
+    "meta": "runic letter gebo gyfu g",
+    "ipa": ""
+  },
+  {
+    "label": "ᚸ",
+    "meta": "runic letter gar",
+    "ipa": ""
+  },
+  {
+    "label": "ᚹ",
+    "meta": "runic letter wunjo wynn w",
+    "ipa": ""
+  },
+  {
+    "label": "ᚺ",
+    "meta": "runic letter haglaz h",
+    "ipa": ""
+  },
+  {
+    "label": "ᚻ",
+    "meta": "runic letter haegl h",
+    "ipa": ""
+  },
+  {
+    "label": "ᚼ",
+    "meta": "runic letter long-branch-hagall h",
+    "ipa": ""
+  },
+  {
+    "label": "ᚽ",
+    "meta": "runic letter short-twig-hagall h",
+    "ipa": ""
+  },
+  {
+    "label": "ᚾ",
+    "meta": "runic letter naudiz nyd naud n",
+    "ipa": ""
+  },
+  {
+    "label": "ᚿ",
+    "meta": "runic letter short-twig-naud n",
+    "ipa": ""
+  },
+  {
+    "label": "ᛀ",
+    "meta": "runic letter dotted-n",
+    "ipa": ""
+  },
+  {
+    "label": "ᛁ",
+    "meta": "runic letter isaz is iss i",
+    "ipa": ""
+  },
+  {
+    "label": "ᛂ",
+    "meta": "runic letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ᛃ",
+    "meta": "runic letter jeran j",
+    "ipa": ""
+  },
+  {
+    "label": "ᛄ",
+    "meta": "runic letter ger",
+    "ipa": ""
+  },
+  {
+    "label": "ᛅ",
+    "meta": "runic letter long-branch-ar ae",
+    "ipa": ""
+  },
+  {
+    "label": "ᛆ",
+    "meta": "runic letter short-twig-ar a",
+    "ipa": ""
+  },
+  {
+    "label": "ᛇ",
+    "meta": "runic letter iwaz eoh",
+    "ipa": ""
+  },
+  {
+    "label": "ᛈ",
+    "meta": "runic letter pertho peorth p",
+    "ipa": ""
+  },
+  {
+    "label": "ᛉ",
+    "meta": "runic letter algiz eolhx",
+    "ipa": ""
+  },
+  {
+    "label": "ᛊ",
+    "meta": "runic letter sowilo s",
+    "ipa": ""
+  },
+  {
+    "label": "ᛋ",
+    "meta": "runic letter sigel long-branch-sol s",
+    "ipa": ""
+  },
+  {
+    "label": "ᛌ",
+    "meta": "runic letter short-twig-sol s",
+    "ipa": ""
+  },
+  {
+    "label": "ᛍ",
+    "meta": "runic letter c",
+    "ipa": ""
+  },
+  {
+    "label": "ᛎ",
+    "meta": "runic letter z",
+    "ipa": ""
+  },
+  {
+    "label": "ᛏ",
+    "meta": "runic letter tiwaz tir tyr t",
+    "ipa": ""
+  },
+  {
+    "label": "ᛐ",
+    "meta": "runic letter short-twig-tyr t",
+    "ipa": ""
+  },
+  {
+    "label": "ᛑ",
+    "meta": "runic letter d",
+    "ipa": ""
+  },
+  {
+    "label": "ᛒ",
+    "meta": "runic letter berkanan beorc bjarkan b",
+    "ipa": ""
+  },
+  {
+    "label": "ᛓ",
+    "meta": "runic letter short-twig-bjarkan b",
+    "ipa": ""
+  },
+  {
+    "label": "ᛔ",
+    "meta": "runic letter dotted-p",
+    "ipa": ""
+  },
+  {
+    "label": "ᛕ",
+    "meta": "runic letter open-p",
+    "ipa": ""
+  },
+  {
+    "label": "ᛖ",
+    "meta": "runic letter ehwaz eh e",
+    "ipa": ""
+  },
+  {
+    "label": "ᛗ",
+    "meta": "runic letter mannaz man m",
+    "ipa": ""
+  },
+  {
+    "label": "ᛘ",
+    "meta": "runic letter long-branch-madr m",
+    "ipa": ""
+  },
+  {
+    "label": "ᛙ",
+    "meta": "runic letter short-twig-madr m",
+    "ipa": ""
+  },
+  {
+    "label": "ᛚ",
+    "meta": "runic letter laukaz lagu logr l",
+    "ipa": ""
+  },
+  {
+    "label": "ᛛ",
+    "meta": "runic letter dotted-l",
+    "ipa": ""
+  },
+  {
+    "label": "ᛜ",
+    "meta": "runic letter ingwaz",
+    "ipa": ""
+  },
+  {
+    "label": "ᛝ",
+    "meta": "runic letter ing",
+    "ipa": ""
+  },
+  {
+    "label": "ᛞ",
+    "meta": "runic letter dagaz daeg d",
+    "ipa": ""
+  },
+  {
+    "label": "ᛟ",
+    "meta": "runic letter othalan ethel o",
+    "ipa": ""
+  },
+  {
+    "label": "ᛠ",
+    "meta": "runic letter ear",
+    "ipa": ""
+  },
+  {
+    "label": "ᛡ",
+    "meta": "runic letter ior",
+    "ipa": ""
+  },
+  {
+    "label": "ᛢ",
+    "meta": "runic letter cweorth",
+    "ipa": ""
+  },
+  {
+    "label": "ᛣ",
+    "meta": "runic letter calc",
+    "ipa": ""
+  },
+  {
+    "label": "ᛤ",
+    "meta": "runic letter cealc",
+    "ipa": ""
+  },
+  {
+    "label": "ᛥ",
+    "meta": "runic letter stan",
+    "ipa": ""
+  },
+  {
+    "label": "ᛦ",
+    "meta": "runic letter long-branch-yr",
+    "ipa": ""
+  },
+  {
+    "label": "ᛧ",
+    "meta": "runic letter short-twig-yr",
+    "ipa": ""
+  },
+  {
+    "label": "ᛨ",
+    "meta": "runic letter icelandic-yr",
+    "ipa": ""
+  },
+  {
+    "label": "ᛩ",
+    "meta": "runic letter q",
+    "ipa": ""
+  },
+  {
+    "label": "ᛪ",
+    "meta": "runic letter x",
+    "ipa": ""
+  },
+  {
+    "label": "ᛮ",
+    "meta": "runic arlaug symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ᛯ",
+    "meta": "runic tvimadur symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ᛰ",
+    "meta": "runic belgthor symbol",
+    "ipa": ""
+  },
+  {
+    "label": "ᛱ",
+    "meta": "runic letter k",
+    "ipa": ""
+  },
+  {
+    "label": "ᛲ",
+    "meta": "runic letter sh",
+    "ipa": ""
+  },
+  {
+    "label": "ᛳ",
+    "meta": "runic letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ᛴ",
+    "meta": "runic letter franks casket os",
+    "ipa": ""
+  },
+  {
+    "label": "ᛵ",
+    "meta": "runic letter franks casket is",
+    "ipa": ""
+  },
+  {
+    "label": "ᛶ",
+    "meta": "runic letter franks casket eh",
+    "ipa": ""
+  },
+  {
+    "label": "ᛷ",
+    "meta": "runic letter franks casket ac",
+    "ipa": ""
+  },
+  {
+    "label": "ᛸ",
+    "meta": "runic letter franks casket aesc",
+    "ipa": ""
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "label": "ഀ",
+    "meta": "malayalam sign combining anusvara above",
+    "ipa": ""
+  },
+  {
+    "label": "ഁ",
+    "meta": "malayalam sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ം",
+    "meta": "malayalam sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ഃ",
+    "meta": "malayalam sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "ഄ",
+    "meta": "malayalam letter vedic anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "അ",
+    "meta": "malayalam letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ആ",
+    "meta": "malayalam letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ഇ",
+    "meta": "malayalam letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ഈ",
+    "meta": "malayalam letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ഉ",
+    "meta": "malayalam letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ഊ",
+    "meta": "malayalam letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ഋ",
+    "meta": "malayalam letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ഌ",
+    "meta": "malayalam letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "എ",
+    "meta": "malayalam letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ഏ",
+    "meta": "malayalam letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ഐ",
+    "meta": "malayalam letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ഒ",
+    "meta": "malayalam letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ഓ",
+    "meta": "malayalam letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ഔ",
+    "meta": "malayalam letter au",
+    "ipa": ""
+  },
+  {
+    "label": "ക",
+    "meta": "malayalam letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ഖ",
+    "meta": "malayalam letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ഗ",
+    "meta": "malayalam letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ഘ",
+    "meta": "malayalam letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ങ",
+    "meta": "malayalam letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ച",
+    "meta": "malayalam letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ഛ",
+    "meta": "malayalam letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ജ",
+    "meta": "malayalam letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ഝ",
+    "meta": "malayalam letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ഞ",
+    "meta": "malayalam letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ട",
+    "meta": "malayalam letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ഠ",
+    "meta": "malayalam letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ഡ",
+    "meta": "malayalam letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ഢ",
+    "meta": "malayalam letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ണ",
+    "meta": "malayalam letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ത",
+    "meta": "malayalam letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ഥ",
+    "meta": "malayalam letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ദ",
+    "meta": "malayalam letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ധ",
+    "meta": "malayalam letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ന",
+    "meta": "malayalam letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ഩ",
+    "meta": "malayalam letter nnna",
+    "ipa": ""
+  },
+  {
+    "label": "പ",
+    "meta": "malayalam letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ഫ",
+    "meta": "malayalam letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ബ",
+    "meta": "malayalam letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ഭ",
+    "meta": "malayalam letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "മ",
+    "meta": "malayalam letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "യ",
+    "meta": "malayalam letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ര",
+    "meta": "malayalam letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "റ",
+    "meta": "malayalam letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ല",
+    "meta": "malayalam letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ള",
+    "meta": "malayalam letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ഴ",
+    "meta": "malayalam letter llla",
+    "ipa": ""
+  },
+  {
+    "label": "വ",
+    "meta": "malayalam letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ശ",
+    "meta": "malayalam letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ഷ",
+    "meta": "malayalam letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "സ",
+    "meta": "malayalam letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ഹ",
+    "meta": "malayalam letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ഺ",
+    "meta": "malayalam letter ttta",
+    "ipa": ""
+  },
+  {
+    "label": "഻",
+    "meta": "malayalam sign vertical bar virama",
+    "ipa": ""
+  },
+  {
+    "label": "഼",
+    "meta": "malayalam sign circular virama",
+    "ipa": ""
+  },
+  {
+    "label": "ഽ",
+    "meta": "malayalam sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "ാ",
+    "meta": "malayalam vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ി",
+    "meta": "malayalam vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ീ",
+    "meta": "malayalam vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ു",
+    "meta": "malayalam vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ൂ",
+    "meta": "malayalam vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ൃ",
+    "meta": "malayalam vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ൄ",
+    "meta": "malayalam vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "െ",
+    "meta": "malayalam vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "േ",
+    "meta": "malayalam vowel sign ee",
+    "ipa": ""
+  },
+  {
+    "label": "ൈ",
+    "meta": "malayalam vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ൊ",
+    "meta": "malayalam vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ോ",
+    "meta": "malayalam vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ൌ",
+    "meta": "malayalam vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "്",
+    "meta": "malayalam sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "ൎ",
+    "meta": "malayalam letter dot reph",
+    "ipa": ""
+  },
+  {
+    "label": "൏",
+    "meta": "malayalam sign para",
+    "ipa": ""
+  },
+  {
+    "label": "ൔ",
+    "meta": "malayalam letter chillu m",
+    "ipa": ""
+  },
+  {
+    "label": "ൕ",
+    "meta": "malayalam letter chillu y",
+    "ipa": ""
+  },
+  {
+    "label": "ൖ",
+    "meta": "malayalam letter chillu lll",
+    "ipa": ""
+  },
+  {
+    "label": "ൗ",
+    "meta": "malayalam au length mark",
+    "ipa": ""
+  },
+  {
+    "label": "൘",
+    "meta": "malayalam fraction one one-hundred-and-sixtieth",
+    "ipa": ""
+  },
+  {
+    "label": "൙",
+    "meta": "malayalam fraction one fortieth",
+    "ipa": ""
+  },
+  {
+    "label": "൚",
+    "meta": "malayalam fraction three eightieths",
+    "ipa": ""
+  },
+  {
+    "label": "൛",
+    "meta": "malayalam fraction one twentieth",
+    "ipa": ""
+  },
+  {
+    "label": "൜",
+    "meta": "malayalam fraction one tenth",
+    "ipa": ""
+  },
+  {
+    "label": "൝",
+    "meta": "malayalam fraction three twentieths",
+    "ipa": ""
+  },
+  {
+    "label": "൞",
+    "meta": "malayalam fraction one fifth",
+    "ipa": ""
+  },
+  {
+    "label": "ൟ",
+    "meta": "malayalam letter archaic ii",
+    "ipa": ""
+  },
+  {
+    "label": "ൠ",
+    "meta": "malayalam letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ൡ",
+    "meta": "malayalam letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ൢ",
+    "meta": "malayalam vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ൣ",
+    "meta": "malayalam vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "൦",
+    "meta": "malayalam digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "൧",
+    "meta": "malayalam digit one",
+    "ipa": ""
+  },
+  {
+    "label": "൨",
+    "meta": "malayalam digit two",
+    "ipa": ""
+  },
+  {
+    "label": "൩",
+    "meta": "malayalam digit three",
+    "ipa": ""
+  },
+  {
+    "label": "൪",
+    "meta": "malayalam digit four",
+    "ipa": ""
+  },
+  {
+    "label": "൫",
+    "meta": "malayalam digit five",
+    "ipa": ""
+  },
+  {
+    "label": "൬",
+    "meta": "malayalam digit six",
+    "ipa": ""
+  },
+  {
+    "label": "൭",
+    "meta": "malayalam digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "൮",
+    "meta": "malayalam digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "൯",
+    "meta": "malayalam digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "൰",
+    "meta": "malayalam number ten",
+    "ipa": ""
+  },
+  {
+    "label": "൱",
+    "meta": "malayalam number one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "൲",
+    "meta": "malayalam number one thousand",
+    "ipa": ""
+  },
+  {
+    "label": "൳",
+    "meta": "malayalam fraction one quarter",
+    "ipa": ""
+  },
+  {
+    "label": "൴",
+    "meta": "malayalam fraction one half",
+    "ipa": ""
+  },
+  {
+    "label": "൵",
+    "meta": "malayalam fraction three quarters",
+    "ipa": ""
+  },
+  {
+    "label": "൶",
+    "meta": "malayalam fraction one sixteenth",
+    "ipa": ""
+  },
+  {
+    "label": "൷",
+    "meta": "malayalam fraction one eighth",
+    "ipa": ""
+  },
+  {
+    "label": "൸",
+    "meta": "malayalam fraction three sixteenths",
+    "ipa": ""
+  },
+  {
+    "label": "൹",
+    "meta": "malayalam date mark",
+    "ipa": ""
+  },
+  {
+    "label": "ൺ",
+    "meta": "malayalam letter chillu nn",
+    "ipa": ""
+  },
+  {
+    "label": "ൻ",
+    "meta": "malayalam letter chillu n",
+    "ipa": ""
+  },
+  {
+    "label": "ർ",
+    "meta": "malayalam letter chillu rr",
+    "ipa": ""
+  },
+  {
+    "label": "ൽ",
+    "meta": "malayalam letter chillu l",
+    "ipa": ""
+  },
+  {
+    "label": "ൾ",
+    "meta": "malayalam letter chillu ll",
+    "ipa": ""
+  },
+  {
+    "label": "ൿ",
+    "meta": "malayalam letter chillu k",
+    "ipa": ""
+  }
+]
