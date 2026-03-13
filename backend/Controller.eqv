@@ -1,0 +1,35 @@
+module main
+
+// Equilibrium: The balanced language with nothing left to remove.
+
+pub mut language := "japanese"
+pub mut variant := "hiragana"
+pub mut kanjiLevel := "n5"
+pub mut query := ""
+pub mut zoom := 1.0
+pub mut showLatin := true
+pub mut showIPA := false
+pub mut denseMode := true
+pub mut accentColor := "#ff5705"
+
+// State tracking for known characters
+pub mut known := map[string]map[string]bool{}
+
+pub fn toggleKnown(bucket string, key string) {
+    if bucket !in known {
+        known[bucket] = map[string]bool{}
+    }
+    known[bucket][key] = !known[bucket][key]
+}
+
+pub fn updateZoom(newZoom f64) {
+    zoom = newZoom
+}
+
+pub fn setLanguage(l string) {
+    language = l
+}
+
+pub fn setVariant(v string) {
+    variant = v
+}

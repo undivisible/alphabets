@@ -1,0 +1,417 @@
+[
+  {
+    "label": "𑩐",
+    "meta": "soyombo letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑩑",
+    "meta": "soyombo vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑩒",
+    "meta": "soyombo vowel sign ue",
+    "ipa": ""
+  },
+  {
+    "label": "𑩓",
+    "meta": "soyombo vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑩔",
+    "meta": "soyombo vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑩕",
+    "meta": "soyombo vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑩖",
+    "meta": "soyombo vowel sign oe",
+    "ipa": ""
+  },
+  {
+    "label": "𑩗",
+    "meta": "soyombo vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑩘",
+    "meta": "soyombo vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑩙",
+    "meta": "soyombo vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑩚",
+    "meta": "soyombo vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑩛",
+    "meta": "soyombo vowel length mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑩜",
+    "meta": "soyombo letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑩝",
+    "meta": "soyombo letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩞",
+    "meta": "soyombo letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑩟",
+    "meta": "soyombo letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩠",
+    "meta": "soyombo letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑩡",
+    "meta": "soyombo letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑩢",
+    "meta": "soyombo letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩣",
+    "meta": "soyombo letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑩤",
+    "meta": "soyombo letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩥",
+    "meta": "soyombo letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑩦",
+    "meta": "soyombo letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑩧",
+    "meta": "soyombo letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩨",
+    "meta": "soyombo letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑩩",
+    "meta": "soyombo letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩪",
+    "meta": "soyombo letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑩫",
+    "meta": "soyombo letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑩬",
+    "meta": "soyombo letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩭",
+    "meta": "soyombo letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑩮",
+    "meta": "soyombo letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩯",
+    "meta": "soyombo letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑩰",
+    "meta": "soyombo letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑩱",
+    "meta": "soyombo letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩲",
+    "meta": "soyombo letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑩳",
+    "meta": "soyombo letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩴",
+    "meta": "soyombo letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑩵",
+    "meta": "soyombo letter tsa",
+    "ipa": ""
+  },
+  {
+    "label": "𑩶",
+    "meta": "soyombo letter tsha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩷",
+    "meta": "soyombo letter dza",
+    "ipa": ""
+  },
+  {
+    "label": "𑩸",
+    "meta": "soyombo letter zha",
+    "ipa": ""
+  },
+  {
+    "label": "𑩹",
+    "meta": "soyombo letter za",
+    "ipa": ""
+  },
+  {
+    "label": "𑩺",
+    "meta": "soyombo letter -a",
+    "ipa": ""
+  },
+  {
+    "label": "𑩻",
+    "meta": "soyombo letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑩼",
+    "meta": "soyombo letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑩽",
+    "meta": "soyombo letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑩾",
+    "meta": "soyombo letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑩿",
+    "meta": "soyombo letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑪀",
+    "meta": "soyombo letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑪁",
+    "meta": "soyombo letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑪂",
+    "meta": "soyombo letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑪃",
+    "meta": "soyombo letter kssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑪄",
+    "meta": "soyombo sign jihvamuliya",
+    "ipa": ""
+  },
+  {
+    "label": "𑪅",
+    "meta": "soyombo sign upadhmaniya",
+    "ipa": ""
+  },
+  {
+    "label": "𑪆",
+    "meta": "soyombo cluster-initial letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑪇",
+    "meta": "soyombo cluster-initial letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑪈",
+    "meta": "soyombo cluster-initial letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑪉",
+    "meta": "soyombo cluster-initial letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑪊",
+    "meta": "soyombo final consonant sign g",
+    "ipa": ""
+  },
+  {
+    "label": "𑪋",
+    "meta": "soyombo final consonant sign k",
+    "ipa": ""
+  },
+  {
+    "label": "𑪌",
+    "meta": "soyombo final consonant sign ng",
+    "ipa": ""
+  },
+  {
+    "label": "𑪍",
+    "meta": "soyombo final consonant sign d",
+    "ipa": ""
+  },
+  {
+    "label": "𑪎",
+    "meta": "soyombo final consonant sign n",
+    "ipa": ""
+  },
+  {
+    "label": "𑪏",
+    "meta": "soyombo final consonant sign b",
+    "ipa": ""
+  },
+  {
+    "label": "𑪐",
+    "meta": "soyombo final consonant sign m",
+    "ipa": ""
+  },
+  {
+    "label": "𑪑",
+    "meta": "soyombo final consonant sign r",
+    "ipa": ""
+  },
+  {
+    "label": "𑪒",
+    "meta": "soyombo final consonant sign l",
+    "ipa": ""
+  },
+  {
+    "label": "𑪓",
+    "meta": "soyombo final consonant sign sh",
+    "ipa": ""
+  },
+  {
+    "label": "𑪔",
+    "meta": "soyombo final consonant sign s",
+    "ipa": ""
+  },
+  {
+    "label": "𑪕",
+    "meta": "soyombo final consonant sign -a",
+    "ipa": ""
+  },
+  {
+    "label": "𑪖",
+    "meta": "soyombo sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑪗",
+    "meta": "soyombo sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑪘",
+    "meta": "soyombo gemination mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑪙",
+    "meta": "soyombo subjoiner",
+    "ipa": ""
+  },
+  {
+    "label": "𑪚",
+    "meta": "soyombo mark tsheg",
+    "ipa": ""
+  },
+  {
+    "label": "𑪛",
+    "meta": "soyombo mark shad",
+    "ipa": ""
+  },
+  {
+    "label": "𑪜",
+    "meta": "soyombo mark double shad",
+    "ipa": ""
+  },
+  {
+    "label": "𑪝",
+    "meta": "soyombo mark pluta",
+    "ipa": ""
+  },
+  {
+    "label": "𑪞",
+    "meta": "soyombo head mark with moon and sun and triple flame",
+    "ipa": ""
+  },
+  {
+    "label": "𑪟",
+    "meta": "soyombo head mark with moon and sun and flame",
+    "ipa": ""
+  },
+  {
+    "label": "𑪠",
+    "meta": "soyombo head mark with moon and sun",
+    "ipa": ""
+  },
+  {
+    "label": "𑪡",
+    "meta": "soyombo terminal mark-1",
+    "ipa": ""
+  },
+  {
+    "label": "𑪢",
+    "meta": "soyombo terminal mark-2",
+    "ipa": ""
+  }
+]

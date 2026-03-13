@@ -1,0 +1,327 @@
+[
+  {
+    "label": "𑦠",
+    "meta": "nandinagari letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑦡",
+    "meta": "nandinagari letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑦢",
+    "meta": "nandinagari letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑦣",
+    "meta": "nandinagari letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑦤",
+    "meta": "nandinagari letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑦥",
+    "meta": "nandinagari letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑦦",
+    "meta": "nandinagari letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑦧",
+    "meta": "nandinagari letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑦪",
+    "meta": "nandinagari letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑦫",
+    "meta": "nandinagari letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑦬",
+    "meta": "nandinagari letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑦭",
+    "meta": "nandinagari letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑦮",
+    "meta": "nandinagari letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑦯",
+    "meta": "nandinagari letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦰",
+    "meta": "nandinagari letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑦱",
+    "meta": "nandinagari letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦲",
+    "meta": "nandinagari letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑦳",
+    "meta": "nandinagari letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑦴",
+    "meta": "nandinagari letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦵",
+    "meta": "nandinagari letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑦶",
+    "meta": "nandinagari letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦷",
+    "meta": "nandinagari letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑦸",
+    "meta": "nandinagari letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑦹",
+    "meta": "nandinagari letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦺",
+    "meta": "nandinagari letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑦻",
+    "meta": "nandinagari letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦼",
+    "meta": "nandinagari letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑦽",
+    "meta": "nandinagari letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑦾",
+    "meta": "nandinagari letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑦿",
+    "meta": "nandinagari letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑧀",
+    "meta": "nandinagari letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑧁",
+    "meta": "nandinagari letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑧂",
+    "meta": "nandinagari letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑧃",
+    "meta": "nandinagari letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑧄",
+    "meta": "nandinagari letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑧅",
+    "meta": "nandinagari letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑧆",
+    "meta": "nandinagari letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑧇",
+    "meta": "nandinagari letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑧈",
+    "meta": "nandinagari letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑧉",
+    "meta": "nandinagari letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑧊",
+    "meta": "nandinagari letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑧋",
+    "meta": "nandinagari letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑧌",
+    "meta": "nandinagari letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑧍",
+    "meta": "nandinagari letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑧎",
+    "meta": "nandinagari letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑧏",
+    "meta": "nandinagari letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "𑧐",
+    "meta": "nandinagari letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "𑧑",
+    "meta": "nandinagari vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑧒",
+    "meta": "nandinagari vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑧓",
+    "meta": "nandinagari vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑧔",
+    "meta": "nandinagari vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑧕",
+    "meta": "nandinagari vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑧖",
+    "meta": "nandinagari vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑧗",
+    "meta": "nandinagari vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑧚",
+    "meta": "nandinagari vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑧛",
+    "meta": "nandinagari vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑧜",
+    "meta": "nandinagari vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑧝",
+    "meta": "nandinagari vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑧞",
+    "meta": "nandinagari sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑧟",
+    "meta": "nandinagari sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑧠",
+    "meta": "nandinagari sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑧡",
+    "meta": "nandinagari sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "𑧢",
+    "meta": "nandinagari sign siddham",
+    "ipa": ""
+  },
+  {
+    "label": "𑧣",
+    "meta": "nandinagari headstroke",
+    "ipa": ""
+  },
+  {
+    "label": "𑧤",
+    "meta": "nandinagari vowel sign prishthamatra e",
+    "ipa": ""
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "label": "𐲀",
+    "meta": "old hungarian capital letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𐲁",
+    "meta": "old hungarian capital letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𐲂",
+    "meta": "old hungarian capital letter eb",
+    "ipa": ""
+  },
+  {
+    "label": "𐲃",
+    "meta": "old hungarian capital letter amb",
+    "ipa": ""
+  },
+  {
+    "label": "𐲄",
+    "meta": "old hungarian capital letter ec",
+    "ipa": ""
+  },
+  {
+    "label": "𐲅",
+    "meta": "old hungarian capital letter enc",
+    "ipa": ""
+  },
+  {
+    "label": "𐲆",
+    "meta": "old hungarian capital letter ecs",
+    "ipa": ""
+  },
+  {
+    "label": "𐲇",
+    "meta": "old hungarian capital letter ed",
+    "ipa": ""
+  },
+  {
+    "label": "𐲈",
+    "meta": "old hungarian capital letter and",
+    "ipa": ""
+  },
+  {
+    "label": "𐲉",
+    "meta": "old hungarian capital letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𐲊",
+    "meta": "old hungarian capital letter close e",
+    "ipa": ""
+  },
+  {
+    "label": "𐲋",
+    "meta": "old hungarian capital letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "𐲌",
+    "meta": "old hungarian capital letter ef",
+    "ipa": ""
+  },
+  {
+    "label": "𐲍",
+    "meta": "old hungarian capital letter eg",
+    "ipa": ""
+  },
+  {
+    "label": "𐲎",
+    "meta": "old hungarian capital letter egy",
+    "ipa": ""
+  },
+  {
+    "label": "𐲏",
+    "meta": "old hungarian capital letter eh",
+    "ipa": ""
+  },
+  {
+    "label": "𐲐",
+    "meta": "old hungarian capital letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𐲑",
+    "meta": "old hungarian capital letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𐲒",
+    "meta": "old hungarian capital letter ej",
+    "ipa": ""
+  },
+  {
+    "label": "𐲓",
+    "meta": "old hungarian capital letter ek",
+    "ipa": ""
+  },
+  {
+    "label": "𐲔",
+    "meta": "old hungarian capital letter ak",
+    "ipa": ""
+  },
+  {
+    "label": "𐲕",
+    "meta": "old hungarian capital letter unk",
+    "ipa": ""
+  },
+  {
+    "label": "𐲖",
+    "meta": "old hungarian capital letter el",
+    "ipa": ""
+  },
+  {
+    "label": "𐲗",
+    "meta": "old hungarian capital letter ely",
+    "ipa": ""
+  },
+  {
+    "label": "𐲘",
+    "meta": "old hungarian capital letter em",
+    "ipa": ""
+  },
+  {
+    "label": "𐲙",
+    "meta": "old hungarian capital letter en",
+    "ipa": ""
+  },
+  {
+    "label": "𐲚",
+    "meta": "old hungarian capital letter eny",
+    "ipa": ""
+  },
+  {
+    "label": "𐲛",
+    "meta": "old hungarian capital letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𐲜",
+    "meta": "old hungarian capital letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "𐲝",
+    "meta": "old hungarian capital letter nikolsburg oe",
+    "ipa": ""
+  },
+  {
+    "label": "𐲞",
+    "meta": "old hungarian capital letter rudimenta oe",
+    "ipa": ""
+  },
+  {
+    "label": "𐲟",
+    "meta": "old hungarian capital letter oee",
+    "ipa": ""
+  },
+  {
+    "label": "𐲠",
+    "meta": "old hungarian capital letter ep",
+    "ipa": ""
+  },
+  {
+    "label": "𐲡",
+    "meta": "old hungarian capital letter emp",
+    "ipa": ""
+  },
+  {
+    "label": "𐲢",
+    "meta": "old hungarian capital letter er",
+    "ipa": ""
+  },
+  {
+    "label": "𐲣",
+    "meta": "old hungarian capital letter short er",
+    "ipa": ""
+  },
+  {
+    "label": "𐲤",
+    "meta": "old hungarian capital letter es",
+    "ipa": ""
+  },
+  {
+    "label": "𐲥",
+    "meta": "old hungarian capital letter esz",
+    "ipa": ""
+  },
+  {
+    "label": "𐲦",
+    "meta": "old hungarian capital letter et",
+    "ipa": ""
+  },
+  {
+    "label": "𐲧",
+    "meta": "old hungarian capital letter ent",
+    "ipa": ""
+  },
+  {
+    "label": "𐲨",
+    "meta": "old hungarian capital letter ety",
+    "ipa": ""
+  },
+  {
+    "label": "𐲩",
+    "meta": "old hungarian capital letter ech",
+    "ipa": ""
+  },
+  {
+    "label": "𐲪",
+    "meta": "old hungarian capital letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𐲫",
+    "meta": "old hungarian capital letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𐲬",
+    "meta": "old hungarian capital letter nikolsburg ue",
+    "ipa": ""
+  },
+  {
+    "label": "𐲭",
+    "meta": "old hungarian capital letter rudimenta ue",
+    "ipa": ""
+  },
+  {
+    "label": "𐲮",
+    "meta": "old hungarian capital letter ev",
+    "ipa": ""
+  },
+  {
+    "label": "𐲯",
+    "meta": "old hungarian capital letter ez",
+    "ipa": ""
+  },
+  {
+    "label": "𐲰",
+    "meta": "old hungarian capital letter ezs",
+    "ipa": ""
+  },
+  {
+    "label": "𐲱",
+    "meta": "old hungarian capital letter ent-shaped sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐲲",
+    "meta": "old hungarian capital letter us",
+    "ipa": ""
+  },
+  {
+    "label": "𐳀",
+    "meta": "old hungarian small letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𐳁",
+    "meta": "old hungarian small letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𐳂",
+    "meta": "old hungarian small letter eb",
+    "ipa": ""
+  },
+  {
+    "label": "𐳃",
+    "meta": "old hungarian small letter amb",
+    "ipa": ""
+  },
+  {
+    "label": "𐳄",
+    "meta": "old hungarian small letter ec",
+    "ipa": ""
+  },
+  {
+    "label": "𐳅",
+    "meta": "old hungarian small letter enc",
+    "ipa": ""
+  },
+  {
+    "label": "𐳆",
+    "meta": "old hungarian small letter ecs",
+    "ipa": ""
+  },
+  {
+    "label": "𐳇",
+    "meta": "old hungarian small letter ed",
+    "ipa": ""
+  },
+  {
+    "label": "𐳈",
+    "meta": "old hungarian small letter and",
+    "ipa": ""
+  },
+  {
+    "label": "𐳉",
+    "meta": "old hungarian small letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𐳊",
+    "meta": "old hungarian small letter close e",
+    "ipa": ""
+  },
+  {
+    "label": "𐳋",
+    "meta": "old hungarian small letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "𐳌",
+    "meta": "old hungarian small letter ef",
+    "ipa": ""
+  },
+  {
+    "label": "𐳍",
+    "meta": "old hungarian small letter eg",
+    "ipa": ""
+  },
+  {
+    "label": "𐳎",
+    "meta": "old hungarian small letter egy",
+    "ipa": ""
+  },
+  {
+    "label": "𐳏",
+    "meta": "old hungarian small letter eh",
+    "ipa": ""
+  },
+  {
+    "label": "𐳐",
+    "meta": "old hungarian small letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𐳑",
+    "meta": "old hungarian small letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𐳒",
+    "meta": "old hungarian small letter ej",
+    "ipa": ""
+  },
+  {
+    "label": "𐳓",
+    "meta": "old hungarian small letter ek",
+    "ipa": ""
+  },
+  {
+    "label": "𐳔",
+    "meta": "old hungarian small letter ak",
+    "ipa": ""
+  },
+  {
+    "label": "𐳕",
+    "meta": "old hungarian small letter unk",
+    "ipa": ""
+  },
+  {
+    "label": "𐳖",
+    "meta": "old hungarian small letter el",
+    "ipa": ""
+  },
+  {
+    "label": "𐳗",
+    "meta": "old hungarian small letter ely",
+    "ipa": ""
+  },
+  {
+    "label": "𐳘",
+    "meta": "old hungarian small letter em",
+    "ipa": ""
+  },
+  {
+    "label": "𐳙",
+    "meta": "old hungarian small letter en",
+    "ipa": ""
+  },
+  {
+    "label": "𐳚",
+    "meta": "old hungarian small letter eny",
+    "ipa": ""
+  },
+  {
+    "label": "𐳛",
+    "meta": "old hungarian small letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𐳜",
+    "meta": "old hungarian small letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "𐳝",
+    "meta": "old hungarian small letter nikolsburg oe",
+    "ipa": ""
+  },
+  {
+    "label": "𐳞",
+    "meta": "old hungarian small letter rudimenta oe",
+    "ipa": ""
+  },
+  {
+    "label": "𐳟",
+    "meta": "old hungarian small letter oee",
+    "ipa": ""
+  },
+  {
+    "label": "𐳠",
+    "meta": "old hungarian small letter ep",
+    "ipa": ""
+  },
+  {
+    "label": "𐳡",
+    "meta": "old hungarian small letter emp",
+    "ipa": ""
+  },
+  {
+    "label": "𐳢",
+    "meta": "old hungarian small letter er",
+    "ipa": ""
+  },
+  {
+    "label": "𐳣",
+    "meta": "old hungarian small letter short er",
+    "ipa": ""
+  },
+  {
+    "label": "𐳤",
+    "meta": "old hungarian small letter es",
+    "ipa": ""
+  },
+  {
+    "label": "𐳥",
+    "meta": "old hungarian small letter esz",
+    "ipa": ""
+  },
+  {
+    "label": "𐳦",
+    "meta": "old hungarian small letter et",
+    "ipa": ""
+  },
+  {
+    "label": "𐳧",
+    "meta": "old hungarian small letter ent",
+    "ipa": ""
+  },
+  {
+    "label": "𐳨",
+    "meta": "old hungarian small letter ety",
+    "ipa": ""
+  },
+  {
+    "label": "𐳩",
+    "meta": "old hungarian small letter ech",
+    "ipa": ""
+  },
+  {
+    "label": "𐳪",
+    "meta": "old hungarian small letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𐳫",
+    "meta": "old hungarian small letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𐳬",
+    "meta": "old hungarian small letter nikolsburg ue",
+    "ipa": ""
+  },
+  {
+    "label": "𐳭",
+    "meta": "old hungarian small letter rudimenta ue",
+    "ipa": ""
+  },
+  {
+    "label": "𐳮",
+    "meta": "old hungarian small letter ev",
+    "ipa": ""
+  },
+  {
+    "label": "𐳯",
+    "meta": "old hungarian small letter ez",
+    "ipa": ""
+  },
+  {
+    "label": "𐳰",
+    "meta": "old hungarian small letter ezs",
+    "ipa": ""
+  },
+  {
+    "label": "𐳱",
+    "meta": "old hungarian small letter ent-shaped sign",
+    "ipa": ""
+  },
+  {
+    "label": "𐳲",
+    "meta": "old hungarian small letter us",
+    "ipa": ""
+  },
+  {
+    "label": "𐳺",
+    "meta": "old hungarian number one",
+    "ipa": ""
+  },
+  {
+    "label": "𐳻",
+    "meta": "old hungarian number five",
+    "ipa": ""
+  },
+  {
+    "label": "𐳼",
+    "meta": "old hungarian number ten",
+    "ipa": ""
+  },
+  {
+    "label": "𐳽",
+    "meta": "old hungarian number fifty",
+    "ipa": ""
+  },
+  {
+    "label": "𐳾",
+    "meta": "old hungarian number one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐳿",
+    "meta": "old hungarian number one thousand",
+    "ipa": ""
+  }
+]

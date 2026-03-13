@@ -1,0 +1,3632 @@
+[
+  {
+    "label": "᐀",
+    "meta": "canadian syllabics hyphen",
+    "ipa": ""
+  },
+  {
+    "label": "ᐁ",
+    "meta": "canadian syllabics e",
+    "ipa": ""
+  },
+  {
+    "label": "ᐂ",
+    "meta": "canadian syllabics aai",
+    "ipa": ""
+  },
+  {
+    "label": "ᐃ",
+    "meta": "canadian syllabics i",
+    "ipa": ""
+  },
+  {
+    "label": "ᐄ",
+    "meta": "canadian syllabics ii",
+    "ipa": ""
+  },
+  {
+    "label": "ᐅ",
+    "meta": "canadian syllabics o",
+    "ipa": ""
+  },
+  {
+    "label": "ᐆ",
+    "meta": "canadian syllabics oo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐇ",
+    "meta": "canadian syllabics y-cree oo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐈ",
+    "meta": "canadian syllabics carrier ee",
+    "ipa": ""
+  },
+  {
+    "label": "ᐉ",
+    "meta": "canadian syllabics carrier i",
+    "ipa": ""
+  },
+  {
+    "label": "ᐊ",
+    "meta": "canadian syllabics a",
+    "ipa": ""
+  },
+  {
+    "label": "ᐋ",
+    "meta": "canadian syllabics aa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐌ",
+    "meta": "canadian syllabics we",
+    "ipa": ""
+  },
+  {
+    "label": "ᐍ",
+    "meta": "canadian syllabics west-cree we",
+    "ipa": ""
+  },
+  {
+    "label": "ᐎ",
+    "meta": "canadian syllabics wi",
+    "ipa": ""
+  },
+  {
+    "label": "ᐏ",
+    "meta": "canadian syllabics west-cree wi",
+    "ipa": ""
+  },
+  {
+    "label": "ᐐ",
+    "meta": "canadian syllabics wii",
+    "ipa": ""
+  },
+  {
+    "label": "ᐑ",
+    "meta": "canadian syllabics west-cree wii",
+    "ipa": ""
+  },
+  {
+    "label": "ᐒ",
+    "meta": "canadian syllabics wo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐓ",
+    "meta": "canadian syllabics west-cree wo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐔ",
+    "meta": "canadian syllabics woo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐕ",
+    "meta": "canadian syllabics west-cree woo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐖ",
+    "meta": "canadian syllabics naskapi woo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐗ",
+    "meta": "canadian syllabics wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐘ",
+    "meta": "canadian syllabics west-cree wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐙ",
+    "meta": "canadian syllabics waa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐚ",
+    "meta": "canadian syllabics west-cree waa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐛ",
+    "meta": "canadian syllabics naskapi waa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐜ",
+    "meta": "canadian syllabics ai",
+    "ipa": ""
+  },
+  {
+    "label": "ᐝ",
+    "meta": "canadian syllabics y-cree w",
+    "ipa": ""
+  },
+  {
+    "label": "ᐞ",
+    "meta": "canadian syllabics glottal stop",
+    "ipa": ""
+  },
+  {
+    "label": "ᐟ",
+    "meta": "canadian syllabics final acute",
+    "ipa": ""
+  },
+  {
+    "label": "ᐠ",
+    "meta": "canadian syllabics final grave",
+    "ipa": ""
+  },
+  {
+    "label": "ᐡ",
+    "meta": "canadian syllabics final bottom half ring",
+    "ipa": ""
+  },
+  {
+    "label": "ᐢ",
+    "meta": "canadian syllabics final top half ring",
+    "ipa": ""
+  },
+  {
+    "label": "ᐣ",
+    "meta": "canadian syllabics final right half ring",
+    "ipa": ""
+  },
+  {
+    "label": "ᐤ",
+    "meta": "canadian syllabics final ring",
+    "ipa": ""
+  },
+  {
+    "label": "ᐥ",
+    "meta": "canadian syllabics final double acute",
+    "ipa": ""
+  },
+  {
+    "label": "ᐦ",
+    "meta": "canadian syllabics final double short vertical strokes",
+    "ipa": ""
+  },
+  {
+    "label": "ᐧ",
+    "meta": "canadian syllabics final middle dot",
+    "ipa": ""
+  },
+  {
+    "label": "ᐨ",
+    "meta": "canadian syllabics final short horizontal stroke",
+    "ipa": ""
+  },
+  {
+    "label": "ᐩ",
+    "meta": "canadian syllabics final plus",
+    "ipa": ""
+  },
+  {
+    "label": "ᐪ",
+    "meta": "canadian syllabics final down tack",
+    "ipa": ""
+  },
+  {
+    "label": "ᐫ",
+    "meta": "canadian syllabics en",
+    "ipa": ""
+  },
+  {
+    "label": "ᐬ",
+    "meta": "canadian syllabics in",
+    "ipa": ""
+  },
+  {
+    "label": "ᐭ",
+    "meta": "canadian syllabics on",
+    "ipa": ""
+  },
+  {
+    "label": "ᐮ",
+    "meta": "canadian syllabics an",
+    "ipa": ""
+  },
+  {
+    "label": "ᐯ",
+    "meta": "canadian syllabics pe",
+    "ipa": ""
+  },
+  {
+    "label": "ᐰ",
+    "meta": "canadian syllabics paai",
+    "ipa": ""
+  },
+  {
+    "label": "ᐱ",
+    "meta": "canadian syllabics pi",
+    "ipa": ""
+  },
+  {
+    "label": "ᐲ",
+    "meta": "canadian syllabics pii",
+    "ipa": ""
+  },
+  {
+    "label": "ᐳ",
+    "meta": "canadian syllabics po",
+    "ipa": ""
+  },
+  {
+    "label": "ᐴ",
+    "meta": "canadian syllabics poo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐵ",
+    "meta": "canadian syllabics y-cree poo",
+    "ipa": ""
+  },
+  {
+    "label": "ᐶ",
+    "meta": "canadian syllabics carrier hee",
+    "ipa": ""
+  },
+  {
+    "label": "ᐷ",
+    "meta": "canadian syllabics carrier hi",
+    "ipa": ""
+  },
+  {
+    "label": "ᐸ",
+    "meta": "canadian syllabics pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐹ",
+    "meta": "canadian syllabics paa",
+    "ipa": ""
+  },
+  {
+    "label": "ᐺ",
+    "meta": "canadian syllabics pwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᐻ",
+    "meta": "canadian syllabics west-cree pwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᐼ",
+    "meta": "canadian syllabics pwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᐽ",
+    "meta": "canadian syllabics west-cree pwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᐾ",
+    "meta": "canadian syllabics pwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᐿ",
+    "meta": "canadian syllabics west-cree pwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑀ",
+    "meta": "canadian syllabics pwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑁ",
+    "meta": "canadian syllabics west-cree pwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑂ",
+    "meta": "canadian syllabics pwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑃ",
+    "meta": "canadian syllabics west-cree pwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑄ",
+    "meta": "canadian syllabics pwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑅ",
+    "meta": "canadian syllabics west-cree pwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑆ",
+    "meta": "canadian syllabics pwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑇ",
+    "meta": "canadian syllabics west-cree pwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑈ",
+    "meta": "canadian syllabics y-cree pwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑉ",
+    "meta": "canadian syllabics p",
+    "ipa": ""
+  },
+  {
+    "label": "ᑊ",
+    "meta": "canadian syllabics west-cree p",
+    "ipa": ""
+  },
+  {
+    "label": "ᑋ",
+    "meta": "canadian syllabics carrier h",
+    "ipa": ""
+  },
+  {
+    "label": "ᑌ",
+    "meta": "canadian syllabics te",
+    "ipa": ""
+  },
+  {
+    "label": "ᑍ",
+    "meta": "canadian syllabics taai",
+    "ipa": ""
+  },
+  {
+    "label": "ᑎ",
+    "meta": "canadian syllabics ti",
+    "ipa": ""
+  },
+  {
+    "label": "ᑏ",
+    "meta": "canadian syllabics tii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑐ",
+    "meta": "canadian syllabics to",
+    "ipa": ""
+  },
+  {
+    "label": "ᑑ",
+    "meta": "canadian syllabics too",
+    "ipa": ""
+  },
+  {
+    "label": "ᑒ",
+    "meta": "canadian syllabics y-cree too",
+    "ipa": ""
+  },
+  {
+    "label": "ᑓ",
+    "meta": "canadian syllabics carrier dee",
+    "ipa": ""
+  },
+  {
+    "label": "ᑔ",
+    "meta": "canadian syllabics carrier di",
+    "ipa": ""
+  },
+  {
+    "label": "ᑕ",
+    "meta": "canadian syllabics ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᑖ",
+    "meta": "canadian syllabics taa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑗ",
+    "meta": "canadian syllabics twe",
+    "ipa": ""
+  },
+  {
+    "label": "ᑘ",
+    "meta": "canadian syllabics west-cree twe",
+    "ipa": ""
+  },
+  {
+    "label": "ᑙ",
+    "meta": "canadian syllabics twi",
+    "ipa": ""
+  },
+  {
+    "label": "ᑚ",
+    "meta": "canadian syllabics west-cree twi",
+    "ipa": ""
+  },
+  {
+    "label": "ᑛ",
+    "meta": "canadian syllabics twii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑜ",
+    "meta": "canadian syllabics west-cree twii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑝ",
+    "meta": "canadian syllabics two",
+    "ipa": ""
+  },
+  {
+    "label": "ᑞ",
+    "meta": "canadian syllabics west-cree two",
+    "ipa": ""
+  },
+  {
+    "label": "ᑟ",
+    "meta": "canadian syllabics twoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑠ",
+    "meta": "canadian syllabics west-cree twoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑡ",
+    "meta": "canadian syllabics twa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑢ",
+    "meta": "canadian syllabics west-cree twa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑣ",
+    "meta": "canadian syllabics twaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑤ",
+    "meta": "canadian syllabics west-cree twaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑥ",
+    "meta": "canadian syllabics naskapi twaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑦ",
+    "meta": "canadian syllabics t",
+    "ipa": ""
+  },
+  {
+    "label": "ᑧ",
+    "meta": "canadian syllabics tte",
+    "ipa": ""
+  },
+  {
+    "label": "ᑨ",
+    "meta": "canadian syllabics tti",
+    "ipa": ""
+  },
+  {
+    "label": "ᑩ",
+    "meta": "canadian syllabics tto",
+    "ipa": ""
+  },
+  {
+    "label": "ᑪ",
+    "meta": "canadian syllabics tta",
+    "ipa": ""
+  },
+  {
+    "label": "ᑫ",
+    "meta": "canadian syllabics ke",
+    "ipa": ""
+  },
+  {
+    "label": "ᑬ",
+    "meta": "canadian syllabics kaai",
+    "ipa": ""
+  },
+  {
+    "label": "ᑭ",
+    "meta": "canadian syllabics ki",
+    "ipa": ""
+  },
+  {
+    "label": "ᑮ",
+    "meta": "canadian syllabics kii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑯ",
+    "meta": "canadian syllabics ko",
+    "ipa": ""
+  },
+  {
+    "label": "ᑰ",
+    "meta": "canadian syllabics koo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑱ",
+    "meta": "canadian syllabics y-cree koo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑲ",
+    "meta": "canadian syllabics ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᑳ",
+    "meta": "canadian syllabics kaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑴ",
+    "meta": "canadian syllabics kwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᑵ",
+    "meta": "canadian syllabics west-cree kwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᑶ",
+    "meta": "canadian syllabics kwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᑷ",
+    "meta": "canadian syllabics west-cree kwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᑸ",
+    "meta": "canadian syllabics kwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑹ",
+    "meta": "canadian syllabics west-cree kwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᑺ",
+    "meta": "canadian syllabics kwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑻ",
+    "meta": "canadian syllabics west-cree kwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑼ",
+    "meta": "canadian syllabics kwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑽ",
+    "meta": "canadian syllabics west-cree kwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᑾ",
+    "meta": "canadian syllabics kwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᑿ",
+    "meta": "canadian syllabics west-cree kwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒀ",
+    "meta": "canadian syllabics kwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒁ",
+    "meta": "canadian syllabics west-cree kwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒂ",
+    "meta": "canadian syllabics naskapi kwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒃ",
+    "meta": "canadian syllabics k",
+    "ipa": ""
+  },
+  {
+    "label": "ᒄ",
+    "meta": "canadian syllabics kw",
+    "ipa": ""
+  },
+  {
+    "label": "ᒅ",
+    "meta": "canadian syllabics south-slavey keh",
+    "ipa": ""
+  },
+  {
+    "label": "ᒆ",
+    "meta": "canadian syllabics south-slavey kih",
+    "ipa": ""
+  },
+  {
+    "label": "ᒇ",
+    "meta": "canadian syllabics south-slavey koh",
+    "ipa": ""
+  },
+  {
+    "label": "ᒈ",
+    "meta": "canadian syllabics south-slavey kah",
+    "ipa": ""
+  },
+  {
+    "label": "ᒉ",
+    "meta": "canadian syllabics ce",
+    "ipa": ""
+  },
+  {
+    "label": "ᒊ",
+    "meta": "canadian syllabics caai",
+    "ipa": ""
+  },
+  {
+    "label": "ᒋ",
+    "meta": "canadian syllabics ci",
+    "ipa": ""
+  },
+  {
+    "label": "ᒌ",
+    "meta": "canadian syllabics cii",
+    "ipa": ""
+  },
+  {
+    "label": "ᒍ",
+    "meta": "canadian syllabics co",
+    "ipa": ""
+  },
+  {
+    "label": "ᒎ",
+    "meta": "canadian syllabics coo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒏ",
+    "meta": "canadian syllabics y-cree coo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒐ",
+    "meta": "canadian syllabics ca",
+    "ipa": ""
+  },
+  {
+    "label": "ᒑ",
+    "meta": "canadian syllabics caa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒒ",
+    "meta": "canadian syllabics cwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᒓ",
+    "meta": "canadian syllabics west-cree cwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᒔ",
+    "meta": "canadian syllabics cwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᒕ",
+    "meta": "canadian syllabics west-cree cwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᒖ",
+    "meta": "canadian syllabics cwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᒗ",
+    "meta": "canadian syllabics west-cree cwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᒘ",
+    "meta": "canadian syllabics cwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒙ",
+    "meta": "canadian syllabics west-cree cwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒚ",
+    "meta": "canadian syllabics cwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒛ",
+    "meta": "canadian syllabics west-cree cwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒜ",
+    "meta": "canadian syllabics cwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒝ",
+    "meta": "canadian syllabics west-cree cwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒞ",
+    "meta": "canadian syllabics cwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒟ",
+    "meta": "canadian syllabics west-cree cwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒠ",
+    "meta": "canadian syllabics naskapi cwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒡ",
+    "meta": "canadian syllabics c",
+    "ipa": ""
+  },
+  {
+    "label": "ᒢ",
+    "meta": "canadian syllabics sayisi th",
+    "ipa": ""
+  },
+  {
+    "label": "ᒣ",
+    "meta": "canadian syllabics me",
+    "ipa": ""
+  },
+  {
+    "label": "ᒤ",
+    "meta": "canadian syllabics maai",
+    "ipa": ""
+  },
+  {
+    "label": "ᒥ",
+    "meta": "canadian syllabics mi",
+    "ipa": ""
+  },
+  {
+    "label": "ᒦ",
+    "meta": "canadian syllabics mii",
+    "ipa": ""
+  },
+  {
+    "label": "ᒧ",
+    "meta": "canadian syllabics mo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒨ",
+    "meta": "canadian syllabics moo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒩ",
+    "meta": "canadian syllabics y-cree moo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒪ",
+    "meta": "canadian syllabics ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᒫ",
+    "meta": "canadian syllabics maa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒬ",
+    "meta": "canadian syllabics mwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᒭ",
+    "meta": "canadian syllabics west-cree mwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᒮ",
+    "meta": "canadian syllabics mwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᒯ",
+    "meta": "canadian syllabics west-cree mwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᒰ",
+    "meta": "canadian syllabics mwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᒱ",
+    "meta": "canadian syllabics west-cree mwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᒲ",
+    "meta": "canadian syllabics mwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒳ",
+    "meta": "canadian syllabics west-cree mwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒴ",
+    "meta": "canadian syllabics mwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒵ",
+    "meta": "canadian syllabics west-cree mwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᒶ",
+    "meta": "canadian syllabics mwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒷ",
+    "meta": "canadian syllabics west-cree mwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒸ",
+    "meta": "canadian syllabics mwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒹ",
+    "meta": "canadian syllabics west-cree mwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒺ",
+    "meta": "canadian syllabics naskapi mwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᒻ",
+    "meta": "canadian syllabics m",
+    "ipa": ""
+  },
+  {
+    "label": "ᒼ",
+    "meta": "canadian syllabics west-cree m",
+    "ipa": ""
+  },
+  {
+    "label": "ᒽ",
+    "meta": "canadian syllabics mh",
+    "ipa": ""
+  },
+  {
+    "label": "ᒾ",
+    "meta": "canadian syllabics athapascan m",
+    "ipa": ""
+  },
+  {
+    "label": "ᒿ",
+    "meta": "canadian syllabics sayisi m",
+    "ipa": ""
+  },
+  {
+    "label": "ᓀ",
+    "meta": "canadian syllabics ne",
+    "ipa": ""
+  },
+  {
+    "label": "ᓁ",
+    "meta": "canadian syllabics naai",
+    "ipa": ""
+  },
+  {
+    "label": "ᓂ",
+    "meta": "canadian syllabics ni",
+    "ipa": ""
+  },
+  {
+    "label": "ᓃ",
+    "meta": "canadian syllabics nii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓄ",
+    "meta": "canadian syllabics no",
+    "ipa": ""
+  },
+  {
+    "label": "ᓅ",
+    "meta": "canadian syllabics noo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓆ",
+    "meta": "canadian syllabics y-cree noo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓇ",
+    "meta": "canadian syllabics na",
+    "ipa": ""
+  },
+  {
+    "label": "ᓈ",
+    "meta": "canadian syllabics naa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓉ",
+    "meta": "canadian syllabics nwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᓊ",
+    "meta": "canadian syllabics west-cree nwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᓋ",
+    "meta": "canadian syllabics nwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓌ",
+    "meta": "canadian syllabics west-cree nwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓍ",
+    "meta": "canadian syllabics nwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓎ",
+    "meta": "canadian syllabics west-cree nwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓏ",
+    "meta": "canadian syllabics naskapi nwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓐ",
+    "meta": "canadian syllabics n",
+    "ipa": ""
+  },
+  {
+    "label": "ᓑ",
+    "meta": "canadian syllabics carrier ng",
+    "ipa": ""
+  },
+  {
+    "label": "ᓒ",
+    "meta": "canadian syllabics nh",
+    "ipa": ""
+  },
+  {
+    "label": "ᓓ",
+    "meta": "canadian syllabics le",
+    "ipa": ""
+  },
+  {
+    "label": "ᓔ",
+    "meta": "canadian syllabics laai",
+    "ipa": ""
+  },
+  {
+    "label": "ᓕ",
+    "meta": "canadian syllabics li",
+    "ipa": ""
+  },
+  {
+    "label": "ᓖ",
+    "meta": "canadian syllabics lii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓗ",
+    "meta": "canadian syllabics lo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓘ",
+    "meta": "canadian syllabics loo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓙ",
+    "meta": "canadian syllabics y-cree loo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓚ",
+    "meta": "canadian syllabics la",
+    "ipa": ""
+  },
+  {
+    "label": "ᓛ",
+    "meta": "canadian syllabics laa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓜ",
+    "meta": "canadian syllabics lwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᓝ",
+    "meta": "canadian syllabics west-cree lwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᓞ",
+    "meta": "canadian syllabics lwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᓟ",
+    "meta": "canadian syllabics west-cree lwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᓠ",
+    "meta": "canadian syllabics lwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓡ",
+    "meta": "canadian syllabics west-cree lwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓢ",
+    "meta": "canadian syllabics lwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓣ",
+    "meta": "canadian syllabics west-cree lwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓤ",
+    "meta": "canadian syllabics lwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓥ",
+    "meta": "canadian syllabics west-cree lwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓦ",
+    "meta": "canadian syllabics lwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓧ",
+    "meta": "canadian syllabics west-cree lwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓨ",
+    "meta": "canadian syllabics lwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓩ",
+    "meta": "canadian syllabics west-cree lwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓪ",
+    "meta": "canadian syllabics l",
+    "ipa": ""
+  },
+  {
+    "label": "ᓫ",
+    "meta": "canadian syllabics west-cree l",
+    "ipa": ""
+  },
+  {
+    "label": "ᓬ",
+    "meta": "canadian syllabics medial l",
+    "ipa": ""
+  },
+  {
+    "label": "ᓭ",
+    "meta": "canadian syllabics se",
+    "ipa": ""
+  },
+  {
+    "label": "ᓮ",
+    "meta": "canadian syllabics saai",
+    "ipa": ""
+  },
+  {
+    "label": "ᓯ",
+    "meta": "canadian syllabics si",
+    "ipa": ""
+  },
+  {
+    "label": "ᓰ",
+    "meta": "canadian syllabics sii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓱ",
+    "meta": "canadian syllabics so",
+    "ipa": ""
+  },
+  {
+    "label": "ᓲ",
+    "meta": "canadian syllabics soo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓳ",
+    "meta": "canadian syllabics y-cree soo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓴ",
+    "meta": "canadian syllabics sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓵ",
+    "meta": "canadian syllabics saa",
+    "ipa": ""
+  },
+  {
+    "label": "ᓶ",
+    "meta": "canadian syllabics swe",
+    "ipa": ""
+  },
+  {
+    "label": "ᓷ",
+    "meta": "canadian syllabics west-cree swe",
+    "ipa": ""
+  },
+  {
+    "label": "ᓸ",
+    "meta": "canadian syllabics swi",
+    "ipa": ""
+  },
+  {
+    "label": "ᓹ",
+    "meta": "canadian syllabics west-cree swi",
+    "ipa": ""
+  },
+  {
+    "label": "ᓺ",
+    "meta": "canadian syllabics swii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓻ",
+    "meta": "canadian syllabics west-cree swii",
+    "ipa": ""
+  },
+  {
+    "label": "ᓼ",
+    "meta": "canadian syllabics swo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓽ",
+    "meta": "canadian syllabics west-cree swo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓾ",
+    "meta": "canadian syllabics swoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᓿ",
+    "meta": "canadian syllabics west-cree swoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔀ",
+    "meta": "canadian syllabics swa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔁ",
+    "meta": "canadian syllabics west-cree swa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔂ",
+    "meta": "canadian syllabics swaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔃ",
+    "meta": "canadian syllabics west-cree swaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔄ",
+    "meta": "canadian syllabics naskapi swaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔅ",
+    "meta": "canadian syllabics s",
+    "ipa": ""
+  },
+  {
+    "label": "ᔆ",
+    "meta": "canadian syllabics athapascan s",
+    "ipa": ""
+  },
+  {
+    "label": "ᔇ",
+    "meta": "canadian syllabics sw",
+    "ipa": ""
+  },
+  {
+    "label": "ᔈ",
+    "meta": "canadian syllabics blackfoot s",
+    "ipa": ""
+  },
+  {
+    "label": "ᔉ",
+    "meta": "canadian syllabics moose-cree sk",
+    "ipa": ""
+  },
+  {
+    "label": "ᔊ",
+    "meta": "canadian syllabics naskapi skw",
+    "ipa": ""
+  },
+  {
+    "label": "ᔋ",
+    "meta": "canadian syllabics naskapi s-w",
+    "ipa": ""
+  },
+  {
+    "label": "ᔌ",
+    "meta": "canadian syllabics naskapi spwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔍ",
+    "meta": "canadian syllabics naskapi stwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔎ",
+    "meta": "canadian syllabics naskapi skwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔏ",
+    "meta": "canadian syllabics naskapi scwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔐ",
+    "meta": "canadian syllabics she",
+    "ipa": ""
+  },
+  {
+    "label": "ᔑ",
+    "meta": "canadian syllabics shi",
+    "ipa": ""
+  },
+  {
+    "label": "ᔒ",
+    "meta": "canadian syllabics shii",
+    "ipa": ""
+  },
+  {
+    "label": "ᔓ",
+    "meta": "canadian syllabics sho",
+    "ipa": ""
+  },
+  {
+    "label": "ᔔ",
+    "meta": "canadian syllabics shoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔕ",
+    "meta": "canadian syllabics sha",
+    "ipa": ""
+  },
+  {
+    "label": "ᔖ",
+    "meta": "canadian syllabics shaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔗ",
+    "meta": "canadian syllabics shwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᔘ",
+    "meta": "canadian syllabics west-cree shwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᔙ",
+    "meta": "canadian syllabics shwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᔚ",
+    "meta": "canadian syllabics west-cree shwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᔛ",
+    "meta": "canadian syllabics shwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᔜ",
+    "meta": "canadian syllabics west-cree shwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᔝ",
+    "meta": "canadian syllabics shwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔞ",
+    "meta": "canadian syllabics west-cree shwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔟ",
+    "meta": "canadian syllabics shwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔠ",
+    "meta": "canadian syllabics west-cree shwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔡ",
+    "meta": "canadian syllabics shwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔢ",
+    "meta": "canadian syllabics west-cree shwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔣ",
+    "meta": "canadian syllabics shwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔤ",
+    "meta": "canadian syllabics west-cree shwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔥ",
+    "meta": "canadian syllabics sh",
+    "ipa": ""
+  },
+  {
+    "label": "ᔦ",
+    "meta": "canadian syllabics ye",
+    "ipa": ""
+  },
+  {
+    "label": "ᔧ",
+    "meta": "canadian syllabics yaai",
+    "ipa": ""
+  },
+  {
+    "label": "ᔨ",
+    "meta": "canadian syllabics yi",
+    "ipa": ""
+  },
+  {
+    "label": "ᔩ",
+    "meta": "canadian syllabics yii",
+    "ipa": ""
+  },
+  {
+    "label": "ᔪ",
+    "meta": "canadian syllabics yo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔫ",
+    "meta": "canadian syllabics yoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔬ",
+    "meta": "canadian syllabics y-cree yoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔭ",
+    "meta": "canadian syllabics ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᔮ",
+    "meta": "canadian syllabics yaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔯ",
+    "meta": "canadian syllabics ywe",
+    "ipa": ""
+  },
+  {
+    "label": "ᔰ",
+    "meta": "canadian syllabics west-cree ywe",
+    "ipa": ""
+  },
+  {
+    "label": "ᔱ",
+    "meta": "canadian syllabics ywi",
+    "ipa": ""
+  },
+  {
+    "label": "ᔲ",
+    "meta": "canadian syllabics west-cree ywi",
+    "ipa": ""
+  },
+  {
+    "label": "ᔳ",
+    "meta": "canadian syllabics ywii",
+    "ipa": ""
+  },
+  {
+    "label": "ᔴ",
+    "meta": "canadian syllabics west-cree ywii",
+    "ipa": ""
+  },
+  {
+    "label": "ᔵ",
+    "meta": "canadian syllabics ywo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔶ",
+    "meta": "canadian syllabics west-cree ywo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔷ",
+    "meta": "canadian syllabics ywoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔸ",
+    "meta": "canadian syllabics west-cree ywoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᔹ",
+    "meta": "canadian syllabics ywa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔺ",
+    "meta": "canadian syllabics west-cree ywa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔻ",
+    "meta": "canadian syllabics ywaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔼ",
+    "meta": "canadian syllabics west-cree ywaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔽ",
+    "meta": "canadian syllabics naskapi ywaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᔾ",
+    "meta": "canadian syllabics y",
+    "ipa": ""
+  },
+  {
+    "label": "ᔿ",
+    "meta": "canadian syllabics bible-cree y",
+    "ipa": ""
+  },
+  {
+    "label": "ᕀ",
+    "meta": "canadian syllabics west-cree y",
+    "ipa": ""
+  },
+  {
+    "label": "ᕁ",
+    "meta": "canadian syllabics sayisi yi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕂ",
+    "meta": "canadian syllabics re",
+    "ipa": ""
+  },
+  {
+    "label": "ᕃ",
+    "meta": "canadian syllabics r-cree re",
+    "ipa": ""
+  },
+  {
+    "label": "ᕄ",
+    "meta": "canadian syllabics west-cree le",
+    "ipa": ""
+  },
+  {
+    "label": "ᕅ",
+    "meta": "canadian syllabics raai",
+    "ipa": ""
+  },
+  {
+    "label": "ᕆ",
+    "meta": "canadian syllabics ri",
+    "ipa": ""
+  },
+  {
+    "label": "ᕇ",
+    "meta": "canadian syllabics rii",
+    "ipa": ""
+  },
+  {
+    "label": "ᕈ",
+    "meta": "canadian syllabics ro",
+    "ipa": ""
+  },
+  {
+    "label": "ᕉ",
+    "meta": "canadian syllabics roo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕊ",
+    "meta": "canadian syllabics west-cree lo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕋ",
+    "meta": "canadian syllabics ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᕌ",
+    "meta": "canadian syllabics raa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕍ",
+    "meta": "canadian syllabics west-cree la",
+    "ipa": ""
+  },
+  {
+    "label": "ᕎ",
+    "meta": "canadian syllabics rwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕏ",
+    "meta": "canadian syllabics west-cree rwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕐ",
+    "meta": "canadian syllabics r",
+    "ipa": ""
+  },
+  {
+    "label": "ᕑ",
+    "meta": "canadian syllabics west-cree r",
+    "ipa": ""
+  },
+  {
+    "label": "ᕒ",
+    "meta": "canadian syllabics medial r",
+    "ipa": ""
+  },
+  {
+    "label": "ᕓ",
+    "meta": "canadian syllabics fe",
+    "ipa": ""
+  },
+  {
+    "label": "ᕔ",
+    "meta": "canadian syllabics faai",
+    "ipa": ""
+  },
+  {
+    "label": "ᕕ",
+    "meta": "canadian syllabics fi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕖ",
+    "meta": "canadian syllabics fii",
+    "ipa": ""
+  },
+  {
+    "label": "ᕗ",
+    "meta": "canadian syllabics fo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕘ",
+    "meta": "canadian syllabics foo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕙ",
+    "meta": "canadian syllabics fa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕚ",
+    "meta": "canadian syllabics faa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕛ",
+    "meta": "canadian syllabics fwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕜ",
+    "meta": "canadian syllabics west-cree fwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕝ",
+    "meta": "canadian syllabics f",
+    "ipa": ""
+  },
+  {
+    "label": "ᕞ",
+    "meta": "canadian syllabics the",
+    "ipa": ""
+  },
+  {
+    "label": "ᕟ",
+    "meta": "canadian syllabics n-cree the",
+    "ipa": ""
+  },
+  {
+    "label": "ᕠ",
+    "meta": "canadian syllabics thi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕡ",
+    "meta": "canadian syllabics n-cree thi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕢ",
+    "meta": "canadian syllabics thii",
+    "ipa": ""
+  },
+  {
+    "label": "ᕣ",
+    "meta": "canadian syllabics n-cree thii",
+    "ipa": ""
+  },
+  {
+    "label": "ᕤ",
+    "meta": "canadian syllabics tho",
+    "ipa": ""
+  },
+  {
+    "label": "ᕥ",
+    "meta": "canadian syllabics thoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕦ",
+    "meta": "canadian syllabics tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᕧ",
+    "meta": "canadian syllabics thaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕨ",
+    "meta": "canadian syllabics thwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕩ",
+    "meta": "canadian syllabics west-cree thwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕪ",
+    "meta": "canadian syllabics th",
+    "ipa": ""
+  },
+  {
+    "label": "ᕫ",
+    "meta": "canadian syllabics tthe",
+    "ipa": ""
+  },
+  {
+    "label": "ᕬ",
+    "meta": "canadian syllabics tthi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕭ",
+    "meta": "canadian syllabics ttho",
+    "ipa": ""
+  },
+  {
+    "label": "ᕮ",
+    "meta": "canadian syllabics ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ᕯ",
+    "meta": "canadian syllabics tth",
+    "ipa": ""
+  },
+  {
+    "label": "ᕰ",
+    "meta": "canadian syllabics tye",
+    "ipa": ""
+  },
+  {
+    "label": "ᕱ",
+    "meta": "canadian syllabics tyi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕲ",
+    "meta": "canadian syllabics tyo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕳ",
+    "meta": "canadian syllabics tya",
+    "ipa": ""
+  },
+  {
+    "label": "ᕴ",
+    "meta": "canadian syllabics nunavik he",
+    "ipa": ""
+  },
+  {
+    "label": "ᕵ",
+    "meta": "canadian syllabics nunavik hi",
+    "ipa": ""
+  },
+  {
+    "label": "ᕶ",
+    "meta": "canadian syllabics nunavik hii",
+    "ipa": ""
+  },
+  {
+    "label": "ᕷ",
+    "meta": "canadian syllabics nunavik ho",
+    "ipa": ""
+  },
+  {
+    "label": "ᕸ",
+    "meta": "canadian syllabics nunavik hoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᕹ",
+    "meta": "canadian syllabics nunavik ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᕺ",
+    "meta": "canadian syllabics nunavik haa",
+    "ipa": ""
+  },
+  {
+    "label": "ᕻ",
+    "meta": "canadian syllabics nunavik h",
+    "ipa": ""
+  },
+  {
+    "label": "ᕼ",
+    "meta": "canadian syllabics nunavut h",
+    "ipa": ""
+  },
+  {
+    "label": "ᕽ",
+    "meta": "canadian syllabics hk",
+    "ipa": ""
+  },
+  {
+    "label": "ᕾ",
+    "meta": "canadian syllabics qaai",
+    "ipa": ""
+  },
+  {
+    "label": "ᕿ",
+    "meta": "canadian syllabics qi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖀ",
+    "meta": "canadian syllabics qii",
+    "ipa": ""
+  },
+  {
+    "label": "ᖁ",
+    "meta": "canadian syllabics qo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖂ",
+    "meta": "canadian syllabics qoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖃ",
+    "meta": "canadian syllabics qa",
+    "ipa": ""
+  },
+  {
+    "label": "ᖄ",
+    "meta": "canadian syllabics qaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᖅ",
+    "meta": "canadian syllabics q",
+    "ipa": ""
+  },
+  {
+    "label": "ᖆ",
+    "meta": "canadian syllabics tlhe",
+    "ipa": ""
+  },
+  {
+    "label": "ᖇ",
+    "meta": "canadian syllabics tlhi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖈ",
+    "meta": "canadian syllabics tlho",
+    "ipa": ""
+  },
+  {
+    "label": "ᖉ",
+    "meta": "canadian syllabics tlha",
+    "ipa": ""
+  },
+  {
+    "label": "ᖊ",
+    "meta": "canadian syllabics west-cree re",
+    "ipa": ""
+  },
+  {
+    "label": "ᖋ",
+    "meta": "canadian syllabics west-cree ri",
+    "ipa": ""
+  },
+  {
+    "label": "ᖌ",
+    "meta": "canadian syllabics west-cree ro",
+    "ipa": ""
+  },
+  {
+    "label": "ᖍ",
+    "meta": "canadian syllabics west-cree ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᖎ",
+    "meta": "canadian syllabics ngaai",
+    "ipa": ""
+  },
+  {
+    "label": "ᖏ",
+    "meta": "canadian syllabics ngi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖐ",
+    "meta": "canadian syllabics ngii",
+    "ipa": ""
+  },
+  {
+    "label": "ᖑ",
+    "meta": "canadian syllabics ngo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖒ",
+    "meta": "canadian syllabics ngoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖓ",
+    "meta": "canadian syllabics nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᖔ",
+    "meta": "canadian syllabics ngaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᖕ",
+    "meta": "canadian syllabics ng",
+    "ipa": ""
+  },
+  {
+    "label": "ᖖ",
+    "meta": "canadian syllabics nng",
+    "ipa": ""
+  },
+  {
+    "label": "ᖗ",
+    "meta": "canadian syllabics sayisi she",
+    "ipa": ""
+  },
+  {
+    "label": "ᖘ",
+    "meta": "canadian syllabics sayisi shi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖙ",
+    "meta": "canadian syllabics sayisi sho",
+    "ipa": ""
+  },
+  {
+    "label": "ᖚ",
+    "meta": "canadian syllabics sayisi sha",
+    "ipa": ""
+  },
+  {
+    "label": "ᖛ",
+    "meta": "canadian syllabics woods-cree the",
+    "ipa": ""
+  },
+  {
+    "label": "ᖜ",
+    "meta": "canadian syllabics woods-cree thi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖝ",
+    "meta": "canadian syllabics woods-cree tho",
+    "ipa": ""
+  },
+  {
+    "label": "ᖞ",
+    "meta": "canadian syllabics woods-cree tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᖟ",
+    "meta": "canadian syllabics woods-cree th",
+    "ipa": ""
+  },
+  {
+    "label": "ᖠ",
+    "meta": "canadian syllabics lhi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖡ",
+    "meta": "canadian syllabics lhii",
+    "ipa": ""
+  },
+  {
+    "label": "ᖢ",
+    "meta": "canadian syllabics lho",
+    "ipa": ""
+  },
+  {
+    "label": "ᖣ",
+    "meta": "canadian syllabics lhoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖤ",
+    "meta": "canadian syllabics lha",
+    "ipa": ""
+  },
+  {
+    "label": "ᖥ",
+    "meta": "canadian syllabics lhaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᖦ",
+    "meta": "canadian syllabics lh",
+    "ipa": ""
+  },
+  {
+    "label": "ᖧ",
+    "meta": "canadian syllabics th-cree the",
+    "ipa": ""
+  },
+  {
+    "label": "ᖨ",
+    "meta": "canadian syllabics th-cree thi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖩ",
+    "meta": "canadian syllabics th-cree thii",
+    "ipa": ""
+  },
+  {
+    "label": "ᖪ",
+    "meta": "canadian syllabics th-cree tho",
+    "ipa": ""
+  },
+  {
+    "label": "ᖫ",
+    "meta": "canadian syllabics th-cree thoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖬ",
+    "meta": "canadian syllabics th-cree tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᖭ",
+    "meta": "canadian syllabics th-cree thaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᖮ",
+    "meta": "canadian syllabics th-cree th",
+    "ipa": ""
+  },
+  {
+    "label": "ᖯ",
+    "meta": "canadian syllabics aivilik b",
+    "ipa": ""
+  },
+  {
+    "label": "ᖰ",
+    "meta": "canadian syllabics blackfoot e",
+    "ipa": ""
+  },
+  {
+    "label": "ᖱ",
+    "meta": "canadian syllabics blackfoot i",
+    "ipa": ""
+  },
+  {
+    "label": "ᖲ",
+    "meta": "canadian syllabics blackfoot o",
+    "ipa": ""
+  },
+  {
+    "label": "ᖳ",
+    "meta": "canadian syllabics blackfoot a",
+    "ipa": ""
+  },
+  {
+    "label": "ᖴ",
+    "meta": "canadian syllabics blackfoot we",
+    "ipa": ""
+  },
+  {
+    "label": "ᖵ",
+    "meta": "canadian syllabics blackfoot wi",
+    "ipa": ""
+  },
+  {
+    "label": "ᖶ",
+    "meta": "canadian syllabics blackfoot wo",
+    "ipa": ""
+  },
+  {
+    "label": "ᖷ",
+    "meta": "canadian syllabics blackfoot wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᖸ",
+    "meta": "canadian syllabics blackfoot ne",
+    "ipa": ""
+  },
+  {
+    "label": "ᖹ",
+    "meta": "canadian syllabics blackfoot ni",
+    "ipa": ""
+  },
+  {
+    "label": "ᖺ",
+    "meta": "canadian syllabics blackfoot no",
+    "ipa": ""
+  },
+  {
+    "label": "ᖻ",
+    "meta": "canadian syllabics blackfoot na",
+    "ipa": ""
+  },
+  {
+    "label": "ᖼ",
+    "meta": "canadian syllabics blackfoot ke",
+    "ipa": ""
+  },
+  {
+    "label": "ᖽ",
+    "meta": "canadian syllabics blackfoot ki",
+    "ipa": ""
+  },
+  {
+    "label": "ᖾ",
+    "meta": "canadian syllabics blackfoot ko",
+    "ipa": ""
+  },
+  {
+    "label": "ᖿ",
+    "meta": "canadian syllabics blackfoot ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᗀ",
+    "meta": "canadian syllabics sayisi he",
+    "ipa": ""
+  },
+  {
+    "label": "ᗁ",
+    "meta": "canadian syllabics sayisi hi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗂ",
+    "meta": "canadian syllabics sayisi ho",
+    "ipa": ""
+  },
+  {
+    "label": "ᗃ",
+    "meta": "canadian syllabics sayisi ha",
+    "ipa": ""
+  },
+  {
+    "label": "ᗄ",
+    "meta": "canadian syllabics carrier ghu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗅ",
+    "meta": "canadian syllabics carrier gho",
+    "ipa": ""
+  },
+  {
+    "label": "ᗆ",
+    "meta": "canadian syllabics carrier ghe",
+    "ipa": ""
+  },
+  {
+    "label": "ᗇ",
+    "meta": "canadian syllabics carrier ghee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗈ",
+    "meta": "canadian syllabics carrier ghi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗉ",
+    "meta": "canadian syllabics carrier gha",
+    "ipa": ""
+  },
+  {
+    "label": "ᗊ",
+    "meta": "canadian syllabics carrier ru",
+    "ipa": ""
+  },
+  {
+    "label": "ᗋ",
+    "meta": "canadian syllabics carrier ro",
+    "ipa": ""
+  },
+  {
+    "label": "ᗌ",
+    "meta": "canadian syllabics carrier re",
+    "ipa": ""
+  },
+  {
+    "label": "ᗍ",
+    "meta": "canadian syllabics carrier ree",
+    "ipa": ""
+  },
+  {
+    "label": "ᗎ",
+    "meta": "canadian syllabics carrier ri",
+    "ipa": ""
+  },
+  {
+    "label": "ᗏ",
+    "meta": "canadian syllabics carrier ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᗐ",
+    "meta": "canadian syllabics carrier wu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗑ",
+    "meta": "canadian syllabics carrier wo",
+    "ipa": ""
+  },
+  {
+    "label": "ᗒ",
+    "meta": "canadian syllabics carrier we",
+    "ipa": ""
+  },
+  {
+    "label": "ᗓ",
+    "meta": "canadian syllabics carrier wee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗔ",
+    "meta": "canadian syllabics carrier wi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗕ",
+    "meta": "canadian syllabics carrier wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᗖ",
+    "meta": "canadian syllabics carrier hwu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗗ",
+    "meta": "canadian syllabics carrier hwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᗘ",
+    "meta": "canadian syllabics carrier hwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᗙ",
+    "meta": "canadian syllabics carrier hwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗚ",
+    "meta": "canadian syllabics carrier hwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗛ",
+    "meta": "canadian syllabics carrier hwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᗜ",
+    "meta": "canadian syllabics carrier thu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗝ",
+    "meta": "canadian syllabics carrier tho",
+    "ipa": ""
+  },
+  {
+    "label": "ᗞ",
+    "meta": "canadian syllabics carrier the",
+    "ipa": ""
+  },
+  {
+    "label": "ᗟ",
+    "meta": "canadian syllabics carrier thee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗠ",
+    "meta": "canadian syllabics carrier thi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗡ",
+    "meta": "canadian syllabics carrier tha",
+    "ipa": ""
+  },
+  {
+    "label": "ᗢ",
+    "meta": "canadian syllabics carrier ttu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗣ",
+    "meta": "canadian syllabics carrier tto",
+    "ipa": ""
+  },
+  {
+    "label": "ᗤ",
+    "meta": "canadian syllabics carrier tte",
+    "ipa": ""
+  },
+  {
+    "label": "ᗥ",
+    "meta": "canadian syllabics carrier ttee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗦ",
+    "meta": "canadian syllabics carrier tti",
+    "ipa": ""
+  },
+  {
+    "label": "ᗧ",
+    "meta": "canadian syllabics carrier tta",
+    "ipa": ""
+  },
+  {
+    "label": "ᗨ",
+    "meta": "canadian syllabics carrier pu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗩ",
+    "meta": "canadian syllabics carrier po",
+    "ipa": ""
+  },
+  {
+    "label": "ᗪ",
+    "meta": "canadian syllabics carrier pe",
+    "ipa": ""
+  },
+  {
+    "label": "ᗫ",
+    "meta": "canadian syllabics carrier pee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗬ",
+    "meta": "canadian syllabics carrier pi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗭ",
+    "meta": "canadian syllabics carrier pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᗮ",
+    "meta": "canadian syllabics carrier p",
+    "ipa": ""
+  },
+  {
+    "label": "ᗯ",
+    "meta": "canadian syllabics carrier gu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗰ",
+    "meta": "canadian syllabics carrier go",
+    "ipa": ""
+  },
+  {
+    "label": "ᗱ",
+    "meta": "canadian syllabics carrier ge",
+    "ipa": ""
+  },
+  {
+    "label": "ᗲ",
+    "meta": "canadian syllabics carrier gee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗳ",
+    "meta": "canadian syllabics carrier gi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗴ",
+    "meta": "canadian syllabics carrier ga",
+    "ipa": ""
+  },
+  {
+    "label": "ᗵ",
+    "meta": "canadian syllabics carrier khu",
+    "ipa": ""
+  },
+  {
+    "label": "ᗶ",
+    "meta": "canadian syllabics carrier kho",
+    "ipa": ""
+  },
+  {
+    "label": "ᗷ",
+    "meta": "canadian syllabics carrier khe",
+    "ipa": ""
+  },
+  {
+    "label": "ᗸ",
+    "meta": "canadian syllabics carrier khee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗹ",
+    "meta": "canadian syllabics carrier khi",
+    "ipa": ""
+  },
+  {
+    "label": "ᗺ",
+    "meta": "canadian syllabics carrier kha",
+    "ipa": ""
+  },
+  {
+    "label": "ᗻ",
+    "meta": "canadian syllabics carrier kku",
+    "ipa": ""
+  },
+  {
+    "label": "ᗼ",
+    "meta": "canadian syllabics carrier kko",
+    "ipa": ""
+  },
+  {
+    "label": "ᗽ",
+    "meta": "canadian syllabics carrier kke",
+    "ipa": ""
+  },
+  {
+    "label": "ᗾ",
+    "meta": "canadian syllabics carrier kkee",
+    "ipa": ""
+  },
+  {
+    "label": "ᗿ",
+    "meta": "canadian syllabics carrier kki",
+    "ipa": ""
+  },
+  {
+    "label": "ᘀ",
+    "meta": "canadian syllabics carrier kka",
+    "ipa": ""
+  },
+  {
+    "label": "ᘁ",
+    "meta": "canadian syllabics carrier kk",
+    "ipa": ""
+  },
+  {
+    "label": "ᘂ",
+    "meta": "canadian syllabics carrier nu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘃ",
+    "meta": "canadian syllabics carrier no",
+    "ipa": ""
+  },
+  {
+    "label": "ᘄ",
+    "meta": "canadian syllabics carrier ne",
+    "ipa": ""
+  },
+  {
+    "label": "ᘅ",
+    "meta": "canadian syllabics carrier nee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘆ",
+    "meta": "canadian syllabics carrier ni",
+    "ipa": ""
+  },
+  {
+    "label": "ᘇ",
+    "meta": "canadian syllabics carrier na",
+    "ipa": ""
+  },
+  {
+    "label": "ᘈ",
+    "meta": "canadian syllabics carrier mu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘉ",
+    "meta": "canadian syllabics carrier mo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘊ",
+    "meta": "canadian syllabics carrier me",
+    "ipa": ""
+  },
+  {
+    "label": "ᘋ",
+    "meta": "canadian syllabics carrier mee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘌ",
+    "meta": "canadian syllabics carrier mi",
+    "ipa": ""
+  },
+  {
+    "label": "ᘍ",
+    "meta": "canadian syllabics carrier ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᘎ",
+    "meta": "canadian syllabics carrier yu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘏ",
+    "meta": "canadian syllabics carrier yo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘐ",
+    "meta": "canadian syllabics carrier ye",
+    "ipa": ""
+  },
+  {
+    "label": "ᘑ",
+    "meta": "canadian syllabics carrier yee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘒ",
+    "meta": "canadian syllabics carrier yi",
+    "ipa": ""
+  },
+  {
+    "label": "ᘓ",
+    "meta": "canadian syllabics carrier ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᘔ",
+    "meta": "canadian syllabics carrier ju",
+    "ipa": ""
+  },
+  {
+    "label": "ᘕ",
+    "meta": "canadian syllabics sayisi ju",
+    "ipa": ""
+  },
+  {
+    "label": "ᘖ",
+    "meta": "canadian syllabics carrier jo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘗ",
+    "meta": "canadian syllabics carrier je",
+    "ipa": ""
+  },
+  {
+    "label": "ᘘ",
+    "meta": "canadian syllabics carrier jee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘙ",
+    "meta": "canadian syllabics carrier ji",
+    "ipa": ""
+  },
+  {
+    "label": "ᘚ",
+    "meta": "canadian syllabics sayisi ji",
+    "ipa": ""
+  },
+  {
+    "label": "ᘛ",
+    "meta": "canadian syllabics carrier ja",
+    "ipa": ""
+  },
+  {
+    "label": "ᘜ",
+    "meta": "canadian syllabics carrier jju",
+    "ipa": ""
+  },
+  {
+    "label": "ᘝ",
+    "meta": "canadian syllabics carrier jjo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘞ",
+    "meta": "canadian syllabics carrier jje",
+    "ipa": ""
+  },
+  {
+    "label": "ᘟ",
+    "meta": "canadian syllabics carrier jjee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘠ",
+    "meta": "canadian syllabics carrier jji",
+    "ipa": ""
+  },
+  {
+    "label": "ᘡ",
+    "meta": "canadian syllabics carrier jja",
+    "ipa": ""
+  },
+  {
+    "label": "ᘢ",
+    "meta": "canadian syllabics carrier lu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘣ",
+    "meta": "canadian syllabics carrier lo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘤ",
+    "meta": "canadian syllabics carrier le",
+    "ipa": ""
+  },
+  {
+    "label": "ᘥ",
+    "meta": "canadian syllabics carrier lee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘦ",
+    "meta": "canadian syllabics carrier li",
+    "ipa": ""
+  },
+  {
+    "label": "ᘧ",
+    "meta": "canadian syllabics carrier la",
+    "ipa": ""
+  },
+  {
+    "label": "ᘨ",
+    "meta": "canadian syllabics carrier dlu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘩ",
+    "meta": "canadian syllabics carrier dlo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘪ",
+    "meta": "canadian syllabics carrier dle",
+    "ipa": ""
+  },
+  {
+    "label": "ᘫ",
+    "meta": "canadian syllabics carrier dlee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘬ",
+    "meta": "canadian syllabics carrier dli",
+    "ipa": ""
+  },
+  {
+    "label": "ᘭ",
+    "meta": "canadian syllabics carrier dla",
+    "ipa": ""
+  },
+  {
+    "label": "ᘮ",
+    "meta": "canadian syllabics carrier lhu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘯ",
+    "meta": "canadian syllabics carrier lho",
+    "ipa": ""
+  },
+  {
+    "label": "ᘰ",
+    "meta": "canadian syllabics carrier lhe",
+    "ipa": ""
+  },
+  {
+    "label": "ᘱ",
+    "meta": "canadian syllabics carrier lhee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘲ",
+    "meta": "canadian syllabics carrier lhi",
+    "ipa": ""
+  },
+  {
+    "label": "ᘳ",
+    "meta": "canadian syllabics carrier lha",
+    "ipa": ""
+  },
+  {
+    "label": "ᘴ",
+    "meta": "canadian syllabics carrier tlhu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘵ",
+    "meta": "canadian syllabics carrier tlho",
+    "ipa": ""
+  },
+  {
+    "label": "ᘶ",
+    "meta": "canadian syllabics carrier tlhe",
+    "ipa": ""
+  },
+  {
+    "label": "ᘷ",
+    "meta": "canadian syllabics carrier tlhee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘸ",
+    "meta": "canadian syllabics carrier tlhi",
+    "ipa": ""
+  },
+  {
+    "label": "ᘹ",
+    "meta": "canadian syllabics carrier tlha",
+    "ipa": ""
+  },
+  {
+    "label": "ᘺ",
+    "meta": "canadian syllabics carrier tlu",
+    "ipa": ""
+  },
+  {
+    "label": "ᘻ",
+    "meta": "canadian syllabics carrier tlo",
+    "ipa": ""
+  },
+  {
+    "label": "ᘼ",
+    "meta": "canadian syllabics carrier tle",
+    "ipa": ""
+  },
+  {
+    "label": "ᘽ",
+    "meta": "canadian syllabics carrier tlee",
+    "ipa": ""
+  },
+  {
+    "label": "ᘾ",
+    "meta": "canadian syllabics carrier tli",
+    "ipa": ""
+  },
+  {
+    "label": "ᘿ",
+    "meta": "canadian syllabics carrier tla",
+    "ipa": ""
+  },
+  {
+    "label": "ᙀ",
+    "meta": "canadian syllabics carrier zu",
+    "ipa": ""
+  },
+  {
+    "label": "ᙁ",
+    "meta": "canadian syllabics carrier zo",
+    "ipa": ""
+  },
+  {
+    "label": "ᙂ",
+    "meta": "canadian syllabics carrier ze",
+    "ipa": ""
+  },
+  {
+    "label": "ᙃ",
+    "meta": "canadian syllabics carrier zee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙄ",
+    "meta": "canadian syllabics carrier zi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙅ",
+    "meta": "canadian syllabics carrier za",
+    "ipa": ""
+  },
+  {
+    "label": "ᙆ",
+    "meta": "canadian syllabics carrier z",
+    "ipa": ""
+  },
+  {
+    "label": "ᙇ",
+    "meta": "canadian syllabics carrier initial z",
+    "ipa": ""
+  },
+  {
+    "label": "ᙈ",
+    "meta": "canadian syllabics carrier dzu",
+    "ipa": ""
+  },
+  {
+    "label": "ᙉ",
+    "meta": "canadian syllabics carrier dzo",
+    "ipa": ""
+  },
+  {
+    "label": "ᙊ",
+    "meta": "canadian syllabics carrier dze",
+    "ipa": ""
+  },
+  {
+    "label": "ᙋ",
+    "meta": "canadian syllabics carrier dzee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙌ",
+    "meta": "canadian syllabics carrier dzi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙍ",
+    "meta": "canadian syllabics carrier dza",
+    "ipa": ""
+  },
+  {
+    "label": "ᙎ",
+    "meta": "canadian syllabics carrier su",
+    "ipa": ""
+  },
+  {
+    "label": "ᙏ",
+    "meta": "canadian syllabics carrier so",
+    "ipa": ""
+  },
+  {
+    "label": "ᙐ",
+    "meta": "canadian syllabics carrier se",
+    "ipa": ""
+  },
+  {
+    "label": "ᙑ",
+    "meta": "canadian syllabics carrier see",
+    "ipa": ""
+  },
+  {
+    "label": "ᙒ",
+    "meta": "canadian syllabics carrier si",
+    "ipa": ""
+  },
+  {
+    "label": "ᙓ",
+    "meta": "canadian syllabics carrier sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᙔ",
+    "meta": "canadian syllabics carrier shu",
+    "ipa": ""
+  },
+  {
+    "label": "ᙕ",
+    "meta": "canadian syllabics carrier sho",
+    "ipa": ""
+  },
+  {
+    "label": "ᙖ",
+    "meta": "canadian syllabics carrier she",
+    "ipa": ""
+  },
+  {
+    "label": "ᙗ",
+    "meta": "canadian syllabics carrier shee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙘ",
+    "meta": "canadian syllabics carrier shi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙙ",
+    "meta": "canadian syllabics carrier sha",
+    "ipa": ""
+  },
+  {
+    "label": "ᙚ",
+    "meta": "canadian syllabics carrier sh",
+    "ipa": ""
+  },
+  {
+    "label": "ᙛ",
+    "meta": "canadian syllabics carrier tsu",
+    "ipa": ""
+  },
+  {
+    "label": "ᙜ",
+    "meta": "canadian syllabics carrier tso",
+    "ipa": ""
+  },
+  {
+    "label": "ᙝ",
+    "meta": "canadian syllabics carrier tse",
+    "ipa": ""
+  },
+  {
+    "label": "ᙞ",
+    "meta": "canadian syllabics carrier tsee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙟ",
+    "meta": "canadian syllabics carrier tsi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙠ",
+    "meta": "canadian syllabics carrier tsa",
+    "ipa": ""
+  },
+  {
+    "label": "ᙡ",
+    "meta": "canadian syllabics carrier chu",
+    "ipa": ""
+  },
+  {
+    "label": "ᙢ",
+    "meta": "canadian syllabics carrier cho",
+    "ipa": ""
+  },
+  {
+    "label": "ᙣ",
+    "meta": "canadian syllabics carrier che",
+    "ipa": ""
+  },
+  {
+    "label": "ᙤ",
+    "meta": "canadian syllabics carrier chee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙥ",
+    "meta": "canadian syllabics carrier chi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙦ",
+    "meta": "canadian syllabics carrier cha",
+    "ipa": ""
+  },
+  {
+    "label": "ᙧ",
+    "meta": "canadian syllabics carrier ttsu",
+    "ipa": ""
+  },
+  {
+    "label": "ᙨ",
+    "meta": "canadian syllabics carrier ttso",
+    "ipa": ""
+  },
+  {
+    "label": "ᙩ",
+    "meta": "canadian syllabics carrier ttse",
+    "ipa": ""
+  },
+  {
+    "label": "ᙪ",
+    "meta": "canadian syllabics carrier ttsee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙫ",
+    "meta": "canadian syllabics carrier ttsi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙬ",
+    "meta": "canadian syllabics carrier ttsa",
+    "ipa": ""
+  },
+  {
+    "label": "᙭",
+    "meta": "canadian syllabics chi sign",
+    "ipa": ""
+  },
+  {
+    "label": "᙮",
+    "meta": "canadian syllabics full stop",
+    "ipa": ""
+  },
+  {
+    "label": "ᙯ",
+    "meta": "canadian syllabics qai",
+    "ipa": ""
+  },
+  {
+    "label": "ᙰ",
+    "meta": "canadian syllabics ngai",
+    "ipa": ""
+  },
+  {
+    "label": "ᙱ",
+    "meta": "canadian syllabics nngi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙲ",
+    "meta": "canadian syllabics nngii",
+    "ipa": ""
+  },
+  {
+    "label": "ᙳ",
+    "meta": "canadian syllabics nngo",
+    "ipa": ""
+  },
+  {
+    "label": "ᙴ",
+    "meta": "canadian syllabics nngoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᙵ",
+    "meta": "canadian syllabics nnga",
+    "ipa": ""
+  },
+  {
+    "label": "ᙶ",
+    "meta": "canadian syllabics nngaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᙷ",
+    "meta": "canadian syllabics woods-cree thwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᙸ",
+    "meta": "canadian syllabics woods-cree thwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᙹ",
+    "meta": "canadian syllabics woods-cree thwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᙺ",
+    "meta": "canadian syllabics woods-cree thwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᙻ",
+    "meta": "canadian syllabics woods-cree thwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᙼ",
+    "meta": "canadian syllabics woods-cree thwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᙽ",
+    "meta": "canadian syllabics woods-cree thwaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᙾ",
+    "meta": "canadian syllabics woods-cree final th",
+    "ipa": ""
+  },
+  {
+    "label": "ᙿ",
+    "meta": "canadian syllabics blackfoot w",
+    "ipa": ""
+  },
+  {
+    "label": "ᢰ",
+    "meta": "canadian syllabics oy",
+    "ipa": ""
+  },
+  {
+    "label": "ᢱ",
+    "meta": "canadian syllabics ay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢲ",
+    "meta": "canadian syllabics aay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢳ",
+    "meta": "canadian syllabics way",
+    "ipa": ""
+  },
+  {
+    "label": "ᢴ",
+    "meta": "canadian syllabics poy",
+    "ipa": ""
+  },
+  {
+    "label": "ᢵ",
+    "meta": "canadian syllabics pay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢶ",
+    "meta": "canadian syllabics pwoy",
+    "ipa": ""
+  },
+  {
+    "label": "ᢷ",
+    "meta": "canadian syllabics tay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢸ",
+    "meta": "canadian syllabics kay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢹ",
+    "meta": "canadian syllabics kway",
+    "ipa": ""
+  },
+  {
+    "label": "ᢺ",
+    "meta": "canadian syllabics may",
+    "ipa": ""
+  },
+  {
+    "label": "ᢻ",
+    "meta": "canadian syllabics noy",
+    "ipa": ""
+  },
+  {
+    "label": "ᢼ",
+    "meta": "canadian syllabics nay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢽ",
+    "meta": "canadian syllabics lay",
+    "ipa": ""
+  },
+  {
+    "label": "ᢾ",
+    "meta": "canadian syllabics soy",
+    "ipa": ""
+  },
+  {
+    "label": "ᢿ",
+    "meta": "canadian syllabics say",
+    "ipa": ""
+  },
+  {
+    "label": "ᣀ",
+    "meta": "canadian syllabics shoy",
+    "ipa": ""
+  },
+  {
+    "label": "ᣁ",
+    "meta": "canadian syllabics shay",
+    "ipa": ""
+  },
+  {
+    "label": "ᣂ",
+    "meta": "canadian syllabics shwoy",
+    "ipa": ""
+  },
+  {
+    "label": "ᣃ",
+    "meta": "canadian syllabics yoy",
+    "ipa": ""
+  },
+  {
+    "label": "ᣄ",
+    "meta": "canadian syllabics yay",
+    "ipa": ""
+  },
+  {
+    "label": "ᣅ",
+    "meta": "canadian syllabics ray",
+    "ipa": ""
+  },
+  {
+    "label": "ᣆ",
+    "meta": "canadian syllabics nwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᣇ",
+    "meta": "canadian syllabics ojibway nwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᣈ",
+    "meta": "canadian syllabics nwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᣉ",
+    "meta": "canadian syllabics ojibway nwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᣊ",
+    "meta": "canadian syllabics nwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣋ",
+    "meta": "canadian syllabics ojibway nwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣌ",
+    "meta": "canadian syllabics nwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣍ",
+    "meta": "canadian syllabics ojibway nwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣎ",
+    "meta": "canadian syllabics rwee",
+    "ipa": ""
+  },
+  {
+    "label": "ᣏ",
+    "meta": "canadian syllabics rwi",
+    "ipa": ""
+  },
+  {
+    "label": "ᣐ",
+    "meta": "canadian syllabics rwii",
+    "ipa": ""
+  },
+  {
+    "label": "ᣑ",
+    "meta": "canadian syllabics rwo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣒ",
+    "meta": "canadian syllabics rwoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣓ",
+    "meta": "canadian syllabics rwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣔ",
+    "meta": "canadian syllabics ojibway p",
+    "ipa": ""
+  },
+  {
+    "label": "ᣕ",
+    "meta": "canadian syllabics ojibway t",
+    "ipa": ""
+  },
+  {
+    "label": "ᣖ",
+    "meta": "canadian syllabics ojibway k",
+    "ipa": ""
+  },
+  {
+    "label": "ᣗ",
+    "meta": "canadian syllabics ojibway c",
+    "ipa": ""
+  },
+  {
+    "label": "ᣘ",
+    "meta": "canadian syllabics ojibway m",
+    "ipa": ""
+  },
+  {
+    "label": "ᣙ",
+    "meta": "canadian syllabics ojibway n",
+    "ipa": ""
+  },
+  {
+    "label": "ᣚ",
+    "meta": "canadian syllabics ojibway s",
+    "ipa": ""
+  },
+  {
+    "label": "ᣛ",
+    "meta": "canadian syllabics ojibway sh",
+    "ipa": ""
+  },
+  {
+    "label": "ᣜ",
+    "meta": "canadian syllabics eastern w",
+    "ipa": ""
+  },
+  {
+    "label": "ᣝ",
+    "meta": "canadian syllabics western w",
+    "ipa": ""
+  },
+  {
+    "label": "ᣞ",
+    "meta": "canadian syllabics final small ring",
+    "ipa": ""
+  },
+  {
+    "label": "ᣟ",
+    "meta": "canadian syllabics final raised dot",
+    "ipa": ""
+  },
+  {
+    "label": "ᣠ",
+    "meta": "canadian syllabics r-cree rwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᣡ",
+    "meta": "canadian syllabics west-cree loo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣢ",
+    "meta": "canadian syllabics west-cree laa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣣ",
+    "meta": "canadian syllabics thwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᣤ",
+    "meta": "canadian syllabics thwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣥ",
+    "meta": "canadian syllabics tthwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᣦ",
+    "meta": "canadian syllabics tthoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣧ",
+    "meta": "canadian syllabics tthaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣨ",
+    "meta": "canadian syllabics tlhwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᣩ",
+    "meta": "canadian syllabics tlhoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣪ",
+    "meta": "canadian syllabics sayisi shwe",
+    "ipa": ""
+  },
+  {
+    "label": "ᣫ",
+    "meta": "canadian syllabics sayisi shoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣬ",
+    "meta": "canadian syllabics sayisi hoo",
+    "ipa": ""
+  },
+  {
+    "label": "ᣭ",
+    "meta": "canadian syllabics carrier gwu",
+    "ipa": ""
+  },
+  {
+    "label": "ᣮ",
+    "meta": "canadian syllabics carrier dene gee",
+    "ipa": ""
+  },
+  {
+    "label": "ᣯ",
+    "meta": "canadian syllabics carrier gaa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣰ",
+    "meta": "canadian syllabics carrier gwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣱ",
+    "meta": "canadian syllabics sayisi juu",
+    "ipa": ""
+  },
+  {
+    "label": "ᣲ",
+    "meta": "canadian syllabics carrier jwa",
+    "ipa": ""
+  },
+  {
+    "label": "ᣳ",
+    "meta": "canadian syllabics beaver dene l",
+    "ipa": ""
+  },
+  {
+    "label": "ᣴ",
+    "meta": "canadian syllabics beaver dene r",
+    "ipa": ""
+  },
+  {
+    "label": "ᣵ",
+    "meta": "canadian syllabics carrier dental s",
+    "ipa": ""
+  },
+  {
+    "label": "𑪰",
+    "meta": "canadian syllabics nattilik hi",
+    "ipa": ""
+  },
+  {
+    "label": "𑪱",
+    "meta": "canadian syllabics nattilik hii",
+    "ipa": ""
+  },
+  {
+    "label": "𑪲",
+    "meta": "canadian syllabics nattilik ho",
+    "ipa": ""
+  },
+  {
+    "label": "𑪳",
+    "meta": "canadian syllabics nattilik hoo",
+    "ipa": ""
+  },
+  {
+    "label": "𑪴",
+    "meta": "canadian syllabics nattilik ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑪵",
+    "meta": "canadian syllabics nattilik haa",
+    "ipa": ""
+  },
+  {
+    "label": "𑪶",
+    "meta": "canadian syllabics nattilik shri",
+    "ipa": ""
+  },
+  {
+    "label": "𑪷",
+    "meta": "canadian syllabics nattilik shrii",
+    "ipa": ""
+  },
+  {
+    "label": "𑪸",
+    "meta": "canadian syllabics nattilik shro",
+    "ipa": ""
+  },
+  {
+    "label": "𑪹",
+    "meta": "canadian syllabics nattilik shroo",
+    "ipa": ""
+  },
+  {
+    "label": "𑪺",
+    "meta": "canadian syllabics nattilik shra",
+    "ipa": ""
+  },
+  {
+    "label": "𑪻",
+    "meta": "canadian syllabics nattilik shraa",
+    "ipa": ""
+  },
+  {
+    "label": "𑪼",
+    "meta": "canadian syllabics spe",
+    "ipa": ""
+  },
+  {
+    "label": "𑪽",
+    "meta": "canadian syllabics spi",
+    "ipa": ""
+  },
+  {
+    "label": "𑪾",
+    "meta": "canadian syllabics spo",
+    "ipa": ""
+  },
+  {
+    "label": "𑪿",
+    "meta": "canadian syllabics spa",
+    "ipa": ""
+  }
+]

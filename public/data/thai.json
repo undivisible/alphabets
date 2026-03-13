@@ -1,0 +1,432 @@
+[
+  {
+    "label": "ก",
+    "meta": "thai character ko kai",
+    "ipa": ""
+  },
+  {
+    "label": "ข",
+    "meta": "thai character kho khai",
+    "ipa": ""
+  },
+  {
+    "label": "ฃ",
+    "meta": "thai character kho khuat",
+    "ipa": ""
+  },
+  {
+    "label": "ค",
+    "meta": "thai character kho khwai",
+    "ipa": ""
+  },
+  {
+    "label": "ฅ",
+    "meta": "thai character kho khon",
+    "ipa": ""
+  },
+  {
+    "label": "ฆ",
+    "meta": "thai character kho rakhang",
+    "ipa": ""
+  },
+  {
+    "label": "ง",
+    "meta": "thai character ngo ngu",
+    "ipa": ""
+  },
+  {
+    "label": "จ",
+    "meta": "thai character cho chan",
+    "ipa": ""
+  },
+  {
+    "label": "ฉ",
+    "meta": "thai character cho ching",
+    "ipa": ""
+  },
+  {
+    "label": "ช",
+    "meta": "thai character cho chang",
+    "ipa": ""
+  },
+  {
+    "label": "ซ",
+    "meta": "thai character so so",
+    "ipa": ""
+  },
+  {
+    "label": "ฌ",
+    "meta": "thai character cho choe",
+    "ipa": ""
+  },
+  {
+    "label": "ญ",
+    "meta": "thai character yo ying",
+    "ipa": ""
+  },
+  {
+    "label": "ฎ",
+    "meta": "thai character do chada",
+    "ipa": ""
+  },
+  {
+    "label": "ฏ",
+    "meta": "thai character to patak",
+    "ipa": ""
+  },
+  {
+    "label": "ฐ",
+    "meta": "thai character tho than",
+    "ipa": ""
+  },
+  {
+    "label": "ฑ",
+    "meta": "thai character tho nangmontho",
+    "ipa": ""
+  },
+  {
+    "label": "ฒ",
+    "meta": "thai character tho phuthao",
+    "ipa": ""
+  },
+  {
+    "label": "ณ",
+    "meta": "thai character no nen",
+    "ipa": ""
+  },
+  {
+    "label": "ด",
+    "meta": "thai character do dek",
+    "ipa": ""
+  },
+  {
+    "label": "ต",
+    "meta": "thai character to tao",
+    "ipa": ""
+  },
+  {
+    "label": "ถ",
+    "meta": "thai character tho thung",
+    "ipa": ""
+  },
+  {
+    "label": "ท",
+    "meta": "thai character tho thahan",
+    "ipa": ""
+  },
+  {
+    "label": "ธ",
+    "meta": "thai character tho thong",
+    "ipa": ""
+  },
+  {
+    "label": "น",
+    "meta": "thai character no nu",
+    "ipa": ""
+  },
+  {
+    "label": "บ",
+    "meta": "thai character bo baimai",
+    "ipa": ""
+  },
+  {
+    "label": "ป",
+    "meta": "thai character po pla",
+    "ipa": ""
+  },
+  {
+    "label": "ผ",
+    "meta": "thai character pho phung",
+    "ipa": ""
+  },
+  {
+    "label": "ฝ",
+    "meta": "thai character fo fa",
+    "ipa": ""
+  },
+  {
+    "label": "พ",
+    "meta": "thai character pho phan",
+    "ipa": ""
+  },
+  {
+    "label": "ฟ",
+    "meta": "thai character fo fan",
+    "ipa": ""
+  },
+  {
+    "label": "ภ",
+    "meta": "thai character pho samphao",
+    "ipa": ""
+  },
+  {
+    "label": "ม",
+    "meta": "thai character mo ma",
+    "ipa": ""
+  },
+  {
+    "label": "ย",
+    "meta": "thai character yo yak",
+    "ipa": ""
+  },
+  {
+    "label": "ร",
+    "meta": "thai character ro rua",
+    "ipa": ""
+  },
+  {
+    "label": "ฤ",
+    "meta": "thai character ru",
+    "ipa": ""
+  },
+  {
+    "label": "ล",
+    "meta": "thai character lo ling",
+    "ipa": ""
+  },
+  {
+    "label": "ฦ",
+    "meta": "thai character lu",
+    "ipa": ""
+  },
+  {
+    "label": "ว",
+    "meta": "thai character wo waen",
+    "ipa": ""
+  },
+  {
+    "label": "ศ",
+    "meta": "thai character so sala",
+    "ipa": ""
+  },
+  {
+    "label": "ษ",
+    "meta": "thai character so rusi",
+    "ipa": ""
+  },
+  {
+    "label": "ส",
+    "meta": "thai character so sua",
+    "ipa": ""
+  },
+  {
+    "label": "ห",
+    "meta": "thai character ho hip",
+    "ipa": ""
+  },
+  {
+    "label": "ฬ",
+    "meta": "thai character lo chula",
+    "ipa": ""
+  },
+  {
+    "label": "อ",
+    "meta": "thai character o ang",
+    "ipa": ""
+  },
+  {
+    "label": "ฮ",
+    "meta": "thai character ho nokhuk",
+    "ipa": ""
+  },
+  {
+    "label": "ฯ",
+    "meta": "thai character paiyannoi",
+    "ipa": ""
+  },
+  {
+    "label": "ะ",
+    "meta": "thai character sara a",
+    "ipa": ""
+  },
+  {
+    "label": "ั",
+    "meta": "thai character mai han-akat",
+    "ipa": ""
+  },
+  {
+    "label": "า",
+    "meta": "thai character sara aa",
+    "ipa": ""
+  },
+  {
+    "label": "ำ",
+    "meta": "thai character sara am",
+    "ipa": ""
+  },
+  {
+    "label": "ิ",
+    "meta": "thai character sara i",
+    "ipa": ""
+  },
+  {
+    "label": "ี",
+    "meta": "thai character sara ii",
+    "ipa": ""
+  },
+  {
+    "label": "ึ",
+    "meta": "thai character sara ue",
+    "ipa": ""
+  },
+  {
+    "label": "ื",
+    "meta": "thai character sara uee",
+    "ipa": ""
+  },
+  {
+    "label": "ุ",
+    "meta": "thai character sara u",
+    "ipa": ""
+  },
+  {
+    "label": "ู",
+    "meta": "thai character sara uu",
+    "ipa": ""
+  },
+  {
+    "label": "ฺ",
+    "meta": "thai character phinthu",
+    "ipa": ""
+  },
+  {
+    "label": "เ",
+    "meta": "thai character sara e",
+    "ipa": ""
+  },
+  {
+    "label": "แ",
+    "meta": "thai character sara ae",
+    "ipa": ""
+  },
+  {
+    "label": "โ",
+    "meta": "thai character sara o",
+    "ipa": ""
+  },
+  {
+    "label": "ใ",
+    "meta": "thai character sara ai maimuan",
+    "ipa": ""
+  },
+  {
+    "label": "ไ",
+    "meta": "thai character sara ai maimalai",
+    "ipa": ""
+  },
+  {
+    "label": "ๅ",
+    "meta": "thai character lakkhangyao",
+    "ipa": ""
+  },
+  {
+    "label": "ๆ",
+    "meta": "thai character maiyamok",
+    "ipa": ""
+  },
+  {
+    "label": "็",
+    "meta": "thai character maitaikhu",
+    "ipa": ""
+  },
+  {
+    "label": "่",
+    "meta": "thai character mai ek",
+    "ipa": ""
+  },
+  {
+    "label": "้",
+    "meta": "thai character mai tho",
+    "ipa": ""
+  },
+  {
+    "label": "๊",
+    "meta": "thai character mai tri",
+    "ipa": ""
+  },
+  {
+    "label": "๋",
+    "meta": "thai character mai chattawa",
+    "ipa": ""
+  },
+  {
+    "label": "์",
+    "meta": "thai character thanthakhat",
+    "ipa": ""
+  },
+  {
+    "label": "ํ",
+    "meta": "thai character nikhahit",
+    "ipa": ""
+  },
+  {
+    "label": "๎",
+    "meta": "thai character yamakkan",
+    "ipa": ""
+  },
+  {
+    "label": "๏",
+    "meta": "thai character fongman",
+    "ipa": ""
+  },
+  {
+    "label": "๐",
+    "meta": "thai digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "๑",
+    "meta": "thai digit one",
+    "ipa": ""
+  },
+  {
+    "label": "๒",
+    "meta": "thai digit two",
+    "ipa": ""
+  },
+  {
+    "label": "๓",
+    "meta": "thai digit three",
+    "ipa": ""
+  },
+  {
+    "label": "๔",
+    "meta": "thai digit four",
+    "ipa": ""
+  },
+  {
+    "label": "๕",
+    "meta": "thai digit five",
+    "ipa": ""
+  },
+  {
+    "label": "๖",
+    "meta": "thai digit six",
+    "ipa": ""
+  },
+  {
+    "label": "๗",
+    "meta": "thai digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "๘",
+    "meta": "thai digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "๙",
+    "meta": "thai digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "๚",
+    "meta": "thai character angkhankhu",
+    "ipa": ""
+  },
+  {
+    "label": "๛",
+    "meta": "thai character khomut",
+    "ipa": ""
+  }
+]

@@ -1,0 +1,462 @@
+[
+  {
+    "label": "𑖀",
+    "meta": "siddham letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑖁",
+    "meta": "siddham letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑖂",
+    "meta": "siddham letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑖃",
+    "meta": "siddham letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑖄",
+    "meta": "siddham letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑖅",
+    "meta": "siddham letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑖆",
+    "meta": "siddham letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑖇",
+    "meta": "siddham letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑖈",
+    "meta": "siddham letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑖉",
+    "meta": "siddham letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑖊",
+    "meta": "siddham letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑖋",
+    "meta": "siddham letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑖌",
+    "meta": "siddham letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑖍",
+    "meta": "siddham letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑖎",
+    "meta": "siddham letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑖏",
+    "meta": "siddham letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖐",
+    "meta": "siddham letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑖑",
+    "meta": "siddham letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖒",
+    "meta": "siddham letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑖓",
+    "meta": "siddham letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑖔",
+    "meta": "siddham letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖕",
+    "meta": "siddham letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑖖",
+    "meta": "siddham letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖗",
+    "meta": "siddham letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑖘",
+    "meta": "siddham letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑖙",
+    "meta": "siddham letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖚",
+    "meta": "siddham letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑖛",
+    "meta": "siddham letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖜",
+    "meta": "siddham letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑖝",
+    "meta": "siddham letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑖞",
+    "meta": "siddham letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖟",
+    "meta": "siddham letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑖠",
+    "meta": "siddham letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖡",
+    "meta": "siddham letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑖢",
+    "meta": "siddham letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑖣",
+    "meta": "siddham letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖤",
+    "meta": "siddham letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑖥",
+    "meta": "siddham letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖦",
+    "meta": "siddham letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑖧",
+    "meta": "siddham letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑖨",
+    "meta": "siddham letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑖩",
+    "meta": "siddham letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑖪",
+    "meta": "siddham letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑖫",
+    "meta": "siddham letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖬",
+    "meta": "siddham letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑖭",
+    "meta": "siddham letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑖮",
+    "meta": "siddham letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑖯",
+    "meta": "siddham vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑖰",
+    "meta": "siddham vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑖱",
+    "meta": "siddham vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑖲",
+    "meta": "siddham vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑖳",
+    "meta": "siddham vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑖴",
+    "meta": "siddham vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑖵",
+    "meta": "siddham vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑖸",
+    "meta": "siddham vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑖹",
+    "meta": "siddham vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑖺",
+    "meta": "siddham vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑖻",
+    "meta": "siddham vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑖼",
+    "meta": "siddham sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "𑖽",
+    "meta": "siddham sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑖾",
+    "meta": "siddham sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑖿",
+    "meta": "siddham sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑗀",
+    "meta": "siddham sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "𑗁",
+    "meta": "siddham sign siddham",
+    "ipa": ""
+  },
+  {
+    "label": "𑗂",
+    "meta": "siddham danda",
+    "ipa": ""
+  },
+  {
+    "label": "𑗃",
+    "meta": "siddham double danda",
+    "ipa": ""
+  },
+  {
+    "label": "𑗄",
+    "meta": "siddham separator dot",
+    "ipa": ""
+  },
+  {
+    "label": "𑗅",
+    "meta": "siddham separator bar",
+    "ipa": ""
+  },
+  {
+    "label": "𑗆",
+    "meta": "siddham repetition mark-1",
+    "ipa": ""
+  },
+  {
+    "label": "𑗇",
+    "meta": "siddham repetition mark-2",
+    "ipa": ""
+  },
+  {
+    "label": "𑗈",
+    "meta": "siddham repetition mark-3",
+    "ipa": ""
+  },
+  {
+    "label": "𑗉",
+    "meta": "siddham end of text mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑗊",
+    "meta": "siddham section mark with trident and u-shaped ornaments",
+    "ipa": ""
+  },
+  {
+    "label": "𑗋",
+    "meta": "siddham section mark with trident and dotted crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗌",
+    "meta": "siddham section mark with rays and dotted crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗍",
+    "meta": "siddham section mark with rays and dotted double crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗎",
+    "meta": "siddham section mark with rays and dotted triple crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗏",
+    "meta": "siddham section mark double ring",
+    "ipa": ""
+  },
+  {
+    "label": "𑗐",
+    "meta": "siddham section mark double ring with rays",
+    "ipa": ""
+  },
+  {
+    "label": "𑗑",
+    "meta": "siddham section mark with double crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗒",
+    "meta": "siddham section mark with triple crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗓",
+    "meta": "siddham section mark with quadruple crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗔",
+    "meta": "siddham section mark with septuple crescents",
+    "ipa": ""
+  },
+  {
+    "label": "𑗕",
+    "meta": "siddham section mark with circles and rays",
+    "ipa": ""
+  },
+  {
+    "label": "𑗖",
+    "meta": "siddham section mark with circles and two enclosures",
+    "ipa": ""
+  },
+  {
+    "label": "𑗗",
+    "meta": "siddham section mark with circles and four enclosures",
+    "ipa": ""
+  },
+  {
+    "label": "𑗘",
+    "meta": "siddham letter three-circle alternate i",
+    "ipa": ""
+  },
+  {
+    "label": "𑗙",
+    "meta": "siddham letter two-circle alternate i",
+    "ipa": ""
+  },
+  {
+    "label": "𑗚",
+    "meta": "siddham letter two-circle alternate ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑗛",
+    "meta": "siddham letter alternate u",
+    "ipa": ""
+  },
+  {
+    "label": "𑗜",
+    "meta": "siddham vowel sign alternate u",
+    "ipa": ""
+  },
+  {
+    "label": "𑗝",
+    "meta": "siddham vowel sign alternate uu",
+    "ipa": ""
+  }
+]

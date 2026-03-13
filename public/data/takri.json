@@ -1,0 +1,342 @@
+[
+  {
+    "label": "𑚀",
+    "meta": "takri letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑚁",
+    "meta": "takri letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑚂",
+    "meta": "takri letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑚃",
+    "meta": "takri letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑚄",
+    "meta": "takri letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑚅",
+    "meta": "takri letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑚆",
+    "meta": "takri letter e",
+    "ipa": ""
+  },
+  {
+    "label": "𑚇",
+    "meta": "takri letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑚈",
+    "meta": "takri letter o",
+    "ipa": ""
+  },
+  {
+    "label": "𑚉",
+    "meta": "takri letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑚊",
+    "meta": "takri letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑚋",
+    "meta": "takri letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚌",
+    "meta": "takri letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑚍",
+    "meta": "takri letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚎",
+    "meta": "takri letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑚏",
+    "meta": "takri letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑚐",
+    "meta": "takri letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚑",
+    "meta": "takri letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑚒",
+    "meta": "takri letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚓",
+    "meta": "takri letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑚔",
+    "meta": "takri letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑚕",
+    "meta": "takri letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚖",
+    "meta": "takri letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑚗",
+    "meta": "takri letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚘",
+    "meta": "takri letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑚙",
+    "meta": "takri letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑚚",
+    "meta": "takri letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚛",
+    "meta": "takri letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑚜",
+    "meta": "takri letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚝",
+    "meta": "takri letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑚞",
+    "meta": "takri letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑚟",
+    "meta": "takri letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚠",
+    "meta": "takri letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑚡",
+    "meta": "takri letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚢",
+    "meta": "takri letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑚣",
+    "meta": "takri letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑚤",
+    "meta": "takri letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑚥",
+    "meta": "takri letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑚦",
+    "meta": "takri letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑚧",
+    "meta": "takri letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚨",
+    "meta": "takri letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑚩",
+    "meta": "takri letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚪",
+    "meta": "takri letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "𑚫",
+    "meta": "takri sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑚬",
+    "meta": "takri sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑚭",
+    "meta": "takri vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑚮",
+    "meta": "takri vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑚯",
+    "meta": "takri vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑚰",
+    "meta": "takri vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑚱",
+    "meta": "takri vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑚲",
+    "meta": "takri vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "𑚳",
+    "meta": "takri vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑚴",
+    "meta": "takri vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "𑚵",
+    "meta": "takri vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑚶",
+    "meta": "takri sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑚷",
+    "meta": "takri sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "𑚸",
+    "meta": "takri letter archaic kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑚹",
+    "meta": "takri abbreviation sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑛀",
+    "meta": "takri digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "𑛁",
+    "meta": "takri digit one",
+    "ipa": ""
+  },
+  {
+    "label": "𑛂",
+    "meta": "takri digit two",
+    "ipa": ""
+  },
+  {
+    "label": "𑛃",
+    "meta": "takri digit three",
+    "ipa": ""
+  },
+  {
+    "label": "𑛄",
+    "meta": "takri digit four",
+    "ipa": ""
+  },
+  {
+    "label": "𑛅",
+    "meta": "takri digit five",
+    "ipa": ""
+  },
+  {
+    "label": "𑛆",
+    "meta": "takri digit six",
+    "ipa": ""
+  },
+  {
+    "label": "𑛇",
+    "meta": "takri digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "𑛈",
+    "meta": "takri digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "𑛉",
+    "meta": "takri digit nine",
+    "ipa": ""
+  }
+]

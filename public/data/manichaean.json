@@ -1,0 +1,257 @@
+[
+  {
+    "label": "𐫀",
+    "meta": "manichaean letter aleph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫁",
+    "meta": "manichaean letter beth",
+    "ipa": ""
+  },
+  {
+    "label": "𐫂",
+    "meta": "manichaean letter bheth",
+    "ipa": ""
+  },
+  {
+    "label": "𐫃",
+    "meta": "manichaean letter gimel",
+    "ipa": ""
+  },
+  {
+    "label": "𐫄",
+    "meta": "manichaean letter ghimel",
+    "ipa": ""
+  },
+  {
+    "label": "𐫅",
+    "meta": "manichaean letter daleth",
+    "ipa": ""
+  },
+  {
+    "label": "𐫆",
+    "meta": "manichaean letter he",
+    "ipa": ""
+  },
+  {
+    "label": "𐫇",
+    "meta": "manichaean letter waw",
+    "ipa": ""
+  },
+  {
+    "label": "𐫈",
+    "meta": "manichaean sign ud",
+    "ipa": ""
+  },
+  {
+    "label": "𐫉",
+    "meta": "manichaean letter zayin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫊",
+    "meta": "manichaean letter zhayin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫋",
+    "meta": "manichaean letter jayin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫌",
+    "meta": "manichaean letter jhayin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫍",
+    "meta": "manichaean letter heth",
+    "ipa": ""
+  },
+  {
+    "label": "𐫎",
+    "meta": "manichaean letter teth",
+    "ipa": ""
+  },
+  {
+    "label": "𐫏",
+    "meta": "manichaean letter yodh",
+    "ipa": ""
+  },
+  {
+    "label": "𐫐",
+    "meta": "manichaean letter kaph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫑",
+    "meta": "manichaean letter xaph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫒",
+    "meta": "manichaean letter khaph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫓",
+    "meta": "manichaean letter lamedh",
+    "ipa": ""
+  },
+  {
+    "label": "𐫔",
+    "meta": "manichaean letter dhamedh",
+    "ipa": ""
+  },
+  {
+    "label": "𐫕",
+    "meta": "manichaean letter thamedh",
+    "ipa": ""
+  },
+  {
+    "label": "𐫖",
+    "meta": "manichaean letter mem",
+    "ipa": ""
+  },
+  {
+    "label": "𐫗",
+    "meta": "manichaean letter nun",
+    "ipa": ""
+  },
+  {
+    "label": "𐫘",
+    "meta": "manichaean letter samekh",
+    "ipa": ""
+  },
+  {
+    "label": "𐫙",
+    "meta": "manichaean letter ayin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫚",
+    "meta": "manichaean letter aayin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫛",
+    "meta": "manichaean letter pe",
+    "ipa": ""
+  },
+  {
+    "label": "𐫜",
+    "meta": "manichaean letter fe",
+    "ipa": ""
+  },
+  {
+    "label": "𐫝",
+    "meta": "manichaean letter sadhe",
+    "ipa": ""
+  },
+  {
+    "label": "𐫞",
+    "meta": "manichaean letter qoph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫟",
+    "meta": "manichaean letter xoph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫠",
+    "meta": "manichaean letter qhoph",
+    "ipa": ""
+  },
+  {
+    "label": "𐫡",
+    "meta": "manichaean letter resh",
+    "ipa": ""
+  },
+  {
+    "label": "𐫢",
+    "meta": "manichaean letter shin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫣",
+    "meta": "manichaean letter sshin",
+    "ipa": ""
+  },
+  {
+    "label": "𐫤",
+    "meta": "manichaean letter taw",
+    "ipa": ""
+  },
+  {
+    "label": "𐫥",
+    "meta": "manichaean abbreviation mark above",
+    "ipa": ""
+  },
+  {
+    "label": "𐫦",
+    "meta": "manichaean abbreviation mark below",
+    "ipa": ""
+  },
+  {
+    "label": "𐫫",
+    "meta": "manichaean number one",
+    "ipa": ""
+  },
+  {
+    "label": "𐫬",
+    "meta": "manichaean number five",
+    "ipa": ""
+  },
+  {
+    "label": "𐫭",
+    "meta": "manichaean number ten",
+    "ipa": ""
+  },
+  {
+    "label": "𐫮",
+    "meta": "manichaean number twenty",
+    "ipa": ""
+  },
+  {
+    "label": "𐫯",
+    "meta": "manichaean number one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "𐫰",
+    "meta": "manichaean punctuation star",
+    "ipa": ""
+  },
+  {
+    "label": "𐫱",
+    "meta": "manichaean punctuation fleuron",
+    "ipa": ""
+  },
+  {
+    "label": "𐫲",
+    "meta": "manichaean punctuation double dot within dot",
+    "ipa": ""
+  },
+  {
+    "label": "𐫳",
+    "meta": "manichaean punctuation dot within dot",
+    "ipa": ""
+  },
+  {
+    "label": "𐫴",
+    "meta": "manichaean punctuation dot",
+    "ipa": ""
+  },
+  {
+    "label": "𐫵",
+    "meta": "manichaean punctuation two dots",
+    "ipa": ""
+  },
+  {
+    "label": "𐫶",
+    "meta": "manichaean punctuation line filler",
+    "ipa": ""
+  }
+]

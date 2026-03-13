@@ -1,0 +1,457 @@
+[
+  {
+    "label": "ଁ",
+    "meta": "oriya sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "ଂ",
+    "meta": "oriya sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ଃ",
+    "meta": "oriya sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "ଅ",
+    "meta": "oriya letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ଆ",
+    "meta": "oriya letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "ଇ",
+    "meta": "oriya letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ଈ",
+    "meta": "oriya letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "ଉ",
+    "meta": "oriya letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ଊ",
+    "meta": "oriya letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "ଋ",
+    "meta": "oriya letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ଌ",
+    "meta": "oriya letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ଏ",
+    "meta": "oriya letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ଐ",
+    "meta": "oriya letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ଓ",
+    "meta": "oriya letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ଔ",
+    "meta": "oriya letter au",
+    "ipa": ""
+  },
+  {
+    "label": "କ",
+    "meta": "oriya letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ଖ",
+    "meta": "oriya letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "ଗ",
+    "meta": "oriya letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ଘ",
+    "meta": "oriya letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "ଙ",
+    "meta": "oriya letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ଚ",
+    "meta": "oriya letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ଛ",
+    "meta": "oriya letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "ଜ",
+    "meta": "oriya letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ଝ",
+    "meta": "oriya letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "ଞ",
+    "meta": "oriya letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ଟ",
+    "meta": "oriya letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ଠ",
+    "meta": "oriya letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "ଡ",
+    "meta": "oriya letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "ଢ",
+    "meta": "oriya letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "ଣ",
+    "meta": "oriya letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "ତ",
+    "meta": "oriya letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ଥ",
+    "meta": "oriya letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "ଦ",
+    "meta": "oriya letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ଧ",
+    "meta": "oriya letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "ନ",
+    "meta": "oriya letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ପ",
+    "meta": "oriya letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ଫ",
+    "meta": "oriya letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "ବ",
+    "meta": "oriya letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ଭ",
+    "meta": "oriya letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "ମ",
+    "meta": "oriya letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ଯ",
+    "meta": "oriya letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ର",
+    "meta": "oriya letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ଲ",
+    "meta": "oriya letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ଳ",
+    "meta": "oriya letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ଵ",
+    "meta": "oriya letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ଶ",
+    "meta": "oriya letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ଷ",
+    "meta": "oriya letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ସ",
+    "meta": "oriya letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ହ",
+    "meta": "oriya letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "଼",
+    "meta": "oriya sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "ଽ",
+    "meta": "oriya sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "ା",
+    "meta": "oriya vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ି",
+    "meta": "oriya vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ୀ",
+    "meta": "oriya vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ୁ",
+    "meta": "oriya vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ୂ",
+    "meta": "oriya vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ୃ",
+    "meta": "oriya vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "ୄ",
+    "meta": "oriya vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "େ",
+    "meta": "oriya vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ୈ",
+    "meta": "oriya vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ୋ",
+    "meta": "oriya vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ୌ",
+    "meta": "oriya vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "୍",
+    "meta": "oriya sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "୕",
+    "meta": "oriya sign overline",
+    "ipa": ""
+  },
+  {
+    "label": "ୖ",
+    "meta": "oriya ai length mark",
+    "ipa": ""
+  },
+  {
+    "label": "ୗ",
+    "meta": "oriya au length mark",
+    "ipa": ""
+  },
+  {
+    "label": "ଡ଼",
+    "meta": "oriya letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ଢ଼",
+    "meta": "oriya letter rha",
+    "ipa": ""
+  },
+  {
+    "label": "ୟ",
+    "meta": "oriya letter yya",
+    "ipa": ""
+  },
+  {
+    "label": "ୠ",
+    "meta": "oriya letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "ୡ",
+    "meta": "oriya letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "ୢ",
+    "meta": "oriya vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "ୣ",
+    "meta": "oriya vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "୦",
+    "meta": "oriya digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "୧",
+    "meta": "oriya digit one",
+    "ipa": ""
+  },
+  {
+    "label": "୨",
+    "meta": "oriya digit two",
+    "ipa": ""
+  },
+  {
+    "label": "୩",
+    "meta": "oriya digit three",
+    "ipa": ""
+  },
+  {
+    "label": "୪",
+    "meta": "oriya digit four",
+    "ipa": ""
+  },
+  {
+    "label": "୫",
+    "meta": "oriya digit five",
+    "ipa": ""
+  },
+  {
+    "label": "୬",
+    "meta": "oriya digit six",
+    "ipa": ""
+  },
+  {
+    "label": "୭",
+    "meta": "oriya digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "୮",
+    "meta": "oriya digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "୯",
+    "meta": "oriya digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "୰",
+    "meta": "oriya isshar",
+    "ipa": ""
+  },
+  {
+    "label": "ୱ",
+    "meta": "oriya letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "୲",
+    "meta": "oriya fraction one quarter",
+    "ipa": ""
+  },
+  {
+    "label": "୳",
+    "meta": "oriya fraction one half",
+    "ipa": ""
+  },
+  {
+    "label": "୴",
+    "meta": "oriya fraction three quarters",
+    "ipa": ""
+  },
+  {
+    "label": "୵",
+    "meta": "oriya fraction one sixteenth",
+    "ipa": ""
+  },
+  {
+    "label": "୶",
+    "meta": "oriya fraction one eighth",
+    "ipa": ""
+  },
+  {
+    "label": "୷",
+    "meta": "oriya fraction three sixteenths",
+    "ipa": ""
+  }
+]

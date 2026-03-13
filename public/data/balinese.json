@@ -1,0 +1,622 @@
+[
+  {
+    "label": "ᬀ",
+    "meta": "balinese sign ulu ricem",
+    "ipa": ""
+  },
+  {
+    "label": "ᬁ",
+    "meta": "balinese sign ulu candra",
+    "ipa": ""
+  },
+  {
+    "label": "ᬂ",
+    "meta": "balinese sign cecek",
+    "ipa": ""
+  },
+  {
+    "label": "ᬃ",
+    "meta": "balinese sign surang",
+    "ipa": ""
+  },
+  {
+    "label": "ᬄ",
+    "meta": "balinese sign bisah",
+    "ipa": ""
+  },
+  {
+    "label": "ᬅ",
+    "meta": "balinese letter akara",
+    "ipa": ""
+  },
+  {
+    "label": "ᬆ",
+    "meta": "balinese letter akara tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬇ",
+    "meta": "balinese letter ikara",
+    "ipa": ""
+  },
+  {
+    "label": "ᬈ",
+    "meta": "balinese letter ikara tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬉ",
+    "meta": "balinese letter ukara",
+    "ipa": ""
+  },
+  {
+    "label": "ᬊ",
+    "meta": "balinese letter ukara tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬋ",
+    "meta": "balinese letter ra repa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬌ",
+    "meta": "balinese letter ra repa tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬍ",
+    "meta": "balinese letter la lenga",
+    "ipa": ""
+  },
+  {
+    "label": "ᬎ",
+    "meta": "balinese letter la lenga tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬏ",
+    "meta": "balinese letter ekara",
+    "ipa": ""
+  },
+  {
+    "label": "ᬐ",
+    "meta": "balinese letter aikara",
+    "ipa": ""
+  },
+  {
+    "label": "ᬑ",
+    "meta": "balinese letter okara",
+    "ipa": ""
+  },
+  {
+    "label": "ᬒ",
+    "meta": "balinese letter okara tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬓ",
+    "meta": "balinese letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ᬔ",
+    "meta": "balinese letter ka mahaprana",
+    "ipa": ""
+  },
+  {
+    "label": "ᬕ",
+    "meta": "balinese letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "ᬖ",
+    "meta": "balinese letter ga gora",
+    "ipa": ""
+  },
+  {
+    "label": "ᬗ",
+    "meta": "balinese letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ᬘ",
+    "meta": "balinese letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ᬙ",
+    "meta": "balinese letter ca laca",
+    "ipa": ""
+  },
+  {
+    "label": "ᬚ",
+    "meta": "balinese letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ᬛ",
+    "meta": "balinese letter ja jera",
+    "ipa": ""
+  },
+  {
+    "label": "ᬜ",
+    "meta": "balinese letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ᬝ",
+    "meta": "balinese letter ta latik",
+    "ipa": ""
+  },
+  {
+    "label": "ᬞ",
+    "meta": "balinese letter ta murda mahaprana",
+    "ipa": ""
+  },
+  {
+    "label": "ᬟ",
+    "meta": "balinese letter da murda alpaprana",
+    "ipa": ""
+  },
+  {
+    "label": "ᬠ",
+    "meta": "balinese letter da murda mahaprana",
+    "ipa": ""
+  },
+  {
+    "label": "ᬡ",
+    "meta": "balinese letter na rambat",
+    "ipa": ""
+  },
+  {
+    "label": "ᬢ",
+    "meta": "balinese letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ᬣ",
+    "meta": "balinese letter ta tawa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬤ",
+    "meta": "balinese letter da",
+    "ipa": ""
+  },
+  {
+    "label": "ᬥ",
+    "meta": "balinese letter da madu",
+    "ipa": ""
+  },
+  {
+    "label": "ᬦ",
+    "meta": "balinese letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ᬧ",
+    "meta": "balinese letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬨ",
+    "meta": "balinese letter pa kapal",
+    "ipa": ""
+  },
+  {
+    "label": "ᬩ",
+    "meta": "balinese letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "ᬪ",
+    "meta": "balinese letter ba kembang",
+    "ipa": ""
+  },
+  {
+    "label": "ᬫ",
+    "meta": "balinese letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ᬬ",
+    "meta": "balinese letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ᬭ",
+    "meta": "balinese letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ᬮ",
+    "meta": "balinese letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ᬯ",
+    "meta": "balinese letter wa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬰ",
+    "meta": "balinese letter sa saga",
+    "ipa": ""
+  },
+  {
+    "label": "ᬱ",
+    "meta": "balinese letter sa sapa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬲ",
+    "meta": "balinese letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬳ",
+    "meta": "balinese letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "᬴",
+    "meta": "balinese sign rerekan",
+    "ipa": ""
+  },
+  {
+    "label": "ᬵ",
+    "meta": "balinese vowel sign tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬶ",
+    "meta": "balinese vowel sign ulu",
+    "ipa": ""
+  },
+  {
+    "label": "ᬷ",
+    "meta": "balinese vowel sign ulu sari",
+    "ipa": ""
+  },
+  {
+    "label": "ᬸ",
+    "meta": "balinese vowel sign suku",
+    "ipa": ""
+  },
+  {
+    "label": "ᬹ",
+    "meta": "balinese vowel sign suku ilut",
+    "ipa": ""
+  },
+  {
+    "label": "ᬺ",
+    "meta": "balinese vowel sign ra repa",
+    "ipa": ""
+  },
+  {
+    "label": "ᬻ",
+    "meta": "balinese vowel sign ra repa tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬼ",
+    "meta": "balinese vowel sign la lenga",
+    "ipa": ""
+  },
+  {
+    "label": "ᬽ",
+    "meta": "balinese vowel sign la lenga tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᬾ",
+    "meta": "balinese vowel sign taling",
+    "ipa": ""
+  },
+  {
+    "label": "ᬿ",
+    "meta": "balinese vowel sign taling repa",
+    "ipa": ""
+  },
+  {
+    "label": "ᭀ",
+    "meta": "balinese vowel sign taling tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᭁ",
+    "meta": "balinese vowel sign taling repa tedung",
+    "ipa": ""
+  },
+  {
+    "label": "ᭂ",
+    "meta": "balinese vowel sign pepet",
+    "ipa": ""
+  },
+  {
+    "label": "ᭃ",
+    "meta": "balinese vowel sign pepet tedung",
+    "ipa": ""
+  },
+  {
+    "label": "᭄",
+    "meta": "balinese adeg adeg",
+    "ipa": ""
+  },
+  {
+    "label": "ᭅ",
+    "meta": "balinese letter kaf sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭆ",
+    "meta": "balinese letter khot sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭇ",
+    "meta": "balinese letter tzir sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭈ",
+    "meta": "balinese letter ef sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭉ",
+    "meta": "balinese letter ve sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭊ",
+    "meta": "balinese letter zal sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭋ",
+    "meta": "balinese letter asyura sasak",
+    "ipa": ""
+  },
+  {
+    "label": "ᭌ",
+    "meta": "balinese letter archaic jnya",
+    "ipa": ""
+  },
+  {
+    "label": "᭐",
+    "meta": "balinese digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "᭑",
+    "meta": "balinese digit one",
+    "ipa": ""
+  },
+  {
+    "label": "᭒",
+    "meta": "balinese digit two",
+    "ipa": ""
+  },
+  {
+    "label": "᭓",
+    "meta": "balinese digit three",
+    "ipa": ""
+  },
+  {
+    "label": "᭔",
+    "meta": "balinese digit four",
+    "ipa": ""
+  },
+  {
+    "label": "᭕",
+    "meta": "balinese digit five",
+    "ipa": ""
+  },
+  {
+    "label": "᭖",
+    "meta": "balinese digit six",
+    "ipa": ""
+  },
+  {
+    "label": "᭗",
+    "meta": "balinese digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "᭘",
+    "meta": "balinese digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "᭙",
+    "meta": "balinese digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "᭚",
+    "meta": "balinese panti",
+    "ipa": ""
+  },
+  {
+    "label": "᭛",
+    "meta": "balinese pamada",
+    "ipa": ""
+  },
+  {
+    "label": "᭜",
+    "meta": "balinese windu",
+    "ipa": ""
+  },
+  {
+    "label": "᭝",
+    "meta": "balinese carik pamungkah",
+    "ipa": ""
+  },
+  {
+    "label": "᭞",
+    "meta": "balinese carik siki",
+    "ipa": ""
+  },
+  {
+    "label": "᭟",
+    "meta": "balinese carik pareren",
+    "ipa": ""
+  },
+  {
+    "label": "᭠",
+    "meta": "balinese pameneng",
+    "ipa": ""
+  },
+  {
+    "label": "᭡",
+    "meta": "balinese musical symbol dong",
+    "ipa": ""
+  },
+  {
+    "label": "᭢",
+    "meta": "balinese musical symbol deng",
+    "ipa": ""
+  },
+  {
+    "label": "᭣",
+    "meta": "balinese musical symbol dung",
+    "ipa": ""
+  },
+  {
+    "label": "᭤",
+    "meta": "balinese musical symbol dang",
+    "ipa": ""
+  },
+  {
+    "label": "᭥",
+    "meta": "balinese musical symbol dang surang",
+    "ipa": ""
+  },
+  {
+    "label": "᭦",
+    "meta": "balinese musical symbol ding",
+    "ipa": ""
+  },
+  {
+    "label": "᭧",
+    "meta": "balinese musical symbol daeng",
+    "ipa": ""
+  },
+  {
+    "label": "᭨",
+    "meta": "balinese musical symbol deung",
+    "ipa": ""
+  },
+  {
+    "label": "᭩",
+    "meta": "balinese musical symbol daing",
+    "ipa": ""
+  },
+  {
+    "label": "᭪",
+    "meta": "balinese musical symbol dang gede",
+    "ipa": ""
+  },
+  {
+    "label": "᭫",
+    "meta": "balinese musical symbol combining tegeh",
+    "ipa": ""
+  },
+  {
+    "label": "᭬",
+    "meta": "balinese musical symbol combining endep",
+    "ipa": ""
+  },
+  {
+    "label": "᭭",
+    "meta": "balinese musical symbol combining kempul",
+    "ipa": ""
+  },
+  {
+    "label": "᭮",
+    "meta": "balinese musical symbol combining kempli",
+    "ipa": ""
+  },
+  {
+    "label": "᭯",
+    "meta": "balinese musical symbol combining jegogan",
+    "ipa": ""
+  },
+  {
+    "label": "᭰",
+    "meta": "balinese musical symbol combining kempul with jegogan",
+    "ipa": ""
+  },
+  {
+    "label": "᭱",
+    "meta": "balinese musical symbol combining kempli with jegogan",
+    "ipa": ""
+  },
+  {
+    "label": "᭲",
+    "meta": "balinese musical symbol combining bende",
+    "ipa": ""
+  },
+  {
+    "label": "᭳",
+    "meta": "balinese musical symbol combining gong",
+    "ipa": ""
+  },
+  {
+    "label": "᭴",
+    "meta": "balinese musical symbol right-hand open dug",
+    "ipa": ""
+  },
+  {
+    "label": "᭵",
+    "meta": "balinese musical symbol right-hand open dag",
+    "ipa": ""
+  },
+  {
+    "label": "᭶",
+    "meta": "balinese musical symbol right-hand closed tuk",
+    "ipa": ""
+  },
+  {
+    "label": "᭷",
+    "meta": "balinese musical symbol right-hand closed tak",
+    "ipa": ""
+  },
+  {
+    "label": "᭸",
+    "meta": "balinese musical symbol left-hand open pang",
+    "ipa": ""
+  },
+  {
+    "label": "᭹",
+    "meta": "balinese musical symbol left-hand open pung",
+    "ipa": ""
+  },
+  {
+    "label": "᭺",
+    "meta": "balinese musical symbol left-hand closed plak",
+    "ipa": ""
+  },
+  {
+    "label": "᭻",
+    "meta": "balinese musical symbol left-hand closed pluk",
+    "ipa": ""
+  },
+  {
+    "label": "᭼",
+    "meta": "balinese musical symbol left-hand open ping",
+    "ipa": ""
+  },
+  {
+    "label": "᭽",
+    "meta": "balinese panti lantang",
+    "ipa": ""
+  },
+  {
+    "label": "᭾",
+    "meta": "balinese pamada lantang",
+    "ipa": ""
+  }
+]

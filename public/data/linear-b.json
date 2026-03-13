@@ -1,0 +1,1057 @@
+[
+  {
+    "label": "𐀀",
+    "meta": "linear b syllable b008 a",
+    "ipa": ""
+  },
+  {
+    "label": "𐀁",
+    "meta": "linear b syllable b038 e",
+    "ipa": ""
+  },
+  {
+    "label": "𐀂",
+    "meta": "linear b syllable b028 i",
+    "ipa": ""
+  },
+  {
+    "label": "𐀃",
+    "meta": "linear b syllable b061 o",
+    "ipa": ""
+  },
+  {
+    "label": "𐀄",
+    "meta": "linear b syllable b010 u",
+    "ipa": ""
+  },
+  {
+    "label": "𐀅",
+    "meta": "linear b syllable b001 da",
+    "ipa": ""
+  },
+  {
+    "label": "𐀆",
+    "meta": "linear b syllable b045 de",
+    "ipa": ""
+  },
+  {
+    "label": "𐀇",
+    "meta": "linear b syllable b007 di",
+    "ipa": ""
+  },
+  {
+    "label": "𐀈",
+    "meta": "linear b syllable b014 do",
+    "ipa": ""
+  },
+  {
+    "label": "𐀉",
+    "meta": "linear b syllable b051 du",
+    "ipa": ""
+  },
+  {
+    "label": "𐀊",
+    "meta": "linear b syllable b057 ja",
+    "ipa": ""
+  },
+  {
+    "label": "𐀋",
+    "meta": "linear b syllable b046 je",
+    "ipa": ""
+  },
+  {
+    "label": "𐀍",
+    "meta": "linear b syllable b036 jo",
+    "ipa": ""
+  },
+  {
+    "label": "𐀎",
+    "meta": "linear b syllable b065 ju",
+    "ipa": ""
+  },
+  {
+    "label": "𐀏",
+    "meta": "linear b syllable b077 ka",
+    "ipa": ""
+  },
+  {
+    "label": "𐀐",
+    "meta": "linear b syllable b044 ke",
+    "ipa": ""
+  },
+  {
+    "label": "𐀑",
+    "meta": "linear b syllable b067 ki",
+    "ipa": ""
+  },
+  {
+    "label": "𐀒",
+    "meta": "linear b syllable b070 ko",
+    "ipa": ""
+  },
+  {
+    "label": "𐀓",
+    "meta": "linear b syllable b081 ku",
+    "ipa": ""
+  },
+  {
+    "label": "𐀔",
+    "meta": "linear b syllable b080 ma",
+    "ipa": ""
+  },
+  {
+    "label": "𐀕",
+    "meta": "linear b syllable b013 me",
+    "ipa": ""
+  },
+  {
+    "label": "𐀖",
+    "meta": "linear b syllable b073 mi",
+    "ipa": ""
+  },
+  {
+    "label": "𐀗",
+    "meta": "linear b syllable b015 mo",
+    "ipa": ""
+  },
+  {
+    "label": "𐀘",
+    "meta": "linear b syllable b023 mu",
+    "ipa": ""
+  },
+  {
+    "label": "𐀙",
+    "meta": "linear b syllable b006 na",
+    "ipa": ""
+  },
+  {
+    "label": "𐀚",
+    "meta": "linear b syllable b024 ne",
+    "ipa": ""
+  },
+  {
+    "label": "𐀛",
+    "meta": "linear b syllable b030 ni",
+    "ipa": ""
+  },
+  {
+    "label": "𐀜",
+    "meta": "linear b syllable b052 no",
+    "ipa": ""
+  },
+  {
+    "label": "𐀝",
+    "meta": "linear b syllable b055 nu",
+    "ipa": ""
+  },
+  {
+    "label": "𐀞",
+    "meta": "linear b syllable b003 pa",
+    "ipa": ""
+  },
+  {
+    "label": "𐀟",
+    "meta": "linear b syllable b072 pe",
+    "ipa": ""
+  },
+  {
+    "label": "𐀠",
+    "meta": "linear b syllable b039 pi",
+    "ipa": ""
+  },
+  {
+    "label": "𐀡",
+    "meta": "linear b syllable b011 po",
+    "ipa": ""
+  },
+  {
+    "label": "𐀢",
+    "meta": "linear b syllable b050 pu",
+    "ipa": ""
+  },
+  {
+    "label": "𐀣",
+    "meta": "linear b syllable b016 qa",
+    "ipa": ""
+  },
+  {
+    "label": "𐀤",
+    "meta": "linear b syllable b078 qe",
+    "ipa": ""
+  },
+  {
+    "label": "𐀥",
+    "meta": "linear b syllable b021 qi",
+    "ipa": ""
+  },
+  {
+    "label": "𐀦",
+    "meta": "linear b syllable b032 qo",
+    "ipa": ""
+  },
+  {
+    "label": "𐀨",
+    "meta": "linear b syllable b060 ra",
+    "ipa": ""
+  },
+  {
+    "label": "𐀩",
+    "meta": "linear b syllable b027 re",
+    "ipa": ""
+  },
+  {
+    "label": "𐀪",
+    "meta": "linear b syllable b053 ri",
+    "ipa": ""
+  },
+  {
+    "label": "𐀫",
+    "meta": "linear b syllable b002 ro",
+    "ipa": ""
+  },
+  {
+    "label": "𐀬",
+    "meta": "linear b syllable b026 ru",
+    "ipa": ""
+  },
+  {
+    "label": "𐀭",
+    "meta": "linear b syllable b031 sa",
+    "ipa": ""
+  },
+  {
+    "label": "𐀮",
+    "meta": "linear b syllable b009 se",
+    "ipa": ""
+  },
+  {
+    "label": "𐀯",
+    "meta": "linear b syllable b041 si",
+    "ipa": ""
+  },
+  {
+    "label": "𐀰",
+    "meta": "linear b syllable b012 so",
+    "ipa": ""
+  },
+  {
+    "label": "𐀱",
+    "meta": "linear b syllable b058 su",
+    "ipa": ""
+  },
+  {
+    "label": "𐀲",
+    "meta": "linear b syllable b059 ta",
+    "ipa": ""
+  },
+  {
+    "label": "𐀳",
+    "meta": "linear b syllable b004 te",
+    "ipa": ""
+  },
+  {
+    "label": "𐀴",
+    "meta": "linear b syllable b037 ti",
+    "ipa": ""
+  },
+  {
+    "label": "𐀵",
+    "meta": "linear b syllable b005 to",
+    "ipa": ""
+  },
+  {
+    "label": "𐀶",
+    "meta": "linear b syllable b069 tu",
+    "ipa": ""
+  },
+  {
+    "label": "𐀷",
+    "meta": "linear b syllable b054 wa",
+    "ipa": ""
+  },
+  {
+    "label": "𐀸",
+    "meta": "linear b syllable b075 we",
+    "ipa": ""
+  },
+  {
+    "label": "𐀹",
+    "meta": "linear b syllable b040 wi",
+    "ipa": ""
+  },
+  {
+    "label": "𐀺",
+    "meta": "linear b syllable b042 wo",
+    "ipa": ""
+  },
+  {
+    "label": "𐀼",
+    "meta": "linear b syllable b017 za",
+    "ipa": ""
+  },
+  {
+    "label": "𐀽",
+    "meta": "linear b syllable b074 ze",
+    "ipa": ""
+  },
+  {
+    "label": "𐀿",
+    "meta": "linear b syllable b020 zo",
+    "ipa": ""
+  },
+  {
+    "label": "𐁀",
+    "meta": "linear b syllable b025 a2",
+    "ipa": ""
+  },
+  {
+    "label": "𐁁",
+    "meta": "linear b syllable b043 a3",
+    "ipa": ""
+  },
+  {
+    "label": "𐁂",
+    "meta": "linear b syllable b085 au",
+    "ipa": ""
+  },
+  {
+    "label": "𐁃",
+    "meta": "linear b syllable b071 dwe",
+    "ipa": ""
+  },
+  {
+    "label": "𐁄",
+    "meta": "linear b syllable b090 dwo",
+    "ipa": ""
+  },
+  {
+    "label": "𐁅",
+    "meta": "linear b syllable b048 nwa",
+    "ipa": ""
+  },
+  {
+    "label": "𐁆",
+    "meta": "linear b syllable b029 pu2",
+    "ipa": ""
+  },
+  {
+    "label": "𐁇",
+    "meta": "linear b syllable b062 pte",
+    "ipa": ""
+  },
+  {
+    "label": "𐁈",
+    "meta": "linear b syllable b076 ra2",
+    "ipa": ""
+  },
+  {
+    "label": "𐁉",
+    "meta": "linear b syllable b033 ra3",
+    "ipa": ""
+  },
+  {
+    "label": "𐁊",
+    "meta": "linear b syllable b068 ro2",
+    "ipa": ""
+  },
+  {
+    "label": "𐁋",
+    "meta": "linear b syllable b066 ta2",
+    "ipa": ""
+  },
+  {
+    "label": "𐁌",
+    "meta": "linear b syllable b087 twe",
+    "ipa": ""
+  },
+  {
+    "label": "𐁍",
+    "meta": "linear b syllable b091 two",
+    "ipa": ""
+  },
+  {
+    "label": "𐁐",
+    "meta": "linear b symbol b018",
+    "ipa": ""
+  },
+  {
+    "label": "𐁑",
+    "meta": "linear b symbol b019",
+    "ipa": ""
+  },
+  {
+    "label": "𐁒",
+    "meta": "linear b symbol b022",
+    "ipa": ""
+  },
+  {
+    "label": "𐁓",
+    "meta": "linear b symbol b034",
+    "ipa": ""
+  },
+  {
+    "label": "𐁔",
+    "meta": "linear b symbol b047",
+    "ipa": ""
+  },
+  {
+    "label": "𐁕",
+    "meta": "linear b symbol b049",
+    "ipa": ""
+  },
+  {
+    "label": "𐁖",
+    "meta": "linear b symbol b056",
+    "ipa": ""
+  },
+  {
+    "label": "𐁗",
+    "meta": "linear b symbol b063",
+    "ipa": ""
+  },
+  {
+    "label": "𐁘",
+    "meta": "linear b symbol b064",
+    "ipa": ""
+  },
+  {
+    "label": "𐁙",
+    "meta": "linear b symbol b079",
+    "ipa": ""
+  },
+  {
+    "label": "𐁚",
+    "meta": "linear b symbol b082",
+    "ipa": ""
+  },
+  {
+    "label": "𐁛",
+    "meta": "linear b symbol b083",
+    "ipa": ""
+  },
+  {
+    "label": "𐁜",
+    "meta": "linear b symbol b086",
+    "ipa": ""
+  },
+  {
+    "label": "𐁝",
+    "meta": "linear b symbol b089",
+    "ipa": ""
+  },
+  {
+    "label": "𐂀",
+    "meta": "linear b ideogram b100 man",
+    "ipa": ""
+  },
+  {
+    "label": "𐂁",
+    "meta": "linear b ideogram b102 woman",
+    "ipa": ""
+  },
+  {
+    "label": "𐂂",
+    "meta": "linear b ideogram b104 deer",
+    "ipa": ""
+  },
+  {
+    "label": "𐂃",
+    "meta": "linear b ideogram b105 equid",
+    "ipa": ""
+  },
+  {
+    "label": "𐂄",
+    "meta": "linear b ideogram b105f mare",
+    "ipa": ""
+  },
+  {
+    "label": "𐂅",
+    "meta": "linear b ideogram b105m stallion",
+    "ipa": ""
+  },
+  {
+    "label": "𐂆",
+    "meta": "linear b ideogram b106f ewe",
+    "ipa": ""
+  },
+  {
+    "label": "𐂇",
+    "meta": "linear b ideogram b106m ram",
+    "ipa": ""
+  },
+  {
+    "label": "𐂈",
+    "meta": "linear b ideogram b107f she-goat",
+    "ipa": ""
+  },
+  {
+    "label": "𐂉",
+    "meta": "linear b ideogram b107m he-goat",
+    "ipa": ""
+  },
+  {
+    "label": "𐂊",
+    "meta": "linear b ideogram b108f sow",
+    "ipa": ""
+  },
+  {
+    "label": "𐂋",
+    "meta": "linear b ideogram b108m boar",
+    "ipa": ""
+  },
+  {
+    "label": "𐂌",
+    "meta": "linear b ideogram b109f cow",
+    "ipa": ""
+  },
+  {
+    "label": "𐂍",
+    "meta": "linear b ideogram b109m bull",
+    "ipa": ""
+  },
+  {
+    "label": "𐂎",
+    "meta": "linear b ideogram b120 wheat",
+    "ipa": ""
+  },
+  {
+    "label": "𐂏",
+    "meta": "linear b ideogram b121 barley",
+    "ipa": ""
+  },
+  {
+    "label": "𐂐",
+    "meta": "linear b ideogram b122 olive",
+    "ipa": ""
+  },
+  {
+    "label": "𐂑",
+    "meta": "linear b ideogram b123 spice",
+    "ipa": ""
+  },
+  {
+    "label": "𐂒",
+    "meta": "linear b ideogram b125 cyperus",
+    "ipa": ""
+  },
+  {
+    "label": "𐂓",
+    "meta": "linear b monogram b127 kapo",
+    "ipa": ""
+  },
+  {
+    "label": "𐂔",
+    "meta": "linear b monogram b128 kanako",
+    "ipa": ""
+  },
+  {
+    "label": "𐂕",
+    "meta": "linear b ideogram b130 oil",
+    "ipa": ""
+  },
+  {
+    "label": "𐂖",
+    "meta": "linear b ideogram b131 wine",
+    "ipa": ""
+  },
+  {
+    "label": "𐂗",
+    "meta": "linear b ideogram b132",
+    "ipa": ""
+  },
+  {
+    "label": "𐂘",
+    "meta": "linear b monogram b133 arepa",
+    "ipa": ""
+  },
+  {
+    "label": "𐂙",
+    "meta": "linear b monogram b135 meri",
+    "ipa": ""
+  },
+  {
+    "label": "𐂚",
+    "meta": "linear b ideogram b140 bronze",
+    "ipa": ""
+  },
+  {
+    "label": "𐂛",
+    "meta": "linear b ideogram b141 gold",
+    "ipa": ""
+  },
+  {
+    "label": "𐂜",
+    "meta": "linear b ideogram b142",
+    "ipa": ""
+  },
+  {
+    "label": "𐂝",
+    "meta": "linear b ideogram b145 wool",
+    "ipa": ""
+  },
+  {
+    "label": "𐂞",
+    "meta": "linear b ideogram b146",
+    "ipa": ""
+  },
+  {
+    "label": "𐂟",
+    "meta": "linear b ideogram b150",
+    "ipa": ""
+  },
+  {
+    "label": "𐂠",
+    "meta": "linear b ideogram b151 horn",
+    "ipa": ""
+  },
+  {
+    "label": "𐂡",
+    "meta": "linear b ideogram b152",
+    "ipa": ""
+  },
+  {
+    "label": "𐂢",
+    "meta": "linear b ideogram b153",
+    "ipa": ""
+  },
+  {
+    "label": "𐂣",
+    "meta": "linear b ideogram b154",
+    "ipa": ""
+  },
+  {
+    "label": "𐂤",
+    "meta": "linear b monogram b156 turo2",
+    "ipa": ""
+  },
+  {
+    "label": "𐂥",
+    "meta": "linear b ideogram b157",
+    "ipa": ""
+  },
+  {
+    "label": "𐂦",
+    "meta": "linear b ideogram b158",
+    "ipa": ""
+  },
+  {
+    "label": "𐂧",
+    "meta": "linear b ideogram b159 cloth",
+    "ipa": ""
+  },
+  {
+    "label": "𐂨",
+    "meta": "linear b ideogram b160",
+    "ipa": ""
+  },
+  {
+    "label": "𐂩",
+    "meta": "linear b ideogram b161",
+    "ipa": ""
+  },
+  {
+    "label": "𐂪",
+    "meta": "linear b ideogram b162 garment",
+    "ipa": ""
+  },
+  {
+    "label": "𐂫",
+    "meta": "linear b ideogram b163 armour",
+    "ipa": ""
+  },
+  {
+    "label": "𐂬",
+    "meta": "linear b ideogram b164",
+    "ipa": ""
+  },
+  {
+    "label": "𐂭",
+    "meta": "linear b ideogram b165",
+    "ipa": ""
+  },
+  {
+    "label": "𐂮",
+    "meta": "linear b ideogram b166",
+    "ipa": ""
+  },
+  {
+    "label": "𐂯",
+    "meta": "linear b ideogram b167",
+    "ipa": ""
+  },
+  {
+    "label": "𐂰",
+    "meta": "linear b ideogram b168",
+    "ipa": ""
+  },
+  {
+    "label": "𐂱",
+    "meta": "linear b ideogram b169",
+    "ipa": ""
+  },
+  {
+    "label": "𐂲",
+    "meta": "linear b ideogram b170",
+    "ipa": ""
+  },
+  {
+    "label": "𐂳",
+    "meta": "linear b ideogram b171",
+    "ipa": ""
+  },
+  {
+    "label": "𐂴",
+    "meta": "linear b ideogram b172",
+    "ipa": ""
+  },
+  {
+    "label": "𐂵",
+    "meta": "linear b ideogram b173 month",
+    "ipa": ""
+  },
+  {
+    "label": "𐂶",
+    "meta": "linear b ideogram b174",
+    "ipa": ""
+  },
+  {
+    "label": "𐂷",
+    "meta": "linear b ideogram b176 tree",
+    "ipa": ""
+  },
+  {
+    "label": "𐂸",
+    "meta": "linear b ideogram b177",
+    "ipa": ""
+  },
+  {
+    "label": "𐂹",
+    "meta": "linear b ideogram b178",
+    "ipa": ""
+  },
+  {
+    "label": "𐂺",
+    "meta": "linear b ideogram b179",
+    "ipa": ""
+  },
+  {
+    "label": "𐂻",
+    "meta": "linear b ideogram b180",
+    "ipa": ""
+  },
+  {
+    "label": "𐂼",
+    "meta": "linear b ideogram b181",
+    "ipa": ""
+  },
+  {
+    "label": "𐂽",
+    "meta": "linear b ideogram b182",
+    "ipa": ""
+  },
+  {
+    "label": "𐂾",
+    "meta": "linear b ideogram b183",
+    "ipa": ""
+  },
+  {
+    "label": "𐂿",
+    "meta": "linear b ideogram b184",
+    "ipa": ""
+  },
+  {
+    "label": "𐃀",
+    "meta": "linear b ideogram b185",
+    "ipa": ""
+  },
+  {
+    "label": "𐃁",
+    "meta": "linear b ideogram b189",
+    "ipa": ""
+  },
+  {
+    "label": "𐃂",
+    "meta": "linear b ideogram b190",
+    "ipa": ""
+  },
+  {
+    "label": "𐃃",
+    "meta": "linear b ideogram b191 helmet",
+    "ipa": ""
+  },
+  {
+    "label": "𐃄",
+    "meta": "linear b ideogram b220 footstool",
+    "ipa": ""
+  },
+  {
+    "label": "𐃅",
+    "meta": "linear b ideogram b225 bathtub",
+    "ipa": ""
+  },
+  {
+    "label": "𐃆",
+    "meta": "linear b ideogram b230 spear",
+    "ipa": ""
+  },
+  {
+    "label": "𐃇",
+    "meta": "linear b ideogram b231 arrow",
+    "ipa": ""
+  },
+  {
+    "label": "𐃈",
+    "meta": "linear b ideogram b232",
+    "ipa": ""
+  },
+  {
+    "label": "𐃉",
+    "meta": "linear b ideogram b233 sword",
+    "ipa": ""
+  },
+  {
+    "label": "𐃊",
+    "meta": "linear b ideogram b234",
+    "ipa": ""
+  },
+  {
+    "label": "𐃋",
+    "meta": "linear b ideogram b236",
+    "ipa": ""
+  },
+  {
+    "label": "𐃌",
+    "meta": "linear b ideogram b240 wheeled chariot",
+    "ipa": ""
+  },
+  {
+    "label": "𐃍",
+    "meta": "linear b ideogram b241 chariot",
+    "ipa": ""
+  },
+  {
+    "label": "𐃎",
+    "meta": "linear b ideogram b242 chariot frame",
+    "ipa": ""
+  },
+  {
+    "label": "𐃏",
+    "meta": "linear b ideogram b243 wheel",
+    "ipa": ""
+  },
+  {
+    "label": "𐃐",
+    "meta": "linear b ideogram b245",
+    "ipa": ""
+  },
+  {
+    "label": "𐃑",
+    "meta": "linear b ideogram b246",
+    "ipa": ""
+  },
+  {
+    "label": "𐃒",
+    "meta": "linear b monogram b247 dipte",
+    "ipa": ""
+  },
+  {
+    "label": "𐃓",
+    "meta": "linear b ideogram b248",
+    "ipa": ""
+  },
+  {
+    "label": "𐃔",
+    "meta": "linear b ideogram b249",
+    "ipa": ""
+  },
+  {
+    "label": "𐃕",
+    "meta": "linear b ideogram b251",
+    "ipa": ""
+  },
+  {
+    "label": "𐃖",
+    "meta": "linear b ideogram b252",
+    "ipa": ""
+  },
+  {
+    "label": "𐃗",
+    "meta": "linear b ideogram b253",
+    "ipa": ""
+  },
+  {
+    "label": "𐃘",
+    "meta": "linear b ideogram b254 dart",
+    "ipa": ""
+  },
+  {
+    "label": "𐃙",
+    "meta": "linear b ideogram b255",
+    "ipa": ""
+  },
+  {
+    "label": "𐃚",
+    "meta": "linear b ideogram b256",
+    "ipa": ""
+  },
+  {
+    "label": "𐃛",
+    "meta": "linear b ideogram b257",
+    "ipa": ""
+  },
+  {
+    "label": "𐃜",
+    "meta": "linear b ideogram b258",
+    "ipa": ""
+  },
+  {
+    "label": "𐃝",
+    "meta": "linear b ideogram b259",
+    "ipa": ""
+  },
+  {
+    "label": "𐃞",
+    "meta": "linear b ideogram vessel b155",
+    "ipa": ""
+  },
+  {
+    "label": "𐃟",
+    "meta": "linear b ideogram vessel b200",
+    "ipa": ""
+  },
+  {
+    "label": "𐃠",
+    "meta": "linear b ideogram vessel b201",
+    "ipa": ""
+  },
+  {
+    "label": "𐃡",
+    "meta": "linear b ideogram vessel b202",
+    "ipa": ""
+  },
+  {
+    "label": "𐃢",
+    "meta": "linear b ideogram vessel b203",
+    "ipa": ""
+  },
+  {
+    "label": "𐃣",
+    "meta": "linear b ideogram vessel b204",
+    "ipa": ""
+  },
+  {
+    "label": "𐃤",
+    "meta": "linear b ideogram vessel b205",
+    "ipa": ""
+  },
+  {
+    "label": "𐃥",
+    "meta": "linear b ideogram vessel b206",
+    "ipa": ""
+  },
+  {
+    "label": "𐃦",
+    "meta": "linear b ideogram vessel b207",
+    "ipa": ""
+  },
+  {
+    "label": "𐃧",
+    "meta": "linear b ideogram vessel b208",
+    "ipa": ""
+  },
+  {
+    "label": "𐃨",
+    "meta": "linear b ideogram vessel b209",
+    "ipa": ""
+  },
+  {
+    "label": "𐃩",
+    "meta": "linear b ideogram vessel b210",
+    "ipa": ""
+  },
+  {
+    "label": "𐃪",
+    "meta": "linear b ideogram vessel b211",
+    "ipa": ""
+  },
+  {
+    "label": "𐃫",
+    "meta": "linear b ideogram vessel b212",
+    "ipa": ""
+  },
+  {
+    "label": "𐃬",
+    "meta": "linear b ideogram vessel b213",
+    "ipa": ""
+  },
+  {
+    "label": "𐃭",
+    "meta": "linear b ideogram vessel b214",
+    "ipa": ""
+  },
+  {
+    "label": "𐃮",
+    "meta": "linear b ideogram vessel b215",
+    "ipa": ""
+  },
+  {
+    "label": "𐃯",
+    "meta": "linear b ideogram vessel b216",
+    "ipa": ""
+  },
+  {
+    "label": "𐃰",
+    "meta": "linear b ideogram vessel b217",
+    "ipa": ""
+  },
+  {
+    "label": "𐃱",
+    "meta": "linear b ideogram vessel b218",
+    "ipa": ""
+  },
+  {
+    "label": "𐃲",
+    "meta": "linear b ideogram vessel b219",
+    "ipa": ""
+  },
+  {
+    "label": "𐃳",
+    "meta": "linear b ideogram vessel b221",
+    "ipa": ""
+  },
+  {
+    "label": "𐃴",
+    "meta": "linear b ideogram vessel b222",
+    "ipa": ""
+  },
+  {
+    "label": "𐃵",
+    "meta": "linear b ideogram vessel b226",
+    "ipa": ""
+  },
+  {
+    "label": "𐃶",
+    "meta": "linear b ideogram vessel b227",
+    "ipa": ""
+  },
+  {
+    "label": "𐃷",
+    "meta": "linear b ideogram vessel b228",
+    "ipa": ""
+  },
+  {
+    "label": "𐃸",
+    "meta": "linear b ideogram vessel b229",
+    "ipa": ""
+  },
+  {
+    "label": "𐃹",
+    "meta": "linear b ideogram vessel b250",
+    "ipa": ""
+  },
+  {
+    "label": "𐃺",
+    "meta": "linear b ideogram vessel b305",
+    "ipa": ""
+  }
+]

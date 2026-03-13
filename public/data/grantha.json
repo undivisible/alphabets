@@ -1,0 +1,427 @@
+[
+  {
+    "label": "𑌀",
+    "meta": "grantha sign combining anusvara above",
+    "ipa": ""
+  },
+  {
+    "label": "𑌁",
+    "meta": "grantha sign candrabindu",
+    "ipa": ""
+  },
+  {
+    "label": "𑌂",
+    "meta": "grantha sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑌃",
+    "meta": "grantha sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "𑌅",
+    "meta": "grantha letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑌆",
+    "meta": "grantha letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑌇",
+    "meta": "grantha letter i",
+    "ipa": ""
+  },
+  {
+    "label": "𑌈",
+    "meta": "grantha letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑌉",
+    "meta": "grantha letter u",
+    "ipa": ""
+  },
+  {
+    "label": "𑌊",
+    "meta": "grantha letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑌋",
+    "meta": "grantha letter vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑌌",
+    "meta": "grantha letter vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑌏",
+    "meta": "grantha letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "𑌐",
+    "meta": "grantha letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑌓",
+    "meta": "grantha letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "𑌔",
+    "meta": "grantha letter au",
+    "ipa": ""
+  },
+  {
+    "label": "𑌕",
+    "meta": "grantha letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑌖",
+    "meta": "grantha letter kha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌗",
+    "meta": "grantha letter ga",
+    "ipa": ""
+  },
+  {
+    "label": "𑌘",
+    "meta": "grantha letter gha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌙",
+    "meta": "grantha letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "𑌚",
+    "meta": "grantha letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "𑌛",
+    "meta": "grantha letter cha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌜",
+    "meta": "grantha letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "𑌝",
+    "meta": "grantha letter jha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌞",
+    "meta": "grantha letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "𑌟",
+    "meta": "grantha letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "𑌠",
+    "meta": "grantha letter ttha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌡",
+    "meta": "grantha letter dda",
+    "ipa": ""
+  },
+  {
+    "label": "𑌢",
+    "meta": "grantha letter ddha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌣",
+    "meta": "grantha letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "𑌤",
+    "meta": "grantha letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "𑌥",
+    "meta": "grantha letter tha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌦",
+    "meta": "grantha letter da",
+    "ipa": ""
+  },
+  {
+    "label": "𑌧",
+    "meta": "grantha letter dha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌨",
+    "meta": "grantha letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑌪",
+    "meta": "grantha letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "𑌫",
+    "meta": "grantha letter pha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌬",
+    "meta": "grantha letter ba",
+    "ipa": ""
+  },
+  {
+    "label": "𑌭",
+    "meta": "grantha letter bha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌮",
+    "meta": "grantha letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "𑌯",
+    "meta": "grantha letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "𑌰",
+    "meta": "grantha letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "𑌲",
+    "meta": "grantha letter la",
+    "ipa": ""
+  },
+  {
+    "label": "𑌳",
+    "meta": "grantha letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "𑌵",
+    "meta": "grantha letter va",
+    "ipa": ""
+  },
+  {
+    "label": "𑌶",
+    "meta": "grantha letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌷",
+    "meta": "grantha letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "𑌸",
+    "meta": "grantha letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "𑌹",
+    "meta": "grantha letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌼",
+    "meta": "grantha sign nukta",
+    "ipa": ""
+  },
+  {
+    "label": "𑌽",
+    "meta": "grantha sign avagraha",
+    "ipa": ""
+  },
+  {
+    "label": "𑌾",
+    "meta": "grantha vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "𑌿",
+    "meta": "grantha vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "𑍀",
+    "meta": "grantha vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "𑍁",
+    "meta": "grantha vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "𑍂",
+    "meta": "grantha vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "𑍃",
+    "meta": "grantha vowel sign vocalic r",
+    "ipa": ""
+  },
+  {
+    "label": "𑍄",
+    "meta": "grantha vowel sign vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑍇",
+    "meta": "grantha vowel sign ee",
+    "ipa": ""
+  },
+  {
+    "label": "𑍈",
+    "meta": "grantha vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "𑍋",
+    "meta": "grantha vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "𑍌",
+    "meta": "grantha vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "𑍍",
+    "meta": "grantha sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "𑍐",
+    "meta": "grantha om",
+    "ipa": ""
+  },
+  {
+    "label": "𑍗",
+    "meta": "grantha au length mark",
+    "ipa": ""
+  },
+  {
+    "label": "𑍝",
+    "meta": "grantha sign pluta",
+    "ipa": ""
+  },
+  {
+    "label": "𑍞",
+    "meta": "grantha letter vedic anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑍟",
+    "meta": "grantha letter vedic double anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "𑍠",
+    "meta": "grantha letter vocalic rr",
+    "ipa": ""
+  },
+  {
+    "label": "𑍡",
+    "meta": "grantha letter vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑍢",
+    "meta": "grantha vowel sign vocalic l",
+    "ipa": ""
+  },
+  {
+    "label": "𑍣",
+    "meta": "grantha vowel sign vocalic ll",
+    "ipa": ""
+  },
+  {
+    "label": "𑍦",
+    "meta": "combining grantha digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "𑍧",
+    "meta": "combining grantha digit one",
+    "ipa": ""
+  },
+  {
+    "label": "𑍨",
+    "meta": "combining grantha digit two",
+    "ipa": ""
+  },
+  {
+    "label": "𑍩",
+    "meta": "combining grantha digit three",
+    "ipa": ""
+  },
+  {
+    "label": "𑍪",
+    "meta": "combining grantha digit four",
+    "ipa": ""
+  },
+  {
+    "label": "𑍫",
+    "meta": "combining grantha digit five",
+    "ipa": ""
+  },
+  {
+    "label": "𑍬",
+    "meta": "combining grantha digit six",
+    "ipa": ""
+  },
+  {
+    "label": "𑍰",
+    "meta": "combining grantha letter a",
+    "ipa": ""
+  },
+  {
+    "label": "𑍱",
+    "meta": "combining grantha letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "𑍲",
+    "meta": "combining grantha letter na",
+    "ipa": ""
+  },
+  {
+    "label": "𑍳",
+    "meta": "combining grantha letter vi",
+    "ipa": ""
+  },
+  {
+    "label": "𑍴",
+    "meta": "combining grantha letter pa",
+    "ipa": ""
+  }
+]

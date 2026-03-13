@@ -1,0 +1,617 @@
+[
+  {
+    "label": "ஂ",
+    "meta": "tamil sign anusvara",
+    "ipa": ""
+  },
+  {
+    "label": "ஃ",
+    "meta": "tamil sign visarga",
+    "ipa": ""
+  },
+  {
+    "label": "அ",
+    "meta": "tamil letter a",
+    "ipa": ""
+  },
+  {
+    "label": "ஆ",
+    "meta": "tamil letter aa",
+    "ipa": ""
+  },
+  {
+    "label": "இ",
+    "meta": "tamil letter i",
+    "ipa": ""
+  },
+  {
+    "label": "ஈ",
+    "meta": "tamil letter ii",
+    "ipa": ""
+  },
+  {
+    "label": "உ",
+    "meta": "tamil letter u",
+    "ipa": ""
+  },
+  {
+    "label": "ஊ",
+    "meta": "tamil letter uu",
+    "ipa": ""
+  },
+  {
+    "label": "எ",
+    "meta": "tamil letter e",
+    "ipa": ""
+  },
+  {
+    "label": "ஏ",
+    "meta": "tamil letter ee",
+    "ipa": ""
+  },
+  {
+    "label": "ஐ",
+    "meta": "tamil letter ai",
+    "ipa": ""
+  },
+  {
+    "label": "ஒ",
+    "meta": "tamil letter o",
+    "ipa": ""
+  },
+  {
+    "label": "ஓ",
+    "meta": "tamil letter oo",
+    "ipa": ""
+  },
+  {
+    "label": "ஔ",
+    "meta": "tamil letter au",
+    "ipa": ""
+  },
+  {
+    "label": "க",
+    "meta": "tamil letter ka",
+    "ipa": ""
+  },
+  {
+    "label": "ங",
+    "meta": "tamil letter nga",
+    "ipa": ""
+  },
+  {
+    "label": "ச",
+    "meta": "tamil letter ca",
+    "ipa": ""
+  },
+  {
+    "label": "ஜ",
+    "meta": "tamil letter ja",
+    "ipa": ""
+  },
+  {
+    "label": "ஞ",
+    "meta": "tamil letter nya",
+    "ipa": ""
+  },
+  {
+    "label": "ட",
+    "meta": "tamil letter tta",
+    "ipa": ""
+  },
+  {
+    "label": "ண",
+    "meta": "tamil letter nna",
+    "ipa": ""
+  },
+  {
+    "label": "த",
+    "meta": "tamil letter ta",
+    "ipa": ""
+  },
+  {
+    "label": "ந",
+    "meta": "tamil letter na",
+    "ipa": ""
+  },
+  {
+    "label": "ன",
+    "meta": "tamil letter nnna",
+    "ipa": ""
+  },
+  {
+    "label": "ப",
+    "meta": "tamil letter pa",
+    "ipa": ""
+  },
+  {
+    "label": "ம",
+    "meta": "tamil letter ma",
+    "ipa": ""
+  },
+  {
+    "label": "ய",
+    "meta": "tamil letter ya",
+    "ipa": ""
+  },
+  {
+    "label": "ர",
+    "meta": "tamil letter ra",
+    "ipa": ""
+  },
+  {
+    "label": "ற",
+    "meta": "tamil letter rra",
+    "ipa": ""
+  },
+  {
+    "label": "ல",
+    "meta": "tamil letter la",
+    "ipa": ""
+  },
+  {
+    "label": "ள",
+    "meta": "tamil letter lla",
+    "ipa": ""
+  },
+  {
+    "label": "ழ",
+    "meta": "tamil letter llla",
+    "ipa": ""
+  },
+  {
+    "label": "வ",
+    "meta": "tamil letter va",
+    "ipa": ""
+  },
+  {
+    "label": "ஶ",
+    "meta": "tamil letter sha",
+    "ipa": ""
+  },
+  {
+    "label": "ஷ",
+    "meta": "tamil letter ssa",
+    "ipa": ""
+  },
+  {
+    "label": "ஸ",
+    "meta": "tamil letter sa",
+    "ipa": ""
+  },
+  {
+    "label": "ஹ",
+    "meta": "tamil letter ha",
+    "ipa": ""
+  },
+  {
+    "label": "ா",
+    "meta": "tamil vowel sign aa",
+    "ipa": ""
+  },
+  {
+    "label": "ி",
+    "meta": "tamil vowel sign i",
+    "ipa": ""
+  },
+  {
+    "label": "ீ",
+    "meta": "tamil vowel sign ii",
+    "ipa": ""
+  },
+  {
+    "label": "ு",
+    "meta": "tamil vowel sign u",
+    "ipa": ""
+  },
+  {
+    "label": "ூ",
+    "meta": "tamil vowel sign uu",
+    "ipa": ""
+  },
+  {
+    "label": "ெ",
+    "meta": "tamil vowel sign e",
+    "ipa": ""
+  },
+  {
+    "label": "ே",
+    "meta": "tamil vowel sign ee",
+    "ipa": ""
+  },
+  {
+    "label": "ை",
+    "meta": "tamil vowel sign ai",
+    "ipa": ""
+  },
+  {
+    "label": "ொ",
+    "meta": "tamil vowel sign o",
+    "ipa": ""
+  },
+  {
+    "label": "ோ",
+    "meta": "tamil vowel sign oo",
+    "ipa": ""
+  },
+  {
+    "label": "ௌ",
+    "meta": "tamil vowel sign au",
+    "ipa": ""
+  },
+  {
+    "label": "்",
+    "meta": "tamil sign virama",
+    "ipa": ""
+  },
+  {
+    "label": "ௐ",
+    "meta": "tamil om",
+    "ipa": ""
+  },
+  {
+    "label": "ௗ",
+    "meta": "tamil au length mark",
+    "ipa": ""
+  },
+  {
+    "label": "௦",
+    "meta": "tamil digit zero",
+    "ipa": ""
+  },
+  {
+    "label": "௧",
+    "meta": "tamil digit one",
+    "ipa": ""
+  },
+  {
+    "label": "௨",
+    "meta": "tamil digit two",
+    "ipa": ""
+  },
+  {
+    "label": "௩",
+    "meta": "tamil digit three",
+    "ipa": ""
+  },
+  {
+    "label": "௪",
+    "meta": "tamil digit four",
+    "ipa": ""
+  },
+  {
+    "label": "௫",
+    "meta": "tamil digit five",
+    "ipa": ""
+  },
+  {
+    "label": "௬",
+    "meta": "tamil digit six",
+    "ipa": ""
+  },
+  {
+    "label": "௭",
+    "meta": "tamil digit seven",
+    "ipa": ""
+  },
+  {
+    "label": "௮",
+    "meta": "tamil digit eight",
+    "ipa": ""
+  },
+  {
+    "label": "௯",
+    "meta": "tamil digit nine",
+    "ipa": ""
+  },
+  {
+    "label": "௰",
+    "meta": "tamil number ten",
+    "ipa": ""
+  },
+  {
+    "label": "௱",
+    "meta": "tamil number one hundred",
+    "ipa": ""
+  },
+  {
+    "label": "௲",
+    "meta": "tamil number one thousand",
+    "ipa": ""
+  },
+  {
+    "label": "௳",
+    "meta": "tamil day sign",
+    "ipa": ""
+  },
+  {
+    "label": "௴",
+    "meta": "tamil month sign",
+    "ipa": ""
+  },
+  {
+    "label": "௵",
+    "meta": "tamil year sign",
+    "ipa": ""
+  },
+  {
+    "label": "௶",
+    "meta": "tamil debit sign",
+    "ipa": ""
+  },
+  {
+    "label": "௷",
+    "meta": "tamil credit sign",
+    "ipa": ""
+  },
+  {
+    "label": "௸",
+    "meta": "tamil as above sign",
+    "ipa": ""
+  },
+  {
+    "label": "௹",
+    "meta": "tamil rupee sign",
+    "ipa": ""
+  },
+  {
+    "label": "௺",
+    "meta": "tamil number sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿀",
+    "meta": "tamil fraction one three-hundred-and-twentieth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿁",
+    "meta": "tamil fraction one one-hundred-and-sixtieth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿂",
+    "meta": "tamil fraction one eightieth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿃",
+    "meta": "tamil fraction one sixty-fourth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿄",
+    "meta": "tamil fraction one fortieth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿅",
+    "meta": "tamil fraction one thirty-second",
+    "ipa": ""
+  },
+  {
+    "label": "𑿆",
+    "meta": "tamil fraction three eightieths",
+    "ipa": ""
+  },
+  {
+    "label": "𑿇",
+    "meta": "tamil fraction three sixty-fourths",
+    "ipa": ""
+  },
+  {
+    "label": "𑿈",
+    "meta": "tamil fraction one twentieth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿉",
+    "meta": "tamil fraction one sixteenth-1",
+    "ipa": ""
+  },
+  {
+    "label": "𑿊",
+    "meta": "tamil fraction one sixteenth-2",
+    "ipa": ""
+  },
+  {
+    "label": "𑿋",
+    "meta": "tamil fraction one tenth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿌",
+    "meta": "tamil fraction one eighth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿍",
+    "meta": "tamil fraction three twentieths",
+    "ipa": ""
+  },
+  {
+    "label": "𑿎",
+    "meta": "tamil fraction three sixteenths",
+    "ipa": ""
+  },
+  {
+    "label": "𑿏",
+    "meta": "tamil fraction one fifth",
+    "ipa": ""
+  },
+  {
+    "label": "𑿐",
+    "meta": "tamil fraction one quarter",
+    "ipa": ""
+  },
+  {
+    "label": "𑿑",
+    "meta": "tamil fraction one half-1",
+    "ipa": ""
+  },
+  {
+    "label": "𑿒",
+    "meta": "tamil fraction one half-2",
+    "ipa": ""
+  },
+  {
+    "label": "𑿓",
+    "meta": "tamil fraction three quarters",
+    "ipa": ""
+  },
+  {
+    "label": "𑿔",
+    "meta": "tamil fraction downscaling factor kiizh",
+    "ipa": ""
+  },
+  {
+    "label": "𑿕",
+    "meta": "tamil sign nel",
+    "ipa": ""
+  },
+  {
+    "label": "𑿖",
+    "meta": "tamil sign cevitu",
+    "ipa": ""
+  },
+  {
+    "label": "𑿗",
+    "meta": "tamil sign aazhaakku",
+    "ipa": ""
+  },
+  {
+    "label": "𑿘",
+    "meta": "tamil sign uzhakku",
+    "ipa": ""
+  },
+  {
+    "label": "𑿙",
+    "meta": "tamil sign muuvuzhakku",
+    "ipa": ""
+  },
+  {
+    "label": "𑿚",
+    "meta": "tamil sign kuruni",
+    "ipa": ""
+  },
+  {
+    "label": "𑿛",
+    "meta": "tamil sign pathakku",
+    "ipa": ""
+  },
+  {
+    "label": "𑿜",
+    "meta": "tamil sign mukkuruni",
+    "ipa": ""
+  },
+  {
+    "label": "𑿝",
+    "meta": "tamil sign kaacu",
+    "ipa": ""
+  },
+  {
+    "label": "𑿞",
+    "meta": "tamil sign panam",
+    "ipa": ""
+  },
+  {
+    "label": "𑿟",
+    "meta": "tamil sign pon",
+    "ipa": ""
+  },
+  {
+    "label": "𑿠",
+    "meta": "tamil sign varaakan",
+    "ipa": ""
+  },
+  {
+    "label": "𑿡",
+    "meta": "tamil sign paaram",
+    "ipa": ""
+  },
+  {
+    "label": "𑿢",
+    "meta": "tamil sign kuzhi",
+    "ipa": ""
+  },
+  {
+    "label": "𑿣",
+    "meta": "tamil sign veli",
+    "ipa": ""
+  },
+  {
+    "label": "𑿤",
+    "meta": "tamil wet cultivation sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿥",
+    "meta": "tamil dry cultivation sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿦",
+    "meta": "tamil land sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿧",
+    "meta": "tamil salt pan sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿨",
+    "meta": "tamil traditional credit sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿩",
+    "meta": "tamil traditional number sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿪",
+    "meta": "tamil current sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿫",
+    "meta": "tamil and odd sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿬",
+    "meta": "tamil spent sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿭",
+    "meta": "tamil total sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿮",
+    "meta": "tamil in possession sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿯",
+    "meta": "tamil starting from sign",
+    "ipa": ""
+  },
+  {
+    "label": "𑿰",
+    "meta": "tamil sign muthaliya",
+    "ipa": ""
+  },
+  {
+    "label": "𑿱",
+    "meta": "tamil sign vakaiyaraa",
+    "ipa": ""
+  },
+  {
+    "label": "𑿿",
+    "meta": "tamil punctuation end of text",
+    "ipa": ""
+  }
+]
