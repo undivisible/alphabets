@@ -8,15 +8,15 @@ export function GlyphTile({ item, isKnown, onToggle, query, isKanji = false, inv
   const haystack = isKanji ? `${label} ${primary} ${readings.on.join(" ")} ${readings.kun.join(" ")}`.toLowerCase() : `${item.label} ${item.meta || ""} ${item.ipa || ""}`.toLowerCase();
   const matches = !query || haystack.includes(query.toLowerCase());
   
-  if (invisible) return <div style={style} className="w-full border-r border-b border-zinc-800 bg-[#111111]" />;
+  if (invisible) return <div style={style} className="w-full border-r border-b border-zinc-800 bg-[#111111] transition-all duration-500 ease-in-out" />;
   
   return (
-    <button onClick={onToggle} style={style} className={`group relative z-0 w-full border-r border-b transition-all duration-200 ${isKnown ? "border-zinc-800 bg-[#151515] opacity-28" : matches ? "border-zinc-600 bg-[#1c1c1c] opacity-100" : "border-zinc-800 bg-[#171717] opacity-62"} hover:z-10 hover:opacity-100 active:scale-[0.99]`}>
-      <span className="pointer-events-none absolute inset-0 border border-transparent transition-colors duration-200 group-hover:border-zinc-300" />
-      <div className="flex h-full flex-col justify-center px-2 md:px-3">
-        <div className="text-center text-4xl font-light text-zinc-100 md:text-5xl">{label}</div>
-        {showLatin ? <div className="mt-2 line-clamp-2 min-h-[1.1rem] text-center text-[9px] uppercase tracking-[0.18em] text-zinc-500 md:text-[10px]">{primary || ""}</div> : <div className="mt-2 min-h-[1.1rem]" />}
-        {showIPA ? <div className="mt-1 text-center text-[8px] tracking-[0.08em] text-zinc-700 md:text-[9px]">{secondary}</div> : null}
+    <button onClick={onToggle} style={style} className={`group relative w-full border-r border-b transition-all duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] ${isKnown ? "border-zinc-800 bg-[#121212] opacity-40 hover:bg-[#1a1a1a]" : matches ? "border-zinc-700 bg-[#1c1c1c] opacity-100 shadow-[inset_0_0_20px_rgba(0,0,0,0.2)] hover:bg-[#252525]" : "border-zinc-800 bg-[#151515] opacity-60 hover:bg-[#1f1f1f]"} z-0 hover:z-10 hover:shadow-xl active:scale-[0.97]`}>
+      <span className="pointer-events-none absolute inset-0 border border-transparent transition-colors duration-300 ease-in-out group-hover:border-zinc-500/30" />
+      <div className="flex h-full flex-col justify-center px-2 md:px-3 transition-transform duration-300 ease-[cubic-bezier(0.23,1,0.32,1)] group-hover:-translate-y-0.5">
+        <div className={`text-center text-4xl font-light md:text-5xl transition-colors duration-300 ${isKnown ? "text-zinc-600" : matches ? "text-zinc-100 group-hover:text-white" : "text-zinc-400 group-hover:text-zinc-200"}`}>{label}</div>
+        {showLatin ? <div className={`mt-2 line-clamp-2 min-h-[1.1rem] text-center text-[9px] uppercase tracking-[0.18em] transition-colors duration-300 ${isKnown ? "text-zinc-700" : "text-zinc-500 group-hover:text-zinc-400"} md:text-[10px]`}>{primary || ""}</div> : <div className="mt-2 min-h-[1.1rem]" />}
+        {showIPA ? <div className={`mt-1 text-center text-[8px] tracking-[0.08em] transition-colors duration-300 ${isKnown ? "text-zinc-800" : "text-zinc-600 group-hover:text-zinc-500"} md:text-[9px]`}>{secondary}</div> : null}
       </div>
     </button>
   );

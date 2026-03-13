@@ -29,7 +29,6 @@ export default function App() {
   const [kanjiItems, setKanjiItems] = useState<any[]>([]);
   const [dynamicItems, setDynamicItems] = useState<any[]>([]);
   const [manifest, setManifest] = useState<Record<string, any>>({});
-  const [zoom, setZoom] = useState(1);
   const [loading, setLoading] = useState(false);
   const [kanjiLoading, setKanjiLoading] = useState(false);
   const [kanjiError, setKanjiError] = useState("");
@@ -97,13 +96,6 @@ export default function App() {
   const handleSearchSubmit = (rawValue: string) => {
     const text = normalizeText(rawValue);
     if (!text) return;
-    const zoomMatch = text.match(/^(zoom|size|scale)\s+(\d{2,3})$/);
-    if (zoomMatch) {
-      const next = Math.max(70, Math.min(180, Number(zoomMatch[2])));
-      setZoom(next / 100);
-      setQuery("");
-      return;
-    }
     const kanjiLevelMatch = text.match(/^n\s*([1-5])$/);
     if (kanjiLevelMatch && language === "japanese" && variant === "kanji") {
       setKanjiLevel(`n${kanjiLevelMatch[1]}`);
@@ -223,7 +215,7 @@ export default function App() {
   const extraTop = isKanji ? 40 : 0;
   const availableHeight = typeof window !== "undefined" ? window.innerHeight - barHeight - extraTop : 720;
   const rowsCount = groupedRows ? groupedRows.length : Math.max(1, Math.ceil(activeItems.length / 12));
-  const tileHeight = `${Math.max(60, Math.floor((availableHeight / rowsCount) * zoom * (denseMode ? 1 : 0.82)))}px`;
+  const tileHeight = `${Math.max(60, Math.floor((availableHeight / rowsCount) * (denseMode ? 1 : 0.82)))}px`;
 
   return (
     <div className="h-screen w-screen overflow-hidden bg-[#111111] text-zinc-100">
@@ -241,8 +233,6 @@ export default function App() {
         setVariant={setVariant}
         languageOptions={languageOptions}
         variantOptions={variantOptions}
-        zoom={zoom}
-        setZoom={setZoom}
         accentColor={accentColor}
         setAccentColor={setAccentColor}
         showLatin={showLatin}
