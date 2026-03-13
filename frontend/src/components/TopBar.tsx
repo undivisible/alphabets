@@ -79,11 +79,11 @@ export function TopBar({
               style={{ width: `${progress}%`, background: accentColor }}
             />
           </div>
-          <div className="relative z-10 flex h-full w-full items-center bg-transparent px-3 md:px-4">
-            <div className="hidden sm:block mr-4 shrink-0 text-left text-xs md:text-sm font-medium uppercase tracking-[0.26em] text-white">
+          <div className="relative z-10 flex h-full w-full items-center bg-transparent px-2 md:px-4">
+            <div className="hidden sm:block mr-2 md:mr-4 shrink-0 text-left text-[10px] md:text-sm font-medium uppercase tracking-[0.2em] md:tracking-[0.26em] text-white">
               {knownCount} / {total}
             </div>
-            <Search className="mr-2 md:mr-3 h-4 w-4 shrink-0 text-white/70" />
+            <Search className="mr-2 h-3 w-3 md:h-4 md:w-4 shrink-0 text-white/70" />
             <Input
               value={query}
               onFocus={() => setShowSuggestions(true)}
@@ -103,8 +103,8 @@ export function TopBar({
                   setShowSuggestions(false);
                 }
               }}
-              placeholder="filter or switch language..."
-              className="h-full w-full border-none bg-transparent px-0 text-left text-xs md:text-sm uppercase tracking-[0.1em] md:tracking-[0.2em] text-white placeholder:text-white/70 focus-visible:ring-0 focus-visible:ring-offset-0 transition-all duration-300"
+              placeholder="Search..."
+              className="h-full w-full border-none bg-transparent px-0 text-left text-[10px] sm:text-xs md:text-sm uppercase tracking-[0.1em] md:tracking-[0.2em] text-white placeholder:text-white/70 focus-visible:ring-0 focus-visible:ring-offset-0 transition-all duration-300"
             />
           </div>
 
@@ -139,14 +139,14 @@ export function TopBar({
           value={language}
           onChange={setLanguage}
           options={languageOptions}
-          width="w-24 sm:w-40 md:w-64 lg:w-80"
+          width="w-20 sm:w-40 md:w-64 lg:w-80"
           placeholder="Language"
         />
         <SelectPanel
           value={variant}
           onChange={setVariant}
           options={variantOptions}
-          width="w-24 sm:w-40 md:w-64 lg:w-80"
+          width="w-20 sm:w-40 md:w-64 lg:w-80"
           placeholder="Variant"
         />
         <SettingsPanel
