@@ -3,21 +3,29 @@ import { ChevronDown, Check } from "lucide-react";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command";
 
-export function SelectPanel({ value, onChange, options, width = "w-64", placeholder = "Select" }: any) {
-  const [open, setOpen] = useState(false);
+export function SelectPanel({ value, onChange, options, width = "w-64", placeholder = "Select", open: controlledOpen, onOpenChange }: any) {
+  const [internalOpen, setInternalOpen] = useState(false);
+  const open = controlledOpen !== undefined ? controlledOpen : internalOpen;
+  
+  const setOpen = (newOpen: boolean) => {
+    if (onOpenChange) onOpenChange(newOpen);
+    if (controlledOpen === undefined) setInternalOpen(newOpen);
+  };
+
   const selected = options.find((option: any) => option.value === value);
   return (
     <Popover open={open} onOpenChange={setOpen}>
       <PopoverTrigger asChild>
-        <button className={`group relative flex h-full items-center justify-between overflow-hidden border border-zinc-700 bg-[#171717] px-2 sm:px-4 text-[10px] uppercase tracking-[0.22em] text-white transition-all duration-300 hover:border-white ${width}`}>
+        <button className={`group relative flex h-full items-center justify-between overflow-hidden border-r border-zinc-800 bg-[#1a1a1a] px-3 sm:px-4 text-[10px] uppercase tracking-[0.22em] text-white transition-all duration-300 hover:bg-[#222] ${width}`}>
           <span className={`absolute inset-0 origin-left bg-white transition-transform duration-300 ${open ? "scale-x-100" : "scale-x-0"}`} />
           <span className={`relative z-10 truncate transition-colors duration-300 ${open ? "text-black" : "text-white"}`}>{selected?.label || placeholder}</span>
-          <ChevronDown className={`relative z-10 ml-1 sm:ml-3 h-4 w-4 shrink-0 transition-colors duration-300 ${open ? "text-black" : "text-white/70"}`} />
+          <ChevronDown className={`relative z-10 ml-2 sm:ml-3 h-4 w-4 shrink-0 transition-colors duration-300 ${open ? "text-black" : "text-white/70"}`} />
         </button>
       </PopoverTrigger>
       <PopoverContent 
-        className="fixed bottom-0 left-0 right-0 sm:relative sm:bottom-auto sm:left-auto sm:right-auto z-[100] w-full sm:w-auto border-t sm:border border-zinc-800 bg-[#151515] p-0 data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:zoom-out-95 data-[state=open]:zoom-in-95 data-[side=bottom]:slide-in-from-top-2 sm:data-[side=bottom]:slide-in-from-top-2 data-[side=bottom]:slide-in-from-bottom-2 md:data-[side=bottom]:slide-in-from-top-2" 
-        align="end"
+        className="fixed top-14 left-0 w-full sm:relative sm:top-auto sm:left-auto z-[100] sm:w-auto border-b sm:border border-zinc-800 bg-[#151515] p-0 shadow-2xl data-[state=open]:animate-in data-[state=closed]:animate-out data-[state=closed]:fade-out-0 data-[state=open]:fade-in-0 data-[state=closed]:slide-out-to-top-2 data-[state=open]:slide-in-from-top-2" 
+        align="start"
+        sideOffset={0}
       >
         <Command className="bg-[#151515] text-white w-full sm:w-[inherit]" style={{ width: "inherit" }}>
           <CommandInput placeholder="Filter" className="h-12 border-b border-zinc-800 text-white placeholder:text-zinc-500 px-4" />

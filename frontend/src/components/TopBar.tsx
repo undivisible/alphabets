@@ -52,12 +52,17 @@ export function TopBar({
   setDenseMode,
 }: TopBarProps) {
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [searchFocused, setSearchFocused] = useState(false);
+  const [langOpen, setLangOpen] = useState(false);
+  const [varOpen, setVarOpen] = useState(false);
+  
   const searchRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     function handleClickOutside(e: MouseEvent) {
       if (searchRef.current && !searchRef.current.contains(e.target as Node)) {
         setShowSuggestions(false);
+        setSearchFocused(false);
       }
     }
     document.addEventListener("mousedown", handleClickOutside);
@@ -69,10 +74,17 @@ export function TopBar({
     ? allSearchOptions.filter(opt => opt.label.toLowerCase().includes(queryLower) && !(opt.langKey === language && opt.variantKey === variant))
     : [];
 
+  const activeTab = searchFocused ? 'search' : langOpen ? 'lang' : varOpen ? 'var' : null;
+
   return (
     <div className="sticky top-0 z-30 bg-[#111111]/95 backdrop-blur transition-all duration-300">
       <div className="flex h-14 w-full items-center gap-0 border-b border-zinc-800">
-        <div ref={searchRef} className="relative flex min-w-0 flex-1 h-full items-center border-r border-zinc-800 bg-[#1a1a1a]">
+        <div 
+          ref={searchRef} 
+          className={`relative h-full items-center border-r border-zinc-800 bg-[#1a1a1a] transition-all duration-300 flex ${
+            (activeTab === 'lang' || activeTab === 'var') ? 'w-0 overflow-hidden opacity-0 border-0 sm:border-r sm:w-auto sm:opacity-100 sm:flex-1' : 'flex-1 min-w-0'
+          }`}
+        >
           <div className="absolute inset-0 z-0 overflow-hidden bg-[#1a1a1a]">
             <div
               className="absolute inset-y-0 left-0 transition-all duration-500 ease-out"
@@ -86,10 +98,14 @@ export function TopBar({
             <Search className="mr-2 h-3 w-3 md:h-4 md:w-4 shrink-0 text-white/70" />
             <Input
               value={query}
-              onFocus={() => setShowSuggestions(true)}
+              onFocus={() => {
+                setShowSuggestions(true);
+                setSearchFocused(true);
+              }}
               onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
                 setQuery(e.target.value);
                 setShowSuggestions(true);
+                setSearchFocused(true);
               }}
               onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
                 if (e.key === "Enter") {
@@ -101,6 +117,7 @@ export function TopBar({
                     onSearchSubmit(query);
                   }
                   setShowSuggestions(false);
+                  setSearchFocused(false);
                 }
               }}
               placeholder="Search..."
@@ -122,6 +139,7 @@ export function TopBar({
                       setVariant(opt.variantKey);
                       setQuery("");
                       setShowSuggestions(false);
+                      setSearchFocused(false);
                     }}
                     className="flex w-full items-center gap-3 px-4 py-3 text-left transition-colors hover:bg-zinc-800"
                   >
@@ -139,26 +157,32 @@ export function TopBar({
           value={language}
           onChange={setLanguage}
           options={languageOptions}
-          width="w-20 sm:w-40 md:w-64 lg:w-80"
+          open={langOpen}
+          onOpenChange={setLangOpen}
+          width={`${activeTab === 'lang' ? 'flex-1 w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'w-28 sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Language"
         />
         <SelectPanel
           value={variant}
           onChange={setVariant}
           options={variantOptions}
-          width="w-20 sm:w-40 md:w-64 lg:w-80"
+          open={varOpen}
+          onOpenChange={setVarOpen}
+          width={`${activeTab === 'var' ? 'flex-1 w-full sm:w-40 md:w-64 lg:w-80' : activeTab ? 'w-0 overflow-hidden opacity-0 px-0 sm:px-4 border-0 sm:border-r sm:opacity-100 sm:w-40 md:w-64 lg:w-80' : 'w-28 sm:w-40 md:w-64 lg:w-80'}`}
           placeholder="Variant"
         />
-        <SettingsPanel
-          accentColor={accentColor}
-          setAccentColor={setAccentColor}
-          showLatin={showLatin}
-          setShowLatin={setShowLatin}
-          showIPA={showIPA}
-          setShowIPA={setShowIPA}
-          denseMode={denseMode}
-          setDenseMode={setDenseMode}
-        />
+        <div className={`transition-all duration-300 overflow-hidden ${activeTab && activeTab !== 'search' ? 'w-0 sm:w-auto' : 'w-10 sm:w-auto'}`}>
+          <SettingsPanel
+            accentColor={accentColor}
+            setAccentColor={setAccentColor}
+            showLatin={showLatin}
+            setShowLatin={setShowLatin}
+            showIPA={showIPA}
+            setShowIPA={setShowIPA}
+            denseMode={denseMode}
+            setDenseMode={setDenseMode}
+          />
+        </div>
       </div>
     </div>
   );
