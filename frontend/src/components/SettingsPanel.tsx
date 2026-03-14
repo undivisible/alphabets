@@ -69,7 +69,7 @@ export function SettingsPanel({
           </div>
         </div>
         <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer hover:bg-zinc-800/30">
-          <span>Latin pronunciation</span>
+          <span>Romanization</span>
           <Checkbox checked={showLatin} onCheckedChange={(v: boolean | string) => setShowLatin(!!v)} />
         </label>
         <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer hover:bg-zinc-800/30">
