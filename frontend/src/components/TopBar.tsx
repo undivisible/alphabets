@@ -26,6 +26,8 @@ interface TopBarProps {
   setShowLatin: (s: boolean) => void;
   showIPA: boolean;
   setShowIPA: (s: boolean) => void;
+  showName: boolean;
+  setShowName: (s: boolean) => void;
   denseMode: boolean;
   setDenseMode: (d: boolean) => void;
 }
@@ -52,6 +54,8 @@ export function TopBar({
   setShowLatin,
   showIPA,
   setShowIPA,
+  showName,
+  setShowName,
   denseMode,
   setDenseMode,
 }: TopBarProps) {
@@ -184,6 +188,8 @@ export function TopBar({
           setShowLatin={setShowLatin}
           showIPA={showIPA}
           setShowIPA={setShowIPA}
+          showName={showName}
+          setShowName={setShowName}
           denseMode={denseMode}
           setDenseMode={setDenseMode}
         />

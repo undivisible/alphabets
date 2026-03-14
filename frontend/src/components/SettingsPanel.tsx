@@ -13,6 +13,8 @@ interface SettingsPanelProps {
   setShowLatin: (show: boolean) => void;
   showIPA: boolean;
   setShowIPA: (show: boolean) => void;
+  showName: boolean;
+  setShowName: (show: boolean) => void;
   denseMode: boolean;
   setDenseMode: (dense: boolean) => void;
 }
@@ -26,6 +28,8 @@ export function SettingsPanel({
   setShowLatin, 
   showIPA, 
   setShowIPA, 
+  showName,
+  setShowName,
   denseMode, 
   setDenseMode 
 }: SettingsPanelProps) {
@@ -69,8 +73,12 @@ export function SettingsPanel({
           </div>
         </div>
         <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer hover:bg-zinc-800/30">
-          <span>Romanization</span>
+          <span>Pronunciation</span>
           <Checkbox checked={showLatin} onCheckedChange={(v: boolean | string) => setShowLatin(!!v)} />
+        </label>
+        <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer hover:bg-zinc-800/30">
+          <span>Letter Name</span>
+          <Checkbox checked={showName} onCheckedChange={(v: boolean | string) => setShowName(!!v)} />
         </label>
         <label className="flex items-center justify-between border-b border-zinc-800 px-4 py-4 text-sm text-white cursor-pointer hover:bg-zinc-800/30">
           <span>IPA</span>

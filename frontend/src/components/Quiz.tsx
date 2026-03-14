@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { getKanjiChar } from "./GlyphTile";
 
-export function Quiz({ items, isKanji, accentColor, showLatin, showIPA }: any) {
+export function Quiz({ items, isKanji, accentColor, showLatin, showIPA, showName }: any) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [options, setOptions] = useState<any[]>([]);
   const [selected, setSelected] = useState<number | null>(null);
@@ -126,7 +126,16 @@ export function Quiz({ items, isKanji, accentColor, showLatin, showIPA }: any) {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-2xl">
         {options.map((opt, idx) => {
-          const optPrimary = isKanji ? getKanjiMeaning(opt) : opt.meta;
+          let displayName = isKanji ? "" : (opt.meta || "");
+          let displayPronunciation = isKanji ? getKanjiMeaning(opt) : (opt.meta || "");
+          if (!isKanji && opt.meta) {
+            const meta = opt.meta.toLowerCase();
+            displayName = meta.includes("letter ") ? (meta.split("letter ").pop() || meta) : meta;
+            const commonNames: Record<string, string> = { "alpha": "a", "beta": "b", "gamma": "g", "delta": "d", "epsilon": "e", "zeta": "z", "eta": "e", "theta": "th", "iota": "i", "kappa": "k", "lambda": "l", "mu": "m", "nu": "n", "xi": "x", "omicron": "o", "pi": "p", "rho": "r", "sigma": "s", "tau": "t", "upsilon": "u", "phi": "ph", "chi": "ch", "psi": "ps", "omega": "o", "aleph": "a", "bet": "b", "gimel": "g", "dalet": "d", "he": "h", "vav": "v", "zayin": "z", "chet": "ch", "tet": "t", "yod": "y", "kaf": "k", "lamed": "l", "mem": "m", "nun": "n", "samekh": "s", "ayin": "a", "pe": "p", "tsadi": "ts", "qof": "q", "resh": "r", "shin": "sh", "tav": "t" };
+            if (commonNames[displayName]) displayPronunciation = commonNames[displayName];
+            else if (displayName.includes(" ")) displayPronunciation = displayName.split(" ")[0];
+          }
+
           const isSelected = selected === idx;
           const isActuallyCorrect = opt === currentItem;
           
@@ -148,9 +157,10 @@ export function Quiz({ items, isKanji, accentColor, showLatin, showIPA }: any) {
               disabled={selected !== null}
               className={`p-6 border transition-all duration-300 flex flex-col items-center justify-center min-h-[100px] ${btnClass}`}
             >
-              {showLatin && <span className="text-sm sm:text-base uppercase tracking-[0.2em] mb-2">{optPrimary || "?"}</span>}
-              {showIPA && opt.ipa && <span className="text-[10px] sm:text-xs tracking-[0.1em] opacity-70">{opt.ipa}</span>}
-              {!showLatin && !showIPA && <span className="text-sm sm:text-base uppercase tracking-[0.2em]">{optPrimary || "?"}</span>}
+              {showLatin && <span className="text-sm sm:text-base uppercase tracking-[0.2em] mb-1">{displayPronunciation || "?"}</span>}
+              {showName && displayName !== displayPronunciation && <span className="text-[10px] uppercase tracking-[0.1em] opacity-60 mb-1">{displayName}</span>}
+              {showIPA && opt.ipa && <span className="text-[10px] sm:text-xs tracking-[0.1em] opacity-50">{opt.ipa}</span>}
+              {!showLatin && !showName && !showIPA && <span className="text-sm sm:text-base uppercase tracking-[0.2em]">{displayPronunciation || "?"}</span>}
             </button>
           );
         })}

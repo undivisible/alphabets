@@ -36,6 +36,7 @@ export default function App() {
   const [kanjiError, setKanjiError] = useState("");
   const [showLatin, setShowLatin] = useState(() => localStorage.getItem("glyph-grid-showLatin") !== "false");
   const [showIPA, setShowIPA] = useState(() => localStorage.getItem("glyph-grid-showIPA") === "true");
+  const [showName, setShowName] = useState(() => localStorage.getItem("glyph-grid-showName") === "true");
   const [denseMode, setDenseMode] = useState(() => localStorage.getItem("glyph-grid-denseMode") !== "false");
   const [accentColor, setAccentColor] = useState(() => localStorage.getItem("glyph-grid-accentColor") || DEFAULT_ACCENT);
   const [completeMessage, setCompleteMessage] = useState("");
@@ -49,10 +50,11 @@ export default function App() {
     localStorage.setItem("glyph-grid-kanjiLevel", kanjiLevel);
     localStorage.setItem("glyph-grid-showLatin", showLatin.toString());
     localStorage.setItem("glyph-grid-showIPA", showIPA.toString());
+    localStorage.setItem("glyph-grid-showName", showName.toString());
     localStorage.setItem("glyph-grid-denseMode", denseMode.toString());
     localStorage.setItem("glyph-grid-accentColor", accentColor);
     localStorage.setItem("glyph-grid-viewMode", viewMode);
-  }, [language, variant, kanjiLevel, showLatin, showIPA, denseMode, accentColor, viewMode]);
+  }, [language, variant, kanjiLevel, showLatin, showIPA, showName, denseMode, accentColor, viewMode]);
 
   useEffect(() => {
     fetch("./data/manifest.json")
@@ -279,7 +281,7 @@ export default function App() {
   const tileHeight = `${Math.max(60, Math.floor((availableHeight / rowsCount) * (denseMode ? 1 : 0.82)))}px`;
 
   return (
-    <div className="h-screen w-screen overflow-hidden bg-[#111111] text-zinc-100">
+    <div className="h-dvh w-screen overflow-hidden bg-[#111111] text-zinc-100">
       <ConfettiLayer fire={confettiFire} accentColor={accentColor} />
       <TopBar
         progress={progress}
@@ -303,6 +305,8 @@ export default function App() {
         setShowLatin={setShowLatin}
         showIPA={showIPA}
         setShowIPA={setShowIPA}
+        showName={showName}
+        setShowName={setShowName}
         denseMode={denseMode}
         setDenseMode={setDenseMode}
       />
@@ -319,21 +323,21 @@ export default function App() {
         </div>
       )}
 
-      <div className={`overflow-auto ${isKanji ? "h-[calc(100vh-96px)]" : "h-[calc(100vh-56px)]"}`}>
+      <div className={`overflow-auto ${isKanji ? "h-[calc(100dvh-96px)]" : "h-[calc(100dvh-56px)]"}`}>
         {(isKanji && kanjiLoading) || loading ? (
           <div className="flex h-full items-center justify-center"><div className="flex h-14 items-center gap-3 border border-zinc-800 bg-[#181818] px-5 text-[11px] uppercase tracking-[0.25em] text-zinc-400"><Loader2 className="h-4 w-4 animate-spin" />Loading</div></div>
         ) : isKanji && kanjiError ? (
           <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{kanjiError}</CardContent></Card>
         ) : viewMode === "flashcards" ? (
-          <Flashcards items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} />
+          <Flashcards items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} showName={showName} />
         ) : viewMode === "quiz" ? (
-          <Quiz items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} />
+          <Quiz items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} showName={showName} />
         ) : groupedRows ? (
           <div className="border-l border-t border-zinc-800">
             {groupedRows.map((row: any, rowIndex: number) => (
               <div key={`${storageBucket}-row-${rowIndex}`} className="grid" style={{ gridTemplateColumns: `repeat(${row.length}, minmax(0, 1fr))` }}>
                 {row.map((item: any, index: number) => item ? (
-                  <GlyphTile key={`${storageBucket}-${item.label}-${rowIndex}-${index}`} item={item} query={query} isKnown={!!known[storageBucket]?.[item.label]} onToggle={() => toggleKnown(item.label)} style={{ height: tileHeight }} showLatin={showLatin} showIPA={showIPA} />
+                  <GlyphTile key={`${storageBucket}-${item.label}-${rowIndex}-${index}`} item={item} query={query} isKnown={!!known[storageBucket]?.[item.label]} onToggle={() => toggleKnown(item.label)} style={{ height: tileHeight }} showLatin={showLatin} showIPA={showIPA} showName={showName} />
                 ) : (
                   <GlyphTile key={`${storageBucket}-empty-${rowIndex}-${index}`} invisible item={{ label: "", meta: "" }} query={query} onToggle={() => {}} style={{ height: tileHeight }} />
                 ))}
@@ -344,7 +348,7 @@ export default function App() {
           <div className="grid grid-cols-2 border-l border-t border-zinc-800 sm:grid-cols-3 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 2xl:grid-cols-12">
             {activeItems.map((item: any, index: number) => {
               const key = isKanji ? getKanjiChar(item) : item.label;
-              return <GlyphTile key={`${storageBucket}-${key}-${index}`} item={item} query={query} isKanji={isKanji} isKnown={!!known[storageBucket]?.[key]} onToggle={() => toggleKnown(key)} style={{ height: tileHeight }} showLatin={showLatin} showIPA={showIPA} />;
+              return <GlyphTile key={`${storageBucket}-${key}-${index}`} item={item} query={query} isKanji={isKanji} isKnown={!!known[storageBucket]?.[key]} onToggle={() => toggleKnown(key)} style={{ height: tileHeight }} showLatin={showLatin} showIPA={showIPA} showName={showName} />;
             })}
           </div>
         )}

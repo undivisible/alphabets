@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { getKanjiChar } from "./GlyphTile";
 
-export function Flashcards({ items, isKanji, accentColor, showLatin, showIPA }: any) {
+export function Flashcards({ items, isKanji, accentColor, showLatin, showIPA, showName }: any) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
 
@@ -36,6 +36,17 @@ export function Flashcards({ items, isKanji, accentColor, showLatin, showIPA }: 
   const readings = isKanji ? getKanjiReadings(item) : { on: [], kun: [] };
   const secondary = isKanji ? (readings.on[0] || readings.kun[0] || "") : item.ipa || "";
 
+  // Simple extraction for now
+  let displayName = isKanji ? "" : (item.meta || "");
+  let displayPronunciation = isKanji ? primary : (item.meta || "");
+  if (!isKanji && item.meta) {
+    const meta = item.meta.toLowerCase();
+    displayName = meta.includes("letter ") ? (meta.split("letter ").pop() || meta) : meta;
+    const commonNames: Record<string, string> = { "alpha": "a", "beta": "b", "gamma": "g", "delta": "d", "epsilon": "e", "zeta": "z", "eta": "e", "theta": "th", "iota": "i", "kappa": "k", "lambda": "l", "mu": "m", "nu": "n", "xi": "x", "omicron": "o", "pi": "p", "rho": "r", "sigma": "s", "tau": "t", "upsilon": "u", "phi": "ph", "chi": "ch", "psi": "ps", "omega": "o", "aleph": "a", "bet": "b", "gimel": "g", "dalet": "d", "he": "h", "vav": "v", "zayin": "z", "chet": "ch", "tet": "t", "yod": "y", "kaf": "k", "lamed": "l", "mem": "m", "nun": "n", "samekh": "s", "ayin": "a", "pe": "p", "tsadi": "ts", "qof": "q", "resh": "r", "shin": "sh", "tav": "t" };
+    if (commonNames[displayName]) displayPronunciation = commonNames[displayName];
+    else if (displayName.includes(" ")) displayPronunciation = displayName.split(" ")[0];
+  }
+
   const handleNext = () => {
     setIsFlipped(false);
     setCurrentIndex((prev) => (prev + 1) % items.length);
@@ -61,7 +72,8 @@ export function Flashcards({ items, isKanji, accentColor, showLatin, showIPA }: 
           {/* Back */}
           <div className="absolute inset-0 h-full w-full border border-zinc-700 bg-[#1c1c1c] flex flex-col items-center justify-center [transform:rotateY(180deg)] [backface-visibility:hidden] shadow-xl p-8 text-center" style={{ borderBottomColor: accentColor, borderBottomWidth: '4px' }}>
             <span className="text-6xl font-light text-zinc-600 mb-8 opacity-20">{label}</span>
-            {showLatin && <span className="text-2xl uppercase tracking-[0.2em] text-zinc-300 mb-4 leading-tight">{primary || ""}</span>}
+            {showLatin && <span className="text-2xl uppercase tracking-[0.2em] text-zinc-300 mb-2 leading-tight">{displayPronunciation}</span>}
+            {showName && displayName !== displayPronunciation && <span className="text-sm uppercase tracking-[0.15em] text-zinc-500 mb-4">{displayName}</span>}
             {showIPA && <span className="text-lg tracking-[0.1em] text-zinc-500">{secondary}</span>}
           </div>
         </div>
