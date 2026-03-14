@@ -160,19 +160,21 @@ export function TopBar({
           onChange={setLanguage}
           options={languageOptions}
           open={langOpen}
-          onOpenChange={setLangOpen}
+          onOpenChange={(val: boolean) => { setLangOpen(val); if (val) setVarOpen(false); }}
           width="w-28 sm:w-40 md:w-52"
           placeholder="Language"
         />
-        <SelectPanel
-          value={variant}
-          onChange={setVariant}
-          options={variantOptions}
-          open={varOpen}
-          onOpenChange={setVarOpen}
-          width="w-28 sm:w-40 md:w-52"
-          placeholder="Variant"
-        />
+        {variantOptions.length > 1 && (
+          <SelectPanel
+            value={variant}
+            onChange={setVariant}
+            options={variantOptions}
+            open={varOpen}
+            onOpenChange={(val: boolean) => { setVarOpen(val); if (val) setLangOpen(false); }}
+            width="w-28 sm:w-40 md:w-52"
+            placeholder="Variant"
+          />
+        )}
         <SettingsPanel
           viewMode={viewMode}
           setViewMode={setViewMode}
