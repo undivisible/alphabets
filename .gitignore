@@ -5,3 +5,7 @@ dist
 *.log
 backend/public/data/*.json
 !backend/public/data/manifest.json
+
+# Capacitor — native projects are generated, not source
+ios/
+android/
