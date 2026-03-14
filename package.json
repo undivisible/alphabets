@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "generate": "bun run backend/scripts/generate-alphabets.ts",
-    "predev": "bun run generate && rm -rf dist && mkdir -p dist/data && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
-    "dev": "bun run predev && (bunx tailwindcss -i frontend/globals.css -o dist/main.css --watch & bun build frontend/main.tsx --outdir dist --watch & bunx serve dist)",
-    "build": "bun run generate && rm -rf dist && mkdir -p dist/data && bun build frontend/main.tsx --outdir dist --minify && bun x tailwindcss -i frontend/globals.css -o dist/main.css --minify && cp frontend/index.html dist/ && cp public/data/*.json dist/data/",
+    "dev": "bun run generate && vite",
+    "build": "bun run generate && vite build",
+    "preview": "vite preview",
     "test": "bun test"
   },
   "dependencies": {
@@ -25,14 +25,18 @@
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "@tailwindcss/cli": "^4.2.1",
+    "@tailwindcss/vite": "^4.2.1",
     "@types/node": "^20.11.30",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@typescript-eslint/parser": "^7.2.0",
     "@unicode/unicode-15.1.0": "^1.6.16",
+    "@vitejs/plugin-react": "^6.0.1",
+    "rollup-plugin-visualizer": "^7.0.1",
     "tailwindcss": "^4.0.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "vite": "^8.0.0",
+    "vite-plugin-compression2": "^2.5.1"
   }
 }

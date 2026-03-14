@@ -110,11 +110,11 @@ export const LOCAL_DATA: any = {
       { label: "カ", meta: "ka", ipa: "ka" }, { label: "キ", meta: "ki", ipa: "ki" }, { label: "ク", meta: "ku", ipa: "kɯ" }, { label: "ケ", meta: "ke", ipa: "ke" }, { label: "コ", meta: "ko", ipa: "ko" },
       { label: "サ", meta: "sa", ipa: "sa" }, { label: "シ", meta: "shi", ipa: "ɕi" }, { label: "ス", meta: "su", ipa: "sɯ" }, { label: "セ", meta: "se", ipa: "se" }, { label: "ソ", meta: "so", ipa: "so" },
       { label: "タ", meta: "ta", ipa: "ta" }, { label: "チ", meta: "chi", ipa: "tɕi" }, { label: "ツ", meta: "tsu", ipa: "tsɯ" }, { label: "テ", meta: "te", ipa: "te" }, { label: "ト", meta: "to", ipa: "to" },
-      { label: "ナ", meta: "na", ipa: "na" }, { label: "ニ", meta: "ni", ipa: "ni" }, { label: "ぬ", meta: "nu", ipa: "nɯ" }, { label: "ね", meta: "ne", ipa: "ne" }, { label: "の", meta: "no", ipa: "no" },
+      { label: "ナ", meta: "na", ipa: "na" }, { label: "ニ", meta: "ni", ipa: "ni" }, { label: "ヌ", meta: "nu", ipa: "nɯ" }, { label: "ネ", meta: "ne", ipa: "ne" }, { label: "ノ", meta: "no", ipa: "no" },
       { label: "ハ", meta: "ha", ipa: "ha" }, { label: "ヒ", meta: "hi", ipa: "çi" }, { label: "フ", meta: "fu", ipa: "ɸɯ" }, { label: "ヘ", meta: "he", ipa: "he" }, { label: "ホ", meta: "ho", ipa: "ho" },
       { label: "マ", meta: "ma", ipa: "ma" }, { label: "ミ", meta: "mi", ipa: "mi" }, { label: "ム", meta: "mu", ipa: "mɯ" }, { label: "メ", meta: "me", ipa: "me" }, { label: "モ", meta: "mo", ipa: "mo" },
       { label: "ヤ", meta: "ya", ipa: "ja" }, { label: "ユ", meta: "yu", ipa: "jɯ" }, { label: "ヨ", meta: "yo", ipa: "jo" },
-      { label: "ラ", meta: "ra", ipa: "ɾa" }, { label: "り", meta: "ri", ipa: "ɾi" }, { label: "る", meta: "ru", ipa: "ɾɯ" }, { label: "れ", meta: "re", ipa: "ɾe" }, { label: "ろ", meta: "ro", ipa: "ɾo" },
+      { label: "ラ", meta: "ra", ipa: "ɾa" }, { label: "リ", meta: "ri", ipa: "ɾi" }, { label: "ル", meta: "ru", ipa: "ɾɯ" }, { label: "レ", meta: "re", ipa: "ɾe" }, { label: "ロ", meta: "ro", ipa: "ɾo" },
       { label: "ワ", meta: "wa", ipa: "wa" }, { label: "ヲ", meta: "wo", ipa: "o" }, { label: "ン", meta: "n", ipa: "ɴ" },
     ],
     hiraganaDakuten: [
