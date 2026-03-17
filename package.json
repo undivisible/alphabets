@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "sideEffects": false,
   "scripts": {
     "generate": "bun run backend/scripts/generate-alphabets.ts",
     "dev": "bun run generate && vite",
@@ -11,6 +12,7 @@
     "sync": "bun run build && bunx cap sync",
     "open:ios": "bunx cap open ios",
     "open:android": "bunx cap open android",
+    "lint": "eslint frontend/src --ext .ts,.tsx",
     "test": "bun test"
   },
   "dependencies": {

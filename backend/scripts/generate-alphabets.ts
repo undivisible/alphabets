@@ -131,7 +131,6 @@ async function processScript(scriptName: string, namesMap: any) {
       return {
         label: char,
         meta: name ? name.toLowerCase() : `U+${codePoint.toString(16).toUpperCase()}`,
-        ipa: ""
       };
     })
     .filter((item: any) => {
@@ -156,6 +155,7 @@ async function processScript(scriptName: string, namesMap: any) {
     // Limit to first 120 curated characters to keep it manageable
     return items.slice(0, 120);
   } catch (e) {
+    console.warn(`Failed to process script "${scriptName}":`, e instanceof Error ? e.message : e);
     return [];
   }
 }

@@ -1,45 +1,65 @@
 # Adding World Alphabets
 
-To add "all the alphabets in the world," the application must shift from a hardcoded approach in `constants.ts` to a dynamic data-fetching or pre-compiled JSON build step.
+The application uses a two-tier data system: **local curated data** for core alphabets (Japanese, Arabic, Thai, Devanagari, Hebrew) in `frontend/src/data/constants.ts`, and **auto-generated data** for all other Unicode scripts via `backend/scripts/generate-alphabets.ts`.
 
-## Proposed Data Sources
-Instead of manually typing out characters, we can leverage open-source Unicode and ISO datasets:
+## Architecture
 
-1. **ISO 15924 (Script Codes):**
-   - Source: [andyearnshaw/iso-15924](https://github.com/andyearnshaw/iso-15924) or `pycountry` databases.
-   - Purpose: To get the definitive list of all writing systems (e.g., `Latn` for Latin, `Cyrl` for Cyrillic, `Arab` for Arabic).
+### Local Data (`constants.ts`)
+Core alphabets with hand-curated IPA pronunciations and grid layouts live in `LOCAL_DATA` and `GROUPED_VARIANTS`. These are bundled with the app for instant loading.
 
-2. **Unicode Character Database (UCD) JSON:**
-   - Source: [iLib-js/UCD](https://github.com/iLib-js/UCD)
-   - Purpose: To fetch the exact characters that belong to each script code defined in ISO 15924. By parsing the `Scripts.json` or `Blocks.json`, we can group characters by their native alphabet.
+### Generated Data (`generate-alphabets.ts`)
+All other Unicode 15.1.0 scripts are auto-generated at build time into `public/data/` as individual JSON files. A `manifest.json` index is also generated so the frontend can discover available scripts dynamically.
 
-3. **CLDR (Common Locale Data Repository):**
-   - Source: [unicode-org/cldr-json](https://github.com/unicode-org/cldr-json)
-   - Purpose: To map languages to scripts (e.g., mapping the "Russian" language to the "Cyrillic" script subset).
+## Adding a New Core Alphabet (with IPA)
 
-## Implementation Strategy
+1. Add character data to `LOCAL_DATA` in `frontend/src/data/constants.ts`:
+   ```typescript
+   export const LOCAL_DATA: any = {
+     // ...existing data
+     newScript: {
+       letters: [
+         { label: "A", meta: "a", ipa: "a" },
+         // ...
+       ],
+     },
+   };
+   ```
 
-### Step 1: Pre-computation Script
-Because the full UCD is massive (megabytes of JSON), shipping it to the client is inefficient. Create a Node.js script (e.g., `scripts/generate-alphabets.js`) that runs during the build step:
-1. Downloads the ISO 15924 script list.
-2. Downloads the UCD Script definitions.
-3. Maps them together, extracting only the essential metadata (Character, Latin Pronunciation/Name, IPA if available).
-4. Outputs optimized JSON files into the `public/data/` directory (e.g., `public/data/cyrillic.json`, `public/data/georgian.json`).
+2. Add language definition to `LANGUAGE_DEFINITIONS`:
+   ```typescript
+   newScript: { label: "New Script", variants: [{ id: "letters", label: "Letters" }] },
+   ```
 
-### Step 2: Dynamic Loading in React
-Update `App.tsx` to dynamically fetch these JSON files instead of reading from `LOCAL_DATA`.
-```typescript
-useEffect(() => {
-  async function loadAlphabet() {
-    const res = await fetch(`/data/${activeLanguage}.json`);
-    const data = await res.json();
-    setActiveItems(data);
-  }
-  loadAlphabet();
-}, [activeLanguage]);
+3. Optionally add grid layout in `GROUPED_VARIANTS` or row shape in `ROW_SHAPES`.
+
+## Adding a Script to the Auto-Generated System
+
+Scripts are automatically included from the `@unicode/unicode-15.1.0` npm package. To customize:
+
+- **Ignore a script**: Add it to `IGNORE_SCRIPTS` in `generate-alphabets.ts`
+- **Promote to major script** (gets its own top-level entry): Add to `MAJOR_SCRIPTS`
+- **Add language-specific variants** (like Cyrillic→Russian/Ukrainian): Add to `SPECIAL_GROUPS` with custom character sets
+
+## Build Process
+
+```bash
+bun run generate   # Generates public/data/*.json from Unicode data
+bun run build      # Runs generate + Vite production build
 ```
 
-### Step 3: Handling IPA and Pronunciations
-While Unicode provides character *names* (e.g., "LATIN SMALL LETTER A"), it does not universally provide IPA pronunciations. For missing IPA data, you can:
-- Scrape Wikipedia data (using a parser like `wtf_wikipedia`) to map phonetic values.
-- Rely on community-driven phonetic databases like [Wiktionary's pronunciation data](https://en.wiktionary.org/).
+The generation script:
+1. Reads all scripts from `@unicode/unicode-15.1.0`
+2. Filters to base letter characters (excluding modifiers, marks, symbols)
+3. Limits each script to 120 characters
+4. Outputs individual JSON files and a `manifest.json` index
+
+## Data File Format
+
+Each generated JSON file contains an array of:
+```json
+[
+  { "label": "α", "meta": "greek small letter alpha" }
+]
+```
+
+Local data additionally includes an `ipa` field with pronunciation.
