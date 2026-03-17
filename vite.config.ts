@@ -11,7 +11,7 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
-    compression({ algorithm: "brotliCompress", exclude: [/\.(br)$/, /\.(gz)$/] }),
+    compression({ algorithm: "brotliCompress", exclude: [/\.br$/, /\.gz$/] }),
     visualizer({
       filename: path.resolve(__dirname, "dist/stats.html"),
       gzipSize: true,
@@ -32,6 +32,7 @@ export default defineConfig({
           if (id.includes("node_modules/react") || id.includes("node_modules/react-dom")) return "react";
           if (id.includes("node_modules/@radix-ui")) return "radix";
           if (id.includes("node_modules/cmdk")) return "cmdk";
+          if (id.includes("node_modules/lucide-react")) return "icons";
         },
       },
     },

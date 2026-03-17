@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import React, { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Loader2 } from "lucide-react";
 import { 
@@ -30,6 +30,7 @@ export default function App() {
   const [query, setQuery] = useState("");
   const [kanjiItems, setKanjiItems] = useState<any[]>([]);
   const [dynamicItems, setDynamicItems] = useState<any[]>([]);
+  const [dynamicError, setDynamicError] = useState("");
   const [manifest, setManifest] = useState<Record<string, any>>({});
   const [loading, setLoading] = useState(false);
   const [kanjiLoading, setKanjiLoading] = useState(false);
@@ -56,11 +57,19 @@ export default function App() {
     localStorage.setItem("glyph-grid-viewMode", viewMode);
   }, [language, variant, kanjiLevel, showLatin, showIPA, showName, denseMode, accentColor, viewMode]);
 
+  const [manifestError, setManifestError] = useState("");
+
   useEffect(() => {
     fetch("./data/manifest.json")
-      .then(res => res.json())
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
       .then(data => setManifest(data))
-      .catch(err => console.error("Failed to load manifest", err));
+      .catch(err => {
+        console.error("Failed to load manifest", err);
+        setManifestError("Failed to load script manifest. Dynamic scripts may be unavailable.");
+      });
   }, []);
 
   const languageOptions = useMemo(() => {
@@ -117,14 +126,20 @@ export default function App() {
       return;
     }
     setLoading(true);
+    setDynamicError("");
     fetch(`./data/${language}-${variant}.json`)
-      .then(res => res.json())
+      .then(res => {
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return res.json();
+      })
       .then(data => {
         setDynamicItems(data);
         setLoading(false);
       })
       .catch(err => {
         console.error("Failed to load script data", err);
+        setDynamicError(`Failed to load ${language}/${variant} data.`);
+        setDynamicItems([]);
         setLoading(false);
       });
   }, [language, variant]);
@@ -165,7 +180,14 @@ export default function App() {
     }
   }, []);
 
-  useEffect(() => { localStorage.setItem(STORAGE_KEY, JSON.stringify(known)); }, [known]);
+  const knownSaveTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  useEffect(() => {
+    if (knownSaveTimer.current) clearTimeout(knownSaveTimer.current);
+    knownSaveTimer.current = setTimeout(() => {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(known));
+    }, 500);
+    return () => { if (knownSaveTimer.current) clearTimeout(knownSaveTimer.current); };
+  }, [known]);
 
   useEffect(() => {
     if (!(language === "japanese" && variant === "kanji")) return;
@@ -328,6 +350,10 @@ export default function App() {
           <div className="flex h-full items-center justify-center"><div className="flex h-14 items-center gap-3 border border-zinc-800 bg-[#181818] px-5 text-[11px] uppercase tracking-[0.25em] text-zinc-400"><Loader2 className="h-4 w-4 animate-spin" />Loading</div></div>
         ) : isKanji && kanjiError ? (
           <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{kanjiError}</CardContent></Card>
+        ) : dynamicError ? (
+          <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{dynamicError}</CardContent></Card>
+        ) : manifestError && !LANGUAGE_DEFINITIONS[language] ? (
+          <Card className="border-0 bg-[#181818]"><CardContent className="p-6 text-[11px] uppercase tracking-[0.18em] text-zinc-400">{manifestError}</CardContent></Card>
         ) : viewMode === "flashcards" ? (
           <Flashcards items={activeItems} isKanji={isKanji} accentColor={accentColor} showLatin={showLatin} showIPA={showIPA} showName={showName} />
         ) : viewMode === "quiz" ? (
